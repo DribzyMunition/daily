@@ -21,7 +21,7 @@ ASSETS = {
         "S&P 500":              "^GSPC",
         "US 10Y Yield (%)":     "^TNX",   # 10-Year US Treasury yield — value is a percentage, e.g. 4.25 = 4.25%
         "Hang Seng 50":         "^HSI",
-        "South Africa Top 40":  "^J200",   # FTSE/JSE — verify ticker if data looks wrong
+        "South Africa Top 40":  "STX40.JO", # Satrix Top 40 ETF — best available proxy for FTSE/JSE Top 40 on Yahoo Finance
         "Switzerland SMI":      "^SSMI",
         "ASX 200 (XJO)":        "^AXJO",
     },
