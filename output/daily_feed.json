@@ -1,80 +1,80 @@
 {
-  "generated_at": "2026-03-05T07:03:11+00:00",
+  "generated_at": "2026-03-05T22:26:30+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 5167.399902,
-        "change": 47.199707,
-        "pct_change": 0.922,
+        "price": 5093.299805,
+        "change": -26.900391,
+        "pct_change": -0.525,
         "date": "2026-03-05"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 82.605003,
-        "change": -0.028,
-        "pct_change": -0.034,
+        "price": 82.519997,
+        "change": -0.113007,
+        "pct_change": -0.137,
         "date": "2026-03-05"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1170.5,
-        "change": 16.0,
-        "pct_change": 1.386,
+        "price": 1179.0,
+        "change": 24.5,
+        "pct_change": 2.122,
         "date": "2026-03-05"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
         "price": 13.71,
-        "change": -0.22,
-        "pct_change": -1.579,
-        "date": "2026-03-04"
+        "change": -0.02,
+        "pct_change": -0.146,
+        "date": "2026-03-05"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.705368,
-        "change": 0.001298,
-        "pct_change": 0.184,
+        "price": 0.701016,
+        "change": -0.003054,
+        "pct_change": -0.434,
         "date": "2026-03-05"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 6869.5,
-        "change": 52.870117,
-        "pct_change": 0.776,
-        "date": "2026-03-04"
+        "price": 6830.709961,
+        "change": -38.790039,
+        "pct_change": -0.565,
+        "date": "2026-03-05"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.08,
-        "change": 0.024,
-        "pct_change": 0.592,
-        "date": "2026-03-04"
+        "price": 4.146,
+        "change": 0.066,
+        "pct_change": 1.618,
+        "date": "2026-03-05"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25281.539062,
-        "change": 32.058594,
-        "pct_change": 0.127,
+        "price": 25321.339844,
+        "change": 71.859375,
+        "pct_change": 0.285,
         "date": "2026-03-05"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 11392.0,
-        "change": -16.0,
-        "pct_change": -0.14,
-        "date": "2026-03-04"
+        "price": 11213.0,
+        "change": -179.0,
+        "pct_change": -1.571,
+        "date": "2026-03-05"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13510.740234,
-        "change": 105.810547,
-        "pct_change": 0.789,
-        "date": "2026-03-04"
+        "price": 13298.299805,
+        "change": -212.44043,
+        "pct_change": -1.572,
+        "date": "2026-03-05"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
@@ -87,102 +87,119 @@
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 153.190002,
-        "change": 5.970001,
-        "pct_change": 4.055,
-        "date": "2026-03-04"
+        "price": 152.669998,
+        "change": -0.520004,
+        "pct_change": -0.339,
+        "date": "2026-03-05"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 331.73999,
-        "change": -0.430023,
-        "pct_change": -0.129,
-        "date": "2026-03-04"
+        "price": 327.450012,
+        "change": -4.289978,
+        "pct_change": -1.293,
+        "date": "2026-03-05"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 405.940002,
-        "change": 13.51001,
-        "pct_change": 3.443,
-        "date": "2026-03-04"
+        "price": 405.549988,
+        "change": -0.390015,
+        "pct_change": -0.096,
+        "date": "2026-03-05"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 303.130005,
-        "change": -0.449982,
-        "pct_change": -0.148,
-        "date": "2026-03-04"
+        "price": 300.880005,
+        "change": -2.25,
+        "pct_change": -0.742,
+        "date": "2026-03-05"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 664.47998,
-        "change": -3.340027,
-        "pct_change": -0.5,
-        "date": "2026-03-04"
+        "price": 655.0,
+        "change": -9.47998,
+        "pct_change": -1.427,
+        "date": "2026-03-05"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 208.820007,
-        "change": 2.300003,
-        "pct_change": 1.114,
-        "date": "2026-03-04"
+        "price": 203.860001,
+        "change": -4.960007,
+        "pct_change": -2.375,
+        "date": "2026-03-05"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 753.840027,
-        "change": -5.269958,
-        "pct_change": -0.694,
-        "date": "2026-03-04"
+        "price": 740.01001,
+        "change": -13.830017,
+        "pct_change": -1.835,
+        "date": "2026-03-05"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
-      "link": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Mar 2026 06:52:36 GMT",
+      "title": "US asked Ukraine for help fighting Iranian drones, Zelensky says",
+      "link": "https://www.bbc.com/news/articles/cr5llg0e9g9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Mar 2026 18:19:34 GMT",
       "matched_keywords": [
-        "war",
-        "military"
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
-      "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Mar 2026 20:42:35 GMT",
+      "title": "Azerbaijan says Iran struck its territory, as war spills over border",
+      "link": "https://www.bbc.com/news/articles/c1e9qpy90g3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Mar 2026 21:33:48 GMT",
       "matched_keywords": [
         "war",
-        "president",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ecuadorean troops find 35m-long 'narco-sub' hidden in nature reserve",
+      "link": "https://www.bbc.com/news/articles/cd6zz65vg0qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Mar 2026 17:34:04 GMT",
+      "matched_keywords": [
+        "military",
+        "troops"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli evacuation order for Beirut's southern suburbs sparks panic",
+      "link": "https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Mar 2026 20:10:40 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Global order is 'breaking down', Carney tells Australian parliament",
+      "link": "https://www.bbc.com/news/articles/cpqwwy8xvy3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Mar 2026 03:57:55 GMT",
+      "matched_keywords": [
         "prime minister"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Trade court orders tariff refunds in setback for Trump administration",
-      "link": "https://www.bbc.com/news/articles/c1d66k5r1x4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Mar 2026 00:13:16 GMT",
+      "title": "Nepalis vote in first election since Gen Z uprising for change",
+      "link": "https://www.bbc.com/news/articles/c79550jrye8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Mar 2026 12:51:12 GMT",
       "matched_keywords": [
-        "tariff"
+        "election"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Israel tells people in large parts of southern Lebanon to leave ahead of attacks",
-      "link": "https://www.bbc.com/news/articles/cvg11pne0rro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Mar 2026 14:55:30 GMT",
+      "title": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
+      "link": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Mar 2026 06:52:36 GMT",
       "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Pentagon identifies six US soldiers killed in Iran conflict",
-      "link": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Mar 2026 01:42:40 GMT",
-      "matched_keywords": [
-        "conflict"
+        "war"
       ]
     },
     {
@@ -194,24 +211,6 @@
         "president",
         "oil",
         "crisis"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia blames Ukrainian naval drones as tanker sinks in Mediterranean",
-      "link": "https://www.bbc.com/news/articles/cr5ll27z52do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Mar 2026 18:14:04 GMT",
-      "matched_keywords": [
-        "explosion"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "South Africa's long-serving former defence minister and former Robben Island prisoner dies",
-      "link": "https://www.bbc.com/news/articles/clyzzdgv2k0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Mar 2026 12:45:24 GMT",
-      "matched_keywords": [
-        "president"
       ]
     }
   ]
