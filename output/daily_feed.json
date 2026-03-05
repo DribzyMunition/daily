@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-03-05T07:01:18+00:00",
+  "prices": {
+    "commodities": {
+      "Gold": {
+        "ticker": "GC=F",
+        "price": 5166.200195,
+        "change": 46.0,
+        "pct_change": 0.898,
+        "date": "2026-03-05"
+      },
+      "Silver": {
+        "ticker": "SI=F",
+        "price": 82.470001,
+        "change": -0.163002,
+        "pct_change": -0.197,
+        "date": "2026-03-05"
+      },
+      "Soybeans": {
+        "ticker": "ZS=F",
+        "price": 1170.75,
+        "change": 16.25,
+        "pct_change": 1.408,
+        "date": "2026-03-05"
+      },
+      "Sugar #11 (Raw)": {
+        "ticker": "SB=F",
+        "price": 13.71,
+        "change": -0.22,
+        "pct_change": -1.579,
+        "date": "2026-03-04"
+      }
+    },
+    "fx": {
+      "AUD/USD": {
+        "ticker": "AUDUSD=X",
+        "price": 0.705318,
+        "change": 0.001248,
+        "pct_change": 0.177,
+        "date": "2026-03-05"
+      }
+    },
+    "indices": {
+      "S&P 500": {
+        "ticker": "^GSPC",
+        "price": 6869.5,
+        "change": 52.870117,
+        "pct_change": 0.776,
+        "date": "2026-03-04"
+      },
+      "US 10Y Yield (%)": {
+        "ticker": "^TNX",
+        "price": 4.08,
+        "change": 0.024,
+        "pct_change": 0.592,
+        "date": "2026-03-04"
+      },
+      "Hang Seng 50": {
+        "ticker": "^HSI",
+        "price": 25282.580078,
+        "change": 33.099609,
+        "pct_change": 0.131,
+        "date": "2026-03-05"
+      },
+      "South Africa Top 40": {
+        "ticker": "^J200",
+        "error": "No data returned from Yahoo Finance"
+      },
+      "Switzerland SMI": {
+        "ticker": "^SSMI",
+        "price": 13510.740234,
+        "change": 105.810547,
+        "pct_change": 0.789,
+        "date": "2026-03-04"
+      },
+      "ASX 200 (XJO)": {
+        "ticker": "^AXJO",
+        "price": 8940.299805,
+        "change": 39.099609,
+        "pct_change": 0.439,
+        "date": "2026-03-05"
+      }
+    },
+    "stocks": {
+      "Palantir": {
+        "ticker": "PLTR",
+        "price": 153.190002,
+        "change": 5.970001,
+        "pct_change": 4.055,
+        "date": "2026-03-04"
+      },
+      "McDonald's": {
+        "ticker": "MCD",
+        "price": 331.73999,
+        "change": -0.430023,
+        "pct_change": -0.129,
+        "date": "2026-03-04"
+      },
+      "Tesla": {
+        "ticker": "TSLA",
+        "price": 405.940002,
+        "change": 13.51001,
+        "pct_change": 3.443,
+        "date": "2026-03-04"
+      },
+      "Alphabet": {
+        "ticker": "GOOGL",
+        "price": 303.130005,
+        "change": -0.449982,
+        "pct_change": -0.148,
+        "date": "2026-03-04"
+      },
+      "Lockheed Martin": {
+        "ticker": "LMT",
+        "price": 664.47998,
+        "change": -3.340027,
+        "pct_change": -0.5,
+        "date": "2026-03-04"
+      },
+      "RTX (Raytheon)": {
+        "ticker": "RTX",
+        "price": 208.820007,
+        "change": 2.300003,
+        "pct_change": 1.114,
+        "date": "2026-03-04"
+      },
+      "Northrop Grumman": {
+        "ticker": "NOC",
+        "price": 753.840027,
+        "change": -5.269958,
+        "pct_change": -0.694,
+        "date": "2026-03-04"
+      }
+    }
+  },
+  "news": [
+    {
+      "source": "BBC World",
+      "title": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
+      "link": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Mar 2026 06:52:36 GMT",
+      "matched_keywords": [
+        "war",
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
+      "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Mar 2026 20:42:35 GMT",
+      "matched_keywords": [
+        "war",
+        "president",
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trade court orders tariff refunds in setback for Trump administration",
+      "link": "https://www.bbc.com/news/articles/c1d66k5r1x4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Mar 2026 00:13:16 GMT",
+      "matched_keywords": [
+        "tariff"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel tells people in large parts of southern Lebanon to leave ahead of attacks",
+      "link": "https://www.bbc.com/news/articles/cvg11pne0rro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Mar 2026 14:55:30 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Pentagon identifies six US soldiers killed in Iran conflict",
+      "link": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Mar 2026 01:42:40 GMT",
+      "matched_keywords": [
+        "conflict"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Millions of Cubans plunged into darkness as fuel crisis deepens",
+      "link": "https://www.bbc.com/news/articles/cx2ggpq1742o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Mar 2026 22:46:53 GMT",
+      "matched_keywords": [
+        "president",
+        "oil",
+        "crisis"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia blames Ukrainian naval drones as tanker sinks in Mediterranean",
+      "link": "https://www.bbc.com/news/articles/cr5ll27z52do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Mar 2026 18:14:04 GMT",
+      "matched_keywords": [
+        "explosion"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "South Africa's long-serving former defence minister and former Robben Island prisoner dies",
+      "link": "https://www.bbc.com/news/articles/clyzzdgv2k0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Mar 2026 12:45:24 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    }
+  ]
+}
