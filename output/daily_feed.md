@@ -1,5 +1,5 @@
-# Daily Feed — 2026-03-06
-*Generated: 2026-03-06T23:53:54+00:00 UTC*
+# Daily Feed — 2026-03-07
+*Generated: 2026-03-07T22:44:22+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   5,181.2998 | ▲ 116.0000 | +2.29% |
-| Silver |      84.6950 | ▲ 3.0080 | +3.68% |
-| Soybeans |   1,201.7500 | ▲ 38.0000 | +3.27% |
-| Sugar #11 (Raw) |      14.0900 | ▲ 0.3700 | +2.70% |
+| Gold |   5,146.1001 | ▲ 80.8003 | +1.59% |
+| Silver |      83.8160 | ▲ 2.1290 | +2.61% |
+| Soybeans |   1,185.0000 | ▲ 21.2500 | +1.83% |
+| Sugar #11 (Raw) |      14.1000 | ▲ 0.3800 | +2.77% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7033 | ▼ 0.0043 | -0.61% |
+| AUD/USD |       0.7033 | ▲ 0.0022 | +0.31% |
 
 ### Indices
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** 'What is the game plan?': The Iran war is unsettling China and its ambitions
+**[BBC World]** Iranian ambassador warns UK to be 'very careful' about further involvement in war
+*Tags: war, attack*
+https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Armed robots take to the battlefield in Ukraine war
 *Tags: war*
-https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** 'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC
-*Tags: attack, troops, nato*
-https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss
+**[BBC World]** We've been speaking to Iranians during one week of war. Here's what they said
+*Tags: war, conflict*
+https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** US asked Ukraine for help fighting Iranian drones, Zelensky says
+**[BBC World]** Rapper-politician Balendra Shah on course to be Nepal's next prime minister
+*Tags: election, prime minister*
+https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Heavy rains and flooding kills at least 23 in Nairobi
+*Tags: flood*
+https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Russian strike on Kharkiv apartment block kills ten
 *Tags: president*
-https://www.bbc.com/news/articles/cr5llg0e9g9o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Israel strikes Beirut after evacuation warning sparks panic
-*Tags: war*
-https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss
+**[BBC World]** China spent years building ties in Latin America. Can Trump make room for the US?
+*Tags: president*
+https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Canadian teen died from drowning after dingo attack in Australia
 *Tags: attack*
 https://www.bbc.com/news/articles/cde4599n8zpo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Finland plans to lift decades-old ban on hosting nuclear weapons
-*Tags: nuclear, invasion*
-https://www.bbc.com/news/articles/c14m5llnrlpo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Ecuadorean troops find 35m-long 'narco-sub' hidden in nature reserve
-*Tags: military, troops*
-https://www.bbc.com/news/articles/cd6zz65vg0qo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Azerbaijan furious with Iran as war spills over its border
-*Tags: war, president*
-https://www.bbc.com/news/articles/c1e9qpy90g3o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

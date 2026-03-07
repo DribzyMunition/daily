@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-03-06T23:53:54+00:00",
+  "generated_at": "2026-03-07T22:44:22+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 5181.299805,
-        "change": 116.0,
-        "pct_change": 2.29,
+        "price": 5146.100098,
+        "change": 80.800293,
+        "pct_change": 1.595,
         "date": "2026-03-06"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 84.695,
-        "change": 3.008003,
-        "pct_change": 3.682,
+        "price": 83.816002,
+        "change": 2.129005,
+        "pct_change": 2.606,
         "date": "2026-03-06"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1201.75,
-        "change": 38.0,
-        "pct_change": 3.265,
+        "price": 1185.0,
+        "change": 21.25,
+        "pct_change": 1.826,
         "date": "2026-03-06"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.09,
-        "change": 0.37,
-        "pct_change": 2.697,
+        "price": 14.1,
+        "change": 0.38,
+        "pct_change": 2.77,
         "date": "2026-03-06"
       }
     },
@@ -35,9 +35,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.703284,
-        "change": -0.004316,
-        "pct_change": -0.61,
-        "date": "2026-03-06"
+        "change": 0.002154,
+        "pct_change": 0.307,
+        "date": "2026-03-07"
       }
     },
     "indices": {
@@ -139,40 +139,68 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
-      "link": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Mar 2026 23:13:57 GMT",
+      "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
+      "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Mar 2026 16:53:57 GMT",
+      "matched_keywords": [
+        "war",
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Armed robots take to the battlefield in Ukraine war",
+      "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Mar 2026 00:36:19 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
-      "link": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Mar 2026 17:06:14 GMT",
+      "title": "We've been speaking to Iranians during one week of war. Here's what they said",
+      "link": "https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Mar 2026 06:00:32 GMT",
       "matched_keywords": [
-        "attack",
-        "troops",
-        "nato"
+        "war",
+        "conflict"
       ]
     },
     {
       "source": "BBC World",
-      "title": "US asked Ukraine for help fighting Iranian drones, Zelensky says",
-      "link": "https://www.bbc.com/news/articles/cr5llg0e9g9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Mar 2026 18:19:34 GMT",
+      "title": "Rapper-politician Balendra Shah on course to be Nepal's next prime minister",
+      "link": "https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Mar 2026 19:45:09 GMT",
+      "matched_keywords": [
+        "election",
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Heavy rains and flooding kills at least 23 in Nairobi",
+      "link": "https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Mar 2026 12:21:40 GMT",
+      "matched_keywords": [
+        "flood"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian strike on Kharkiv apartment block kills ten",
+      "link": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Mar 2026 07:54:22 GMT",
       "matched_keywords": [
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Israel strikes Beirut after evacuation warning sparks panic",
-      "link": "https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Mar 2026 04:08:48 GMT",
+      "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
+      "link": "https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Mar 2026 01:56:20 GMT",
       "matched_keywords": [
-        "war"
+        "president"
       ]
     },
     {
@@ -182,36 +210,6 @@
       "published": "Fri, 06 Mar 2026 01:47:32 GMT",
       "matched_keywords": [
         "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Finland plans to lift decades-old ban on hosting nuclear weapons",
-      "link": "https://www.bbc.com/news/articles/c14m5llnrlpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Mar 2026 23:12:16 GMT",
-      "matched_keywords": [
-        "nuclear",
-        "invasion"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Ecuadorean troops find 35m-long 'narco-sub' hidden in nature reserve",
-      "link": "https://www.bbc.com/news/articles/cd6zz65vg0qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Mar 2026 17:34:04 GMT",
-      "matched_keywords": [
-        "military",
-        "troops"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Azerbaijan furious with Iran as war spills over its border",
-      "link": "https://www.bbc.com/news/articles/c1e9qpy90g3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Mar 2026 11:39:00 GMT",
-      "matched_keywords": [
-        "war",
-        "president"
       ]
     }
   ]
