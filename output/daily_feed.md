@@ -1,5 +1,5 @@
-# Daily Feed — 2026-03-07
-*Generated: 2026-03-07T22:44:22+00:00 UTC*
+# Daily Feed — 2026-03-08
+*Generated: 2026-03-08T23:29:08+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   5,146.1001 | ▲ 80.8003 | +1.59% |
-| Silver |      83.8160 | ▲ 2.1290 | +2.61% |
-| Soybeans |   1,185.0000 | ▲ 21.2500 | +1.83% |
-| Sugar #11 (Raw) |      14.1000 | ▲ 0.3800 | +2.77% |
+| Gold |   5,107.6001 | ▼ 38.5000 | -0.75% |
+| Silver |      82.4850 | ▼ 1.3310 | -1.59% |
+| Soybeans |   1,200.7500 | ▲ 37.0000 | +3.18% |
+| Sugar #11 (Raw) |      14.0900 | ▲ 0.3700 | +2.70% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7033 | ▲ 0.0022 | +0.31% |
+| AUD/USD |       0.6976 | ▼ 0.0035 | -0.50% |
 
 ### Indices
 
@@ -29,7 +29,7 @@
 | Hang Seng 50 |  25,757.2891 | ▲ 435.9492 | +1.72% |
 | South Africa Top 40 |  10,894.0000 | ▼ 319.0000 | -2.85% |
 | Switzerland SMI |  13,095.5498 | ▼ 202.7500 | -1.52% |
-| ASX 200 (XJO) |   8,851.0000 | ▼ 89.2998 | -1.00% |
+| ASX 200 (XJO) |   8,611.7002 | ▼ 239.2998 | -2.70% |
 
 ### Stocks
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Iranian ambassador warns UK to be 'very careful' about further involvement in war
-*Tags: war, attack*
-https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss
+**[BBC World]** War fuels debate in Cyprus over UK military bases
+*Tags: war, military*
+https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Armed robots take to the battlefield in Ukraine war
-*Tags: war*
-https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Explosion at US embassy in Oslo may have been terrorism, Norway police say
+*Tags: explosion*
+https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** We've been speaking to Iranians during one week of war. Here's what they said
-*Tags: war, conflict*
-https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Rapper-politician Balendra Shah on course to be Nepal's next prime minister
-*Tags: election, prime minister*
+**[BBC World]** Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory
+*Tags: election*
 https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Heavy rains and flooding kills at least 23 in Nairobi
 *Tags: flood*
 https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss
 
+**[BBC World]** Iranian ambassador warns UK to be 'very careful' about further involvement in war
+*Tags: war, attack*
+https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss
+
 **[BBC World]** Russian strike on Kharkiv apartment block kills ten
 *Tags: president*
 https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss
 
+**[BBC World]** Armed robots take to the battlefield in Ukraine war
+*Tags: war*
+https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss
+
 **[BBC World]** China spent years building ties in Latin America. Can Trump make room for the US?
 *Tags: president*
 https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Canadian teen died from drowning after dingo attack in Australia
-*Tags: attack*
-https://www.bbc.com/news/articles/cde4599n8zpo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

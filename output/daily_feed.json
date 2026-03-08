@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-03-07T22:44:22+00:00",
+  "generated_at": "2026-03-08T23:29:08+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 5146.100098,
-        "change": 80.800293,
-        "pct_change": 1.595,
-        "date": "2026-03-06"
+        "price": 5107.600098,
+        "change": -38.5,
+        "pct_change": -0.748,
+        "date": "2026-03-08"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 83.816002,
-        "change": 2.129005,
-        "pct_change": 2.606,
-        "date": "2026-03-06"
+        "price": 82.485001,
+        "change": -1.331001,
+        "pct_change": -1.588,
+        "date": "2026-03-08"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1185.0,
-        "change": 21.25,
-        "pct_change": 1.826,
+        "price": 1200.75,
+        "change": 37.0,
+        "pct_change": 3.179,
         "date": "2026-03-06"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.1,
-        "change": 0.38,
-        "pct_change": 2.77,
+        "price": 14.09,
+        "change": 0.37,
+        "pct_change": 2.697,
         "date": "2026-03-06"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.703284,
-        "change": 0.002154,
-        "pct_change": 0.307,
-        "date": "2026-03-07"
+        "price": 0.697593,
+        "change": -0.003537,
+        "pct_change": -0.504,
+        "date": "2026-03-08"
       }
     },
     "indices": {
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8851.0,
-        "change": -89.299805,
-        "pct_change": -0.999,
-        "date": "2026-03-06"
+        "price": 8611.700195,
+        "change": -239.299805,
+        "pct_change": -2.704,
+        "date": "2026-03-09"
       }
     },
     "stocks": {
@@ -139,41 +139,30 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
-      "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 16:53:57 GMT",
+      "title": "War fuels debate in Cyprus over UK military bases",
+      "link": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Mar 2026 08:03:40 GMT",
       "matched_keywords": [
         "war",
-        "attack"
+        "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Armed robots take to the battlefield in Ukraine war",
-      "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 00:36:19 GMT",
+      "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
+      "link": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Mar 2026 18:32:37 GMT",
       "matched_keywords": [
-        "war"
+        "explosion"
       ]
     },
     {
       "source": "BBC World",
-      "title": "We've been speaking to Iranians during one week of war. Here's what they said",
-      "link": "https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 06:00:32 GMT",
-      "matched_keywords": [
-        "war",
-        "conflict"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Rapper-politician Balendra Shah on course to be Nepal's next prime minister",
+      "title": "Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory",
       "link": "https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 19:45:09 GMT",
+      "published": "Sun, 08 Mar 2026 04:36:12 GMT",
       "matched_keywords": [
-        "election",
-        "prime minister"
+        "election"
       ]
     },
     {
@@ -187,6 +176,16 @@
     },
     {
       "source": "BBC World",
+      "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
+      "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Mar 2026 16:53:57 GMT",
+      "matched_keywords": [
+        "war",
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
       "title": "Russian strike on Kharkiv apartment block kills ten",
       "link": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Mar 2026 07:54:22 GMT",
@@ -196,20 +195,20 @@
     },
     {
       "source": "BBC World",
+      "title": "Armed robots take to the battlefield in Ukraine war",
+      "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Mar 2026 00:36:19 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
       "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
       "link": "https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Mar 2026 01:56:20 GMT",
       "matched_keywords": [
         "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Canadian teen died from drowning after dingo attack in Australia",
-      "link": "https://www.bbc.com/news/articles/cde4599n8zpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Mar 2026 01:47:32 GMT",
-      "matched_keywords": [
-        "attack"
       ]
     }
   ]
