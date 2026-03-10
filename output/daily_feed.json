@@ -1,214 +1,212 @@
 {
-  "generated_at": "2026-03-08T23:29:08+00:00",
+  "generated_at": "2026-03-10T01:28:04+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 5107.600098,
-        "change": -38.5,
-        "pct_change": -0.748,
-        "date": "2026-03-08"
+        "price": 5156.5,
+        "change": 10.399902,
+        "pct_change": 0.202,
+        "date": "2026-03-09"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 82.485001,
-        "change": -1.331001,
-        "pct_change": -1.588,
-        "date": "2026-03-08"
+        "price": 88.18,
+        "change": 4.363998,
+        "pct_change": 5.207,
+        "date": "2026-03-09"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1200.75,
-        "change": 37.0,
-        "pct_change": 3.179,
-        "date": "2026-03-06"
+        "price": 1191.0,
+        "change": 6.0,
+        "pct_change": 0.506,
+        "date": "2026-03-09"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.09,
-        "change": 0.37,
-        "pct_change": 2.697,
-        "date": "2026-03-06"
+        "price": 14.62,
+        "change": 0.52,
+        "pct_change": 3.688,
+        "date": "2026-03-09"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.697593,
-        "change": -0.003537,
-        "pct_change": -0.504,
-        "date": "2026-03-08"
+        "price": 0.706314,
+        "change": 0.009695,
+        "pct_change": 1.392,
+        "date": "2026-03-10"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 6740.02002,
-        "change": -90.689941,
-        "pct_change": -1.328,
-        "date": "2026-03-06"
+        "price": 6795.990234,
+        "change": 55.970215,
+        "pct_change": 0.83,
+        "date": "2026-03-09"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.133,
-        "change": -0.013,
-        "pct_change": -0.314,
-        "date": "2026-03-06"
+        "price": 4.136,
+        "change": 0.003,
+        "pct_change": 0.073,
+        "date": "2026-03-09"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25757.289062,
-        "change": 435.949219,
-        "pct_change": 1.722,
-        "date": "2026-03-06"
+        "price": 25408.460938,
+        "change": -348.828125,
+        "pct_change": -1.354,
+        "date": "2026-03-09"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
         "price": 10894.0,
-        "change": -319.0,
-        "pct_change": -2.845,
-        "date": "2026-03-06"
+        "change": 0.0,
+        "pct_change": 0.0,
+        "date": "2026-03-09"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13095.549805,
-        "change": -202.75,
-        "pct_change": -1.525,
-        "date": "2026-03-06"
+        "price": 13000.089844,
+        "change": -95.459961,
+        "pct_change": -0.729,
+        "date": "2026-03-09"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8611.700195,
-        "change": -239.299805,
-        "pct_change": -2.704,
-        "date": "2026-03-09"
+        "price": 8715.0,
+        "change": 116.0,
+        "pct_change": 1.349,
+        "date": "2026-03-10"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 157.160004,
-        "change": 4.490005,
-        "pct_change": 2.941,
-        "date": "2026-03-06"
+        "price": 156.429993,
+        "change": -0.730011,
+        "pct_change": -0.465,
+        "date": "2026-03-09"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 328.059998,
-        "change": 0.609985,
-        "pct_change": 0.186,
-        "date": "2026-03-06"
+        "price": 330.799988,
+        "change": 2.73999,
+        "pct_change": 0.835,
+        "date": "2026-03-09"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 396.730011,
-        "change": -8.819977,
-        "pct_change": -2.175,
-        "date": "2026-03-06"
+        "price": 398.679993,
+        "change": 1.949982,
+        "pct_change": 0.492,
+        "date": "2026-03-09"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 298.519989,
-        "change": -2.360016,
-        "pct_change": -0.784,
-        "date": "2026-03-06"
+        "price": 306.359985,
+        "change": 7.839996,
+        "pct_change": 2.626,
+        "date": "2026-03-09"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 671.77002,
-        "change": 16.77002,
-        "pct_change": 2.56,
-        "date": "2026-03-06"
+        "price": 664.150024,
+        "change": -7.619995,
+        "pct_change": -1.134,
+        "date": "2026-03-09"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 209.759995,
-        "change": 5.899994,
-        "pct_change": 2.894,
-        "date": "2026-03-06"
+        "price": 208.229996,
+        "change": -1.529999,
+        "pct_change": -0.729,
+        "date": "2026-03-09"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 756.130005,
-        "change": 16.119995,
-        "pct_change": 2.178,
-        "date": "2026-03-06"
+        "price": 747.340027,
+        "change": -8.789978,
+        "pct_change": -1.162,
+        "date": "2026-03-09"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "War fuels debate in Cyprus over UK military bases",
-      "link": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Mar 2026 08:03:40 GMT",
+      "title": "US teacher killed after toilet paper prank goes wrong",
+      "link": "https://www.bbc.com/news/articles/cdr24g1p3vpo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 17:09:21 GMT",
       "matched_keywords": [
-        "war",
-        "military"
+        "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
-      "link": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Mar 2026 18:32:37 GMT",
+      "title": "G7 to take 'necessary measures' to support energy supplies",
+      "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 23:30:46 GMT",
       "matched_keywords": [
-        "explosion"
+        "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory",
-      "link": "https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Mar 2026 04:36:12 GMT",
-      "matched_keywords": [
-        "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Heavy rains and flooding kills at least 23 in Nairobi",
-      "link": "https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 12:21:40 GMT",
-      "matched_keywords": [
-        "flood"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
-      "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 16:53:57 GMT",
-      "matched_keywords": [
-        "war",
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian strike on Kharkiv apartment block kills ten",
-      "link": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 07:54:22 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Armed robots take to the battlefield in Ukraine war",
-      "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 00:36:19 GMT",
+      "title": "Hundreds of teenagers report for duty as Croatia reinstates conscription",
+      "link": "https://www.bbc.com/news/articles/c93j2l32lzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 14:49:34 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
-      "link": "https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 01:56:20 GMT",
+      "title": "Carney calls three by-elections in Canada that could grant him a majority",
+      "link": "https://www.bbc.com/news/articles/cnv69zp3z4ro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 14:49:39 GMT",
+      "matched_keywords": [
+        "election"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Guinea opposition leader urges 'direct resistance' after 40 parties dissolved",
+      "link": "https://www.bbc.com/news/articles/cjrqg80y57po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 14:25:45 GMT",
       "matched_keywords": [
         "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Police release images of Oslo US embassy explosion suspect",
+      "link": "https://www.bbc.com/news/articles/ce8wk563473o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 12:45:09 GMT",
+      "matched_keywords": [
+        "explosion"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia urged to protect Iran women's football team as they prepare to fly home",
+      "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 21:46:53 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "India offered sanctuary to Iranian ship three days before US sank it",
+      "link": "https://www.bbc.com/news/articles/c2e4yxj0pd3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 12:04:29 GMT",
+      "matched_keywords": [
+        "war"
       ]
     }
   ]

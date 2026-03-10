@@ -1,5 +1,5 @@
-# Daily Feed — 2026-03-08
-*Generated: 2026-03-08T23:29:08+00:00 UTC*
+# Daily Feed — 2026-03-10
+*Generated: 2026-03-10T01:28:04+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   5,107.6001 | ▼ 38.5000 | -0.75% |
-| Silver |      82.4850 | ▼ 1.3310 | -1.59% |
-| Soybeans |   1,200.7500 | ▲ 37.0000 | +3.18% |
-| Sugar #11 (Raw) |      14.0900 | ▲ 0.3700 | +2.70% |
+| Gold |   5,156.5000 | ▲ 10.3999 | +0.20% |
+| Silver |      88.1800 | ▲ 4.3640 | +5.21% |
+| Soybeans |   1,191.0000 | ▲ 6.0000 | +0.51% |
+| Sugar #11 (Raw) |      14.6200 | ▲ 0.5200 | +3.69% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6976 | ▼ 0.0035 | -0.50% |
+| AUD/USD |       0.7063 | ▲ 0.0097 | +1.39% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   6,740.0200 | ▼ 90.6899 | -1.33% |
-| US 10Y Yield (%) |       4.1330 | ▼ 0.0130 | -0.31% |
-| Hang Seng 50 |  25,757.2891 | ▲ 435.9492 | +1.72% |
-| South Africa Top 40 |  10,894.0000 | ▼ 319.0000 | -2.85% |
-| Switzerland SMI |  13,095.5498 | ▼ 202.7500 | -1.52% |
-| ASX 200 (XJO) |   8,611.7002 | ▼ 239.2998 | -2.70% |
+| S&P 500 |   6,795.9902 | ▲ 55.9702 | +0.83% |
+| US 10Y Yield (%) |       4.1360 | ▲ 0.0030 | +0.07% |
+| Hang Seng 50 |  25,408.4609 | ▼ 348.8281 | -1.35% |
+| South Africa Top 40 |  10,894.0000 | ▲ 0.0000 | +0.00% |
+| Switzerland SMI |  13,000.0898 | ▼ 95.4600 | -0.73% |
+| ASX 200 (XJO) |   8,715.0000 | ▲ 116.0000 | +1.35% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     157.1600 | ▲ 4.4900 | +2.94% |
-| McDonald's |     328.0600 | ▲ 0.6100 | +0.19% |
-| Tesla |     396.7300 | ▼ 8.8200 | -2.17% |
-| Alphabet |     298.5200 | ▼ 2.3600 | -0.78% |
-| Lockheed Martin |     671.7700 | ▲ 16.7700 | +2.56% |
-| RTX (Raytheon) |     209.7600 | ▲ 5.9000 | +2.89% |
-| Northrop Grumman |     756.1300 | ▲ 16.1200 | +2.18% |
+| Palantir |     156.4300 | ▼ 0.7300 | -0.47% |
+| McDonald's |     330.8000 | ▲ 2.7400 | +0.83% |
+| Tesla |     398.6800 | ▲ 1.9500 | +0.49% |
+| Alphabet |     306.3600 | ▲ 7.8400 | +2.63% |
+| Lockheed Martin |     664.1500 | ▼ 7.6200 | -1.13% |
+| RTX (Raytheon) |     208.2300 | ▼ 1.5300 | -0.73% |
+| Northrop Grumman |     747.3400 | ▼ 8.7900 | -1.16% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** War fuels debate in Cyprus over UK military bases
-*Tags: war, military*
-https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss
+**[BBC World]** US teacher killed after toilet paper prank goes wrong
+*Tags: oil*
+https://www.bbc.com/news/articles/cdr24g1p3vpo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Explosion at US embassy in Oslo may have been terrorism, Norway police say
-*Tags: explosion*
-https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss
+**[BBC World]** G7 to take 'necessary measures' to support energy supplies
+*Tags: oil*
+https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory
-*Tags: election*
-https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Heavy rains and flooding kills at least 23 in Nairobi
-*Tags: flood*
-https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Iranian ambassador warns UK to be 'very careful' about further involvement in war
-*Tags: war, attack*
-https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Russian strike on Kharkiv apartment block kills ten
-*Tags: president*
-https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Armed robots take to the battlefield in Ukraine war
+**[BBC World]** Hundreds of teenagers report for duty as Croatia reinstates conscription
 *Tags: war*
-https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c93j2l32lzgo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** China spent years building ties in Latin America. Can Trump make room for the US?
+**[BBC World]** Carney calls three by-elections in Canada that could grant him a majority
+*Tags: election*
+https://www.bbc.com/news/articles/cnv69zp3z4ro?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Guinea opposition leader urges 'direct resistance' after 40 parties dissolved
 *Tags: president*
-https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cjrqg80y57po?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Police release images of Oslo US embassy explosion suspect
+*Tags: explosion*
+https://www.bbc.com/news/articles/ce8wk563473o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Australia urged to protect Iran women's football team as they prepare to fly home
+*Tags: war*
+https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** India offered sanctuary to Iranian ship three days before US sank it
+*Tags: war*
+https://www.bbc.com/news/articles/c2e4yxj0pd3o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
