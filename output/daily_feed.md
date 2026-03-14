@@ -1,5 +1,5 @@
-# Daily Feed — 2026-03-13
-*Generated: 2026-03-13T02:01:51+00:00 UTC*
+# Daily Feed — 2026-03-14
+*Generated: 2026-03-14T02:11:11+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   5,116.7002 | ▼ 50.6997 | -0.98% |
-| Silver |      84.6300 | ▼ 0.4350 | -0.51% |
-| Soybeans |   1,226.5000 | ▲ 26.0000 | +2.17% |
-| Sugar #11 (Raw) |      14.4300 | ▲ 0.1800 | +1.26% |
+| Gold |   5,023.1001 | ▼ 92.6997 | -1.81% |
+| Silver |      80.6450 | ▼ 4.0250 | -4.75% |
+| Soybeans |   1,223.7500 | ▲ 10.7500 | +0.89% |
+| Sugar #11 (Raw) |      14.4100 | ▲ 0.0300 | +0.21% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7086 | ▼ 0.0044 | -0.61% |
+| AUD/USD |       0.6983 | ▼ 0.0146 | -2.05% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   6,672.6201 | ▼ 103.1797 | -1.52% |
-| US 10Y Yield (%) |       4.2730 | ▲ 0.0650 | +1.54% |
-| Hang Seng 50 |  25,535.0898 | ▼ 181.6699 | -0.71% |
-| South Africa Top 40 |  10,996.0000 | ▼ 15.0000 | -0.14% |
-| Switzerland SMI |  12,842.1602 | ▼ 116.4297 | -0.90% |
-| ASX 200 (XJO) |   8,651.5000 | ▲ 22.5000 | +0.26% |
+| S&P 500 |   6,632.1899 | ▼ 40.4302 | -0.61% |
+| US 10Y Yield (%) |       4.2850 | ▲ 0.0120 | +0.28% |
+| Hang Seng 50 |  25,465.5996 | ▼ 251.1602 | -0.98% |
+| South Africa Top 40 |  10,830.0000 | ▼ 166.0000 | -1.51% |
+| Switzerland SMI |  12,839.2695 | ▼ 2.8906 | -0.02% |
+| ASX 200 (XJO) |   8,617.0996 | ▼ 11.9004 | -0.14% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     153.5000 | ▲ 1.9000 | +1.25% |
-| McDonald's |     323.9100 | ▼ 1.3000 | -0.40% |
-| Tesla |     395.0100 | ▼ 12.8100 | -3.14% |
-| Alphabet |     303.5500 | ▼ 5.1500 | -1.67% |
-| Lockheed Martin |     652.8300 | ▲ 3.3600 | +0.52% |
-| RTX (Raytheon) |     203.0400 | ▼ 4.2200 | -2.04% |
-| Northrop Grumman |     736.3000 | ▲ 3.1200 | +0.43% |
+| Palantir |     150.9500 | ▼ 2.5500 | -1.66% |
+| McDonald's |     326.4600 | ▲ 2.5500 | +0.79% |
+| Tesla |     391.2000 | ▼ 3.8100 | -0.96% |
+| Alphabet |     302.2800 | ▼ 1.2700 | -0.42% |
+| Lockheed Martin |     646.0000 | ▼ 6.8300 | -1.05% |
+| RTX (Raytheon) |     204.5200 | ▲ 1.4800 | +0.73% |
+| Northrop Grumman |     733.7100 | ▼ 2.5900 | -0.35% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Mission accomplished? The 2003 boast that haunts today's Iran conflict
-*Tags: conflict*
-https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Emirati minister tells BBC Iran must end strikes on Gulf
-*Tags: war, missile*
-https://www.bbc.com/news/articles/cy8lzn2ejpjo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Rapper-politician Balendra Shah's party wins Nepal election
-*Tags: election*
-https://www.bbc.com/news/articles/c8jxnjvjkg7o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Israeli military drops charges against soldiers accused of abusing Palestinian detainee
+**[BBC World]** Xi's anti-corruption drive began 14 years ago. Why are the purges still going?
 *Tags: military*
-https://www.bbc.com/news/articles/cm2xrz71zm3o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c78xxyyqwe7o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** 'There's no hiding place on a ship': The sailors stranded near Iran
-*Tags: missile*
-https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss
+**[BBC World]** Ukraine and allies fear easing Russian sanctions will prolong war
+*Tags: war, sanctions, president*
+https://www.bbc.com/news/articles/c1d6l67122wo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Nineteen jailed over deadly Moscow concert attack
+**[BBC World]** Under drone fire, exiled Kurds wait to confront Iranian regime
 *Tags: attack*
-https://www.bbc.com/news/articles/c0j5lx75vg3o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Death toll from Ethiopia floods and landslides rises to more than 100
-*Tags: war, flood*
-https://www.bbc.com/news/articles/ce947x4m0e1o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Family of Michigan synagogue suspect killed in Lebanon airstrike, officials say
+*Tags: airstrike*
+https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Senegal approves tougher anti-gay law as rights groups raise concerns
+**[BBC World]** Bahrain & Saudi Arabia Grands Prix to be cancelled
 *Tags: war*
-https://www.bbc.com/news/articles/cp857gy1843o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Cuba confirms negotiations with US as country faces effects of oil blockade
+*Tags: president, oil*
+https://www.bbc.com/news/articles/cwy8zv9gp0go?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated
+*Tags: war*
+https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** King expressed 'concern' over Alberta separatists, say First Nations chiefs
+*Tags: war*
+https://www.bbc.com/news/articles/cd9g4dpjwgvo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
