@@ -1,5 +1,5 @@
-# Daily Feed — 2026-03-14
-*Generated: 2026-03-14T02:11:11+00:00 UTC*
+# Daily Feed — 2026-03-15
+*Generated: 2026-03-15T01:54:32+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   5,023.1001 | ▼ 92.6997 | -1.81% |
-| Silver |      80.6450 | ▼ 4.0250 | -4.75% |
-| Soybeans |   1,223.7500 | ▲ 10.7500 | +0.89% |
+| Gold |   5,061.7002 | ▼ 54.0996 | -1.06% |
+| Silver |      81.3430 | ▼ 3.3270 | -3.93% |
+| Soybeans |   1,225.2500 | ▲ 12.2500 | +1.01% |
 | Sugar #11 (Raw) |      14.4100 | ▲ 0.0300 | +0.21% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6983 | ▼ 0.0146 | -2.05% |
+| AUD/USD |       0.6981 | ▼ 0.0094 | -1.33% |
 
 ### Indices
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Xi's anti-corruption drive began 14 years ago. Why are the purges still going?
-*Tags: military*
-https://www.bbc.com/news/articles/c78xxyyqwe7o?at_medium=RSS&at_campaign=rss
+**[BBC World]** 'Gruesome' war bets fuel calls for crackdown on prediction markets
+*Tags: war*
+https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ukraine and allies fear easing Russian sanctions will prolong war
-*Tags: war, sanctions, president*
-https://www.bbc.com/news/articles/c1d6l67122wo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Under drone fire, exiled Kurds wait to confront Iranian regime
+**[BBC World]** Hamas urges key ally Iran to halt attacks on Gulf states
 *Tags: attack*
-https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Family of Michigan synagogue suspect killed in Lebanon airstrike, officials say
-*Tags: airstrike*
-https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss
+**[BBC World]** Cuban protesters ransack Communist office as energy crisis deepens
+*Tags: energy crisis, blackout, crisis*
+https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Bahrain & Saudi Arabia Grands Prix to be cancelled
+**[BBC World]** Iraq taking private plane to Mexico for World Cup play-off
+*Tags: war, president*
+https://www.bbc.com/sport/football/articles/c0k10zzjk6yo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Russia exploiting Iran war, Zelensky says after fresh bombardment
+*Tags: war, attack, missile*
+https://www.bbc.com/news/articles/c0mger2zkmwo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor
+*Tags: attack, explosion*
+https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** 'Hate-watch classic' War of the Worlds sweeps Razzie Awards
+*Tags: war, invasion*
+https://www.bbc.com/news/articles/c23zx8pgx28o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** More US Marines and warships being moved to Middle East, reports say
 *Tags: war*
-https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Cuba confirms negotiations with US as country faces effects of oil blockade
-*Tags: president, oil*
-https://www.bbc.com/news/articles/cwy8zv9gp0go?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated
-*Tags: war*
-https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** King expressed 'concern' over Alberta separatists, say First Nations chiefs
-*Tags: war*
-https://www.bbc.com/news/articles/cd9g4dpjwgvo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
