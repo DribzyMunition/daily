@@ -1,5 +1,5 @@
-# Daily Feed — 2026-03-15
-*Generated: 2026-03-15T01:54:32+00:00 UTC*
+# Daily Feed — 2026-03-16
+*Generated: 2026-03-16T02:17:54+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   5,061.7002 | ▼ 54.0996 | -1.06% |
-| Silver |      81.3430 | ▼ 3.3270 | -3.93% |
-| Soybeans |   1,225.2500 | ▲ 12.2500 | +1.01% |
-| Sugar #11 (Raw) |      14.4100 | ▲ 0.0300 | +0.21% |
+| Gold |   5,019.2998 | ▼ 33.2002 | -0.66% |
+| Silver |      80.3550 | ▼ 0.5590 | -0.69% |
+| Soybeans |   1,202.0000 | ▼ 9.0000 | -0.74% |
+| Sugar #11 (Raw) |      14.3700 | ▼ 0.0100 | -0.07% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6981 | ▼ 0.0094 | -1.33% |
+| AUD/USD |       0.7012 | ▼ 0.0063 | -0.89% |
 
 ### Indices
 
@@ -26,10 +26,10 @@
 |:------|------:|------:|---------:|
 | S&P 500 |   6,632.1899 | ▼ 40.4302 | -0.61% |
 | US 10Y Yield (%) |       4.2850 | ▲ 0.0120 | +0.28% |
-| Hang Seng 50 |  25,465.5996 | ▼ 251.1602 | -0.98% |
-| South Africa Top 40 |  10,830.0000 | ▼ 166.0000 | -1.51% |
+| Hang Seng 50 |  25,481.5293 | ▲ 15.9297 | +0.06% |
+| South Africa Top 40 |  10,840.0000 | ▼ 156.0000 | -1.42% |
 | Switzerland SMI |  12,839.2695 | ▼ 2.8906 | -0.02% |
-| ASX 200 (XJO) |   8,617.0996 | ▼ 11.9004 | -0.14% |
+| ASX 200 (XJO) |   8,588.9004 | ▼ 28.1992 | -0.33% |
 
 ### Stocks
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** 'Gruesome' war bets fuel calls for crackdown on prediction markets
+**[BBC World]** 'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war
 *Tags: war*
-https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Hamas urges key ally Iran to halt attacks on Gulf states
-*Tags: attack*
-https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Ukraine's urgent fight on the financial frontline
+*Tags: war, imf*
+https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Zelensky accuses EU allies of 'blackmail' in oil pipeline row
+*Tags: sanctions, oil*
+https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Severe flooding kills 66 in Kenya, as heavy rains continue
+*Tags: flood*
+https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Cuban protesters ransack Communist office as energy crisis deepens
 *Tags: energy crisis, blackout, crisis*
 https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Iraq taking private plane to Mexico for World Cup play-off
-*Tags: war, president*
-https://www.bbc.com/sport/football/articles/c0k10zzjk6yo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Israeli forces kill Palestinian couple and two of their children in occupied West Bank
+*Tags: coup*
+https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Russia exploiting Iran war, Zelensky says after fresh bombardment
-*Tags: war, attack, missile*
-https://www.bbc.com/news/articles/c0mger2zkmwo?at_medium=RSS&at_campaign=rss
+**[BBC World]** How passenger planes keep flying during a war
+*Tags: war, missile*
+https://www.bbc.com/news/articles/cn4gne35kvno?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor
-*Tags: attack, explosion*
-https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** 'Hate-watch classic' War of the Worlds sweeps Razzie Awards
-*Tags: war, invasion*
-https://www.bbc.com/news/articles/c23zx8pgx28o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** More US Marines and warships being moved to Middle East, reports say
-*Tags: war*
-https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Race on to establish globally recognised 'AI-free' logo
+*Tags: explosion*
+https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

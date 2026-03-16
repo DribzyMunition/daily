@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-03-15T01:54:32+00:00",
+  "generated_at": "2026-03-16T02:17:54+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 5061.700195,
-        "change": -54.099609,
-        "pct_change": -1.058,
-        "date": "2026-03-13"
+        "price": 5019.299805,
+        "change": -33.200195,
+        "pct_change": -0.657,
+        "date": "2026-03-15"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 81.343002,
-        "change": -3.326996,
-        "pct_change": -3.929,
-        "date": "2026-03-13"
+        "price": 80.355003,
+        "change": -0.558998,
+        "pct_change": -0.691,
+        "date": "2026-03-15"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1225.25,
-        "change": 12.25,
-        "pct_change": 1.01,
-        "date": "2026-03-13"
+        "price": 1202.0,
+        "change": -9.0,
+        "pct_change": -0.743,
+        "date": "2026-03-15"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.41,
-        "change": 0.03,
-        "pct_change": 0.209,
+        "price": 14.37,
+        "change": -0.01,
+        "pct_change": -0.07,
         "date": "2026-03-13"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.698124,
-        "change": -0.009406,
-        "pct_change": -1.329,
-        "date": "2026-03-14"
+        "price": 0.701203,
+        "change": -0.006327,
+        "pct_change": -0.894,
+        "date": "2026-03-16"
       }
     },
     "indices": {
@@ -57,16 +57,16 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25465.599609,
-        "change": -251.160156,
-        "pct_change": -0.977,
-        "date": "2026-03-13"
+        "price": 25481.529297,
+        "change": 15.929688,
+        "pct_change": 0.063,
+        "date": "2026-03-16"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10830.0,
-        "change": -166.0,
-        "pct_change": -1.51,
+        "price": 10840.0,
+        "change": -156.0,
+        "pct_change": -1.419,
         "date": "2026-03-13"
       },
       "Switzerland SMI": {
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8617.099609,
-        "change": -11.900391,
-        "pct_change": -0.138,
-        "date": "2026-03-13"
+        "price": 8588.900391,
+        "change": -28.199219,
+        "pct_change": -0.327,
+        "date": "2026-03-16"
       }
     },
     "stocks": {
@@ -139,20 +139,40 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
-      "link": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 00:01:31 GMT",
+      "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
+      "link": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Mar 2026 23:14:40 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
-      "link": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 13:34:17 GMT",
+      "title": "Ukraine's urgent fight on the financial frontline",
+      "link": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 00:06:14 GMT",
       "matched_keywords": [
-        "attack"
+        "war",
+        "imf"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
+      "link": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Mar 2026 12:00:35 GMT",
+      "matched_keywords": [
+        "sanctions",
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Severe flooding kills 66 in Kenya, as heavy rains continue",
+      "link": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Mar 2026 16:12:11 GMT",
+      "matched_keywords": [
+        "flood"
       ]
     },
     {
@@ -168,52 +188,30 @@
     },
     {
       "source": "BBC World",
-      "title": "Iraq taking private plane to Mexico for World Cup play-off",
-      "link": "https://www.bbc.com/sport/football/articles/c0k10zzjk6yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 23:56:28 GMT",
+      "title": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
+      "link": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Mar 2026 10:38:22 GMT",
       "matched_keywords": [
-        "war",
-        "president"
+        "coup"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Russia exploiting Iran war, Zelensky says after fresh bombardment",
-      "link": "https://www.bbc.com/news/articles/c0mger2zkmwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 21:50:22 GMT",
+      "title": "How passenger planes keep flying during a war",
+      "link": "https://www.bbc.com/news/articles/cn4gne35kvno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 00:05:11 GMT",
       "matched_keywords": [
         "war",
-        "attack",
         "missile"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
-      "link": "https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 12:45:41 GMT",
+      "title": "Race on to establish globally recognised 'AI-free' logo",
+      "link": "https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 00:32:50 GMT",
       "matched_keywords": [
-        "attack",
         "explosion"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "'Hate-watch classic' War of the Worlds sweeps Razzie Awards",
-      "link": "https://www.bbc.com/news/articles/c23zx8pgx28o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 04:34:30 GMT",
-      "matched_keywords": [
-        "war",
-        "invasion"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "More US Marines and warships being moved to Middle East, reports say",
-      "link": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 13:27:32 GMT",
-      "matched_keywords": [
-        "war"
       ]
     }
   ]
