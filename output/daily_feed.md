@@ -1,5 +1,5 @@
 # Daily Feed — 2026-03-16
-*Generated: 2026-03-16T02:17:54+00:00 UTC*
+*Generated: 2026-03-16T20:30:04+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   5,019.2998 | ▼ 33.2002 | -0.66% |
-| Silver |      80.3550 | ▼ 0.5590 | -0.69% |
-| Soybeans |   1,202.0000 | ▼ 9.0000 | -0.74% |
-| Sugar #11 (Raw) |      14.3700 | ▼ 0.0100 | -0.07% |
+| Gold |   5,021.3999 | ▼ 31.1001 | -0.62% |
+| Silver |      81.1500 | ▲ 0.2360 | +0.29% |
+| Soybeans |   1,155.2500 | ▼ 55.7500 | -4.60% |
+| Sugar #11 (Raw) |      14.1800 | ▼ 0.1900 | -1.32% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7012 | ▼ 0.0063 | -0.89% |
+| AUD/USD |       0.7071 | ▼ 0.0004 | -0.06% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   6,632.1899 | ▼ 40.4302 | -0.61% |
-| US 10Y Yield (%) |       4.2850 | ▲ 0.0120 | +0.28% |
-| Hang Seng 50 |  25,481.5293 | ▲ 15.9297 | +0.06% |
-| South Africa Top 40 |  10,840.0000 | ▼ 156.0000 | -1.42% |
-| Switzerland SMI |  12,839.2695 | ▼ 2.8906 | -0.02% |
-| ASX 200 (XJO) |   8,588.9004 | ▼ 28.1992 | -0.33% |
+| S&P 500 |   6,699.3799 | ▲ 67.1899 | +1.01% |
+| US 10Y Yield (%) |       4.2200 | ▼ 0.0650 | -1.52% |
+| Hang Seng 50 |  25,834.0195 | ▲ 368.4199 | +1.45% |
+| South Africa Top 40 |  10,935.0000 | ▲ 105.0000 | +0.97% |
+| Switzerland SMI |  12,882.2002 | ▲ 42.9307 | +0.33% |
+| ASX 200 (XJO) |   8,583.4004 | ▼ 33.6992 | -0.39% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     150.9500 | ▼ 2.5500 | -1.66% |
-| McDonald's |     326.4600 | ▲ 2.5500 | +0.79% |
-| Tesla |     391.2000 | ▼ 3.8100 | -0.96% |
-| Alphabet |     302.2800 | ▼ 1.2700 | -0.42% |
-| Lockheed Martin |     646.0000 | ▼ 6.8300 | -1.05% |
-| RTX (Raytheon) |     204.5200 | ▲ 1.4800 | +0.73% |
-| Northrop Grumman |     733.7100 | ▼ 2.5900 | -0.35% |
+| Palantir |     152.7200 | ▲ 1.7700 | +1.17% |
+| McDonald's |     326.6500 | ▲ 0.1900 | +0.06% |
+| Tesla |     395.5600 | ▲ 4.3600 | +1.11% |
+| Alphabet |     305.5600 | ▲ 3.2800 | +1.08% |
+| Lockheed Martin |     645.2000 | ▼ 0.8000 | -0.12% |
+| RTX (Raytheon) |     206.0600 | ▲ 1.5400 | +0.75% |
+| Northrop Grumman |     735.9600 | ▲ 2.2500 | +0.31% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** 'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war
+**[BBC World]** Wary allies show there's no quick fix to Trump's Iran crisis
+*Tags: war, crisis*
+https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Iran hits key UAE oil port and Dubai airport
+*Tags: oil*
+https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Russia agrees to stop using Kenyan recruits in Ukraine conflict, Kenya says
+*Tags: conflict*
+https://www.bbc.com/news/articles/cev7rdwmky9o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Ecuador deploys 75,000 soldiers and police to combat drug gangs
 *Tags: war*
-https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cp32vy321r7o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** French national jailed for 10 years in Azerbaijan for spying
+*Tags: military*
+https://www.bbc.com/news/articles/c2lr5j84gd1o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Ukraine's urgent fight on the financial frontline
 *Tags: war, imf*
 https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Zelensky accuses EU allies of 'blackmail' in oil pipeline row
-*Tags: sanctions, oil*
-https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Far-left and far-right gains throw French mainstream parties into a quandary
+*Tags: war, election*
+https://www.bbc.com/news/articles/c8r17knnz5vo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Severe flooding kills 66 in Kenya, as heavy rains continue
-*Tags: flood*
-https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Cuban protesters ransack Communist office as energy crisis deepens
-*Tags: energy crisis, blackout, crisis*
-https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Israeli forces kill Palestinian couple and two of their children in occupied West Bank
-*Tags: coup*
-https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** How passenger planes keep flying during a war
-*Tags: war, missile*
-https://www.bbc.com/news/articles/cn4gne35kvno?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Race on to establish globally recognised 'AI-free' logo
-*Tags: explosion*
-https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Who wants what from the Iran war?
+*Tags: war*
+https://www.bbc.com/news/articles/cgk2lm5znyro?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

@@ -1,149 +1,186 @@
 {
-  "generated_at": "2026-03-16T02:17:54+00:00",
+  "generated_at": "2026-03-16T20:30:04+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 5019.299805,
-        "change": -33.200195,
-        "pct_change": -0.657,
-        "date": "2026-03-15"
+        "price": 5021.399902,
+        "change": -31.100098,
+        "pct_change": -0.616,
+        "date": "2026-03-16"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 80.355003,
-        "change": -0.558998,
-        "pct_change": -0.691,
-        "date": "2026-03-15"
+        "price": 81.150002,
+        "change": 0.236,
+        "pct_change": 0.292,
+        "date": "2026-03-16"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1202.0,
-        "change": -9.0,
-        "pct_change": -0.743,
-        "date": "2026-03-15"
+        "price": 1155.25,
+        "change": -55.75,
+        "pct_change": -4.604,
+        "date": "2026-03-16"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.37,
-        "change": -0.01,
-        "pct_change": -0.07,
-        "date": "2026-03-13"
+        "price": 14.18,
+        "change": -0.19,
+        "pct_change": -1.322,
+        "date": "2026-03-16"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.701203,
-        "change": -0.006327,
-        "pct_change": -0.894,
+        "price": 0.707129,
+        "change": -0.000401,
+        "pct_change": -0.057,
         "date": "2026-03-16"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 6632.189941,
-        "change": -40.430176,
-        "pct_change": -0.606,
-        "date": "2026-03-13"
+        "price": 6699.379883,
+        "change": 67.189941,
+        "pct_change": 1.013,
+        "date": "2026-03-16"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.285,
-        "change": 0.012,
-        "pct_change": 0.281,
-        "date": "2026-03-13"
+        "price": 4.22,
+        "change": -0.065,
+        "pct_change": -1.517,
+        "date": "2026-03-16"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25481.529297,
-        "change": 15.929688,
-        "pct_change": 0.063,
+        "price": 25834.019531,
+        "change": 368.419922,
+        "pct_change": 1.447,
         "date": "2026-03-16"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10840.0,
-        "change": -156.0,
-        "pct_change": -1.419,
-        "date": "2026-03-13"
+        "price": 10935.0,
+        "change": 105.0,
+        "pct_change": 0.97,
+        "date": "2026-03-16"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 12839.269531,
-        "change": -2.890625,
-        "pct_change": -0.023,
-        "date": "2026-03-13"
+        "price": 12882.200195,
+        "change": 42.930664,
+        "pct_change": 0.334,
+        "date": "2026-03-16"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8588.900391,
-        "change": -28.199219,
-        "pct_change": -0.327,
+        "price": 8583.400391,
+        "change": -33.699219,
+        "pct_change": -0.391,
         "date": "2026-03-16"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 150.949997,
-        "change": -2.550003,
-        "pct_change": -1.661,
-        "date": "2026-03-13"
+        "price": 152.720001,
+        "change": 1.770004,
+        "pct_change": 1.173,
+        "date": "2026-03-16"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 326.459991,
-        "change": 2.549988,
-        "pct_change": 0.787,
-        "date": "2026-03-13"
+        "price": 326.649994,
+        "change": 0.190002,
+        "pct_change": 0.058,
+        "date": "2026-03-16"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 391.200012,
-        "change": -3.809998,
-        "pct_change": -0.965,
-        "date": "2026-03-13"
+        "price": 395.559998,
+        "change": 4.359985,
+        "pct_change": 1.115,
+        "date": "2026-03-16"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 302.279999,
-        "change": -1.269989,
-        "pct_change": -0.418,
-        "date": "2026-03-13"
+        "price": 305.559998,
+        "change": 3.279999,
+        "pct_change": 1.085,
+        "date": "2026-03-16"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 646.0,
-        "change": -6.830017,
-        "pct_change": -1.046,
-        "date": "2026-03-13"
+        "price": 645.200012,
+        "change": -0.799988,
+        "pct_change": -0.124,
+        "date": "2026-03-16"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 204.520004,
-        "change": 1.480011,
-        "pct_change": 0.729,
-        "date": "2026-03-13"
+        "price": 206.059998,
+        "change": 1.539993,
+        "pct_change": 0.753,
+        "date": "2026-03-16"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 733.710022,
-        "change": -2.589966,
-        "pct_change": -0.352,
-        "date": "2026-03-13"
+        "price": 735.960022,
+        "change": 2.25,
+        "pct_change": 0.307,
+        "date": "2026-03-16"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
-      "link": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 23:14:40 GMT",
+      "title": "Wary allies show there's no quick fix to Trump's Iran crisis",
+      "link": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 17:34:13 GMT",
+      "matched_keywords": [
+        "war",
+        "crisis"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran hits key UAE oil port and Dubai airport",
+      "link": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 12:43:32 GMT",
+      "matched_keywords": [
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia agrees to stop using Kenyan recruits in Ukraine conflict, Kenya says",
+      "link": "https://www.bbc.com/news/articles/cev7rdwmky9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 14:09:58 GMT",
+      "matched_keywords": [
+        "conflict"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ecuador deploys 75,000 soldiers and police to combat drug gangs",
+      "link": "https://www.bbc.com/news/articles/cp32vy321r7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 11:58:42 GMT",
       "matched_keywords": [
         "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "French national jailed for 10 years in Azerbaijan for spying",
+      "link": "https://www.bbc.com/news/articles/c2lr5j84gd1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 11:47:16 GMT",
+      "matched_keywords": [
+        "military"
       ]
     },
     {
@@ -158,60 +195,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
-      "link": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 12:00:35 GMT",
-      "matched_keywords": [
-        "sanctions",
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Severe flooding kills 66 in Kenya, as heavy rains continue",
-      "link": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 16:12:11 GMT",
-      "matched_keywords": [
-        "flood"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Cuban protesters ransack Communist office as energy crisis deepens",
-      "link": "https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 22:07:50 GMT",
-      "matched_keywords": [
-        "energy crisis",
-        "blackout",
-        "crisis"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
-      "link": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 10:38:22 GMT",
-      "matched_keywords": [
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "How passenger planes keep flying during a war",
-      "link": "https://www.bbc.com/news/articles/cn4gne35kvno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Mar 2026 00:05:11 GMT",
+      "title": "Far-left and far-right gains throw French mainstream parties into a quandary",
+      "link": "https://www.bbc.com/news/articles/c8r17knnz5vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 10:46:41 GMT",
       "matched_keywords": [
         "war",
-        "missile"
+        "election"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Race on to establish globally recognised 'AI-free' logo",
-      "link": "https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Mar 2026 00:32:50 GMT",
+      "title": "Who wants what from the Iran war?",
+      "link": "https://www.bbc.com/news/articles/cgk2lm5znyro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 11:00:03 GMT",
       "matched_keywords": [
-        "explosion"
+        "war"
       ]
     }
   ]
