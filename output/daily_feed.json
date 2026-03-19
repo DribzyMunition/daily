@@ -1,221 +1,219 @@
 {
-  "generated_at": "2026-03-19T05:07:58+00:00",
+  "generated_at": "2026-03-19T20:30:04+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4851.100098,
-        "change": -38.799805,
-        "pct_change": -0.793,
+        "price": 4658.600098,
+        "change": -231.299805,
+        "pct_change": -4.73,
         "date": "2026-03-19"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 75.745003,
-        "change": -1.492996,
-        "pct_change": -1.933,
+        "price": 72.82,
+        "change": -4.417999,
+        "pct_change": -5.72,
         "date": "2026-03-19"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1159.75,
-        "change": -2.0,
-        "pct_change": -0.172,
+        "price": 1168.5,
+        "change": 6.75,
+        "pct_change": 0.581,
         "date": "2026-03-19"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.8,
-        "change": 0.35,
-        "pct_change": 2.422,
-        "date": "2026-03-18"
+        "price": 15.42,
+        "change": 0.62,
+        "pct_change": 4.189,
+        "date": "2026-03-19"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.703873,
-        "change": -0.007036,
-        "pct_change": -0.99,
+        "price": 0.708672,
+        "change": -0.002238,
+        "pct_change": -0.315,
         "date": "2026-03-19"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 6624.700195,
-        "change": -91.389648,
-        "pct_change": -1.361,
-        "date": "2026-03-18"
+        "price": 6606.490234,
+        "change": -18.209961,
+        "pct_change": -0.275,
+        "date": "2026-03-19"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.259,
-        "change": 0.057,
-        "pct_change": 1.356,
-        "date": "2026-03-18"
+        "price": 4.281,
+        "change": 0.022,
+        "pct_change": 0.517,
+        "date": "2026-03-19"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25592.990234,
-        "change": -432.429688,
-        "pct_change": -1.662,
+        "price": 25500.580078,
+        "change": -524.839844,
+        "pct_change": -2.017,
         "date": "2026-03-19"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10644.0,
-        "change": -383.0,
-        "pct_change": -3.473,
-        "date": "2026-03-18"
+        "price": 10347.0,
+        "change": -297.0,
+        "pct_change": -2.79,
+        "date": "2026-03-19"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 12765.480469,
-        "change": -196.929688,
-        "pct_change": -1.519,
-        "date": "2026-03-18"
+        "price": 12459.540039,
+        "change": -305.94043,
+        "pct_change": -2.397,
+        "date": "2026-03-19"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8493.099609,
-        "change": -147.5,
-        "pct_change": -1.707,
+        "price": 8497.799805,
+        "change": -142.799805,
+        "pct_change": -1.653,
         "date": "2026-03-19"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 152.770004,
-        "change": -2.309998,
-        "pct_change": -1.49,
-        "date": "2026-03-18"
+        "price": 155.679993,
+        "change": 2.909988,
+        "pct_change": 1.905,
+        "date": "2026-03-19"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 315.730011,
-        "change": -10.569977,
-        "pct_change": -3.239,
-        "date": "2026-03-18"
+        "price": 309.579987,
+        "change": -6.150024,
+        "pct_change": -1.948,
+        "date": "2026-03-19"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 392.779999,
-        "change": -6.48999,
-        "pct_change": -1.625,
-        "date": "2026-03-18"
+        "price": 380.299988,
+        "change": -12.480011,
+        "pct_change": -3.177,
+        "date": "2026-03-19"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 307.690002,
-        "change": -3.230011,
-        "pct_change": -1.039,
-        "date": "2026-03-18"
+        "price": 307.130005,
+        "change": -0.559998,
+        "pct_change": -0.182,
+        "date": "2026-03-19"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 642.280029,
-        "change": 5.950012,
-        "pct_change": 0.935,
-        "date": "2026-03-18"
+        "price": 637.51001,
+        "change": -4.77002,
+        "pct_change": -0.743,
+        "date": "2026-03-19"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 204.559998,
-        "change": 1.229996,
-        "pct_change": 0.605,
-        "date": "2026-03-18"
+        "price": 200.729996,
+        "change": -3.830002,
+        "pct_change": -1.872,
+        "date": "2026-03-19"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 724.840027,
-        "change": 0.809998,
-        "pct_change": 0.112,
-        "date": "2026-03-18"
+        "price": 714.150024,
+        "change": -10.690002,
+        "pct_change": -1.475,
+        "date": "2026-03-19"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "US intelligence chief says Iran's regime 'intact' but 'degraded'",
-      "link": "https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 22:18:19 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran's intelligence minister Esmail Khatib killed in air strike",
-      "link": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 17:05:46 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Ecuador gang leader wanted for murder of presidential candidate arrested",
-      "link": "https://www.bbc.com/news/articles/cy8g81k5xzgo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 22:20:16 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Hittler faces Zielinski as French town's election contest goes viral",
-      "link": "https://www.bbc.com/news/articles/c2d1drzgxzyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 13:57:26 GMT",
-      "matched_keywords": [
-        "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil crosses $110 a barrel after gas field strike",
-      "link": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 01:35:37 GMT",
+      "title": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
+      "link": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 19:31:21 GMT",
       "matched_keywords": [
         "war",
-        "military",
-        "oil",
+        "attack",
         "gas"
       ]
     },
     {
       "source": "BBC World",
-      "title": "US aircraft carrier to sail to Crete for repairs after fire on board",
-      "link": "https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 00:44:57 GMT",
+      "title": "How Europe sleepwalked into yet another energy crisis",
+      "link": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 05:59:49 GMT",
+      "matched_keywords": [
+        "energy crisis",
+        "crisis"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "DR Congo and Rwanda agree to ease tensions after talks in US",
+      "link": "https://www.bbc.com/news/articles/c15x5ejgyl3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 11:14:02 GMT",
+      "matched_keywords": [
+        "conflict"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Former counter-terrorism head investigated by FBI over alleged leaks",
+      "link": "https://www.bbc.com/news/articles/c33j3gxvgmro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 17:12:27 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "US holds interest rates as Iran war triggers inflation fears",
-      "link": "https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 20:20:24 GMT",
+      "title": "Chad warns Sudan it will retaliate after drone strike on mourners kills 17",
+      "link": "https://www.bbc.com/news/articles/c0mjn0g708ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 14:57:22 GMT",
       "matched_keywords": [
         "war",
-        "president",
-        "inflation",
-        "interest rate"
+        "military",
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "The Iran war is causing a global energy crisis - can China withstand it?",
-      "link": "https://www.bbc.com/news/articles/cyv9lzn0816o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 23:31:03 GMT",
+      "title": "Iran conflict looms large over Trump's meeting with Japan PM",
+      "link": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 18:06:37 GMT",
       "matched_keywords": [
-        "war",
-        "oil",
-        "energy crisis",
-        "crisis"
+        "conflict"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Three Palestinian women killed in beauty salon during Iranian missile attack",
+      "link": "https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 15:38:16 GMT",
+      "matched_keywords": [
+        "attack",
+        "missile"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Cyprus leader calls for frank discussion on 'colonial' UK bases",
+      "link": "https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 13:15:23 GMT",
+      "matched_keywords": [
+        "military",
+        "president"
       ]
     }
   ]

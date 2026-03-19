@@ -1,5 +1,5 @@
 # Daily Feed — 2026-03-19
-*Generated: 2026-03-19T05:07:58+00:00 UTC*
+*Generated: 2026-03-19T20:30:04+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,851.1001 | ▼ 38.7998 | -0.79% |
-| Silver |      75.7450 | ▼ 1.4930 | -1.93% |
-| Soybeans |   1,159.7500 | ▼ 2.0000 | -0.17% |
-| Sugar #11 (Raw) |      14.8000 | ▲ 0.3500 | +2.42% |
+| Gold |   4,658.6001 | ▼ 231.2998 | -4.73% |
+| Silver |      72.8200 | ▼ 4.4180 | -5.72% |
+| Soybeans |   1,168.5000 | ▲ 6.7500 | +0.58% |
+| Sugar #11 (Raw) |      15.4200 | ▲ 0.6200 | +4.19% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7039 | ▼ 0.0070 | -0.99% |
+| AUD/USD |       0.7087 | ▼ 0.0022 | -0.32% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   6,624.7002 | ▼ 91.3896 | -1.36% |
-| US 10Y Yield (%) |       4.2590 | ▲ 0.0570 | +1.36% |
-| Hang Seng 50 |  25,592.9902 | ▼ 432.4297 | -1.66% |
-| South Africa Top 40 |  10,644.0000 | ▼ 383.0000 | -3.47% |
-| Switzerland SMI |  12,765.4805 | ▼ 196.9297 | -1.52% |
-| ASX 200 (XJO) |   8,493.0996 | ▼ 147.5000 | -1.71% |
+| S&P 500 |   6,606.4902 | ▼ 18.2100 | -0.28% |
+| US 10Y Yield (%) |       4.2810 | ▲ 0.0220 | +0.52% |
+| Hang Seng 50 |  25,500.5801 | ▼ 524.8398 | -2.02% |
+| South Africa Top 40 |  10,347.0000 | ▼ 297.0000 | -2.79% |
+| Switzerland SMI |  12,459.5400 | ▼ 305.9404 | -2.40% |
+| ASX 200 (XJO) |   8,497.7998 | ▼ 142.7998 | -1.65% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     152.7700 | ▼ 2.3100 | -1.49% |
-| McDonald's |     315.7300 | ▼ 10.5700 | -3.24% |
-| Tesla |     392.7800 | ▼ 6.4900 | -1.62% |
-| Alphabet |     307.6900 | ▼ 3.2300 | -1.04% |
-| Lockheed Martin |     642.2800 | ▲ 5.9500 | +0.94% |
-| RTX (Raytheon) |     204.5600 | ▲ 1.2300 | +0.60% |
-| Northrop Grumman |     724.8400 | ▲ 0.8100 | +0.11% |
+| Palantir |     155.6800 | ▲ 2.9100 | +1.91% |
+| McDonald's |     309.5800 | ▼ 6.1500 | -1.95% |
+| Tesla |     380.3000 | ▼ 12.4800 | -3.18% |
+| Alphabet |     307.1300 | ▼ 0.5600 | -0.18% |
+| Lockheed Martin |     637.5100 | ▼ 4.7700 | -0.74% |
+| RTX (Raytheon) |     200.7300 | ▼ 3.8300 | -1.87% |
+| Northrop Grumman |     714.1500 | ▼ 10.6900 | -1.48% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** US intelligence chief says Iran's regime 'intact' but 'degraded'
+**[BBC World]** Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks
+*Tags: war, attack, gas*
+https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** How Europe sleepwalked into yet another energy crisis
+*Tags: energy crisis, crisis*
+https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** DR Congo and Rwanda agree to ease tensions after talks in US
+*Tags: conflict*
+https://www.bbc.com/news/articles/c15x5ejgyl3o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Former counter-terrorism head investigated by FBI over alleged leaks
 *Tags: war*
-https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c33j3gxvgmro?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Iran's intelligence minister Esmail Khatib killed in air strike
-*Tags: president*
-https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Chad warns Sudan it will retaliate after drone strike on mourners kills 17
+*Tags: war, military, president*
+https://www.bbc.com/news/articles/c0mjn0g708ro?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ecuador gang leader wanted for murder of presidential candidate arrested
-*Tags: president*
-https://www.bbc.com/news/articles/cy8g81k5xzgo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Iran conflict looms large over Trump's meeting with Japan PM
+*Tags: conflict*
+https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Hittler faces Zielinski as French town's election contest goes viral
-*Tags: election*
-https://www.bbc.com/news/articles/c2d1drzgxzyo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Three Palestinian women killed in beauty salon during Iranian missile attack
+*Tags: attack, missile*
+https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Oil crosses $110 a barrel after gas field strike
-*Tags: war, military, oil, gas*
-https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** US aircraft carrier to sail to Crete for repairs after fire on board
-*Tags: war*
-https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** US holds interest rates as Iran war triggers inflation fears
-*Tags: war, president, inflation, interest rate*
-https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** The Iran war is causing a global energy crisis - can China withstand it?
-*Tags: war, oil, energy crisis, crisis*
-https://www.bbc.com/news/articles/cyv9lzn0816o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Cyprus leader calls for frank discussion on 'colonial' UK bases
+*Tags: military, president*
+https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
