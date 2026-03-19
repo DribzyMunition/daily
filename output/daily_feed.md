@@ -1,5 +1,5 @@
-# Daily Feed — 2026-03-18
-*Generated: 2026-03-18T05:36:45+00:00 UTC*
+# Daily Feed — 2026-03-19
+*Generated: 2026-03-19T05:07:58+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,993.7002 | ▼ 7.2998 | -0.15% |
-| Silver |      79.3450 | ▼ 0.1850 | -0.23% |
-| Soybeans |   1,150.0000 | ▼ 7.0000 | -0.60% |
-| Sugar #11 (Raw) |      14.4500 | ▲ 0.2600 | +1.83% |
+| Gold |   4,851.1001 | ▼ 38.7998 | -0.79% |
+| Silver |      75.7450 | ▼ 1.4930 | -1.93% |
+| Soybeans |   1,159.7500 | ▼ 2.0000 | -0.17% |
+| Sugar #11 (Raw) |      14.8000 | ▲ 0.3500 | +2.42% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7115 | ▲ 0.0046 | +0.65% |
+| AUD/USD |       0.7039 | ▼ 0.0070 | -0.99% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   6,716.0898 | ▲ 16.7100 | +0.25% |
-| US 10Y Yield (%) |       4.2020 | ▼ 0.0180 | -0.43% |
-| Hang Seng 50 |  25,980.2695 | ▲ 111.7305 | +0.43% |
-| South Africa Top 40 |  11,027.0000 | ▲ 92.0000 | +0.84% |
-| Switzerland SMI |  12,962.4102 | ▲ 80.2100 | +0.62% |
-| ASX 200 (XJO) |   8,640.5996 | ▲ 26.2998 | +0.30% |
+| S&P 500 |   6,624.7002 | ▼ 91.3896 | -1.36% |
+| US 10Y Yield (%) |       4.2590 | ▲ 0.0570 | +1.36% |
+| Hang Seng 50 |  25,592.9902 | ▼ 432.4297 | -1.66% |
+| South Africa Top 40 |  10,644.0000 | ▼ 383.0000 | -3.47% |
+| Switzerland SMI |  12,765.4805 | ▼ 196.9297 | -1.52% |
+| ASX 200 (XJO) |   8,493.0996 | ▼ 147.5000 | -1.71% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     155.0800 | ▲ 2.3600 | +1.54% |
-| McDonald's |     326.3000 | ▼ 0.3500 | -0.11% |
-| Tesla |     399.2700 | ▲ 3.7100 | +0.94% |
-| Alphabet |     310.9200 | ▲ 5.3600 | +1.75% |
-| Lockheed Martin |     636.3300 | ▼ 8.8700 | -1.38% |
-| RTX (Raytheon) |     203.3300 | ▼ 2.7300 | -1.32% |
-| Northrop Grumman |     724.0300 | ▼ 11.9300 | -1.62% |
+| Palantir |     152.7700 | ▼ 2.3100 | -1.49% |
+| McDonald's |     315.7300 | ▼ 10.5700 | -3.24% |
+| Tesla |     392.7800 | ▼ 6.4900 | -1.62% |
+| Alphabet |     307.6900 | ▼ 3.2300 | -1.04% |
+| Lockheed Martin |     642.2800 | ▲ 5.9500 | +0.94% |
+| RTX (Raytheon) |     204.5600 | ▲ 1.2300 | +0.60% |
+| Northrop Grumman |     724.8400 | ▲ 0.8100 | +0.11% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'
+**[BBC World]** US intelligence chief says Iran's regime 'intact' but 'degraded'
 *Tags: war*
-https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Death of Ali Larijani deepens crisis at heart of Iran's leadership
-*Tags: crisis*
-https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Chile's president begins building border barrier less than week into term
+**[BBC World]** Iran's intelligence minister Esmail Khatib killed in air strike
 *Tags: president*
-https://www.bbc.com/news/articles/cvg1227k00eo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Italy warns Russian tanker could explode in Mediterranean at any time
+**[BBC World]** Ecuador gang leader wanted for murder of presidential candidate arrested
+*Tags: president*
+https://www.bbc.com/news/articles/cy8g81k5xzgo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Hittler faces Zielinski as French town's election contest goes viral
+*Tags: election*
+https://www.bbc.com/news/articles/c2d1drzgxzyo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Oil crosses $110 a barrel after gas field strike
+*Tags: war, military, oil, gas*
+https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** US aircraft carrier to sail to Crete for repairs after fire on board
 *Tags: war*
-https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine
-*Tags: oil*
-https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss
+**[BBC World]** US holds interest rates as Iran war triggers inflation fears
+*Tags: war, president, inflation, interest rate*
+https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Sri Lanka declares Wednesdays off as Asian countries try to conserve fuel
-*Tags: oil*
-https://www.bbc.com/news/articles/c4g5n58rlnzo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** What have US allies and China said about sending ships to the Strait of Hormuz?
-*Tags: oil*
-https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Surge in US gas prices deepens political peril for Trump over Iran
-*Tags: war, president, gas*
-https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss
+**[BBC World]** The Iran war is causing a global energy crisis - can China withstand it?
+*Tags: war, oil, energy crisis, crisis*
+https://www.bbc.com/news/articles/cyv9lzn0816o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
