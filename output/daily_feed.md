@@ -1,5 +1,5 @@
-# Daily Feed — 2026-03-19
-*Generated: 2026-03-19T20:30:04+00:00 UTC*
+# Daily Feed — 2026-03-21
+*Generated: 2026-03-21T06:18:20+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,658.6001 | ▼ 231.2998 | -4.73% |
-| Silver |      72.8200 | ▼ 4.4180 | -5.72% |
-| Soybeans |   1,168.5000 | ▲ 6.7500 | +0.58% |
-| Sugar #11 (Raw) |      15.4200 | ▲ 0.6200 | +4.19% |
+| Gold |   4,574.8999 | ▼ 25.8003 | -0.56% |
+| Silver |      69.6640 | ▼ 1.2380 | -1.75% |
+| Soybeans |   1,161.2500 | ▼ 7.2500 | -0.62% |
+| Sugar #11 (Raw) |      15.6300 | ▲ 0.2600 | +1.69% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7087 | ▼ 0.0022 | -0.32% |
+| AUD/USD |       0.7024 | ▼ 0.0057 | -0.81% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   6,606.4902 | ▼ 18.2100 | -0.28% |
-| US 10Y Yield (%) |       4.2810 | ▲ 0.0220 | +0.52% |
-| Hang Seng 50 |  25,500.5801 | ▼ 524.8398 | -2.02% |
-| South Africa Top 40 |  10,347.0000 | ▼ 297.0000 | -2.79% |
-| Switzerland SMI |  12,459.5400 | ▼ 305.9404 | -2.40% |
-| ASX 200 (XJO) |   8,497.7998 | ▼ 142.7998 | -1.65% |
+| S&P 500 |   6,506.4800 | ▼ 100.0103 | -1.51% |
+| US 10Y Yield (%) |       4.3910 | ▲ 0.1100 | +2.57% |
+| Hang Seng 50 |  25,277.3203 | ▼ 223.2598 | -0.88% |
+| South Africa Top 40 |  10,315.0000 | ▼ 32.0000 | -0.31% |
+| Switzerland SMI |  12,320.9902 | ▼ 138.5498 | -1.11% |
+| ASX 200 (XJO) |   8,428.4004 | ▼ 69.3994 | -0.82% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     155.6800 | ▲ 2.9100 | +1.91% |
-| McDonald's |     309.5800 | ▼ 6.1500 | -1.95% |
-| Tesla |     380.3000 | ▼ 12.4800 | -3.18% |
-| Alphabet |     307.1300 | ▼ 0.5600 | -0.18% |
-| Lockheed Martin |     637.5100 | ▼ 4.7700 | -0.74% |
-| RTX (Raytheon) |     200.7300 | ▼ 3.8300 | -1.87% |
-| Northrop Grumman |     714.1500 | ▼ 10.6900 | -1.48% |
+| Palantir |     150.6800 | ▼ 5.0000 | -3.21% |
+| McDonald's |     308.8500 | ▼ 0.7300 | -0.24% |
+| Tesla |     367.9600 | ▼ 12.3400 | -3.25% |
+| Alphabet |     301.0000 | ▼ 6.1300 | -2.00% |
+| Lockheed Martin |     627.4300 | ▼ 10.0800 | -1.58% |
+| RTX (Raytheon) |     198.1600 | ▼ 2.5700 | -1.28% |
+| Northrop Grumman |     706.9500 | ▼ 7.2000 | -1.01% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks
-*Tags: war, attack, gas*
-https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss
+**[BBC World]** US lifts sanctions on some Iranian oil as gas prices soar
+*Tags: sanctions, oil, gas*
+https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** How Europe sleepwalked into yet another energy crisis
-*Tags: energy crisis, crisis*
-https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss
+**[BBC World]** Ukraine-Hungary oil pipeline row threatens EU loan
+*Tags: oil*
+https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** DR Congo and Rwanda agree to ease tensions after talks in US
-*Tags: conflict*
-https://www.bbc.com/news/articles/c15x5ejgyl3o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Socialists battle to hold Paris in key mayoral elections across France
+*Tags: election*
+https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Former counter-terrorism head investigated by FBI over alleged leaks
+**[BBC World]** BTS return from military service - but does their album live up to the hype?
+*Tags: military*
+https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump makes Pearl Harbor remark in meeting with Japan's PM
+*Tags: war, attack, president*
+https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Australia PM heckled at Sydney mosque Ramadan event
 *Tags: war*
-https://www.bbc.com/news/articles/c33j3gxvgmro?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cz90wy2190go?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Chad warns Sudan it will retaliate after drone strike on mourners kills 17
-*Tags: war, military, president*
-https://www.bbc.com/news/articles/c0mjn0g708ro?at_medium=RSS&at_campaign=rss
+**[BBC World]** Russia's school propaganda was  highlighted by Oscar-winning film - but does it work?
+*Tags: war, invasion*
+https://www.bbc.com/news/articles/c7vq5g64y98o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Iran conflict looms large over Trump's meeting with Japan PM
-*Tags: conflict*
-https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Three Palestinian women killed in beauty salon during Iranian missile attack
-*Tags: attack, missile*
-https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Cyprus leader calls for frank discussion on 'colonial' UK bases
-*Tags: military, president*
-https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&at_campaign=rss
+**[BBC World]** 'You can't smell Nowruz in the air': Iran marks Persian new year under threat of strikes
+*Tags: war*
+https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
