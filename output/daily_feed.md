@@ -1,5 +1,5 @@
-# Daily Feed — 2026-03-21
-*Generated: 2026-03-21T06:18:20+00:00 UTC*
+# Daily Feed — 2026-03-22
+*Generated: 2026-03-22T04:35:36+00:00 UTC*
 
 ---
 
@@ -12,7 +12,7 @@
 | Gold |   4,574.8999 | ▼ 25.8003 | -0.56% |
 | Silver |      69.6640 | ▼ 1.2380 | -1.75% |
 | Soybeans |   1,161.2500 | ▼ 7.2500 | -0.62% |
-| Sugar #11 (Raw) |      15.6300 | ▲ 0.2600 | +1.69% |
+| Sugar #11 (Raw) |      15.7000 | ▲ 0.3300 | +2.15% |
 
 ### FX
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** US lifts sanctions on some Iranian oil as gas prices soar
-*Tags: sanctions, oil, gas*
-https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss
+**[BBC World]** Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted
+*Tags: military, nuclear*
+https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ukraine-Hungary oil pipeline row threatens EU loan
-*Tags: oil*
-https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Trump at a crossroads as US weighs tough options in Iran
+*Tags: war, president*
+https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** National blackout hits Cuba for second time in a week
+*Tags: blackout*
+https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81
+*Tags: election*
+https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Russian drone attack kills two in Ukraine ahead of talks in US, officials say
+*Tags: attack*
+https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump threatens to send ICE into airports unless funding deal reached
+*Tags: president*
+https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Thousands evacuated as Hawaii faces worst flooding in 20 years
+*Tags: war, flood*
+https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Socialists battle to hold Paris in key mayoral elections across France
 *Tags: election*
 https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** BTS return from military service - but does their album live up to the hype?
-*Tags: military*
-https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump makes Pearl Harbor remark in meeting with Japan's PM
-*Tags: war, attack, president*
-https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Australia PM heckled at Sydney mosque Ramadan event
-*Tags: war*
-https://www.bbc.com/news/articles/cz90wy2190go?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Russia's school propaganda was  highlighted by Oscar-winning film - but does it work?
-*Tags: war, invasion*
-https://www.bbc.com/news/articles/c7vq5g64y98o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** 'You can't smell Nowruz in the air': Iran marks Persian new year under threat of strikes
-*Tags: war*
-https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
