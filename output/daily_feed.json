@@ -1,171 +1,199 @@
 {
-  "generated_at": "2026-03-24T04:53:29+00:00",
+  "generated_at": "2026-03-25T05:09:50+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4344.100098,
-        "change": -60.0,
-        "pct_change": -1.362,
-        "date": "2026-03-24"
+        "price": 4571.399902,
+        "change": 172.100098,
+        "pct_change": 3.912,
+        "date": "2026-03-25"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 67.059998,
-        "change": -1.989006,
-        "pct_change": -2.881,
-        "date": "2026-03-24"
+        "price": 73.620003,
+        "change": 4.346001,
+        "pct_change": 6.274,
+        "date": "2026-03-25"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1165.0,
-        "change": 1.5,
-        "pct_change": 0.129,
-        "date": "2026-03-24"
+        "price": 1153.0,
+        "change": -2.0,
+        "pct_change": -0.173,
+        "date": "2026-03-25"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 15.52,
-        "change": -0.179999,
-        "pct_change": -1.146,
-        "date": "2026-03-23"
+        "price": 15.88,
+        "change": 0.36,
+        "pct_change": 2.32,
+        "date": "2026-03-24"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.696806,
-        "change": -0.003974,
-        "pct_change": -0.567,
-        "date": "2026-03-24"
+        "price": 0.69734,
+        "change": -0.003269,
+        "pct_change": -0.467,
+        "date": "2026-03-25"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 6581.0,
-        "change": 74.52002,
-        "pct_change": 1.145,
-        "date": "2026-03-23"
+        "price": 6556.370117,
+        "change": -24.629883,
+        "pct_change": -0.374,
+        "date": "2026-03-24"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.334,
-        "change": -0.057,
-        "pct_change": -1.298,
-        "date": "2026-03-23"
+        "price": 4.392,
+        "change": 0.058,
+        "pct_change": 1.338,
+        "date": "2026-03-24"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24829.919922,
-        "change": 447.449219,
-        "pct_change": 1.835,
-        "date": "2026-03-24"
+        "price": 25073.050781,
+        "change": 9.339844,
+        "pct_change": 0.037,
+        "date": "2026-03-25"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10343.0,
-        "change": 28.0,
-        "pct_change": 0.271,
-        "date": "2026-03-23"
+        "price": 10336.0,
+        "change": -7.0,
+        "pct_change": -0.068,
+        "date": "2026-03-24"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 12389.679688,
-        "change": 68.689453,
-        "pct_change": 0.557,
-        "date": "2026-03-23"
+        "price": 12515.94043,
+        "change": 126.260742,
+        "pct_change": 1.019,
+        "date": "2026-03-24"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8390.099609,
-        "change": 24.199219,
-        "pct_change": 0.289,
-        "date": "2026-03-24"
+        "price": 8526.400391,
+        "change": 147.0,
+        "pct_change": 1.754,
+        "date": "2026-03-25"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 160.839996,
-        "change": 10.160004,
-        "pct_change": 6.743,
-        "date": "2026-03-23"
+        "price": 154.779999,
+        "change": -6.059998,
+        "pct_change": -3.768,
+        "date": "2026-03-24"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 308.470001,
-        "change": -0.380005,
-        "pct_change": -0.123,
-        "date": "2026-03-23"
+        "price": 307.839996,
+        "change": -0.630005,
+        "pct_change": -0.204,
+        "date": "2026-03-24"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 380.850006,
-        "change": 12.890015,
-        "pct_change": 3.503,
-        "date": "2026-03-23"
+        "price": 383.029999,
+        "change": 2.179993,
+        "pct_change": 0.572,
+        "date": "2026-03-24"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 302.059998,
-        "change": 1.059998,
-        "pct_change": 0.352,
-        "date": "2026-03-23"
+        "price": 290.440002,
+        "change": -11.619995,
+        "pct_change": -3.847,
+        "date": "2026-03-24"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 616.25,
-        "change": -11.179993,
-        "pct_change": -1.782,
-        "date": "2026-03-23"
+        "price": 610.169983,
+        "change": -6.080017,
+        "pct_change": -0.987,
+        "date": "2026-03-24"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 194.820007,
-        "change": -3.339996,
-        "pct_change": -1.686,
-        "date": "2026-03-23"
+        "price": 194.0,
+        "change": -0.820007,
+        "pct_change": -0.421,
+        "date": "2026-03-24"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 680.0,
-        "change": -26.950012,
-        "pct_change": -3.812,
-        "date": "2026-03-23"
+        "price": 682.159973,
+        "change": 2.159973,
+        "pct_change": 0.318,
+        "date": "2026-03-24"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
-      "link": "https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Mar 2026 02:41:31 GMT",
+      "title": "Oil at $150 will trigger global recession, says boss of financial giant BlackRock",
+      "link": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Mar 2026 00:00:20 GMT",
       "matched_keywords": [
-        "war",
-        "president",
-        "diplomacy"
+        "recession",
+        "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Colombian military plane crash kills at least 66",
-      "link": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Mar 2026 02:52:21 GMT",
+      "title": "Iran war shows norms of international conflicts have been overturned",
+      "link": "https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Mar 2026 15:55:08 GMT",
+      "matched_keywords": [
+        "war",
+        "conflict"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
+      "link": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Mar 2026 21:47:10 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Everyday life in Asia is being upended by Iran war fuel crisis",
+      "link": "https://www.bbc.com/news/articles/c1450zj6n48o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Mar 2026 17:12:50 GMT",
+      "matched_keywords": [
+        "war",
+        "oil",
+        "gas",
+        "crisis"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Journalists at Australia's national broadcaster strike for first time in 20 years",
+      "link": "https://www.bbc.com/news/articles/c208ngv1mz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Mar 2026 03:07:54 GMT",
+      "matched_keywords": [
+        "inflation"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Death toll from Colombian military plane crash rises to 69 as search ends",
+      "link": "https://www.bbc.com/news/articles/c8ejkz89k1ro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Mar 2026 21:30:53 GMT",
       "matched_keywords": [
         "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
-      "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Mar 2026 20:21:51 GMT",
-      "matched_keywords": [
-        "war",
-        "president",
-        "oil"
       ]
     },
     {
@@ -184,33 +212,6 @@
       "published": "Mon, 23 Mar 2026 15:23:29 GMT",
       "matched_keywords": [
         "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "UN warns Earth's climate being 'pushed beyond its limits' as El Niño looms",
-      "link": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Mar 2026 04:06:22 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "France's former Socialist Prime Minister Lionel Jospin dies at 88",
-      "link": "https://www.bbc.com/news/articles/cp861v8mj8mo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Mar 2026 11:29:26 GMT",
-      "matched_keywords": [
-        "prime minister"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "France's Socialists hold on to power in major cities in election boost for mainstream",
-      "link": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 23:27:59 GMT",
-      "matched_keywords": [
-        "election"
       ]
     }
   ]
