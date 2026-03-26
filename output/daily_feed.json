@@ -1,80 +1,80 @@
 {
-  "generated_at": "2026-03-26T06:57:30+00:00",
+  "generated_at": "2026-03-26T20:30:05+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4449.0,
-        "change": -100.799805,
-        "pct_change": -2.215,
+        "price": 4393.200195,
+        "change": -156.599609,
+        "pct_change": -3.442,
         "date": "2026-03-26"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 70.059998,
-        "change": -2.301003,
-        "pct_change": -3.18,
+        "price": 68.375,
+        "change": -3.986,
+        "pct_change": -5.508,
         "date": "2026-03-26"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1173.5,
-        "change": 1.75,
-        "pct_change": 0.149,
+        "price": 1171.0,
+        "change": -0.75,
+        "pct_change": -0.064,
         "date": "2026-03-26"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 15.55,
-        "change": -0.33,
-        "pct_change": -2.078,
-        "date": "2026-03-25"
+        "price": 15.85,
+        "change": 0.3,
+        "pct_change": 1.929,
+        "date": "2026-03-26"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.695304,
-        "change": -0.004386,
-        "pct_change": -0.627,
+        "price": 0.689313,
+        "change": -0.010377,
+        "pct_change": -1.483,
         "date": "2026-03-26"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 6591.899902,
-        "change": 35.529785,
-        "pct_change": 0.542,
-        "date": "2026-03-25"
+        "price": 6477.160156,
+        "change": -114.739746,
+        "pct_change": -1.741,
+        "date": "2026-03-26"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.328,
-        "change": -0.064,
-        "pct_change": -1.457,
-        "date": "2026-03-25"
+        "price": 4.416,
+        "change": 0.088,
+        "pct_change": 2.033,
+        "date": "2026-03-26"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24833.539062,
-        "change": -502.410156,
-        "pct_change": -1.983,
+        "price": 24856.429688,
+        "change": -479.519531,
+        "pct_change": -1.893,
         "date": "2026-03-26"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10740.0,
-        "change": 404.0,
-        "pct_change": 3.909,
-        "date": "2026-03-25"
+        "price": 10580.0,
+        "change": -160.0,
+        "pct_change": -1.49,
+        "date": "2026-03-26"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 12718.360352,
-        "change": 202.419922,
-        "pct_change": 1.617,
-        "date": "2026-03-25"
+        "price": 12641.959961,
+        "change": -76.400391,
+        "pct_change": -0.601,
+        "date": "2026-03-26"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
@@ -87,63 +87,110 @@
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 154.960007,
-        "change": 0.180008,
-        "pct_change": 0.116,
-        "date": "2026-03-25"
+        "price": 147.559998,
+        "change": -7.400009,
+        "pct_change": -4.775,
+        "date": "2026-03-26"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 311.700012,
-        "change": 3.860016,
-        "pct_change": 1.254,
-        "date": "2026-03-25"
+        "price": 308.929993,
+        "change": -2.77002,
+        "pct_change": -0.889,
+        "date": "2026-03-26"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 385.950012,
-        "change": 2.920013,
-        "pct_change": 0.762,
-        "date": "2026-03-25"
+        "price": 372.109985,
+        "change": -13.840027,
+        "pct_change": -3.586,
+        "date": "2026-03-26"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 290.929993,
-        "change": 0.48999,
-        "pct_change": 0.169,
-        "date": "2026-03-25"
+        "price": 280.920013,
+        "change": -10.009979,
+        "pct_change": -3.441,
+        "date": "2026-03-26"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 624.200012,
-        "change": 14.030029,
-        "pct_change": 2.299,
-        "date": "2026-03-25"
+        "price": 627.330017,
+        "change": 3.130005,
+        "pct_change": 0.501,
+        "date": "2026-03-26"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 195.0,
-        "change": 1.0,
-        "pct_change": 0.515,
-        "date": "2026-03-25"
+        "price": 192.850006,
+        "change": -2.149994,
+        "pct_change": -1.103,
+        "date": "2026-03-26"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 691.210022,
-        "change": 9.050049,
-        "pct_change": 1.327,
-        "date": "2026-03-25"
+        "price": 691.98999,
+        "change": 0.779968,
+        "pct_change": 0.113,
+        "date": "2026-03-26"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Meta and YouTube found liable in landmark social media addiction trial",
-      "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 22:59:23 GMT",
+      "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
+      "link": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Mar 2026 17:57:41 GMT",
+      "matched_keywords": [
+        "war",
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
+      "link": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Mar 2026 18:49:46 GMT",
+      "matched_keywords": [
+        "coup"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Orban's Hungarian government accused of mass voter intimidation ahead of election",
+      "link": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Mar 2026 17:16:06 GMT",
+      "matched_keywords": [
+        "election"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia bans Oscar-winning film 'Mr Nobody Against Putin'",
+      "link": "https://www.bbc.com/news/articles/cly97ddwgeko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Mar 2026 13:18:50 GMT",
       "matched_keywords": [
         "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "European Parliament gives conditional approval to EU-US trade deal",
+      "link": "https://www.bbc.com/news/articles/c33l4e6vdrvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Mar 2026 12:51:44 GMT",
+      "matched_keywords": [
+        "tariff"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump confirms May meeting with Xi Jinping as Iran war forces postponement",
+      "link": "https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Mar 2026 07:34:55 GMT",
+      "matched_keywords": [
+        "war",
+        "president"
       ]
     },
     {
@@ -157,57 +204,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Musketeer d'Artagnan's remains believed found under Dutch church",
-      "link": "https://www.bbc.com/news/articles/cm2rew2dgzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 14:30:39 GMT",
+      "title": "'We are being choked': Philippines transport workers strike over fuel costs",
+      "link": "https://www.bbc.com/news/articles/c4glxn24gd6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Mar 2026 09:00:31 GMT",
       "matched_keywords": [
-        "siege"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Marcos promises 'flow of oil' as Philippines declares energy emergency",
-      "link": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 08:59:46 GMT",
-      "matched_keywords": [
-        "president",
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Danish PM fails to secure majority in party's weakest election showing since 1903",
-      "link": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 07:59:41 GMT",
-      "matched_keywords": [
-        "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Estonia and Latvia say territories hit by stray Ukrainian drones",
-      "link": "https://www.bbc.com/news/articles/c1eql309n12o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 12:42:14 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Brazil's Bolsonaro gets temporary house arrest for ill-health",
-      "link": "https://www.bbc.com/news/articles/cge0950jxd0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 11:37:17 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "We need more plumbers and fewer lawyers in AI age, says BlackRock boss",
-      "link": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 12:00:38 GMT",
-      "matched_keywords": [
-        "war",
         "oil"
       ]
     }
