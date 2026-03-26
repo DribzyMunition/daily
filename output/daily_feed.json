@@ -1,217 +1,214 @@
 {
-  "generated_at": "2026-03-25T05:09:50+00:00",
+  "generated_at": "2026-03-26T06:57:30+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4571.399902,
-        "change": 172.100098,
-        "pct_change": 3.912,
-        "date": "2026-03-25"
+        "price": 4449.0,
+        "change": -100.799805,
+        "pct_change": -2.215,
+        "date": "2026-03-26"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 73.620003,
-        "change": 4.346001,
-        "pct_change": 6.274,
-        "date": "2026-03-25"
+        "price": 70.059998,
+        "change": -2.301003,
+        "pct_change": -3.18,
+        "date": "2026-03-26"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1153.0,
-        "change": -2.0,
-        "pct_change": -0.173,
-        "date": "2026-03-25"
+        "price": 1173.5,
+        "change": 1.75,
+        "pct_change": 0.149,
+        "date": "2026-03-26"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 15.88,
-        "change": 0.36,
-        "pct_change": 2.32,
-        "date": "2026-03-24"
+        "price": 15.55,
+        "change": -0.33,
+        "pct_change": -2.078,
+        "date": "2026-03-25"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.69734,
-        "change": -0.003269,
-        "pct_change": -0.467,
-        "date": "2026-03-25"
+        "price": 0.695304,
+        "change": -0.004386,
+        "pct_change": -0.627,
+        "date": "2026-03-26"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 6556.370117,
-        "change": -24.629883,
-        "pct_change": -0.374,
-        "date": "2026-03-24"
+        "price": 6591.899902,
+        "change": 35.529785,
+        "pct_change": 0.542,
+        "date": "2026-03-25"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.392,
-        "change": 0.058,
-        "pct_change": 1.338,
-        "date": "2026-03-24"
+        "price": 4.328,
+        "change": -0.064,
+        "pct_change": -1.457,
+        "date": "2026-03-25"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25073.050781,
-        "change": 9.339844,
-        "pct_change": 0.037,
-        "date": "2026-03-25"
+        "price": 24833.539062,
+        "change": -502.410156,
+        "pct_change": -1.983,
+        "date": "2026-03-26"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10336.0,
-        "change": -7.0,
-        "pct_change": -0.068,
-        "date": "2026-03-24"
+        "price": 10740.0,
+        "change": 404.0,
+        "pct_change": 3.909,
+        "date": "2026-03-25"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 12515.94043,
-        "change": 126.260742,
-        "pct_change": 1.019,
-        "date": "2026-03-24"
+        "price": 12718.360352,
+        "change": 202.419922,
+        "pct_change": 1.617,
+        "date": "2026-03-25"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8526.400391,
-        "change": 147.0,
-        "pct_change": 1.754,
-        "date": "2026-03-25"
+        "price": 8525.700195,
+        "change": -31.899414,
+        "pct_change": -0.373,
+        "date": "2026-03-26"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 154.779999,
-        "change": -6.059998,
-        "pct_change": -3.768,
-        "date": "2026-03-24"
+        "price": 154.960007,
+        "change": 0.180008,
+        "pct_change": 0.116,
+        "date": "2026-03-25"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 307.839996,
-        "change": -0.630005,
-        "pct_change": -0.204,
-        "date": "2026-03-24"
+        "price": 311.700012,
+        "change": 3.860016,
+        "pct_change": 1.254,
+        "date": "2026-03-25"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 383.029999,
-        "change": 2.179993,
-        "pct_change": 0.572,
-        "date": "2026-03-24"
+        "price": 385.950012,
+        "change": 2.920013,
+        "pct_change": 0.762,
+        "date": "2026-03-25"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 290.440002,
-        "change": -11.619995,
-        "pct_change": -3.847,
-        "date": "2026-03-24"
+        "price": 290.929993,
+        "change": 0.48999,
+        "pct_change": 0.169,
+        "date": "2026-03-25"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 610.169983,
-        "change": -6.080017,
-        "pct_change": -0.987,
-        "date": "2026-03-24"
+        "price": 624.200012,
+        "change": 14.030029,
+        "pct_change": 2.299,
+        "date": "2026-03-25"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 194.0,
-        "change": -0.820007,
-        "pct_change": -0.421,
-        "date": "2026-03-24"
+        "price": 195.0,
+        "change": 1.0,
+        "pct_change": 0.515,
+        "date": "2026-03-25"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 682.159973,
-        "change": 2.159973,
-        "pct_change": 0.318,
-        "date": "2026-03-24"
+        "price": 691.210022,
+        "change": 9.050049,
+        "pct_change": 1.327,
+        "date": "2026-03-25"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Oil at $150 will trigger global recession, says boss of financial giant BlackRock",
-      "link": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 00:00:20 GMT",
+      "title": "Meta and YouTube found liable in landmark social media addiction trial",
+      "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Mar 2026 22:59:23 GMT",
       "matched_keywords": [
-        "recession",
-        "oil"
+        "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Iran war shows norms of international conflicts have been overturned",
-      "link": "https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Mar 2026 15:55:08 GMT",
+      "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
+      "link": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Mar 2026 00:41:16 GMT",
       "matched_keywords": [
-        "war",
         "conflict"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
-      "link": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Mar 2026 21:47:10 GMT",
+      "title": "Musketeer d'Artagnan's remains believed found under Dutch church",
+      "link": "https://www.bbc.com/news/articles/cm2rew2dgzzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Mar 2026 14:30:39 GMT",
+      "matched_keywords": [
+        "siege"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Marcos promises 'flow of oil' as Philippines declares energy emergency",
+      "link": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Mar 2026 08:59:46 GMT",
+      "matched_keywords": [
+        "president",
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Danish PM fails to secure majority in party's weakest election showing since 1903",
+      "link": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Mar 2026 07:59:41 GMT",
+      "matched_keywords": [
+        "election"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Estonia and Latvia say territories hit by stray Ukrainian drones",
+      "link": "https://www.bbc.com/news/articles/c1eql309n12o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Mar 2026 12:42:14 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Everyday life in Asia is being upended by Iran war fuel crisis",
-      "link": "https://www.bbc.com/news/articles/c1450zj6n48o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Mar 2026 17:12:50 GMT",
+      "title": "Brazil's Bolsonaro gets temporary house arrest for ill-health",
+      "link": "https://www.bbc.com/news/articles/cge0950jxd0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Mar 2026 11:37:17 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "We need more plumbers and fewer lawyers in AI age, says BlackRock boss",
+      "link": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Mar 2026 12:00:38 GMT",
       "matched_keywords": [
         "war",
-        "oil",
-        "gas",
-        "crisis"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Journalists at Australia's national broadcaster strike for first time in 20 years",
-      "link": "https://www.bbc.com/news/articles/c208ngv1mz7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 03:07:54 GMT",
-      "matched_keywords": [
-        "inflation"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Death toll from Colombian military plane crash rises to 69 as search ends",
-      "link": "https://www.bbc.com/news/articles/c8ejkz89k1ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Mar 2026 21:30:53 GMT",
-      "matched_keywords": [
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US Senate confirms Markwayne Mullin as homeland security chief",
-      "link": "https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Mar 2026 02:01:21 GMT",
-      "matched_keywords": [
-        "nato"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Blast that injured two was 'terrorist attack', Ukrainian authorities say",
-      "link": "https://www.bbc.com/news/articles/crl1n0pn3e9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Mar 2026 15:23:29 GMT",
-      "matched_keywords": [
-        "attack"
+        "oil"
       ]
     }
   ]
