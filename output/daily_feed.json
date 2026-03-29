@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-03-28T06:56:04+00:00",
+  "generated_at": "2026-03-29T06:30:13+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4492.0,
-        "change": 116.5,
-        "pct_change": 2.663,
+        "price": 4524.299805,
+        "change": 148.799805,
+        "pct_change": 3.401,
         "date": "2026-03-27"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 69.544998,
-        "change": 1.874001,
-        "pct_change": 2.769,
+        "price": 69.795998,
+        "change": 2.125,
+        "pct_change": 3.14,
         "date": "2026-03-27"
       },
       "Soybeans": {
@@ -37,7 +37,7 @@
         "price": 0.687323,
         "change": -0.001417,
         "pct_change": -0.206,
-        "date": "2026-03-28"
+        "date": "2026-03-29"
       }
     },
     "indices": {
@@ -139,11 +139,40 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "'The gravest crime against humanity': What does the UN vote on slavery mean?",
-      "link": "https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Mar 2026 01:06:54 GMT",
+      "title": "Trump is waging war based on instinct and it isn't working",
+      "link": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 29 Mar 2026 00:02:46 GMT",
+      "matched_keywords": [
+        "war",
+        "conflict"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+      "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Mar 2026 21:50:40 GMT",
+      "matched_keywords": [
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Gaza peace doubts deepen as attention shifts to Iran",
+      "link": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Mar 2026 06:00:37 GMT",
       "matched_keywords": [
         "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
+      "link": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Mar 2026 23:00:49 GMT",
+      "matched_keywords": [
+        "energy crisis",
+        "crisis"
       ]
     },
     {
@@ -177,42 +206,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Nepal swears in ex-rapper as new prime minister",
-      "link": "https://www.bbc.com/news/articles/c895v335xkgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 07:10:50 GMT",
+      "title": "Think Love Island is bad? Wait until you see the AI fruit version",
+      "link": "https://www.bbc.com/news/articles/ckgr35y26q7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 29 Mar 2026 00:00:05 GMT",
       "matched_keywords": [
-        "election",
-        "prime minister"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?",
-      "link": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 13:17:22 GMT",
-      "matched_keywords": [
-        "attack",
-        "president",
-        "diplomacy"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Three charts that are warning signs flashing for Trump on Iran war",
-      "link": "https://www.bbc.com/news/articles/c3w384px52no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 00:13:09 GMT",
-      "matched_keywords": [
-        "war",
-        "gas"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "How Russia's threat has seen Germany become Europe's most important army",
-      "link": "https://www.bbc.com/news/articles/cvge7r31989o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 05:59:20 GMT",
-      "matched_keywords": [
-        "military"
+        "coup"
       ]
     }
   ]

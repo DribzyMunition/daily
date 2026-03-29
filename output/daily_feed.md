@@ -1,5 +1,5 @@
-# Daily Feed — 2026-03-28
-*Generated: 2026-03-28T06:56:04+00:00 UTC*
+# Daily Feed — 2026-03-29
+*Generated: 2026-03-29T06:30:13+00:00 UTC*
 
 ---
 
@@ -9,8 +9,8 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,492.0000 | ▲ 116.5000 | +2.66% |
-| Silver |      69.5450 | ▲ 1.8740 | +2.77% |
+| Gold |   4,524.2998 | ▲ 148.7998 | +3.40% |
+| Silver |      69.7960 | ▲ 2.1250 | +3.14% |
 | Soybeans |   1,159.2500 | ▼ 14.5000 | -1.24% |
 | Sugar #11 (Raw) |      15.7600 | ▼ 0.1100 | -0.69% |
 
@@ -47,9 +47,21 @@
 
 ## Key Global Headlines
 
-**[BBC World]** 'The gravest crime against humanity': What does the UN vote on slavery mean?
+**[BBC World]** Trump is waging war based on instinct and it isn't working
+*Tags: war, conflict*
+https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Three Lebanese journalists killed in Israeli strike, say broadcasters
+*Tags: military*
+https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Gaza peace doubts deepen as attention shifts to Iran
 *Tags: war*
-https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Shops and restaurants in Egypt told to close early as energy crisis deepens
+*Tags: energy crisis, crisis*
+https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Rubio says US expects to finish Iran war 'in next couple of weeks'
 *Tags: war, coup*
@@ -63,21 +75,9 @@ https://www.bbc.com/news/articles/c8957dxjvkxo?at_medium=RSS&at_campaign=rss
 *Tags: war*
 https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Nepal swears in ex-rapper as new prime minister
-*Tags: election, prime minister*
-https://www.bbc.com/news/articles/c895v335xkgo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?
-*Tags: attack, president, diplomacy*
-https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Three charts that are warning signs flashing for Trump on Iran war
-*Tags: war, gas*
-https://www.bbc.com/news/articles/c3w384px52no?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** How Russia's threat has seen Germany become Europe's most important army
-*Tags: military*
-https://www.bbc.com/news/articles/cvge7r31989o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Think Love Island is bad? Wait until you see the AI fruit version
+*Tags: coup*
+https://www.bbc.com/news/articles/ckgr35y26q7o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
