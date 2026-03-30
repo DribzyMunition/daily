@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-03-29T06:30:13+00:00",
+  "generated_at": "2026-03-30T03:25:47+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4524.299805,
-        "change": 148.799805,
-        "pct_change": 3.401,
-        "date": "2026-03-27"
+        "price": 4535.799805,
+        "change": 43.799805,
+        "pct_change": 0.975,
+        "date": "2026-03-29"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 69.795998,
-        "change": 2.125,
-        "pct_change": 3.14,
-        "date": "2026-03-27"
+        "price": 70.285004,
+        "change": 0.740005,
+        "pct_change": 1.064,
+        "date": "2026-03-29"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1159.25,
-        "change": -14.5,
-        "pct_change": -1.235,
-        "date": "2026-03-27"
+        "price": 1161.75,
+        "change": 2.5,
+        "pct_change": 0.216,
+        "date": "2026-03-29"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
@@ -34,10 +34,10 @@
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.687323,
-        "change": -0.001417,
-        "pct_change": -0.206,
-        "date": "2026-03-29"
+        "price": 0.686738,
+        "change": -0.002002,
+        "pct_change": -0.291,
+        "date": "2026-03-30"
       }
     },
     "indices": {
@@ -57,10 +57,10 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24951.880859,
-        "change": 95.451172,
-        "pct_change": 0.384,
-        "date": "2026-03-27"
+        "price": 24655.589844,
+        "change": -296.291016,
+        "pct_change": -1.187,
+        "date": "2026-03-30"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8516.299805,
-        "change": -9.400391,
-        "pct_change": -0.11,
-        "date": "2026-03-27"
+        "price": 8434.099609,
+        "change": -82.200195,
+        "pct_change": -0.965,
+        "date": "2026-03-30"
       }
     },
     "stocks": {
@@ -139,7 +139,7 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Trump is waging war based on instinct and it isn't working",
+      "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
       "link": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 29 Mar 2026 00:02:46 GMT",
       "matched_keywords": [
@@ -149,18 +149,36 @@
     },
     {
       "source": "BBC World",
+      "title": "Iranian attacks across Gulf continue as major industrial sites hit",
+      "link": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 29 Mar 2026 13:32:49 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
       "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
       "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Mar 2026 21:50:40 GMT",
+      "published": "Sun, 29 Mar 2026 07:51:04 GMT",
       "matched_keywords": [
         "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Gaza peace doubts deepen as attention shifts to Iran",
-      "link": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Mar 2026 06:00:37 GMT",
+      "title": "Three arrested in Paris after attempted bomb attack outside Bank of America",
+      "link": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 29 Mar 2026 15:33:36 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Two Australian states offer free public transport as war pushes up fuel prices",
+      "link": "https://www.bbc.com/news/articles/c937n0yxggeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 29 Mar 2026 15:24:54 GMT",
       "matched_keywords": [
         "war"
       ]
@@ -177,39 +195,20 @@
     },
     {
       "source": "BBC World",
-      "title": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
-      "link": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 21:16:30 GMT",
-      "matched_keywords": [
-        "war",
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Belarus leader gifts rifle to North Korea's Kim as they sign friendship treaty",
-      "link": "https://www.bbc.com/news/articles/c8957dxjvkxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 03:14:10 GMT",
-      "matched_keywords": [
-        "war",
-        "treaty"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Palestinian man killed as death toll from West Bank settler violence climbs",
-      "link": "https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 12:30:10 GMT",
+      "title": "Gaza peace doubts deepen as attention shifts to Iran",
+      "link": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Mar 2026 06:00:37 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Think Love Island is bad? Wait until you see the AI fruit version",
-      "link": "https://www.bbc.com/news/articles/ckgr35y26q7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 29 Mar 2026 00:00:05 GMT",
+      "title": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
+      "link": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Mar 2026 21:16:30 GMT",
       "matched_keywords": [
+        "war",
         "coup"
       ]
     }
