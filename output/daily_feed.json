@@ -1,215 +1,217 @@
 {
-  "generated_at": "2026-03-30T03:25:47+00:00",
+  "generated_at": "2026-03-31T05:49:57+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4535.799805,
-        "change": 43.799805,
-        "pct_change": 0.975,
-        "date": "2026-03-29"
+        "price": 4606.700195,
+        "change": 80.700195,
+        "pct_change": 1.783,
+        "date": "2026-03-31"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 70.285004,
-        "change": 0.740005,
-        "pct_change": 1.064,
-        "date": "2026-03-29"
+        "price": 72.529999,
+        "change": 2.206001,
+        "pct_change": 3.137,
+        "date": "2026-03-31"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1161.75,
-        "change": 2.5,
-        "pct_change": 0.216,
-        "date": "2026-03-29"
+        "price": 1161.0,
+        "change": 1.25,
+        "pct_change": 0.108,
+        "date": "2026-03-31"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 15.76,
-        "change": -0.11,
-        "pct_change": -0.693,
-        "date": "2026-03-27"
+        "price": 15.55,
+        "change": -0.21,
+        "pct_change": -1.332,
+        "date": "2026-03-30"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.686738,
-        "change": -0.002002,
-        "pct_change": -0.291,
-        "date": "2026-03-30"
+        "price": 0.685307,
+        "change": 0.000217,
+        "pct_change": 0.032,
+        "date": "2026-03-31"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 6368.850098,
-        "change": -108.310059,
-        "pct_change": -1.672,
-        "date": "2026-03-27"
+        "price": 6343.720215,
+        "change": -25.129883,
+        "pct_change": -0.395,
+        "date": "2026-03-30"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.44,
-        "change": 0.024,
-        "pct_change": 0.543,
-        "date": "2026-03-27"
+        "price": 4.342,
+        "change": -0.098,
+        "pct_change": -2.207,
+        "date": "2026-03-30"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24655.589844,
-        "change": -296.291016,
-        "pct_change": -1.187,
-        "date": "2026-03-30"
+        "price": 24674.880859,
+        "change": -75.908203,
+        "pct_change": -0.307,
+        "date": "2026-03-31"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10463.0,
-        "change": -117.0,
-        "pct_change": -1.106,
-        "date": "2026-03-27"
+        "price": 10565.0,
+        "change": 102.0,
+        "pct_change": 0.975,
+        "date": "2026-03-30"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 12570.259766,
-        "change": -71.700195,
-        "pct_change": -0.567,
-        "date": "2026-03-27"
+        "price": 12668.669922,
+        "change": 98.410156,
+        "pct_change": 0.783,
+        "date": "2026-03-30"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8434.099609,
-        "change": -82.200195,
-        "pct_change": -0.965,
-        "date": "2026-03-30"
+        "price": 8481.799805,
+        "change": 20.799805,
+        "pct_change": 0.246,
+        "date": "2026-03-31"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 143.059998,
-        "change": -4.5,
-        "pct_change": -3.05,
-        "date": "2026-03-27"
+        "price": 137.550003,
+        "change": -5.509995,
+        "pct_change": -3.852,
+        "date": "2026-03-30"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 305.899994,
-        "change": -3.029999,
-        "pct_change": -0.981,
-        "date": "2026-03-27"
+        "price": 308.529999,
+        "change": 2.630005,
+        "pct_change": 0.86,
+        "date": "2026-03-30"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 361.829987,
-        "change": -10.279999,
-        "pct_change": -2.763,
-        "date": "2026-03-27"
+        "price": 355.279999,
+        "change": -6.549988,
+        "pct_change": -1.81,
+        "date": "2026-03-30"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 274.339996,
-        "change": -6.580017,
-        "pct_change": -2.342,
-        "date": "2026-03-27"
+        "price": 273.5,
+        "change": -0.839996,
+        "pct_change": -0.306,
+        "date": "2026-03-30"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 615.840027,
-        "change": -11.48999,
-        "pct_change": -1.832,
-        "date": "2026-03-27"
+        "price": 598.570007,
+        "change": -17.27002,
+        "pct_change": -2.804,
+        "date": "2026-03-30"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 189.710007,
-        "change": -3.139999,
-        "pct_change": -1.628,
-        "date": "2026-03-27"
+        "price": 187.149994,
+        "change": -2.560013,
+        "pct_change": -1.349,
+        "date": "2026-03-30"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 679.0,
-        "change": -12.98999,
-        "pct_change": -1.877,
-        "date": "2026-03-27"
+        "price": 671.590027,
+        "change": -7.409973,
+        "pct_change": -1.091,
+        "date": "2026-03-30"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
-      "link": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 29 Mar 2026 00:02:46 GMT",
+      "title": "Spain closes airspace to US aircraft involved in Iran war",
+      "link": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 30 Mar 2026 15:29:15 GMT",
       "matched_keywords": [
         "war",
-        "conflict"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Iranian attacks across Gulf continue as major industrial sites hit",
-      "link": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 29 Mar 2026 13:32:49 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
-      "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 29 Mar 2026 07:51:04 GMT",
-      "matched_keywords": [
         "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Three arrested in Paris after attempted bomb attack outside Bank of America",
-      "link": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 29 Mar 2026 15:33:36 GMT",
+      "title": "Palestinians convicted of deadly attacks face death penalty under new Israeli law",
+      "link": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 30 Mar 2026 21:11:37 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Two Australian states offer free public transport as war pushes up fuel prices",
-      "link": "https://www.bbc.com/news/articles/c937n0yxggeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 29 Mar 2026 15:24:54 GMT",
+      "title": "Gazan mother reunited with evacuated daughter after two years",
+      "link": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 30 Mar 2026 21:12:29 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
-      "link": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Mar 2026 23:00:49 GMT",
-      "matched_keywords": [
-        "energy crisis",
-        "crisis"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Gaza peace doubts deepen as attention shifts to Iran",
-      "link": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Mar 2026 06:00:37 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
-      "link": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 21:16:30 GMT",
+      "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
+      "link": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 30 Mar 2026 17:53:51 GMT",
       "matched_keywords": [
         "war",
-        "coup"
+        "attack",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
+      "link": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 30 Mar 2026 19:14:12 GMT",
+      "matched_keywords": [
+        "explosion"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Myanmar junta chief Min Aung Hlaing nominated as president",
+      "link": "https://www.bbc.com/news/articles/clyew40w249o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 30 Mar 2026 05:26:09 GMT",
+      "matched_keywords": [
+        "military",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigerian president's rivals get major boost as political heavyweight joins fold",
+      "link": "https://www.bbc.com/news/articles/c2k3vzjp1ylo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 30 Mar 2026 16:30:58 GMT",
+      "matched_keywords": [
+        "election",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "48-hour curfew imposed after attack on bar in Nigerian city",
+      "link": "https://www.bbc.com/news/articles/cvg4q9n573do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 30 Mar 2026 16:44:28 GMT",
+      "matched_keywords": [
+        "attack"
       ]
     }
   ]
