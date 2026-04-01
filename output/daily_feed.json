@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-03-31T05:49:57+00:00",
+  "generated_at": "2026-04-01T04:34:14+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4606.700195,
-        "change": 80.700195,
-        "pct_change": 1.783,
-        "date": "2026-03-31"
+        "price": 4697.700195,
+        "change": 50.100098,
+        "pct_change": 1.078,
+        "date": "2026-04-01"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 72.529999,
-        "change": 2.206001,
-        "pct_change": 3.137,
-        "date": "2026-03-31"
+        "price": 74.214996,
+        "change": -0.475006,
+        "pct_change": -0.636,
+        "date": "2026-04-01"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1161.0,
-        "change": 1.25,
-        "pct_change": 0.108,
-        "date": "2026-03-31"
+        "price": 1172.0,
+        "change": 1.0,
+        "pct_change": 0.085,
+        "date": "2026-04-01"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 15.55,
-        "change": -0.21,
-        "pct_change": -1.332,
-        "date": "2026-03-30"
+        "price": 15.52,
+        "change": -0.03,
+        "pct_change": -0.193,
+        "date": "2026-03-31"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.685307,
-        "change": 0.000217,
-        "pct_change": 0.032,
-        "date": "2026-03-31"
+        "price": 0.690369,
+        "change": 0.005779,
+        "pct_change": 0.844,
+        "date": "2026-04-01"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 6343.720215,
-        "change": -25.129883,
-        "pct_change": -0.395,
-        "date": "2026-03-30"
+        "price": 6528.52002,
+        "change": 184.799805,
+        "pct_change": 2.913,
+        "date": "2026-03-31"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.342,
-        "change": -0.098,
-        "pct_change": -2.207,
-        "date": "2026-03-30"
+        "price": 4.311,
+        "change": -0.031,
+        "pct_change": -0.714,
+        "date": "2026-03-31"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24674.880859,
-        "change": -75.908203,
-        "pct_change": -0.307,
-        "date": "2026-03-31"
+        "price": 25276.650391,
+        "change": 488.509766,
+        "pct_change": 1.971,
+        "date": "2026-04-01"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -71,147 +71,142 @@
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 12668.669922,
-        "change": 98.410156,
-        "pct_change": 0.783,
-        "date": "2026-03-30"
+        "price": 12776.790039,
+        "change": 108.120117,
+        "pct_change": 0.853,
+        "date": "2026-03-31"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8481.799805,
-        "change": 20.799805,
-        "pct_change": 0.246,
-        "date": "2026-03-31"
+        "price": 8647.599609,
+        "change": 165.799805,
+        "pct_change": 1.955,
+        "date": "2026-04-01"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 137.550003,
-        "change": -5.509995,
-        "pct_change": -3.852,
-        "date": "2026-03-30"
+        "price": 146.279999,
+        "change": 8.729996,
+        "pct_change": 6.347,
+        "date": "2026-03-31"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 308.529999,
-        "change": 2.630005,
-        "pct_change": 0.86,
-        "date": "2026-03-30"
+        "price": 310.790009,
+        "change": 2.26001,
+        "pct_change": 0.733,
+        "date": "2026-03-31"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 355.279999,
-        "change": -6.549988,
-        "pct_change": -1.81,
-        "date": "2026-03-30"
+        "price": 371.75,
+        "change": 16.470001,
+        "pct_change": 4.636,
+        "date": "2026-03-31"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 273.5,
-        "change": -0.839996,
-        "pct_change": -0.306,
-        "date": "2026-03-30"
+        "price": 287.559998,
+        "change": 14.059998,
+        "pct_change": 5.141,
+        "date": "2026-03-31"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 598.570007,
-        "change": -17.27002,
-        "pct_change": -2.804,
-        "date": "2026-03-30"
+        "price": 604.390015,
+        "change": 5.820007,
+        "pct_change": 0.972,
+        "date": "2026-03-31"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 187.149994,
-        "change": -2.560013,
-        "pct_change": -1.349,
-        "date": "2026-03-30"
+        "price": 192.899994,
+        "change": 5.75,
+        "pct_change": 3.072,
+        "date": "2026-03-31"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 671.590027,
-        "change": -7.409973,
-        "pct_change": -1.091,
-        "date": "2026-03-30"
+        "price": 682.23999,
+        "change": 10.649963,
+        "pct_change": 1.586,
+        "date": "2026-03-31"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Spain closes airspace to US aircraft involved in Iran war",
-      "link": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 30 Mar 2026 15:29:15 GMT",
-      "matched_keywords": [
-        "war",
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Palestinians convicted of deadly attacks face death penalty under new Israeli law",
-      "link": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 30 Mar 2026 21:11:37 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Gazan mother reunited with evacuated daughter after two years",
-      "link": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 30 Mar 2026 21:12:29 GMT",
+      "title": "Iran using children in security roles in war, reports and witnesses say",
+      "link": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 31 Mar 2026 12:56:45 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
-      "link": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 30 Mar 2026 17:53:51 GMT",
+      "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
+      "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 31 Mar 2026 18:57:25 GMT",
       "matched_keywords": [
-        "war",
-        "attack",
-        "president"
+        "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
-      "link": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 30 Mar 2026 19:14:12 GMT",
+      "title": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds",
+      "link": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 31 Mar 2026 22:07:26 GMT",
       "matched_keywords": [
         "explosion"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Myanmar junta chief Min Aung Hlaing nominated as president",
-      "link": "https://www.bbc.com/news/articles/clyew40w249o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 30 Mar 2026 05:26:09 GMT",
+      "title": "Judge temporarily halts construction of Trump's White House ballroom",
+      "link": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 31 Mar 2026 23:58:29 GMT",
       "matched_keywords": [
-        "military",
-        "president"
+        "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Nigerian president's rivals get major boost as political heavyweight joins fold",
-      "link": "https://www.bbc.com/news/articles/c2k3vzjp1ylo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 30 Mar 2026 16:30:58 GMT",
+      "title": "US Army pilots who flew near Kid Rock's home suspended and then reinstated within hours",
+      "link": "https://www.bbc.com/news/articles/c4gx2rw87e9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Apr 2026 00:51:56 GMT",
       "matched_keywords": [
-        "election",
-        "president"
+        "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "48-hour curfew imposed after attack on bar in Nigerian city",
-      "link": "https://www.bbc.com/news/articles/cvg4q9n573do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 30 Mar 2026 16:44:28 GMT",
+      "title": "Wolf bites woman in shock German attack on busy Hamburg shopping street",
+      "link": "https://www.bbc.com/news/articles/c20qxjxe2nno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 31 Mar 2026 13:00:32 GMT",
       "matched_keywords": [
         "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian oil tanker docks in Cuba ending near-total blockade",
+      "link": "https://www.bbc.com/news/articles/clyx1lrv0w5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 31 Mar 2026 12:51:51 GMT",
+      "matched_keywords": [
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "'You're no longer my sister' - rows erupt as war divides Iranian families",
+      "link": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 31 Mar 2026 23:25:19 GMT",
+      "matched_keywords": [
+        "war"
       ]
     }
   ]
