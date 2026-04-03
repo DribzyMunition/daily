@@ -1,5 +1,5 @@
-# Daily Feed — 2026-04-02
-*Generated: 2026-04-02T04:42:55+00:00 UTC*
+# Daily Feed — 2026-04-03
+*Generated: 2026-04-03T04:03:00+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,695.1001 | ▼ 88.1001 | -1.84% |
-| Silver |      71.8650 | ▼ 4.0020 | -5.28% |
-| Soybeans |   1,172.5000 | ▲ 4.0000 | +0.34% |
-| Sugar #11 (Raw) |      15.2900 | ▼ 0.2300 | -1.48% |
+| Gold |   4,651.5000 | ▼ 131.7002 | -2.75% |
+| Silver |      72.7350 | ▼ 3.1320 | -4.13% |
+| Soybeans |   1,163.5000 | ▼ 5.0000 | -0.43% |
+| Sugar #11 (Raw) |      15.0000 | ▼ 0.2900 | -1.90% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6876 | ▼ 0.0045 | -0.65% |
+| AUD/USD |       0.6907 | ▼ 0.0017 | -0.24% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   6,575.3198 | ▲ 46.7998 | +0.72% |
-| US 10Y Yield (%) |       4.3190 | ▲ 0.0080 | +0.19% |
-| Hang Seng 50 |  25,017.2305 | ▼ 276.7988 | -1.09% |
-| South Africa Top 40 |  10,730.0000 | ▲ 165.0000 | +1.56% |
-| Switzerland SMI |  12,991.2500 | ▲ 214.4600 | +1.68% |
-| ASX 200 (XJO) |   8,581.9004 | ▼ 89.8994 | -1.04% |
+| S&P 500 |   6,582.6899 | ▲ 7.3701 | +0.11% |
+| US 10Y Yield (%) |       4.3130 | ▼ 0.0060 | -0.14% |
+| Hang Seng 50 |  25,116.5293 | ▼ 177.5000 | -0.70% |
+| South Africa Top 40 |  11,004.0000 | ▲ 274.0000 | +2.55% |
+| Switzerland SMI |  12,981.9697 | ▼ 9.2803 | -0.07% |
+| ASX 200 (XJO) |   8,579.5000 | ▼ 92.2998 | -1.06% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     146.4900 | ▲ 0.2100 | +0.14% |
-| McDonald's |     307.2900 | ▼ 3.5000 | -1.13% |
-| Tesla |     381.2600 | ▲ 9.5100 | +2.56% |
-| Alphabet |     297.3900 | ▲ 9.8300 | +3.42% |
-| Lockheed Martin |     617.6400 | ▲ 13.2500 | +2.19% |
-| RTX (Raytheon) |     194.7200 | ▲ 1.8200 | +0.94% |
-| Northrop Grumman |     697.0000 | ▲ 14.7600 | +2.16% |
+| Palantir |     148.4600 | ▲ 1.9700 | +1.34% |
+| McDonald's |     307.1400 | ▼ 0.1500 | -0.05% |
+| Tesla |     360.5900 | ▼ 20.6700 | -5.42% |
+| Alphabet |     295.7700 | ▼ 1.6200 | -0.55% |
+| Lockheed Martin |     622.7900 | ▲ 5.1500 | +0.83% |
+| RTX (Raytheon) |     196.2100 | ▲ 1.4900 | +0.77% |
+| Northrop Grumman |     702.5000 | ▲ 5.5000 | +0.79% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Trump leaves key questions unanswered as he seeks to calm nerves over Iran war
-*Tags: war, president*
-https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Magnitude 7.4 earthquake hits off Indonesia, killing one
-*Tags: war, earthquake, tsunami*
-https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control
-*Tags: attack*
-https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** US Supreme Court appears sceptical of US birthright citizenship challenge
-*Tags: president*
-https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Explosions at Burundi ammunition depot kill civilians, witnesses say
-*Tags: explosion*
-https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Iran war economic shocks will last 'months', says Australia's PM
+**[BBC World]** 'I haven't slept for days': Iranians describe mounting desperation after a month of war
 *Tags: war*
-https://www.bbc.com/news/articles/cvg4nre8nl9o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Divorced couples in Japan can now share custody of their children
+**[BBC World]** Iran war could make beer and bottled water pricier for Indians
+*Tags: war*
+https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** 'Be serious... don't speak every day': Macron criticises Trump approach to Iran war
+*Tags: war*
+https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Brazil grants joint custody over pets in new law for separated couples
 *Tags: coup*
-https://www.bbc.com/news/articles/c77m16n6dm0o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends
-*Tags: war*
-https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss
+**[BBC World]** Hegseth asks US Army's top general to step down
+*Tags: president*
+https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Man dies in storm near Athens as Saharan dust shrouds Crete
+*Tags: flood*
+https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** US lifts sanctions on Venezuelan interim leader Delcy Rodríguez
+*Tags: war, sanctions*
+https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Iranian Nobel laureate suffered suspected heart attack in prison, family says
+*Tags: attack*
+https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

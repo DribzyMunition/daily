@@ -1,215 +1,213 @@
 {
-  "generated_at": "2026-04-02T04:42:55+00:00",
+  "generated_at": "2026-04-03T04:03:00+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4695.100098,
-        "change": -88.100098,
-        "pct_change": -1.842,
+        "price": 4651.5,
+        "change": -131.700195,
+        "pct_change": -2.753,
         "date": "2026-04-02"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 71.864998,
-        "change": -4.001999,
-        "pct_change": -5.275,
+        "price": 72.735001,
+        "change": -3.131996,
+        "pct_change": -4.128,
         "date": "2026-04-02"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1172.5,
-        "change": 4.0,
-        "pct_change": 0.342,
+        "price": 1163.5,
+        "change": -5.0,
+        "pct_change": -0.428,
         "date": "2026-04-02"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 15.29,
-        "change": -0.23,
-        "pct_change": -1.482,
-        "date": "2026-04-01"
+        "price": 15.0,
+        "change": -0.29,
+        "pct_change": -1.897,
+        "date": "2026-04-02"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.687555,
-        "change": -0.004497,
-        "pct_change": -0.65,
-        "date": "2026-04-02"
+        "price": 0.690708,
+        "change": -0.001692,
+        "pct_change": -0.244,
+        "date": "2026-04-03"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 6575.319824,
-        "change": 46.799805,
-        "pct_change": 0.717,
-        "date": "2026-04-01"
+        "price": 6582.689941,
+        "change": 7.370117,
+        "pct_change": 0.112,
+        "date": "2026-04-02"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.319,
-        "change": 0.008,
-        "pct_change": 0.186,
-        "date": "2026-04-01"
+        "price": 4.313,
+        "change": -0.006,
+        "pct_change": -0.139,
+        "date": "2026-04-02"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25017.230469,
-        "change": -276.798828,
-        "pct_change": -1.094,
+        "price": 25116.529297,
+        "change": -177.5,
+        "pct_change": -0.702,
         "date": "2026-04-02"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10730.0,
-        "change": 165.0,
-        "pct_change": 1.562,
-        "date": "2026-03-31"
+        "price": 11004.0,
+        "change": 274.0,
+        "pct_change": 2.554,
+        "date": "2026-04-01"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 12991.25,
-        "change": 214.459961,
-        "pct_change": 1.679,
-        "date": "2026-04-01"
+        "price": 12981.969727,
+        "change": -9.280273,
+        "pct_change": -0.071,
+        "date": "2026-04-02"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8581.900391,
-        "change": -89.899414,
-        "pct_change": -1.037,
+        "price": 8579.5,
+        "change": -92.299805,
+        "pct_change": -1.064,
         "date": "2026-04-02"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 146.490005,
-        "change": 0.210007,
-        "pct_change": 0.144,
-        "date": "2026-04-01"
+        "price": 148.460007,
+        "change": 1.970001,
+        "pct_change": 1.345,
+        "date": "2026-04-02"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 307.290009,
-        "change": -3.5,
-        "pct_change": -1.126,
-        "date": "2026-04-01"
+        "price": 307.140015,
+        "change": -0.149994,
+        "pct_change": -0.049,
+        "date": "2026-04-02"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 381.26001,
-        "change": 9.51001,
-        "pct_change": 2.558,
-        "date": "2026-04-01"
+        "price": 360.589996,
+        "change": -20.670013,
+        "pct_change": -5.422,
+        "date": "2026-04-02"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 297.390015,
-        "change": 9.830017,
-        "pct_change": 3.418,
-        "date": "2026-04-01"
+        "price": 295.769989,
+        "change": -1.620026,
+        "pct_change": -0.545,
+        "date": "2026-04-02"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 617.640015,
-        "change": 13.25,
-        "pct_change": 2.192,
-        "date": "2026-04-01"
+        "price": 622.789978,
+        "change": 5.149963,
+        "pct_change": 0.834,
+        "date": "2026-04-02"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 194.720001,
-        "change": 1.820007,
-        "pct_change": 0.943,
-        "date": "2026-04-01"
+        "price": 196.210007,
+        "change": 1.490005,
+        "pct_change": 0.765,
+        "date": "2026-04-02"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 697.0,
-        "change": 14.76001,
-        "pct_change": 2.163,
-        "date": "2026-04-01"
+        "price": 702.5,
+        "change": 5.5,
+        "pct_change": 0.789,
+        "date": "2026-04-02"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
-      "link": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Apr 2026 03:22:51 GMT",
-      "matched_keywords": [
-        "war",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
-      "link": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Apr 2026 04:00:48 GMT",
-      "matched_keywords": [
-        "war",
-        "earthquake",
-        "tsunami"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
-      "link": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Apr 2026 10:33:35 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US Supreme Court appears sceptical of US birthright citizenship challenge",
-      "link": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Apr 2026 22:00:17 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Explosions at Burundi ammunition depot kill civilians, witnesses say",
-      "link": "https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Apr 2026 16:26:19 GMT",
-      "matched_keywords": [
-        "explosion"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran war economic shocks will last 'months', says Australia's PM",
-      "link": "https://www.bbc.com/news/articles/cvg4nre8nl9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Apr 2026 10:53:03 GMT",
+      "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
+      "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Apr 2026 16:09:24 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Divorced couples in Japan can now share custody of their children",
-      "link": "https://www.bbc.com/news/articles/c77m16n6dm0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Apr 2026 04:11:30 GMT",
+      "title": "Iran war could make beer and bottled water pricier for Indians",
+      "link": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Apr 2026 23:16:37 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
+      "link": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Apr 2026 13:41:27 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Brazil grants joint custody over pets in new law for separated couples",
+      "link": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Apr 2026 09:38:08 GMT",
       "matched_keywords": [
         "coup"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
-      "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 31 Mar 2026 18:57:25 GMT",
+      "title": "Hegseth asks US Army's top general to step down",
+      "link": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Apr 2026 22:57:37 GMT",
       "matched_keywords": [
-        "war"
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Man dies in storm near Athens as Saharan dust shrouds Crete",
+      "link": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Apr 2026 17:32:25 GMT",
+      "matched_keywords": [
+        "flood"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
+      "link": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Apr 2026 11:55:37 GMT",
+      "matched_keywords": [
+        "war",
+        "sanctions"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
+      "link": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Apr 2026 16:00:58 GMT",
+      "matched_keywords": [
+        "attack"
       ]
     }
   ]
