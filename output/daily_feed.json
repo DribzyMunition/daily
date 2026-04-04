@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T04:03:00+00:00",
+  "generated_at": "2026-04-04T01:37:10+00:00",
   "prices": {
     "commodities": {
       "Gold": {
@@ -34,9 +34,9 @@
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.690708,
-        "change": -0.001692,
-        "pct_change": -0.244,
+        "price": 0.689123,
+        "change": -0.003277,
+        "pct_change": -0.473,
         "date": "2026-04-03"
       }
     },
@@ -64,10 +64,10 @@
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 11004.0,
-        "change": 274.0,
-        "pct_change": 2.554,
-        "date": "2026-04-01"
+        "price": 10967.0,
+        "change": -37.0,
+        "pct_change": -0.336,
+        "date": "2026-04-02"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
@@ -139,75 +139,75 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
-      "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Apr 2026 16:09:24 GMT",
+      "title": "How elite US teams tackle combat rescue missions",
+      "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Apr 2026 20:42:56 GMT",
+      "matched_keywords": [
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Artemis II crew take 'spectacular' image of Earth",
+      "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Apr 2026 21:44:31 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Iran war could make beer and bottled water pricier for Indians",
-      "link": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Apr 2026 23:16:37 GMT",
+      "title": "Burkina Faso must 'forget' about democracy, military leader says",
+      "link": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Apr 2026 11:11:42 GMT",
       "matched_keywords": [
-        "war"
+        "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
-      "link": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Apr 2026 13:41:27 GMT",
+      "title": "French-owned ship passes through Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Apr 2026 17:45:46 GMT",
       "matched_keywords": [
-        "war"
+        "conflict"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Brazil grants joint custody over pets in new law for separated couples",
-      "link": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Apr 2026 09:38:08 GMT",
-      "matched_keywords": [
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Hegseth asks US Army's top general to step down",
-      "link": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Apr 2026 22:57:37 GMT",
+      "title": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
+      "link": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Apr 2026 15:45:25 GMT",
       "matched_keywords": [
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Man dies in storm near Athens as Saharan dust shrouds Crete",
-      "link": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Apr 2026 17:32:25 GMT",
+      "title": "Cuba begins releasing more than 2,000 prisoners as US pressure mounts",
+      "link": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Apr 2026 20:59:48 GMT",
       "matched_keywords": [
-        "flood"
+        "president",
+        "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
-      "link": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Apr 2026 11:55:37 GMT",
-      "matched_keywords": [
-        "war",
-        "sanctions"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
-      "link": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Apr 2026 16:00:58 GMT",
+      "title": "Italy's famed Uffizi admits cyber-attack but denies security breach",
+      "link": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Apr 2026 15:04:39 GMT",
       "matched_keywords": [
         "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Pete Hegseth asks US Army's top general to step down",
+      "link": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Apr 2026 13:03:57 GMT",
+      "matched_keywords": [
+        "president"
       ]
     }
   ]
