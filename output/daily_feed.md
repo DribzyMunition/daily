@@ -1,5 +1,5 @@
-# Daily Feed — 2026-04-04
-*Generated: 2026-04-04T01:37:10+00:00 UTC*
+# Daily Feed — 2026-04-05
+*Generated: 2026-04-05T04:35:06+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,651.5000 | ▼ 131.7002 | -2.75% |
-| Silver |      72.7350 | ▼ 3.1320 | -4.13% |
-| Soybeans |   1,163.5000 | ▼ 5.0000 | -0.43% |
-| Sugar #11 (Raw) |      15.0000 | ▼ 0.2900 | -1.90% |
+| Gold |   4,702.7002 | ▼ 80.5000 | -1.68% |
+| Silver |      73.1700 | ▼ 2.6970 | -3.56% |
+| Soybeans |   1,162.7500 | ▼ 5.7500 | -0.49% |
+| Sugar #11 (Raw) |      14.9600 | ▼ 0.3300 | -2.16% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6891 | ▼ 0.0033 | -0.47% |
+| AUD/USD |       0.6891 | ▼ 0.0020 | -0.29% |
 
 ### Indices
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** How elite US teams tackle combat rescue missions
+**[BBC World]** German males under 45 may need military approval for long stays abroad
 *Tags: military*
-https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Artemis II crew take 'spectacular' image of Earth
+**[BBC World]** Russian attack on Ukraine market kills five
+*Tags: attack*
+https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth
 *Tags: war*
 https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Burkina Faso must 'forget' about democracy, military leader says
-*Tags: military*
-https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss
+**[BBC World]** World's oldest leader to get a deputy for first time in 43-year rule
+*Tags: election, president*
+https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Australians told to continue Easter travel plans despite fuel shortages
+*Tags: war, oil*
+https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Senegal bans ministers from foreign travel as oil price rise bites
+*Tags: oil*
+https://www.bbc.com/news/articles/cp84z5r4d32o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Russia chose 'Easter escalation' over ceasefire, says Zelensky
+*Tags: missile, ceasefire*
+https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** French-owned ship passes through Strait of Hormuz
 *Tags: conflict*
 https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump seeks $1.5tn for defence alongside domestic spending cuts
-*Tags: president*
-https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Cuba begins releasing more than 2,000 prisoners as US pressure mounts
-*Tags: president, oil*
-https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Italy's famed Uffizi admits cyber-attack but denies security breach
-*Tags: attack*
-https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Pete Hegseth asks US Army's top general to step down
-*Tags: president*
-https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
