@@ -1,5 +1,5 @@
-# Daily Feed — 2026-04-05
-*Generated: 2026-04-05T04:35:06+00:00 UTC*
+# Daily Feed — 2026-04-06
+*Generated: 2026-04-06T04:47:04+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,702.7002 | ▼ 80.5000 | -1.68% |
-| Silver |      73.1700 | ▼ 2.6970 | -3.56% |
-| Soybeans |   1,162.7500 | ▼ 5.7500 | -0.49% |
-| Sugar #11 (Raw) |      14.9600 | ▼ 0.3300 | -2.16% |
+| Gold |   4,675.6001 | ▲ 24.1001 | +0.52% |
+| Silver |      72.3650 | ▼ 0.3700 | -0.51% |
+| Soybeans |   1,160.0000 | ▼ 3.5000 | -0.30% |
+| Sugar #11 (Raw) |      15.0000 | ▼ 0.2900 | -1.90% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6891 | ▼ 0.0020 | -0.29% |
+| AUD/USD |       0.6908 | ▼ 0.0003 | -0.05% |
 
 ### Indices
 
@@ -47,6 +47,14 @@
 
 ## Key Global Headlines
 
+**[BBC World]** Hungary alleges plot to blow up gas pipeline ahead of election
+*Tags: war, election, gas*
+https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** AI videos fuel rhetoric as Orbán bids for four more years in Hungary
+*Tags: election*
+https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss
+
 **[BBC World]** German males under 45 may need military approval for long stays abroad
 *Tags: military*
 https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss
@@ -66,14 +74,6 @@ https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&at_campaign=rss
 **[BBC World]** Australians told to continue Easter travel plans despite fuel shortages
 *Tags: war, oil*
 https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Senegal bans ministers from foreign travel as oil price rise bites
-*Tags: oil*
-https://www.bbc.com/news/articles/cp84z5r4d32o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Russia chose 'Easter escalation' over ceasefire, says Zelensky
-*Tags: missile, ceasefire*
-https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** French-owned ship passes through Strait of Hormuz
 *Tags: conflict*
