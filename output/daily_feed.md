@@ -1,5 +1,5 @@
-# Daily Feed — 2026-04-06
-*Generated: 2026-04-06T04:47:04+00:00 UTC*
+# Daily Feed — 2026-04-07
+*Generated: 2026-04-07T02:07:10+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,675.6001 | ▲ 24.1001 | +0.52% |
-| Silver |      72.3650 | ▼ 0.3700 | -0.51% |
-| Soybeans |   1,160.0000 | ▼ 3.5000 | -0.30% |
-| Sugar #11 (Raw) |      15.0000 | ▼ 0.2900 | -1.90% |
+| Gold |   4,645.5000 | ▼ 6.0000 | -0.13% |
+| Silver |      72.0500 | ▼ 0.6850 | -0.94% |
+| Soybeans |   1,166.0000 | ▲ 2.5000 | +0.21% |
+| Sugar #11 (Raw) |      14.9800 | ▼ 0.0200 | -0.13% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6908 | ▼ 0.0003 | -0.05% |
+| AUD/USD |       0.6902 | ▲ 0.0017 | +0.25% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   6,582.6899 | ▲ 7.3701 | +0.11% |
-| US 10Y Yield (%) |       4.3130 | ▼ 0.0060 | -0.14% |
+| S&P 500 |   6,611.8301 | ▲ 29.1401 | +0.44% |
+| US 10Y Yield (%) |       4.3350 | ▲ 0.0220 | +0.51% |
 | Hang Seng 50 |  25,116.5293 | ▼ 177.5000 | -0.70% |
 | South Africa Top 40 |  10,967.0000 | ▼ 37.0000 | -0.34% |
 | Switzerland SMI |  12,981.9697 | ▼ 9.2803 | -0.07% |
-| ASX 200 (XJO) |   8,579.5000 | ▼ 92.2998 | -1.06% |
+| ASX 200 (XJO) |   8,726.5996 | ▲ 147.0996 | +1.72% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     148.4600 | ▲ 1.9700 | +1.34% |
-| McDonald's |     307.1400 | ▼ 0.1500 | -0.05% |
-| Tesla |     360.5900 | ▼ 20.6700 | -5.42% |
-| Alphabet |     295.7700 | ▼ 1.6200 | -0.55% |
-| Lockheed Martin |     622.7900 | ▲ 5.1500 | +0.83% |
-| RTX (Raytheon) |     196.2100 | ▲ 1.4900 | +0.77% |
-| Northrop Grumman |     702.5000 | ▲ 5.5000 | +0.79% |
+| Palantir |     147.9300 | ▼ 0.5300 | -0.36% |
+| McDonald's |     309.7600 | ▲ 2.6200 | +0.85% |
+| Tesla |     352.8200 | ▼ 7.7700 | -2.15% |
+| Alphabet |     299.9900 | ▲ 4.2200 | +1.43% |
+| Lockheed Martin |     637.9000 | ▲ 15.1100 | +2.43% |
+| RTX (Raytheon) |     198.4100 | ▲ 2.2000 | +1.12% |
+| Northrop Grumman |     695.7900 | ▼ 6.7100 | -0.95% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Hungary alleges plot to blow up gas pipeline ahead of election
-*Tags: war, election, gas*
-https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Trump threatens to take out Iran in 'one night' if no deal before deadline
+*Tags: president*
+https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** AI videos fuel rhetoric as Orbán bids for four more years in Hungary
-*Tags: election*
-https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Clock ticks on Trump's Iran ultimatum with little sign of breakthrough
+*Tags: president*
+https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** German males under 45 may need military approval for long stays abroad
-*Tags: military*
-https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Russian attack on Ukraine market kills five
+**[BBC World]** Nigerian army rescues 31 held after Easter church attack
 *Tags: attack*
-https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth
+**[BBC World]** 'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears
+*Tags: president*
+https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Two protests, two elections: How Nepal's Gen Z succeeded where Bangladesh's stumbled
+*Tags: election*
+https://www.bbc.com/news/articles/cz673y3qqjlo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Spain's huge pork industry seeks salvation from swine fever threat
+*Tags: outbreak*
+https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** What we know so far about the search for missing US airman in Iran
 *Tags: war*
-https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** World's oldest leader to get a deputy for first time in 43-year rule
-*Tags: election, president*
-https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Australians told to continue Easter travel plans despite fuel shortages
-*Tags: war, oil*
-https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** French-owned ship passes through Strait of Hormuz
-*Tags: conflict*
-https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss
+**[Al Jazeera]** Vance heads to Budapest to shore up Orban’s support before Sunday vote
+*Tags: president*
+https://www.aljazeera.com/news/2026/4/7/vance-heads-to-budapest-to-shore-up-orbans-support-before-sunday-vote?traffic_source=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
