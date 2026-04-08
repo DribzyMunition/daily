@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-04-07T02:07:10+00:00",
+  "generated_at": "2026-04-08T05:21:41+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4645.5,
-        "change": -6.0,
-        "pct_change": -0.129,
-        "date": "2026-04-06"
+        "price": 4838.100098,
+        "change": 181.0,
+        "pct_change": 3.887,
+        "date": "2026-04-08"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 72.050003,
-        "change": -0.684998,
-        "pct_change": -0.942,
-        "date": "2026-04-06"
+        "price": 76.815002,
+        "change": 4.989006,
+        "pct_change": 6.946,
+        "date": "2026-04-08"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1166.0,
-        "change": 2.5,
-        "pct_change": 0.215,
-        "date": "2026-04-06"
+        "price": 1156.0,
+        "change": -2.25,
+        "pct_change": -0.194,
+        "date": "2026-04-08"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.98,
-        "change": -0.02,
-        "pct_change": -0.133,
-        "date": "2026-04-06"
+        "price": 14.58,
+        "change": -0.39,
+        "pct_change": -2.605,
+        "date": "2026-04-07"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.690245,
-        "change": 0.001695,
-        "pct_change": 0.246,
-        "date": "2026-04-07"
+        "price": 0.706794,
+        "change": 0.015104,
+        "pct_change": 2.184,
+        "date": "2026-04-08"
       }
     },
     "indices": {
@@ -57,17 +57,17 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25116.529297,
-        "change": -177.5,
-        "pct_change": -0.702,
-        "date": "2026-04-02"
+        "price": 25912.050781,
+        "change": 795.521484,
+        "pct_change": 3.167,
+        "date": "2026-04-08"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10967.0,
-        "change": -37.0,
-        "pct_change": -0.336,
-        "date": "2026-04-02"
+        "price": 10834.0,
+        "change": -133.0,
+        "pct_change": -1.213,
+        "date": "2026-04-07"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8726.599609,
-        "change": 147.099609,
-        "pct_change": 1.715,
-        "date": "2026-04-07"
+        "price": 8959.5,
+        "change": 380.0,
+        "pct_change": 4.429,
+        "date": "2026-04-08"
       }
     },
     "stocks": {
@@ -139,73 +139,79 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
-      "link": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 21:55:50 GMT",
+      "title": "Iran ceasefire deal a partial win for Trump - but at a high cost",
+      "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 03:30:55 GMT",
       "matched_keywords": [
-        "president"
+        "ceasefire"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
-      "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 23:04:23 GMT",
+      "title": "What we know about the two-week ceasefire between the US and Iran",
+      "link": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 02:58:55 GMT",
       "matched_keywords": [
-        "president"
+        "attack",
+        "ceasefire"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Nigerian army rescues 31 held after Easter church attack",
-      "link": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 09:08:45 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
-      "link": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 15:40:35 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Two protests, two elections: How Nepal's Gen Z succeeded where Bangladesh's stumbled",
-      "link": "https://www.bbc.com/news/articles/cz673y3qqjlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 22:07:30 GMT",
+      "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
+      "link": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 02:33:45 GMT",
       "matched_keywords": [
         "election"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Spain's huge pork industry seeks salvation from swine fever threat",
-      "link": "https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 23:19:20 GMT",
+      "title": "Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 03:24:53 GMT",
       "matched_keywords": [
-        "outbreak"
+        "ceasefire",
+        "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "What we know so far about the search for missing US airman in Iran",
-      "link": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Apr 2026 11:00:34 GMT",
+      "title": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
+      "link": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 23:15:33 GMT",
       "matched_keywords": [
-        "war"
+        "election",
+        "president"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "Vance heads to Budapest to shore up Orban’s support before Sunday vote",
-      "link": "https://www.aljazeera.com/news/2026/4/7/vance-heads-to-budapest-to-shore-up-orbans-support-before-sunday-vote?traffic_source=rss",
-      "published": "Tue, 07 Apr 2026 01:18:59 +0000",
+      "source": "BBC World",
+      "title": "WHO suspends Gaza medical evacuations after contractor killed by Israeli troops",
+      "link": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 13:55:19 GMT",
       "matched_keywords": [
+        "military",
+        "troops"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "French couple leave Iran after more than three years in jail",
+      "link": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 19:18:08 GMT",
+      "matched_keywords": [
+        "coup",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU",
+      "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 18:11:38 GMT",
+      "matched_keywords": [
+        "election",
         "president"
       ]
     }

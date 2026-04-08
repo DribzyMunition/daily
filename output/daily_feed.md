@@ -1,5 +1,5 @@
-# Daily Feed — 2026-04-07
-*Generated: 2026-04-07T02:07:10+00:00 UTC*
+# Daily Feed — 2026-04-08
+*Generated: 2026-04-08T05:21:41+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,645.5000 | ▼ 6.0000 | -0.13% |
-| Silver |      72.0500 | ▼ 0.6850 | -0.94% |
-| Soybeans |   1,166.0000 | ▲ 2.5000 | +0.21% |
-| Sugar #11 (Raw) |      14.9800 | ▼ 0.0200 | -0.13% |
+| Gold |   4,838.1001 | ▲ 181.0000 | +3.89% |
+| Silver |      76.8150 | ▲ 4.9890 | +6.95% |
+| Soybeans |   1,156.0000 | ▼ 2.2500 | -0.19% |
+| Sugar #11 (Raw) |      14.5800 | ▼ 0.3900 | -2.60% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6902 | ▲ 0.0017 | +0.25% |
+| AUD/USD |       0.7068 | ▲ 0.0151 | +2.18% |
 
 ### Indices
 
@@ -26,10 +26,10 @@
 |:------|------:|------:|---------:|
 | S&P 500 |   6,611.8301 | ▲ 29.1401 | +0.44% |
 | US 10Y Yield (%) |       4.3350 | ▲ 0.0220 | +0.51% |
-| Hang Seng 50 |  25,116.5293 | ▼ 177.5000 | -0.70% |
-| South Africa Top 40 |  10,967.0000 | ▼ 37.0000 | -0.34% |
+| Hang Seng 50 |  25,912.0508 | ▲ 795.5215 | +3.17% |
+| South Africa Top 40 |  10,834.0000 | ▼ 133.0000 | -1.21% |
 | Switzerland SMI |  12,981.9697 | ▼ 9.2803 | -0.07% |
-| ASX 200 (XJO) |   8,726.5996 | ▲ 147.0996 | +1.72% |
+| ASX 200 (XJO) |   8,959.5000 | ▲ 380.0000 | +4.43% |
 
 ### Stocks
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Trump threatens to take out Iran in 'one night' if no deal before deadline
-*Tags: president*
-https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss
+**[BBC World]** Iran ceasefire deal a partial win for Trump - but at a high cost
+*Tags: ceasefire*
+https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Clock ticks on Trump's Iran ultimatum with little sign of breakthrough
-*Tags: president*
-https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss
+**[BBC World]** What we know about the two-week ceasefire between the US and Iran
+*Tags: attack, ceasefire*
+https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Nigerian army rescues 31 held after Easter church attack
-*Tags: attack*
-https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** 'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears
-*Tags: president*
-https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Two protests, two elections: How Nepal's Gen Z succeeded where Bangladesh's stumbled
+**[BBC World]** Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene
 *Tags: election*
-https://www.bbc.com/news/articles/cz673y3qqjlo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Spain's huge pork industry seeks salvation from swine fever threat
-*Tags: outbreak*
-https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz
+*Tags: ceasefire, oil*
+https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** What we know so far about the search for missing US airman in Iran
-*Tags: war*
-https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Plan to scrap presidential elections puts Zimbabweans at loggerheads
+*Tags: election, president*
+https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss
 
-**[Al Jazeera]** Vance heads to Budapest to shore up Orban’s support before Sunday vote
-*Tags: president*
-https://www.aljazeera.com/news/2026/4/7/vance-heads-to-budapest-to-shore-up-orbans-support-before-sunday-vote?traffic_source=rss
+**[BBC World]** WHO suspends Gaza medical evacuations after contractor killed by Israeli troops
+*Tags: military, troops*
+https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** French couple leave Iran after more than three years in jail
+*Tags: coup, president*
+https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU
+*Tags: election, president*
+https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
