@@ -1,5 +1,5 @@
-# Daily Feed — 2026-04-08
-*Generated: 2026-04-08T05:21:41+00:00 UTC*
+# Daily Feed — 2026-04-09
+*Generated: 2026-04-09T04:12:29+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,838.1001 | ▲ 181.0000 | +3.89% |
-| Silver |      76.8150 | ▲ 4.9890 | +6.95% |
-| Soybeans |   1,156.0000 | ▼ 2.2500 | -0.19% |
-| Sugar #11 (Raw) |      14.5800 | ▼ 0.3900 | -2.60% |
+| Gold |   4,734.1001 | ▼ 15.3999 | -0.32% |
+| Silver |      74.0250 | ▼ 1.1990 | -1.59% |
+| Soybeans |   1,162.0000 | ▲ 0.0000 | +0.00% |
+| Sugar #11 (Raw) |      14.2300 | ▼ 0.3500 | -2.40% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7068 | ▲ 0.0151 | +2.18% |
+| AUD/USD |       0.7045 | ▼ 0.0032 | -0.45% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   6,611.8301 | ▲ 29.1401 | +0.44% |
-| US 10Y Yield (%) |       4.3350 | ▲ 0.0220 | +0.51% |
-| Hang Seng 50 |  25,912.0508 | ▲ 795.5215 | +3.17% |
+| S&P 500 |   6,616.8501 | ▲ 5.0200 | +0.08% |
+| US 10Y Yield (%) |       4.2910 | ▼ 0.0520 | -1.20% |
+| Hang Seng 50 |  25,808.5098 | ▲ 691.9805 | +2.75% |
 | South Africa Top 40 |  10,834.0000 | ▼ 133.0000 | -1.21% |
-| Switzerland SMI |  12,981.9697 | ▼ 9.2803 | -0.07% |
-| ASX 200 (XJO) |   8,959.5000 | ▲ 380.0000 | +4.43% |
+| Switzerland SMI |  12,790.3496 | ▼ 191.6201 | -1.48% |
+| ASX 200 (XJO) |   8,947.5000 | ▲ 218.7002 | +2.51% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     147.9300 | ▼ 0.5300 | -0.36% |
-| McDonald's |     309.7600 | ▲ 2.6200 | +0.85% |
-| Tesla |     352.8200 | ▼ 7.7700 | -2.15% |
-| Alphabet |     299.9900 | ▲ 4.2200 | +1.43% |
-| Lockheed Martin |     637.9000 | ▲ 15.1100 | +2.43% |
-| RTX (Raytheon) |     198.4100 | ▲ 2.2000 | +1.12% |
-| Northrop Grumman |     695.7900 | ▼ 6.7100 | -0.95% |
+| Palantir |     150.0700 | ▲ 2.1400 | +1.45% |
+| McDonald's |     304.8500 | ▼ 4.9100 | -1.58% |
+| Tesla |     346.6500 | ▼ 6.1700 | -1.75% |
+| Alphabet |     305.4600 | ▲ 5.4700 | +1.82% |
+| Lockheed Martin |     627.7000 | ▼ 10.2000 | -1.60% |
+| RTX (Raytheon) |     197.9200 | ▼ 0.4900 | -0.25% |
+| Northrop Grumman |     690.5000 | ▼ 5.2900 | -0.76% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Iran ceasefire deal a partial win for Trump - but at a high cost
-*Tags: ceasefire*
+**[BBC World]** Trump criticises Nato as alliance chief describes meeting as 'very frank'
+*Tags: war, president, nato*
+https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Iran ceasefire deal gives Trump a way out of war - but at a high cost
+*Tags: war, ceasefire*
 https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** What we know about the two-week ceasefire between the US and Iran
 *Tags: attack, ceasefire*
 https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene
-*Tags: election*
-https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss
+**[BBC World]** At least 182 killed across Lebanon in large wave of Israeli strikes
+*Tags: attack, ceasefire*
+https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz
-*Tags: ceasefire, oil*
-https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss
+**[BBC World]** He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case
+*Tags: war*
+https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Plan to scrap presidential elections puts Zimbabweans at loggerheads
-*Tags: election, president*
-https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Prosecutors seek Tiger Woods' prescription drug records after Florida arrest
+*Tags: war*
+https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** WHO suspends Gaza medical evacuations after contractor killed by Israeli troops
-*Tags: military, troops*
-https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Germany suspends military approval for long stays abroad for men under 45
+*Tags: military*
+https://www.bbc.com/news/articles/ckgx103wkl1o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** French couple leave Iran after more than three years in jail
-*Tags: coup, president*
-https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU
-*Tags: election, president*
-https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Pioneering wildlife cameraman Doug Allan dies in Nepal
+*Tags: war*
+https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

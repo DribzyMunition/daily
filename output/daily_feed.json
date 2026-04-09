@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-04-08T05:21:41+00:00",
+  "generated_at": "2026-04-09T04:12:29+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4838.100098,
-        "change": 181.0,
-        "pct_change": 3.887,
-        "date": "2026-04-08"
+        "price": 4734.100098,
+        "change": -15.399902,
+        "pct_change": -0.324,
+        "date": "2026-04-09"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 76.815002,
-        "change": 4.989006,
-        "pct_change": 6.946,
-        "date": "2026-04-08"
+        "price": 74.025002,
+        "change": -1.198997,
+        "pct_change": -1.594,
+        "date": "2026-04-09"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1156.0,
-        "change": -2.25,
-        "pct_change": -0.194,
-        "date": "2026-04-08"
+        "price": 1162.0,
+        "change": 0.0,
+        "pct_change": 0.0,
+        "date": "2026-04-09"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.58,
-        "change": -0.39,
-        "pct_change": -2.605,
-        "date": "2026-04-07"
+        "price": 14.23,
+        "change": -0.35,
+        "pct_change": -2.401,
+        "date": "2026-04-08"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.706794,
-        "change": 0.015104,
-        "pct_change": 2.184,
-        "date": "2026-04-08"
+        "price": 0.704483,
+        "change": -0.003196,
+        "pct_change": -0.452,
+        "date": "2026-04-09"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 6611.830078,
-        "change": 29.140137,
-        "pct_change": 0.443,
-        "date": "2026-04-06"
+        "price": 6616.850098,
+        "change": 5.02002,
+        "pct_change": 0.076,
+        "date": "2026-04-07"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.335,
-        "change": 0.022,
-        "pct_change": 0.51,
-        "date": "2026-04-06"
+        "price": 4.291,
+        "change": -0.052,
+        "pct_change": -1.197,
+        "date": "2026-04-08"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25912.050781,
-        "change": 795.521484,
-        "pct_change": 3.167,
-        "date": "2026-04-08"
+        "price": 25808.509766,
+        "change": 691.980469,
+        "pct_change": 2.755,
+        "date": "2026-04-09"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -71,78 +71,90 @@
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 12981.969727,
-        "change": -9.280273,
-        "pct_change": -0.071,
-        "date": "2026-04-02"
+        "price": 12790.349609,
+        "change": -191.620117,
+        "pct_change": -1.476,
+        "date": "2026-04-07"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8959.5,
-        "change": 380.0,
-        "pct_change": 4.429,
-        "date": "2026-04-08"
+        "price": 8947.5,
+        "change": 218.700195,
+        "pct_change": 2.506,
+        "date": "2026-04-09"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 147.929993,
-        "change": -0.530014,
-        "pct_change": -0.357,
-        "date": "2026-04-06"
+        "price": 150.070007,
+        "change": 2.140015,
+        "pct_change": 1.447,
+        "date": "2026-04-07"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 309.76001,
-        "change": 2.619995,
-        "pct_change": 0.853,
-        "date": "2026-04-06"
+        "price": 304.850006,
+        "change": -4.910004,
+        "pct_change": -1.585,
+        "date": "2026-04-07"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 352.820007,
-        "change": -7.769989,
-        "pct_change": -2.155,
-        "date": "2026-04-06"
+        "price": 346.649994,
+        "change": -6.170013,
+        "pct_change": -1.749,
+        "date": "2026-04-07"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 299.98999,
-        "change": 4.220001,
-        "pct_change": 1.427,
-        "date": "2026-04-06"
+        "price": 305.459991,
+        "change": 5.470001,
+        "pct_change": 1.823,
+        "date": "2026-04-07"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 637.900024,
-        "change": 15.110046,
-        "pct_change": 2.426,
-        "date": "2026-04-06"
+        "price": 627.700012,
+        "change": -10.200012,
+        "pct_change": -1.599,
+        "date": "2026-04-07"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 198.410004,
-        "change": 2.199997,
-        "pct_change": 1.121,
-        "date": "2026-04-06"
+        "price": 197.919998,
+        "change": -0.490005,
+        "pct_change": -0.247,
+        "date": "2026-04-07"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 695.789978,
-        "change": -6.710022,
-        "pct_change": -0.955,
-        "date": "2026-04-06"
+        "price": 690.5,
+        "change": -5.289978,
+        "pct_change": -0.76,
+        "date": "2026-04-07"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Iran ceasefire deal a partial win for Trump - but at a high cost",
+      "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+      "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 01:59:34 GMT",
+      "matched_keywords": [
+        "war",
+        "president",
+        "nato"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
       "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 08 Apr 2026 03:30:55 GMT",
       "matched_keywords": [
+        "war",
         "ceasefire"
       ]
     },
@@ -150,7 +162,7 @@
       "source": "BBC World",
       "title": "What we know about the two-week ceasefire between the US and Iran",
       "link": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Apr 2026 02:58:55 GMT",
+      "published": "Wed, 08 Apr 2026 20:25:49 GMT",
       "matched_keywords": [
         "attack",
         "ceasefire"
@@ -158,61 +170,48 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
-      "link": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Apr 2026 02:33:45 GMT",
+      "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
+      "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 20:54:59 GMT",
       "matched_keywords": [
-        "election"
+        "attack",
+        "ceasefire"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Apr 2026 03:24:53 GMT",
+      "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
+      "link": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 21:10:14 GMT",
       "matched_keywords": [
-        "ceasefire",
-        "oil"
+        "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
-      "link": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Apr 2026 23:15:33 GMT",
+      "title": "Prosecutors seek Tiger Woods' prescription drug records after Florida arrest",
+      "link": "https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 22:46:58 GMT",
       "matched_keywords": [
-        "election",
-        "president"
+        "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "WHO suspends Gaza medical evacuations after contractor killed by Israeli troops",
-      "link": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Apr 2026 13:55:19 GMT",
+      "title": "Germany suspends military approval for long stays abroad for men under 45",
+      "link": "https://www.bbc.com/news/articles/ckgx103wkl1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 15:21:12 GMT",
       "matched_keywords": [
-        "military",
-        "troops"
+        "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "French couple leave Iran after more than three years in jail",
-      "link": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Apr 2026 19:18:08 GMT",
+      "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
+      "link": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 01:01:26 GMT",
       "matched_keywords": [
-        "coup",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU",
-      "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Apr 2026 18:11:38 GMT",
-      "matched_keywords": [
-        "election",
-        "president"
+        "war"
       ]
     }
   ]
