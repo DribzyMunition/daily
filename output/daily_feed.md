@@ -1,5 +1,5 @@
-# Daily Feed — 2026-04-09
-*Generated: 2026-04-09T04:12:29+00:00 UTC*
+# Daily Feed — 2026-04-10
+*Generated: 2026-04-10T04:56:52+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,734.1001 | ▼ 15.3999 | -0.32% |
-| Silver |      74.0250 | ▼ 1.1990 | -1.59% |
-| Soybeans |   1,162.0000 | ▲ 0.0000 | +0.00% |
-| Sugar #11 (Raw) |      14.2300 | ▼ 0.3500 | -2.40% |
+| Gold |   4,785.7002 | ▼ 6.5000 | -0.14% |
+| Silver |      75.9400 | ▼ 0.3370 | -0.44% |
+| Soybeans |   1,168.0000 | ▲ 2.7500 | +0.24% |
+| Sugar #11 (Raw) |      13.9200 | ▼ 0.3100 | -2.18% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7045 | ▼ 0.0032 | -0.45% |
+| AUD/USD |       0.7069 | ▲ 0.0030 | +0.42% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   6,616.8501 | ▲ 5.0200 | +0.08% |
-| US 10Y Yield (%) |       4.2910 | ▼ 0.0520 | -1.20% |
-| Hang Seng 50 |  25,808.5098 | ▲ 691.9805 | +2.75% |
-| South Africa Top 40 |  10,834.0000 | ▼ 133.0000 | -1.21% |
-| Switzerland SMI |  12,790.3496 | ▼ 191.6201 | -1.48% |
-| ASX 200 (XJO) |   8,947.5000 | ▲ 218.7002 | +2.51% |
+| S&P 500 |   6,824.6602 | ▲ 41.8501 | +0.62% |
+| US 10Y Yield (%) |       4.2930 | ▲ 0.0020 | +0.05% |
+| Hang Seng 50 |  25,907.9609 | ▲ 155.5605 | +0.60% |
+| South Africa Top 40 |  11,331.0000 | ▲ 497.0000 | +4.59% |
+| Switzerland SMI |  13,159.5596 | ▲ 46.1299 | +0.35% |
+| ASX 200 (XJO) |   8,944.5000 | ▼ 28.7002 | -0.32% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     150.0700 | ▲ 2.1400 | +1.45% |
-| McDonald's |     304.8500 | ▼ 4.9100 | -1.58% |
-| Tesla |     346.6500 | ▼ 6.1700 | -1.75% |
-| Alphabet |     305.4600 | ▲ 5.4700 | +1.82% |
-| Lockheed Martin |     627.7000 | ▼ 10.2000 | -1.60% |
-| RTX (Raytheon) |     197.9200 | ▼ 0.4900 | -0.25% |
-| Northrop Grumman |     690.5000 | ▼ 5.2900 | -0.76% |
+| Palantir |     130.4900 | ▼ 10.2700 | -7.30% |
+| McDonald's |     309.5500 | ▲ 2.5400 | +0.83% |
+| Tesla |     345.6200 | ▲ 2.3700 | +0.69% |
+| Alphabet |     318.4900 | ▲ 1.1700 | +0.37% |
+| Lockheed Martin |     623.8700 | ▼ 4.6300 | -0.74% |
+| RTX (Raytheon) |     203.1900 | ▼ 0.2900 | -0.14% |
+| Northrop Grumman |     690.5700 | ▲ 3.1000 | +0.45% |
 
 ---
 
 ## Key Global Headlines
 
+**[BBC World]** Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'
+*Tags: president*
+https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done
+*Tags: war, ceasefire*
+https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** White House staff told not to place bets on prediction markets
+*Tags: conflict*
+https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Al Jazeera condemns killing of journalist in Israeli strike in Gaza
+*Tags: military*
+https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss
+
 **[BBC World]** Trump criticises Nato as alliance chief describes meeting as 'very frank'
 *Tags: war, president, nato*
 https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Iran ceasefire deal gives Trump a way out of war - but at a high cost
-*Tags: war, ceasefire*
-https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss
+**[BBC World]** French far-right leader romantically linked to Italian princess
+*Tags: president*
+https://www.bbc.com/news/articles/clye1288l8no?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** What we know about the two-week ceasefire between the US and Iran
-*Tags: attack, ceasefire*
-https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Spreading Islamist insurgency dominates Benin's presidential campaign
+*Tags: president*
+https://www.bbc.com/news/articles/c75k1631e75o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** At least 182 killed across Lebanon in large wave of Israeli strikes
-*Tags: attack, ceasefire*
-https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case
+**[BBC World]** 'Endless fears': Even if fighting stops, the damage to Iran's children will endure
 *Tags: war*
-https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Prosecutors seek Tiger Woods' prescription drug records after Florida arrest
-*Tags: war*
-https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Germany suspends military approval for long stays abroad for men under 45
-*Tags: military*
-https://www.bbc.com/news/articles/ckgx103wkl1o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Pioneering wildlife cameraman Doug Allan dies in Nepal
-*Tags: war*
-https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

@@ -1,142 +1,179 @@
 {
-  "generated_at": "2026-04-09T04:12:29+00:00",
+  "generated_at": "2026-04-10T04:56:52+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4734.100098,
-        "change": -15.399902,
-        "pct_change": -0.324,
-        "date": "2026-04-09"
+        "price": 4785.700195,
+        "change": -6.5,
+        "pct_change": -0.136,
+        "date": "2026-04-10"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 74.025002,
-        "change": -1.198997,
-        "pct_change": -1.594,
-        "date": "2026-04-09"
+        "price": 75.940002,
+        "change": -0.336998,
+        "pct_change": -0.442,
+        "date": "2026-04-10"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1162.0,
-        "change": 0.0,
-        "pct_change": 0.0,
-        "date": "2026-04-09"
+        "price": 1168.0,
+        "change": 2.75,
+        "pct_change": 0.236,
+        "date": "2026-04-10"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.23,
-        "change": -0.35,
-        "pct_change": -2.401,
-        "date": "2026-04-08"
+        "price": 13.92,
+        "change": -0.309999,
+        "pct_change": -2.178,
+        "date": "2026-04-09"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.704483,
-        "change": -0.003196,
-        "pct_change": -0.452,
-        "date": "2026-04-09"
+        "price": 0.706914,
+        "change": 0.002976,
+        "pct_change": 0.423,
+        "date": "2026-04-10"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 6616.850098,
-        "change": 5.02002,
-        "pct_change": 0.076,
-        "date": "2026-04-07"
+        "price": 6824.660156,
+        "change": 41.850098,
+        "pct_change": 0.617,
+        "date": "2026-04-09"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.291,
-        "change": -0.052,
-        "pct_change": -1.197,
-        "date": "2026-04-08"
+        "price": 4.293,
+        "change": 0.002,
+        "pct_change": 0.047,
+        "date": "2026-04-09"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25808.509766,
-        "change": 691.980469,
-        "pct_change": 2.755,
-        "date": "2026-04-09"
+        "price": 25907.960938,
+        "change": 155.560547,
+        "pct_change": 0.604,
+        "date": "2026-04-10"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10834.0,
-        "change": -133.0,
-        "pct_change": -1.213,
-        "date": "2026-04-07"
+        "price": 11331.0,
+        "change": 497.0,
+        "pct_change": 4.587,
+        "date": "2026-04-08"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 12790.349609,
-        "change": -191.620117,
-        "pct_change": -1.476,
-        "date": "2026-04-07"
+        "price": 13159.55957,
+        "change": 46.129883,
+        "pct_change": 0.352,
+        "date": "2026-04-09"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8947.5,
-        "change": 218.700195,
-        "pct_change": 2.506,
-        "date": "2026-04-09"
+        "price": 8944.5,
+        "change": -28.700195,
+        "pct_change": -0.32,
+        "date": "2026-04-10"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 150.070007,
-        "change": 2.140015,
-        "pct_change": 1.447,
-        "date": "2026-04-07"
+        "price": 130.490005,
+        "change": -10.269989,
+        "pct_change": -7.296,
+        "date": "2026-04-09"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 304.850006,
-        "change": -4.910004,
-        "pct_change": -1.585,
-        "date": "2026-04-07"
+        "price": 309.549988,
+        "change": 2.539978,
+        "pct_change": 0.827,
+        "date": "2026-04-09"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 346.649994,
-        "change": -6.170013,
-        "pct_change": -1.749,
-        "date": "2026-04-07"
+        "price": 345.619995,
+        "change": 2.369995,
+        "pct_change": 0.69,
+        "date": "2026-04-09"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 305.459991,
-        "change": 5.470001,
-        "pct_change": 1.823,
-        "date": "2026-04-07"
+        "price": 318.48999,
+        "change": 1.169983,
+        "pct_change": 0.369,
+        "date": "2026-04-09"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 627.700012,
-        "change": -10.200012,
-        "pct_change": -1.599,
-        "date": "2026-04-07"
+        "price": 623.869995,
+        "change": -4.630005,
+        "pct_change": -0.737,
+        "date": "2026-04-09"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 197.919998,
-        "change": -0.490005,
-        "pct_change": -0.247,
-        "date": "2026-04-07"
+        "price": 203.190002,
+        "change": -0.289993,
+        "pct_change": -0.143,
+        "date": "2026-04-09"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 690.5,
-        "change": -5.289978,
-        "pct_change": -0.76,
-        "date": "2026-04-07"
+        "price": 690.570007,
+        "change": 3.100037,
+        "pct_change": 0.451,
+        "date": "2026-04-09"
       }
     }
   },
   "news": [
+    {
+      "source": "BBC World",
+      "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+      "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 10 Apr 2026 02:10:44 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+      "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 23:01:47 GMT",
+      "matched_keywords": [
+        "war",
+        "ceasefire"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "White House staff told not to place bets on prediction markets",
+      "link": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 10 Apr 2026 02:32:27 GMT",
+      "matched_keywords": [
+        "conflict"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
+      "link": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 11:39:56 GMT",
+      "matched_keywords": [
+        "military"
+      ]
+    },
     {
       "source": "BBC World",
       "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
@@ -150,66 +187,27 @@
     },
     {
       "source": "BBC World",
-      "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
-      "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Apr 2026 03:30:55 GMT",
+      "title": "French far-right leader romantically linked to Italian princess",
+      "link": "https://www.bbc.com/news/articles/clye1288l8no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 15:05:15 GMT",
       "matched_keywords": [
-        "war",
-        "ceasefire"
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "What we know about the two-week ceasefire between the US and Iran",
-      "link": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Apr 2026 20:25:49 GMT",
+      "title": "Spreading Islamist insurgency dominates Benin's presidential campaign",
+      "link": "https://www.bbc.com/news/articles/c75k1631e75o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 23:02:13 GMT",
       "matched_keywords": [
-        "attack",
-        "ceasefire"
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
-      "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Apr 2026 20:54:59 GMT",
-      "matched_keywords": [
-        "attack",
-        "ceasefire"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
-      "link": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Apr 2026 21:10:14 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Prosecutors seek Tiger Woods' prescription drug records after Florida arrest",
-      "link": "https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Apr 2026 22:46:58 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Germany suspends military approval for long stays abroad for men under 45",
-      "link": "https://www.bbc.com/news/articles/ckgx103wkl1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Apr 2026 15:21:12 GMT",
-      "matched_keywords": [
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
-      "link": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Apr 2026 01:01:26 GMT",
+      "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
+      "link": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 16:06:39 GMT",
       "matched_keywords": [
         "war"
       ]
