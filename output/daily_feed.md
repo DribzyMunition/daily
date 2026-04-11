@@ -1,5 +1,5 @@
-# Daily Feed — 2026-04-10
-*Generated: 2026-04-10T04:56:52+00:00 UTC*
+# Daily Feed — 2026-04-11
+*Generated: 2026-04-11T05:35:48+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,785.7002 | ▼ 6.5000 | -0.14% |
-| Silver |      75.9400 | ▼ 0.3370 | -0.44% |
-| Soybeans |   1,168.0000 | ▲ 2.7500 | +0.24% |
-| Sugar #11 (Raw) |      13.9200 | ▼ 0.3100 | -2.18% |
+| Gold |   4,761.8999 | ▼ 30.3003 | -0.63% |
+| Silver |      76.3240 | ▲ 0.0470 | +0.06% |
+| Soybeans |   1,175.7500 | ▲ 10.5000 | +0.90% |
+| Sugar #11 (Raw) |      13.7500 | ▼ 0.1700 | -1.22% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7069 | ▲ 0.0030 | +0.42% |
+| AUD/USD |       0.7062 | ▼ 0.0013 | -0.19% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   6,824.6602 | ▲ 41.8501 | +0.62% |
-| US 10Y Yield (%) |       4.2930 | ▲ 0.0020 | +0.05% |
-| Hang Seng 50 |  25,907.9609 | ▲ 155.5605 | +0.60% |
-| South Africa Top 40 |  11,331.0000 | ▲ 497.0000 | +4.59% |
-| Switzerland SMI |  13,159.5596 | ▲ 46.1299 | +0.35% |
-| ASX 200 (XJO) |   8,944.5000 | ▼ 28.7002 | -0.32% |
+| S&P 500 |   6,816.8901 | ▼ 7.7700 | -0.11% |
+| US 10Y Yield (%) |       4.3170 | ▲ 0.0240 | +0.56% |
+| Hang Seng 50 |  25,893.5391 | ▲ 141.1387 | +0.55% |
+| South Africa Top 40 |  11,296.0000 | ▲ 99.0000 | +0.88% |
+| Switzerland SMI |  13,183.2803 | ▲ 23.7207 | +0.18% |
+| ASX 200 (XJO) |   8,960.5996 | ▼ 12.6006 | -0.14% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     130.4900 | ▼ 10.2700 | -7.30% |
-| McDonald's |     309.5500 | ▲ 2.5400 | +0.83% |
-| Tesla |     345.6200 | ▲ 2.3700 | +0.69% |
-| Alphabet |     318.4900 | ▲ 1.1700 | +0.37% |
-| Lockheed Martin |     623.8700 | ▼ 4.6300 | -0.74% |
-| RTX (Raytheon) |     203.1900 | ▼ 0.2900 | -0.14% |
-| Northrop Grumman |     690.5700 | ▲ 3.1000 | +0.45% |
+| Palantir |     128.0600 | ▼ 2.4300 | -1.86% |
+| McDonald's |     305.6800 | ▼ 3.8700 | -1.25% |
+| Tesla |     348.9500 | ▲ 3.3300 | +0.96% |
+| Alphabet |     317.2400 | ▼ 1.2500 | -0.39% |
+| Lockheed Martin |     613.7200 | ▼ 10.1500 | -1.63% |
+| RTX (Raytheon) |     201.5600 | ▼ 1.6300 | -0.80% |
+| Northrop Grumman |     673.7300 | ▼ 16.8400 | -2.44% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'
-*Tags: president*
-https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Palestinian shot dead during Israeli settler attack on occupied West Bank village
+*Tags: war, attack*
+https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done
-*Tags: war, ceasefire*
-https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Chimpanzees in Uganda locked in vicious 'civil war', say researchers
+*Tags: war*
+https://www.bbc.com/news/articles/cr71lkzv49po?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Gunmen kill at least four people at Afghanistan picnic spot
+*Tags: attack*
+https://www.bbc.com/news/articles/cr51z5p17myo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Melania Trump's speech propels Epstein crisis back to forefront
+*Tags: crisis*
+https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Dutch police urge victims of 'international sextortion campaign' to come forward
+*Tags: war*
+https://www.bbc.com/news/articles/ce84nl4gnz2o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** White House staff told not to place bets on prediction markets
 *Tags: conflict*
 https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Al Jazeera condemns killing of journalist in Israeli strike in Gaza
-*Tags: military*
-https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Trump has handed JD Vance his most difficult mission yet
+*Tags: war, president*
+https://www.bbc.com/news/articles/c1d9z1q2997o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Trump criticises Nato as alliance chief describes meeting as 'very frank'
-*Tags: war, president, nato*
-https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** French far-right leader romantically linked to Italian princess
-*Tags: president*
-https://www.bbc.com/news/articles/clye1288l8no?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Spreading Islamist insurgency dominates Benin's presidential campaign
-*Tags: president*
-https://www.bbc.com/news/articles/c75k1631e75o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** 'Endless fears': Even if fighting stops, the damage to Iran's children will endure
-*Tags: war*
-https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done
+*Tags: war, ceasefire*
+https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

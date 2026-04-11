@@ -1,159 +1,186 @@
 {
-  "generated_at": "2026-04-10T04:56:52+00:00",
+  "generated_at": "2026-04-11T05:35:48+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4785.700195,
-        "change": -6.5,
-        "pct_change": -0.136,
+        "price": 4761.899902,
+        "change": -30.300293,
+        "pct_change": -0.632,
         "date": "2026-04-10"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 75.940002,
-        "change": -0.336998,
-        "pct_change": -0.442,
+        "price": 76.323997,
+        "change": 0.046997,
+        "pct_change": 0.062,
         "date": "2026-04-10"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1168.0,
-        "change": 2.75,
-        "pct_change": 0.236,
+        "price": 1175.75,
+        "change": 10.5,
+        "pct_change": 0.901,
         "date": "2026-04-10"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 13.92,
-        "change": -0.309999,
-        "pct_change": -2.178,
-        "date": "2026-04-09"
+        "price": 13.75,
+        "change": -0.17,
+        "pct_change": -1.221,
+        "date": "2026-04-10"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.706914,
-        "change": 0.002976,
-        "pct_change": 0.423,
-        "date": "2026-04-10"
+        "price": 0.706225,
+        "change": -0.001345,
+        "pct_change": -0.19,
+        "date": "2026-04-11"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 6824.660156,
-        "change": 41.850098,
-        "pct_change": 0.617,
-        "date": "2026-04-09"
+        "price": 6816.890137,
+        "change": -7.77002,
+        "pct_change": -0.114,
+        "date": "2026-04-10"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.293,
-        "change": 0.002,
-        "pct_change": 0.047,
-        "date": "2026-04-09"
+        "price": 4.317,
+        "change": 0.024,
+        "pct_change": 0.559,
+        "date": "2026-04-10"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25907.960938,
-        "change": 155.560547,
-        "pct_change": 0.604,
+        "price": 25893.539062,
+        "change": 141.138672,
+        "pct_change": 0.548,
         "date": "2026-04-10"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 11331.0,
-        "change": 497.0,
-        "pct_change": 4.587,
-        "date": "2026-04-08"
+        "price": 11296.0,
+        "change": 99.0,
+        "pct_change": 0.884,
+        "date": "2026-04-10"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13159.55957,
-        "change": 46.129883,
-        "pct_change": 0.352,
-        "date": "2026-04-09"
+        "price": 13183.280273,
+        "change": 23.720703,
+        "pct_change": 0.18,
+        "date": "2026-04-10"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8944.5,
-        "change": -28.700195,
-        "pct_change": -0.32,
+        "price": 8960.599609,
+        "change": -12.600586,
+        "pct_change": -0.14,
         "date": "2026-04-10"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 130.490005,
-        "change": -10.269989,
-        "pct_change": -7.296,
-        "date": "2026-04-09"
+        "price": 128.059998,
+        "change": -2.430008,
+        "pct_change": -1.862,
+        "date": "2026-04-10"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 309.549988,
-        "change": 2.539978,
-        "pct_change": 0.827,
-        "date": "2026-04-09"
+        "price": 305.679993,
+        "change": -3.869995,
+        "pct_change": -1.25,
+        "date": "2026-04-10"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 345.619995,
-        "change": 2.369995,
-        "pct_change": 0.69,
-        "date": "2026-04-09"
+        "price": 348.950012,
+        "change": 3.330017,
+        "pct_change": 0.963,
+        "date": "2026-04-10"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 318.48999,
-        "change": 1.169983,
-        "pct_change": 0.369,
-        "date": "2026-04-09"
+        "price": 317.23999,
+        "change": -1.25,
+        "pct_change": -0.392,
+        "date": "2026-04-10"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 623.869995,
-        "change": -4.630005,
-        "pct_change": -0.737,
-        "date": "2026-04-09"
+        "price": 613.719971,
+        "change": -10.150024,
+        "pct_change": -1.627,
+        "date": "2026-04-10"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 203.190002,
-        "change": -0.289993,
-        "pct_change": -0.143,
-        "date": "2026-04-09"
+        "price": 201.559998,
+        "change": -1.630005,
+        "pct_change": -0.802,
+        "date": "2026-04-10"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 690.570007,
-        "change": 3.100037,
-        "pct_change": 0.451,
-        "date": "2026-04-09"
+        "price": 673.72998,
+        "change": -16.840027,
+        "pct_change": -2.439,
+        "date": "2026-04-10"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
-      "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Apr 2026 02:10:44 GMT",
+      "title": "Palestinian shot dead during Israeli settler attack on occupied West Bank village",
+      "link": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 10 Apr 2026 17:08:27 GMT",
       "matched_keywords": [
-        "president"
+        "war",
+        "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
-      "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Apr 2026 23:01:47 GMT",
+      "title": "Chimpanzees in Uganda locked in vicious 'civil war', say researchers",
+      "link": "https://www.bbc.com/news/articles/cr71lkzv49po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 10 Apr 2026 16:52:55 GMT",
       "matched_keywords": [
-        "war",
-        "ceasefire"
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Gunmen kill at least four people at Afghanistan picnic spot",
+      "link": "https://www.bbc.com/news/articles/cr51z5p17myo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 10 Apr 2026 20:07:07 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Melania Trump's speech propels Epstein crisis back to forefront",
+      "link": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Apr 2026 03:25:04 GMT",
+      "matched_keywords": [
+        "crisis"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Dutch police urge victims of 'international sextortion campaign' to come forward",
+      "link": "https://www.bbc.com/news/articles/ce84nl4gnz2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 10 Apr 2026 13:24:03 GMT",
+      "matched_keywords": [
+        "war"
       ]
     },
     {
@@ -167,49 +194,22 @@
     },
     {
       "source": "BBC World",
-      "title": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
-      "link": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Apr 2026 11:39:56 GMT",
-      "matched_keywords": [
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
-      "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Apr 2026 01:59:34 GMT",
+      "title": "Trump has handed JD Vance his most difficult mission yet",
+      "link": "https://www.bbc.com/news/articles/c1d9z1q2997o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Apr 2026 00:54:23 GMT",
       "matched_keywords": [
         "war",
-        "president",
-        "nato"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "French far-right leader romantically linked to Italian princess",
-      "link": "https://www.bbc.com/news/articles/clye1288l8no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Apr 2026 15:05:15 GMT",
-      "matched_keywords": [
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Spreading Islamist insurgency dominates Benin's presidential campaign",
-      "link": "https://www.bbc.com/news/articles/c75k1631e75o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Apr 2026 23:02:13 GMT",
+      "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+      "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 23:01:47 GMT",
       "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
-      "link": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Apr 2026 16:06:39 GMT",
-      "matched_keywords": [
-        "war"
+        "war",
+        "ceasefire"
       ]
     }
   ]
