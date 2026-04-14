@@ -1,160 +1,204 @@
 {
-  "generated_at": "2026-04-13T21:30:06+00:00",
+  "generated_at": "2026-04-14T21:30:07+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4766.600098,
-        "change": 4.700195,
-        "pct_change": 0.099,
-        "date": "2026-04-13"
+        "price": 4864.5,
+        "change": 122.100098,
+        "pct_change": 2.575,
+        "date": "2026-04-14"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 75.739998,
-        "change": -0.584,
-        "pct_change": -0.765,
-        "date": "2026-04-13"
+        "price": 79.625,
+        "change": 4.101997,
+        "pct_change": 5.431,
+        "date": "2026-04-14"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1160.75,
-        "change": -15.0,
-        "pct_change": -1.276,
-        "date": "2026-04-13"
+        "price": 1156.5,
+        "change": -5.75,
+        "pct_change": -0.495,
+        "date": "2026-04-14"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 13.82,
-        "change": 0.07,
-        "pct_change": 0.509,
-        "date": "2026-04-13"
+        "price": 14.15,
+        "change": 0.469999,
+        "pct_change": 3.436,
+        "date": "2026-04-14"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.709829,
-        "change": 0.002259,
-        "pct_change": 0.319,
-        "date": "2026-04-13"
+        "price": 0.712246,
+        "change": 0.010256,
+        "pct_change": 1.461,
+        "date": "2026-04-14"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 6886.240234,
-        "change": 69.350098,
-        "pct_change": 1.017,
-        "date": "2026-04-13"
+        "price": 6967.379883,
+        "change": 81.139648,
+        "pct_change": 1.178,
+        "date": "2026-04-14"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.297,
-        "change": -0.02,
-        "pct_change": -0.463,
-        "date": "2026-04-13"
+        "price": 4.256,
+        "change": -0.041,
+        "pct_change": -0.954,
+        "date": "2026-04-14"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25893.539062,
-        "change": 141.138672,
-        "pct_change": 0.548,
-        "date": "2026-04-10"
+        "price": 25660.849609,
+        "change": -232.689453,
+        "pct_change": -0.899,
+        "date": "2026-04-13"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 11236.0,
-        "change": -60.0,
-        "pct_change": -0.531,
-        "date": "2026-04-13"
+        "price": 11370.0,
+        "change": 134.0,
+        "pct_change": 1.193,
+        "date": "2026-04-14"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13145.910156,
-        "change": -37.370117,
-        "pct_change": -0.283,
-        "date": "2026-04-13"
+        "price": 13269.769531,
+        "change": 123.859375,
+        "pct_change": 0.942,
+        "date": "2026-04-14"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8960.599609,
-        "change": -12.600586,
-        "pct_change": -0.14,
-        "date": "2026-04-10"
+        "price": 8926.0,
+        "change": -34.599609,
+        "pct_change": -0.386,
+        "date": "2026-04-13"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 132.369995,
-        "change": 4.309998,
-        "pct_change": 3.366,
-        "date": "2026-04-13"
+        "price": 135.699997,
+        "change": 3.330002,
+        "pct_change": 2.516,
+        "date": "2026-04-14"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 304.51001,
-        "change": -1.169983,
-        "pct_change": -0.383,
-        "date": "2026-04-13"
+        "price": 303.220001,
+        "change": -1.290009,
+        "pct_change": -0.424,
+        "date": "2026-04-14"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 352.420013,
-        "change": 3.470001,
-        "pct_change": 0.994,
-        "date": "2026-04-13"
+        "price": 364.200012,
+        "change": 11.779999,
+        "pct_change": 3.343,
+        "date": "2026-04-14"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 321.309998,
-        "change": 4.070007,
-        "pct_change": 1.283,
-        "date": "2026-04-13"
+        "price": 332.910004,
+        "change": 11.600006,
+        "pct_change": 3.61,
+        "date": "2026-04-14"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 619.690002,
-        "change": 5.970032,
-        "pct_change": 0.973,
-        "date": "2026-04-13"
+        "price": 611.580017,
+        "change": -8.109985,
+        "pct_change": -1.309,
+        "date": "2026-04-14"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 201.410004,
-        "change": -0.149994,
-        "pct_change": -0.074,
-        "date": "2026-04-13"
+        "price": 202.809998,
+        "change": 1.399994,
+        "pct_change": 0.695,
+        "date": "2026-04-14"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 681.309998,
-        "change": 7.580017,
-        "pct_change": 1.125,
-        "date": "2026-04-13"
+        "price": 680.130005,
+        "change": -1.179993,
+        "pct_change": -0.173,
+        "date": "2026-04-14"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
-      "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Apr 2026 11:03:12 GMT",
+      "title": "Hamas rejects Gaza disarmament plan, Palestinian official says",
+      "link": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Apr 2026 14:01:05 GMT",
       "matched_keywords": [
-        "election"
+        "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Israelis war-weary but most oppose Iran ceasefire, poll suggests",
-      "link": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Apr 2026 19:20:08 GMT",
+      "title": "JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat",
+      "link": "https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Apr 2026 15:04:09 GMT",
       "matched_keywords": [
-        "war",
-        "attack",
-        "ceasefire"
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US blockade of Iran ports irresponsible and dangerous, China says",
+      "link": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Apr 2026 14:18:04 GMT",
+      "matched_keywords": [
+        "ceasefire",
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Retrial over death of Argentina legend Maradona begins",
+      "link": "https://www.bbc.com/news/articles/cj377mm7zzvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Apr 2026 17:44:44 GMT",
+      "matched_keywords": [
+        "collapse"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: What are Harry and Meghan doing in Australia?",
+      "link": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Apr 2026 09:41:22 GMT",
+      "matched_keywords": [
+        "coup"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
+      "link": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Apr 2026 21:28:14 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Sixteen injured after ex-student opens fire at high school in Turkey",
+      "link": "https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Apr 2026 13:23:50 GMT",
+      "matched_keywords": [
+        "attack"
       ]
     },
     {
@@ -165,52 +209,6 @@
       "matched_keywords": [
         "president",
         "prime minister"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Ex-Nigerian oil minister denies taking bribes",
-      "link": "https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Apr 2026 16:05:59 GMT",
-      "matched_keywords": [
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Peru election drags into second day after ballot delivery fiasco",
-      "link": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Apr 2026 13:07:12 GMT",
-      "matched_keywords": [
-        "election",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Ghanaian footballer killed after armed attackers open fire at team bus",
-      "link": "https://www.bbc.com/news/articles/czx97pkyy9po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Apr 2026 14:19:02 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Carney on verge of Liberal majority government as votes cast in three by-elections",
-      "link": "https://www.bbc.com/news/articles/c62k3vvln5mo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Apr 2026 08:10:53 GMT",
-      "matched_keywords": [
-        "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran carried out highest number of executions in decades",
-      "link": "https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Apr 2026 12:53:00 GMT",
-      "matched_keywords": [
-        "war"
       ]
     }
   ]
