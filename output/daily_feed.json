@@ -1,142 +1,210 @@
 {
-  "generated_at": "2026-04-15T21:30:06+00:00",
+  "generated_at": "2026-04-16T21:30:06+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4813.899902,
-        "change": -11.100098,
-        "pct_change": -0.23,
-        "date": "2026-04-15"
+        "price": 4810.899902,
+        "change": 10.899902,
+        "pct_change": 0.227,
+        "date": "2026-04-16"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 79.110001,
-        "change": -0.280998,
-        "pct_change": -0.354,
-        "date": "2026-04-15"
+        "price": 78.459999,
+        "change": -1.030998,
+        "pct_change": -1.297,
+        "date": "2026-04-16"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1165.25,
-        "change": 7.25,
-        "pct_change": 0.626,
-        "date": "2026-04-15"
+        "price": 1162.5,
+        "change": -4.5,
+        "pct_change": -0.386,
+        "date": "2026-04-16"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 13.69,
-        "change": -0.190001,
-        "pct_change": -1.369,
-        "date": "2026-04-15"
+        "price": 13.82,
+        "change": 0.309999,
+        "pct_change": 2.295,
+        "date": "2026-04-16"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.717077,
-        "change": 0.007147,
-        "pct_change": 1.007,
-        "date": "2026-04-15"
+        "price": 0.715932,
+        "change": 0.003002,
+        "pct_change": 0.421,
+        "date": "2026-04-16"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7022.950195,
-        "change": 55.570312,
-        "pct_change": 0.798,
-        "date": "2026-04-15"
+        "price": 7041.279785,
+        "change": 18.32959,
+        "pct_change": 0.261,
+        "date": "2026-04-16"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.282,
-        "change": 0.026,
-        "pct_change": 0.611,
-        "date": "2026-04-15"
+        "price": 4.309,
+        "change": 0.027,
+        "pct_change": 0.631,
+        "date": "2026-04-16"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25872.320312,
-        "change": 211.470703,
-        "pct_change": 0.824,
-        "date": "2026-04-14"
+        "price": 25947.320312,
+        "change": 75.0,
+        "pct_change": 0.29,
+        "date": "2026-04-15"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 11351.0,
-        "change": -19.0,
-        "pct_change": -0.167,
-        "date": "2026-04-15"
+        "price": 11257.0,
+        "change": -94.0,
+        "pct_change": -0.828,
+        "date": "2026-04-16"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13219.580078,
-        "change": -50.189453,
-        "pct_change": -0.378,
-        "date": "2026-04-15"
+        "price": 13173.169922,
+        "change": -46.410156,
+        "pct_change": -0.351,
+        "date": "2026-04-16"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8970.799805,
-        "change": 44.799805,
-        "pct_change": 0.502,
-        "date": "2026-04-14"
+        "price": 8978.700195,
+        "change": 7.900391,
+        "pct_change": 0.088,
+        "date": "2026-04-15"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 142.149994,
-        "change": 6.449997,
-        "pct_change": 4.753,
-        "date": "2026-04-15"
+        "price": 142.759995,
+        "change": 0.610001,
+        "pct_change": 0.429,
+        "date": "2026-04-16"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 306.26001,
-        "change": 3.040009,
-        "pct_change": 1.003,
-        "date": "2026-04-15"
+        "price": 306.959991,
+        "change": 0.699982,
+        "pct_change": 0.229,
+        "date": "2026-04-16"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 391.950012,
-        "change": 27.75,
-        "pct_change": 7.619,
-        "date": "2026-04-15"
+        "price": 388.899994,
+        "change": -3.050018,
+        "pct_change": -0.778,
+        "date": "2026-04-16"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 337.119995,
-        "change": 4.209991,
-        "pct_change": 1.265,
-        "date": "2026-04-15"
+        "price": 336.019989,
+        "change": -1.100006,
+        "pct_change": -0.326,
+        "date": "2026-04-16"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 611.099976,
-        "change": -0.480042,
-        "pct_change": -0.078,
-        "date": "2026-04-15"
+        "price": 607.48999,
+        "change": -3.609985,
+        "pct_change": -0.591,
+        "date": "2026-04-16"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 198.389999,
-        "change": -4.419998,
-        "pct_change": -2.179,
-        "date": "2026-04-15"
+        "price": 195.850006,
+        "change": -2.539993,
+        "pct_change": -1.28,
+        "date": "2026-04-16"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 678.590027,
-        "change": -1.539978,
-        "pct_change": -0.226,
-        "date": "2026-04-15"
+        "price": 672.77002,
+        "change": -5.820007,
+        "pct_change": -0.858,
+        "date": "2026-04-16"
       }
     }
   },
   "news": [
+    {
+      "source": "BBC World",
+      "title": "Israel and Lebanon agree 10-day ceasefire, Trump says",
+      "link": "https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 16 Apr 2026 21:18:31 GMT",
+      "matched_keywords": [
+        "ceasefire",
+        "troops",
+        "president",
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+      "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 16 Apr 2026 18:40:45 GMT",
+      "matched_keywords": [
+        "war",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia launches deadliest aerial attack in months, killing 18 in Ukraine",
+      "link": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 16 Apr 2026 15:20:59 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Naples bank robbers hold 25 people hostage then vanish through tunnel",
+      "link": "https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 16 Apr 2026 17:24:46 GMT",
+      "matched_keywords": [
+        "hostage"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Pope lashes out at foreigners who exploit Africa",
+      "link": "https://www.bbc.com/news/articles/c5yj796plqmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 16 Apr 2026 16:59:38 GMT",
+      "matched_keywords": [
+        "conflict"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "'Unprecedented' fire at Australian oil refinery to affect nation's petrol supplies",
+      "link": "https://www.bbc.com/news/articles/cj40pdw79z9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 16 Apr 2026 03:45:29 GMT",
+      "matched_keywords": [
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Wanted activist arrested in South Africa over support for Benin coup plot",
+      "link": "https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 16 Apr 2026 11:10:17 GMT",
+      "matched_keywords": [
+        "military",
+        "coup"
+      ]
+    },
     {
       "source": "BBC World",
       "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
@@ -145,71 +213,6 @@
       "matched_keywords": [
         "war",
         "ceasefire"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Frank Gardner: What is China's role in the Iran war?",
-      "link": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Apr 2026 18:54:06 GMT",
-      "matched_keywords": [
-        "war",
-        "conflict"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Nine killed in second Turkish school shooting in two days",
-      "link": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Apr 2026 20:10:49 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "South Korea jails American YouTuber for public nuisance",
-      "link": "https://www.bbc.com/news/articles/cj400lje9vxo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Apr 2026 04:21:51 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Magyar calls for fast handover of power in talks with Hungary's president",
-      "link": "https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Apr 2026 13:51:20 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack",
-      "link": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Apr 2026 10:00:41 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Starmer says he's 'not going to yield' to pressure from Trump on Iran war",
-      "link": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Apr 2026 15:27:22 GMT",
-      "matched_keywords": [
-        "war",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Vance heckled as he chides Pope",
-      "link": "https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Apr 2026 03:09:28 GMT",
-      "matched_keywords": [
-        "president"
       ]
     }
   ]

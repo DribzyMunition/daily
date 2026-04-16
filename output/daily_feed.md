@@ -1,5 +1,5 @@
-# Daily Feed — 2026-04-15
-*Generated: 2026-04-15T21:30:06+00:00 UTC*
+# Daily Feed — 2026-04-16
+*Generated: 2026-04-16T21:30:06+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,813.8999 | ▼ 11.1001 | -0.23% |
-| Silver |      79.1100 | ▼ 0.2810 | -0.35% |
-| Soybeans |   1,165.2500 | ▲ 7.2500 | +0.63% |
-| Sugar #11 (Raw) |      13.6900 | ▼ 0.1900 | -1.37% |
+| Gold |   4,810.8999 | ▲ 10.8999 | +0.23% |
+| Silver |      78.4600 | ▼ 1.0310 | -1.30% |
+| Soybeans |   1,162.5000 | ▼ 4.5000 | -0.39% |
+| Sugar #11 (Raw) |      13.8200 | ▲ 0.3100 | +2.29% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7171 | ▲ 0.0071 | +1.01% |
+| AUD/USD |       0.7159 | ▲ 0.0030 | +0.42% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,022.9502 | ▲ 55.5703 | +0.80% |
-| US 10Y Yield (%) |       4.2820 | ▲ 0.0260 | +0.61% |
-| Hang Seng 50 |  25,872.3203 | ▲ 211.4707 | +0.82% |
-| South Africa Top 40 |  11,351.0000 | ▼ 19.0000 | -0.17% |
-| Switzerland SMI |  13,219.5801 | ▼ 50.1895 | -0.38% |
-| ASX 200 (XJO) |   8,970.7998 | ▲ 44.7998 | +0.50% |
+| S&P 500 |   7,041.2798 | ▲ 18.3296 | +0.26% |
+| US 10Y Yield (%) |       4.3090 | ▲ 0.0270 | +0.63% |
+| Hang Seng 50 |  25,947.3203 | ▲ 75.0000 | +0.29% |
+| South Africa Top 40 |  11,257.0000 | ▼ 94.0000 | -0.83% |
+| Switzerland SMI |  13,173.1699 | ▼ 46.4102 | -0.35% |
+| ASX 200 (XJO) |   8,978.7002 | ▲ 7.9004 | +0.09% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     142.1500 | ▲ 6.4500 | +4.75% |
-| McDonald's |     306.2600 | ▲ 3.0400 | +1.00% |
-| Tesla |     391.9500 | ▲ 27.7500 | +7.62% |
-| Alphabet |     337.1200 | ▲ 4.2100 | +1.26% |
-| Lockheed Martin |     611.1000 | ▼ 0.4800 | -0.08% |
-| RTX (Raytheon) |     198.3900 | ▼ 4.4200 | -2.18% |
-| Northrop Grumman |     678.5900 | ▼ 1.5400 | -0.23% |
+| Palantir |     142.7600 | ▲ 0.6100 | +0.43% |
+| McDonald's |     306.9600 | ▲ 0.7000 | +0.23% |
+| Tesla |     388.9000 | ▼ 3.0500 | -0.78% |
+| Alphabet |     336.0200 | ▼ 1.1000 | -0.33% |
+| Lockheed Martin |     607.4900 | ▼ 3.6100 | -0.59% |
+| RTX (Raytheon) |     195.8500 | ▼ 2.5400 | -1.28% |
+| Northrop Grumman |     672.7700 | ▼ 5.8200 | -0.86% |
 
 ---
 
 ## Key Global Headlines
 
+**[BBC World]** Israel and Lebanon agree 10-day ceasefire, Trump says
+*Tags: ceasefire, troops, president, prime minister*
+https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Pope criticises 'tyrants' who spend billions on wars after Trump spat
+*Tags: war, president*
+https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Russia launches deadliest aerial attack in months, killing 18 in Ukraine
+*Tags: attack*
+https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Naples bank robbers hold 25 people hostage then vanish through tunnel
+*Tags: hostage*
+https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Pope lashes out at foreigners who exploit Africa
+*Tags: conflict*
+https://www.bbc.com/news/articles/c5yj796plqmo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** 'Unprecedented' fire at Australian oil refinery to affect nation's petrol supplies
+*Tags: oil*
+https://www.bbc.com/news/articles/cj40pdw79z9o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Wanted activist arrested in South Africa over support for Benin coup plot
+*Tags: military, coup*
+https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&at_campaign=rss
+
 **[BBC World]** Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done
 *Tags: war, ceasefire*
 https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Frank Gardner: What is China's role in the Iran war?
-*Tags: war, conflict*
-https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Nine killed in second Turkish school shooting in two days
-*Tags: attack*
-https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** South Korea jails American YouTuber for public nuisance
-*Tags: war*
-https://www.bbc.com/news/articles/cj400lje9vxo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Magyar calls for fast handover of power in talks with Hungary's president
-*Tags: president*
-https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack
-*Tags: attack*
-https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Starmer says he's 'not going to yield' to pressure from Trump on Iran war
-*Tags: war, president*
-https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Watch: Vance heckled as he chides Pope
-*Tags: president*
-https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
