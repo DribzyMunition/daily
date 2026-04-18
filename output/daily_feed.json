@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-04-18T00:10:10+00:00",
+  "generated_at": "2026-04-18T21:30:08+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4849.399902,
-        "change": 64.0,
-        "pct_change": 1.337,
+        "price": 4857.600098,
+        "change": 72.200195,
+        "pct_change": 1.509,
         "date": "2026-04-17"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 80.93,
-        "change": 2.323997,
-        "pct_change": 2.957,
+        "price": 81.737999,
+        "change": 3.131996,
+        "pct_change": 3.984,
         "date": "2026-04-17"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1181.5,
-        "change": 17.75,
-        "pct_change": 1.525,
+        "price": 1167.25,
+        "change": 3.5,
+        "pct_change": 0.301,
         "date": "2026-04-17"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 13.5,
-        "change": -0.16,
-        "pct_change": -1.171,
+        "price": 13.31,
+        "change": -0.349999,
+        "pct_change": -2.562,
         "date": "2026-04-17"
       }
     },
@@ -35,9 +35,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.716825,
-        "change": -0.000755,
-        "pct_change": -0.105,
-        "date": "2026-04-17"
+        "change": 0.000925,
+        "pct_change": 0.129,
+        "date": "2026-04-18"
       }
     },
     "indices": {
@@ -57,31 +57,31 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 26394.259766,
-        "change": 446.939453,
-        "pct_change": 1.722,
-        "date": "2026-04-16"
+        "price": 26160.330078,
+        "change": -233.929688,
+        "pct_change": -0.886,
+        "date": "2026-04-17"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 11257.0,
-        "change": -94.0,
-        "pct_change": -0.828,
-        "date": "2026-04-16"
+        "price": 11628.0,
+        "change": 371.0,
+        "pct_change": 3.296,
+        "date": "2026-04-17"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13173.169922,
-        "change": -46.410156,
-        "pct_change": -0.351,
-        "date": "2026-04-16"
+        "price": 13426.719727,
+        "change": 253.549805,
+        "pct_change": 1.925,
+        "date": "2026-04-17"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8955.0,
-        "change": -23.700195,
-        "pct_change": -0.264,
-        "date": "2026-04-16"
+        "price": 8946.900391,
+        "change": -8.099609,
+        "pct_change": -0.09,
+        "date": "2026-04-17"
       }
     },
     "stocks": {
@@ -139,55 +139,48 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Oil prices plunge as Iran says Strait 'open'",
-      "link": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 21:41:01 GMT",
+      "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
+      "link": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 21:19:46 GMT",
       "matched_keywords": [
-        "ceasefire",
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
-      "link": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 14:31:51 GMT",
-      "matched_keywords": [
+        "attack",
         "ceasefire"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Irish fugitive and suspected crime boss Daniel Kinahan arrested in Dubai",
-      "link": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 17:48:13 GMT",
+      "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
+      "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 18:09:57 GMT",
       "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Palestinians hand over suspect in 1982 attack on Jewish restaurant in Paris",
-      "link": "https://www.bbc.com/news/articles/cj94pkyr9mpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 12:42:06 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Naples bank robbers hold 25 people hostage then vanish through tunnel",
-      "link": "https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Apr 2026 17:24:46 GMT",
-      "matched_keywords": [
+        "attack",
         "hostage"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
-      "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Apr 2026 18:40:45 GMT",
+      "title": "Pope says 'tyrants' speech was not aimed at Trump",
+      "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 16:44:39 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
+      "link": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 21:27:56 GMT",
+      "matched_keywords": [
+        "president",
+        "crisis"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "French film star Nathalie Baye dies aged 77, media report",
+      "link": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 14:52:15 GMT",
       "matched_keywords": [
         "war",
         "president"
@@ -195,20 +188,30 @@
     },
     {
       "source": "BBC World",
-      "title": "What we know about the Israel-Lebanon ceasefire",
-      "link": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 14:56:15 GMT",
+      "title": "French peacekeeper killed in southern Lebanon",
+      "link": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 14:53:17 GMT",
       "matched_keywords": [
-        "ceasefire"
+        "attack",
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Avengers reassemble and Top Gun flies back - Hollywood studios preview their new movies",
-      "link": "https://www.bbc.com/news/articles/cwyk2xrkvnzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 08:30:34 GMT",
+      "title": "What does it take to survive in the Arctic? These rangers have an idea",
+      "link": "https://www.bbc.com/news/videos/ckgepkp3zgjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 17 Apr 2026 23:01:43 GMT",
       "matched_keywords": [
-        "coup"
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "He made jazz under air raids - and built an Indian city's music scene",
+      "link": "https://www.bbc.com/news/articles/cgrlqxlwerqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 17 Apr 2026 23:01:06 GMT",
+      "matched_keywords": [
+        "war"
       ]
     }
   ]

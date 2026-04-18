@@ -1,5 +1,5 @@
 # Daily Feed — 2026-04-18
-*Generated: 2026-04-18T00:10:10+00:00 UTC*
+*Generated: 2026-04-18T21:30:08+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,849.3999 | ▲ 64.0000 | +1.34% |
-| Silver |      80.9300 | ▲ 2.3240 | +2.96% |
-| Soybeans |   1,181.5000 | ▲ 17.7500 | +1.52% |
-| Sugar #11 (Raw) |      13.5000 | ▼ 0.1600 | -1.17% |
+| Gold |   4,857.6001 | ▲ 72.2002 | +1.51% |
+| Silver |      81.7380 | ▲ 3.1320 | +3.98% |
+| Soybeans |   1,167.2500 | ▲ 3.5000 | +0.30% |
+| Sugar #11 (Raw) |      13.3100 | ▼ 0.3500 | -2.56% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7168 | ▼ 0.0008 | -0.10% |
+| AUD/USD |       0.7168 | ▲ 0.0009 | +0.13% |
 
 ### Indices
 
@@ -26,10 +26,10 @@
 |:------|------:|------:|---------:|
 | S&P 500 |   7,126.0601 | ▲ 84.7803 | +1.20% |
 | US 10Y Yield (%) |       4.2460 | ▼ 0.0630 | -1.46% |
-| Hang Seng 50 |  26,394.2598 | ▲ 446.9395 | +1.72% |
-| South Africa Top 40 |  11,257.0000 | ▼ 94.0000 | -0.83% |
-| Switzerland SMI |  13,173.1699 | ▼ 46.4102 | -0.35% |
-| ASX 200 (XJO) |   8,955.0000 | ▼ 23.7002 | -0.26% |
+| Hang Seng 50 |  26,160.3301 | ▼ 233.9297 | -0.89% |
+| South Africa Top 40 |  11,628.0000 | ▲ 371.0000 | +3.30% |
+| Switzerland SMI |  13,426.7197 | ▲ 253.5498 | +1.93% |
+| ASX 200 (XJO) |   8,946.9004 | ▼ 8.0996 | -0.09% |
 
 ### Stocks
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Oil prices plunge as Iran says Strait 'open'
-*Tags: ceasefire, oil*
-https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Strait of Hormuz closed again, Iran says, as ships attacked
+*Tags: attack, ceasefire*
+https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain
-*Tags: ceasefire*
-https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss
+**[BBC World]** At least six killed in Kyiv as gunman opens fire and takes hostages
+*Tags: attack, hostage*
+https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Irish fugitive and suspected crime boss Daniel Kinahan arrested in Dubai
-*Tags: war*
-https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss
+**[BBC World]** Pope says 'tyrants' speech was not aimed at Trump
+*Tags: president*
+https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Palestinians hand over suspect in 1982 attack on Jewish restaurant in Paris
-*Tags: attack*
-https://www.bbc.com/news/articles/cj94pkyr9mpo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row
+*Tags: president, crisis*
+https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Naples bank robbers hold 25 people hostage then vanish through tunnel
-*Tags: hostage*
-https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Pope criticises 'tyrants' who spend billions on wars after Trump spat
+**[BBC World]** French film star Nathalie Baye dies aged 77, media report
 *Tags: war, president*
-https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** What we know about the Israel-Lebanon ceasefire
-*Tags: ceasefire*
-https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss
+**[BBC World]** French peacekeeper killed in southern Lebanon
+*Tags: attack, president*
+https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Avengers reassemble and Top Gun flies back - Hollywood studios preview their new movies
-*Tags: coup*
-https://www.bbc.com/news/articles/cwyk2xrkvnzo?at_medium=RSS&at_campaign=rss
+**[BBC World]** What does it take to survive in the Arctic? These rangers have an idea
+*Tags: military*
+https://www.bbc.com/news/videos/ckgepkp3zgjo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** He made jazz under air raids - and built an Indian city's music scene
+*Tags: war*
+https://www.bbc.com/news/articles/cgrlqxlwerqo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
