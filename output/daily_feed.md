@@ -1,5 +1,5 @@
-# Daily Feed — 2026-04-18
-*Generated: 2026-04-18T21:30:08+00:00 UTC*
+# Daily Feed — 2026-04-19
+*Generated: 2026-04-19T21:30:07+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,857.6001 | ▲ 72.2002 | +1.51% |
-| Silver |      81.7380 | ▲ 3.1320 | +3.98% |
-| Soybeans |   1,167.2500 | ▲ 3.5000 | +0.30% |
-| Sugar #11 (Raw) |      13.3100 | ▼ 0.3500 | -2.56% |
+| Gold |   4,879.6001 | ▲ 94.2002 | +1.97% |
+| Silver |      81.8420 | ▲ 3.2360 | +4.12% |
+| Soybeans |   1,183.0000 | ▲ 19.2500 | +1.65% |
+| Sugar #11 (Raw) |      13.5000 | ▼ 0.1600 | -1.17% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7168 | ▲ 0.0009 | +0.13% |
+| AUD/USD |       0.7131 | ▼ 0.0028 | -0.39% |
 
 ### Indices
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Strait of Hormuz closed again, Iran says, as ships attacked
-*Tags: attack, ceasefire*
-https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Rat poison found in HiPP baby food jar in Austria, police say
+*Tags: war*
+https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** At least six killed in Kyiv as gunman opens fire and takes hostages
-*Tags: attack, hostage*
-https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Zelensky condemns US extension of Russian sanctions waiver
+*Tags: war, sanctions*
+https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Pope says 'tyrants' speech was not aimed at Trump
 *Tags: president*
 https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss
 
+**[BBC World]** Australia's most-decorated soldier vows to fight war crime charges
+*Tags: war*
+https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss
+
 **[BBC World]** Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row
 *Tags: president, crisis*
 https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** French film star Nathalie Baye dies aged 77, media report
-*Tags: war, president*
-https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss
+**[BBC World]** At least six killed in Kyiv as gunman opens fire and takes hostages
+*Tags: attack, hostage*
+https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** French peacekeeper killed in southern Lebanon
 *Tags: attack, president*
 https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** What does it take to survive in the Arctic? These rangers have an idea
-*Tags: military*
-https://www.bbc.com/news/videos/ckgepkp3zgjo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** He made jazz under air raids - and built an Indian city's music scene
-*Tags: war*
-https://www.bbc.com/news/articles/cgrlqxlwerqo?at_medium=RSS&at_campaign=rss
+**[BBC World]** French film star Nathalie Baye dies aged 77, media report
+*Tags: war, president*
+https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

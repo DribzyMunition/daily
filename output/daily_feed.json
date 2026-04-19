@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-04-18T21:30:08+00:00",
+  "generated_at": "2026-04-19T21:30:07+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4857.600098,
-        "change": 72.200195,
-        "pct_change": 1.509,
+        "price": 4879.600098,
+        "change": 94.200195,
+        "pct_change": 1.968,
         "date": "2026-04-17"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 81.737999,
-        "change": 3.131996,
-        "pct_change": 3.984,
+        "price": 81.842003,
+        "change": 3.236,
+        "pct_change": 4.117,
         "date": "2026-04-17"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1167.25,
-        "change": 3.5,
-        "pct_change": 0.301,
+        "price": 1183.0,
+        "change": 19.25,
+        "pct_change": 1.654,
         "date": "2026-04-17"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 13.31,
-        "change": -0.349999,
-        "pct_change": -2.562,
+        "price": 13.5,
+        "change": -0.16,
+        "pct_change": -1.171,
         "date": "2026-04-17"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.716825,
-        "change": 0.000925,
-        "pct_change": 0.129,
-        "date": "2026-04-18"
+        "price": 0.713094,
+        "change": -0.002806,
+        "pct_change": -0.392,
+        "date": "2026-04-19"
       }
     },
     "indices": {
@@ -139,31 +139,39 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
-      "link": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Apr 2026 21:19:46 GMT",
+      "title": "Rat poison found in HiPP baby food jar in Austria, police say",
+      "link": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 12:52:26 GMT",
       "matched_keywords": [
-        "attack",
-        "ceasefire"
+        "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
-      "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Apr 2026 18:09:57 GMT",
+      "title": "Zelensky condemns US extension of Russian sanctions waiver",
+      "link": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 09:55:22 GMT",
       "matched_keywords": [
-        "attack",
-        "hostage"
+        "war",
+        "sanctions"
       ]
     },
     {
       "source": "BBC World",
       "title": "Pope says 'tyrants' speech was not aimed at Trump",
       "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Apr 2026 16:44:39 GMT",
+      "published": "Sun, 19 Apr 2026 07:47:35 GMT",
       "matched_keywords": [
         "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia's most-decorated soldier vows to fight war crime charges",
+      "link": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 05:12:40 GMT",
+      "matched_keywords": [
+        "war"
       ]
     },
     {
@@ -178,19 +186,19 @@
     },
     {
       "source": "BBC World",
-      "title": "French film star Nathalie Baye dies aged 77, media report",
-      "link": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Apr 2026 14:52:15 GMT",
+      "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
+      "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 18:09:57 GMT",
       "matched_keywords": [
-        "war",
-        "president"
+        "attack",
+        "hostage"
       ]
     },
     {
       "source": "BBC World",
       "title": "French peacekeeper killed in southern Lebanon",
       "link": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Apr 2026 14:53:17 GMT",
+      "published": "Sun, 19 Apr 2026 11:39:47 GMT",
       "matched_keywords": [
         "attack",
         "president"
@@ -198,20 +206,12 @@
     },
     {
       "source": "BBC World",
-      "title": "What does it take to survive in the Arctic? These rangers have an idea",
-      "link": "https://www.bbc.com/news/videos/ckgepkp3zgjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 23:01:43 GMT",
+      "title": "French film star Nathalie Baye dies aged 77, media report",
+      "link": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 14:52:15 GMT",
       "matched_keywords": [
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "He made jazz under air raids - and built an Indian city's music scene",
-      "link": "https://www.bbc.com/news/articles/cgrlqxlwerqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 23:01:06 GMT",
-      "matched_keywords": [
-        "war"
+        "war",
+        "president"
       ]
     }
   ]
