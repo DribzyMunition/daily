@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-04-20T21:30:06+00:00",
+  "generated_at": "2026-04-21T22:37:59+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4841.0,
-        "change": -16.600098,
-        "pct_change": -0.342,
-        "date": "2026-04-20"
+        "price": 4735.200195,
+        "change": -71.399902,
+        "pct_change": -1.485,
+        "date": "2026-04-21"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 79.870003,
-        "change": -1.867996,
-        "pct_change": -2.285,
-        "date": "2026-04-20"
+        "price": 76.875,
+        "change": -3.075996,
+        "pct_change": -3.847,
+        "date": "2026-04-21"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1180.75,
-        "change": 13.5,
-        "pct_change": 1.157,
-        "date": "2026-04-20"
+        "price": 1190.5,
+        "change": 24.75,
+        "pct_change": 2.123,
+        "date": "2026-04-21"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 13.63,
-        "change": 0.32,
-        "pct_change": 2.404,
-        "date": "2026-04-20"
+        "price": 13.71,
+        "change": 0.24,
+        "pct_change": 1.782,
+        "date": "2026-04-21"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.717684,
-        "change": 0.001784,
-        "pct_change": 0.249,
-        "date": "2026-04-20"
+        "price": 0.715436,
+        "change": 0.001936,
+        "pct_change": 0.271,
+        "date": "2026-04-21"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7109.140137,
-        "change": -16.919922,
-        "pct_change": -0.237,
-        "date": "2026-04-20"
+        "price": 7064.009766,
+        "change": -45.130371,
+        "pct_change": -0.635,
+        "date": "2026-04-21"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.25,
-        "change": 0.004,
-        "pct_change": 0.094,
-        "date": "2026-04-20"
+        "price": 4.292,
+        "change": 0.042,
+        "pct_change": 0.988,
+        "date": "2026-04-21"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 26160.330078,
-        "change": -233.929688,
-        "pct_change": -0.886,
-        "date": "2026-04-17"
+        "price": 26361.070312,
+        "change": 200.740234,
+        "pct_change": 0.767,
+        "date": "2026-04-20"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 11433.0,
+        "price": 11432.996094,
         "change": -195.0,
         "pct_change": -1.677,
         "date": "2026-04-20"
@@ -78,79 +78,115 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8946.900391,
-        "change": -8.099609,
-        "pct_change": -0.09,
-        "date": "2026-04-17"
+        "price": 8953.299805,
+        "change": 6.399414,
+        "pct_change": 0.072,
+        "date": "2026-04-20"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 145.889999,
-        "change": -0.5,
-        "pct_change": -0.342,
-        "date": "2026-04-20"
+        "price": 145.970001,
+        "change": 0.080002,
+        "pct_change": 0.055,
+        "date": "2026-04-21"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 306.940002,
-        "change": -4.419983,
-        "pct_change": -1.42,
-        "date": "2026-04-20"
+        "price": 301.839996,
+        "change": -5.100006,
+        "pct_change": -1.662,
+        "date": "2026-04-21"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 392.5,
-        "change": -8.119995,
-        "pct_change": -2.027,
-        "date": "2026-04-20"
+        "price": 386.420013,
+        "change": -6.079987,
+        "pct_change": -1.549,
+        "date": "2026-04-21"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 337.420013,
-        "change": -4.259979,
-        "pct_change": -1.247,
-        "date": "2026-04-20"
+        "price": 332.290009,
+        "change": -5.130005,
+        "pct_change": -1.52,
+        "date": "2026-04-21"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 581.280029,
-        "change": -10.909973,
-        "pct_change": -1.842,
-        "date": "2026-04-20"
+        "price": 571.950012,
+        "change": -9.330017,
+        "pct_change": -1.605,
+        "date": "2026-04-21"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 195.789993,
-        "change": -0.630005,
-        "pct_change": -0.321,
-        "date": "2026-04-20"
+        "price": 187.169998,
+        "change": -8.619995,
+        "pct_change": -4.403,
+        "date": "2026-04-21"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 656.97998,
-        "change": -8.280029,
-        "pct_change": -1.245,
-        "date": "2026-04-20"
+        "price": 611.130005,
+        "change": -45.849976,
+        "pct_change": -6.979,
+        "date": "2026-04-21"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
-      "link": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 18:57:25 GMT",
+      "title": "Iran sees mass redundancies from war with US and Israel",
+      "link": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 16:05:51 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
+      "link": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 16:13:27 GMT",
       "matched_keywords": [
         "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
+      "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
+      "link": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 12:28:31 GMT",
+      "matched_keywords": [
+        "treaty"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Madonna offers reward for return of missing Coachella costume",
+      "link": "https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 10:29:05 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "The Onion launches new effort to turn Infowars into parody website",
+      "link": "https://www.bbc.com/news/articles/ckgr7dw55lwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 09:28:46 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan on high alert for 'huge' second quake after lifting tsunami warning",
       "link": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 14:54:21 GMT",
+      "published": "Tue, 21 Apr 2026 01:31:27 GMT",
       "matched_keywords": [
         "war",
         "earthquake",
@@ -159,58 +195,20 @@
     },
     {
       "source": "BBC World",
-      "title": "What we know about the Iranian ship seized by the US",
-      "link": "https://www.bbc.com/news/articles/c75kg0vdxyro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 20:04:59 GMT",
+      "title": "The insider trading suspicions looming over Trump's presidency",
+      "link": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Apr 2026 13:53:22 GMT",
       "matched_keywords": [
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Oil prices rise after Trump says Iranian ship seized",
-      "link": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 20:33:01 GMT",
+      "title": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
+      "link": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 23:07:52 GMT",
       "matched_keywords": [
-        "attack",
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "New Zealand declares state of emergency in Wellington as floods hit",
-      "link": "https://www.bbc.com/news/articles/cly75d9zvj3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 05:48:54 GMT",
-      "matched_keywords": [
-        "flood"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Rumen Radev's party wins Bulgarian election",
-      "link": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 13:01:19 GMT",
-      "matched_keywords": [
-        "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Rat poison found in HiPP baby food jar in Austria, police say",
-      "link": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 12:52:26 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Zelensky condemns US extension of Russian sanctions waiver",
-      "link": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 09:55:22 GMT",
-      "matched_keywords": [
-        "war",
-        "sanctions"
+        "military"
       ]
     }
   ]
