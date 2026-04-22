@@ -1,5 +1,5 @@
-# Daily Feed — 2026-04-21
-*Generated: 2026-04-21T22:37:59+00:00 UTC*
+# Daily Feed — 2026-04-22
+*Generated: 2026-04-22T21:30:07+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,735.2002 | ▼ 71.3999 | -1.49% |
-| Silver |      76.8750 | ▼ 3.0760 | -3.85% |
-| Soybeans |   1,190.5000 | ▲ 24.7500 | +2.12% |
-| Sugar #11 (Raw) |      13.7100 | ▲ 0.2400 | +1.78% |
+| Gold |   4,758.2998 | ▲ 59.8999 | +1.27% |
+| Silver |      77.6850 | ▲ 1.2740 | +1.67% |
+| Soybeans |   1,179.0000 | ▲ 4.5000 | +0.38% |
+| Sugar #11 (Raw) |      13.8100 | ▲ 0.3800 | +2.83% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7154 | ▲ 0.0019 | +0.27% |
+| AUD/USD |       0.7158 | ▼ 0.0016 | -0.23% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,064.0098 | ▼ 45.1304 | -0.64% |
-| US 10Y Yield (%) |       4.2920 | ▲ 0.0420 | +0.99% |
-| Hang Seng 50 |  26,361.0703 | ▲ 200.7402 | +0.77% |
-| South Africa Top 40 |  11,432.9961 | ▼ 195.0000 | -1.68% |
-| Switzerland SMI |  13,284.2197 | ▼ 142.5000 | -1.06% |
-| ASX 200 (XJO) |   8,953.2998 | ▲ 6.3994 | +0.07% |
+| S&P 500 |   7,137.8999 | ▲ 73.8901 | +1.05% |
+| US 10Y Yield (%) |       4.2940 | ▲ 0.0020 | +0.05% |
+| Hang Seng 50 |  26,487.4805 | ▲ 126.4102 | +0.48% |
+| South Africa Top 40 |  11,116.0000 | ▼ 55.0000 | -0.49% |
+| Switzerland SMI |  13,067.6299 | ▼ 66.5098 | -0.51% |
+| ASX 200 (XJO) |   8,949.4004 | ▼ 3.8994 | -0.04% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     145.9700 | ▲ 0.0800 | +0.06% |
-| McDonald's |     301.8400 | ▼ 5.1000 | -1.66% |
-| Tesla |     386.4200 | ▼ 6.0800 | -1.55% |
-| Alphabet |     332.2900 | ▼ 5.1300 | -1.52% |
-| Lockheed Martin |     571.9500 | ▼ 9.3300 | -1.60% |
-| RTX (Raytheon) |     187.1700 | ▼ 8.6200 | -4.40% |
-| Northrop Grumman |     611.1300 | ▼ 45.8500 | -6.98% |
+| Palantir |     152.6200 | ▲ 6.6500 | +4.56% |
+| McDonald's |     300.0700 | ▼ 1.7700 | -0.59% |
+| Tesla |     387.5100 | ▲ 1.0900 | +0.28% |
+| Alphabet |     339.3200 | ▲ 7.0300 | +2.12% |
+| Lockheed Martin |     555.4300 | ▼ 16.5200 | -2.89% |
+| RTX (Raytheon) |     180.9100 | ▼ 6.2600 | -3.35% |
+| Northrop Grumman |     589.6200 | ▼ 21.5100 | -3.52% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Iran sees mass redundancies from war with US and Israel
-*Tags: war*
-https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss
+**[BBC World]** US and Iran in blockade standoff as Pakistan pushes for talks
+*Tags: ceasefire*
+https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Israeli soldiers punished over vandalism of Jesus statue in Lebanon
+**[BBC World]** EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock
+*Tags: oil*
+https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Nigeria's suspected coup plotters deny treason charges
+*Tags: coup*
+https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Lufthansa cuts 20,000 summer flights as fuel prices surge
+*Tags: war*
+https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** No cartels involved - but Mexico's pyramid attack prompts new concerns
+*Tags: attack*
+https://www.bbc.com/news/articles/cre1r5gdq04o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** South Korean fighter jets collided due to pilots taking pictures, report finds
 *Tags: military*
-https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values
-*Tags: treaty*
-https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Madonna offers reward for return of missing Coachella costume
-*Tags: war*
-https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** The Onion launches new effort to turn Infowars into parody website
-*Tags: war*
-https://www.bbc.com/news/articles/ckgr7dw55lwo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Japan on high alert for 'huge' second quake after lifting tsunami warning
-*Tags: war, earthquake, tsunami*
-https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** The insider trading suspicions looming over Trump's presidency
+**[BBC World]** Taiwan president cancels trip after African countries revoke flight permits
 *Tags: president*
-https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** 'They told me he was dead': Children born near army base learn truth about UK soldier dads
-*Tags: military*
-https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Los Angeles becomes first major US school district to limit classroom screen time
+*Tags: pandemic*
+https://www.bbc.com/news/articles/c15d888ww39o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
