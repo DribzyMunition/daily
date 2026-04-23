@@ -1,149 +1,205 @@
 {
-  "generated_at": "2026-04-22T21:30:07+00:00",
+  "generated_at": "2026-04-23T21:30:08+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4758.299805,
-        "change": 59.899902,
-        "pct_change": 1.275,
-        "date": "2026-04-22"
+        "price": 4708.600098,
+        "change": -23.899902,
+        "pct_change": -0.505,
+        "date": "2026-04-23"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 77.684998,
-        "change": 1.273994,
-        "pct_change": 1.667,
-        "date": "2026-04-22"
+        "price": 75.459999,
+        "change": -2.432999,
+        "pct_change": -3.124,
+        "date": "2026-04-23"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1179.0,
-        "change": 4.5,
-        "pct_change": 0.383,
-        "date": "2026-04-22"
+        "price": 1174.75,
+        "change": 10.25,
+        "pct_change": 0.88,
+        "date": "2026-04-23"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 13.81,
-        "change": 0.38,
-        "pct_change": 2.829,
-        "date": "2026-04-22"
+        "price": 13.9,
+        "change": 0.33,
+        "pct_change": 2.432,
+        "date": "2026-04-23"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.715809,
-        "change": -0.001611,
-        "pct_change": -0.225,
-        "date": "2026-04-22"
+        "price": 0.712774,
+        "change": -0.002846,
+        "pct_change": -0.398,
+        "date": "2026-04-23"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7137.899902,
-        "change": 73.890137,
-        "pct_change": 1.046,
-        "date": "2026-04-22"
+        "price": 7108.399902,
+        "change": -29.5,
+        "pct_change": -0.413,
+        "date": "2026-04-23"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.294,
-        "change": 0.002,
-        "pct_change": 0.047,
-        "date": "2026-04-22"
+        "price": 4.323,
+        "change": 0.029,
+        "pct_change": 0.675,
+        "date": "2026-04-23"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 26487.480469,
-        "change": 126.410156,
-        "pct_change": 0.48,
-        "date": "2026-04-21"
+        "price": 26163.240234,
+        "change": -324.240234,
+        "pct_change": -1.224,
+        "date": "2026-04-22"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 11116.0,
-        "change": -55.0,
-        "pct_change": -0.492,
-        "date": "2026-04-22"
+        "price": 10989.0,
+        "change": -127.0,
+        "pct_change": -1.142,
+        "date": "2026-04-23"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13067.629883,
-        "change": -66.509766,
-        "pct_change": -0.506,
-        "date": "2026-04-22"
+        "price": 13248.05957,
+        "change": 180.429688,
+        "pct_change": 1.381,
+        "date": "2026-04-23"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8949.400391,
-        "change": -3.899414,
-        "pct_change": -0.044,
-        "date": "2026-04-21"
+        "price": 8843.599609,
+        "change": -105.800781,
+        "pct_change": -1.182,
+        "date": "2026-04-22"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 152.619995,
-        "change": 6.649994,
-        "pct_change": 4.556,
-        "date": "2026-04-22"
+        "price": 141.570007,
+        "change": -11.049988,
+        "pct_change": -7.24,
+        "date": "2026-04-23"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 300.070007,
-        "change": -1.769989,
-        "pct_change": -0.586,
-        "date": "2026-04-22"
+        "price": 302.529999,
+        "change": 2.459991,
+        "pct_change": 0.82,
+        "date": "2026-04-23"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 387.51001,
-        "change": 1.089996,
-        "pct_change": 0.282,
-        "date": "2026-04-22"
+        "price": 373.720001,
+        "change": -13.790009,
+        "pct_change": -3.559,
+        "date": "2026-04-23"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 339.320007,
-        "change": 7.029999,
-        "pct_change": 2.116,
-        "date": "2026-04-22"
+        "price": 338.890015,
+        "change": -0.429993,
+        "pct_change": -0.127,
+        "date": "2026-04-23"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 555.429993,
-        "change": -16.52002,
-        "pct_change": -2.888,
-        "date": "2026-04-22"
+        "price": 529.789978,
+        "change": -25.640015,
+        "pct_change": -4.616,
+        "date": "2026-04-23"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 180.910004,
-        "change": -6.259995,
-        "pct_change": -3.345,
-        "date": "2026-04-22"
+        "price": 179.300003,
+        "change": -1.610001,
+        "pct_change": -0.89,
+        "date": "2026-04-23"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 589.619995,
-        "change": -21.51001,
-        "pct_change": -3.52,
-        "date": "2026-04-22"
+        "price": 587.659973,
+        "change": -1.960022,
+        "pct_change": -0.332,
+        "date": "2026-04-23"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
-      "link": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Apr 2026 16:19:36 GMT",
+      "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+      "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Apr 2026 17:36:11 GMT",
       "matched_keywords": [
-        "ceasefire"
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "In Tehran, money is short and a return to war looms over daily life",
+      "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Apr 2026 11:26:01 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "More than 500 people killed in Tanzania election violence, inquiry finds",
+      "link": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Apr 2026 15:33:36 GMT",
+      "matched_keywords": [
+        "election"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say",
+      "link": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Apr 2026 15:11:03 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Warner Bros shareholders approve Paramount's $111bn takeover",
+      "link": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Apr 2026 16:15:45 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
+      "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Apr 2026 04:25:30 GMT",
+      "matched_keywords": [
+        "war",
+        "attack",
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "South African court orders Zambia to return former president's body",
+      "link": "https://www.bbc.com/news/articles/cdj7vgwwzgdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Apr 2026 11:39:55 GMT",
+      "matched_keywords": [
+        "president"
       ]
     },
     {
@@ -153,60 +209,6 @@
       "published": "Wed, 22 Apr 2026 17:48:44 GMT",
       "matched_keywords": [
         "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Nigeria's suspected coup plotters deny treason charges",
-      "link": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Apr 2026 17:33:30 GMT",
-      "matched_keywords": [
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
-      "link": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Apr 2026 15:00:40 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "No cartels involved - but Mexico's pyramid attack prompts new concerns",
-      "link": "https://www.bbc.com/news/articles/cre1r5gdq04o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Apr 2026 14:50:52 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "South Korean fighter jets collided due to pilots taking pictures, report finds",
-      "link": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Apr 2026 08:35:34 GMT",
-      "matched_keywords": [
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Taiwan president cancels trip after African countries revoke flight permits",
-      "link": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Apr 2026 06:25:15 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Los Angeles becomes first major US school district to limit classroom screen time",
-      "link": "https://www.bbc.com/news/articles/c15d888ww39o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Apr 2026 14:22:59 GMT",
-      "matched_keywords": [
-        "pandemic"
       ]
     }
   ]
