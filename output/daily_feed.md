@@ -1,5 +1,5 @@
-# Daily Feed — 2026-04-23
-*Generated: 2026-04-23T21:30:08+00:00 UTC*
+# Daily Feed — 2026-04-24
+*Generated: 2026-04-24T21:30:07+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,708.6001 | ▼ 23.8999 | -0.51% |
-| Silver |      75.4600 | ▼ 2.4330 | -3.12% |
-| Soybeans |   1,174.7500 | ▲ 10.2500 | +0.88% |
-| Sugar #11 (Raw) |      13.9000 | ▲ 0.3300 | +2.43% |
+| Gold |   4,725.3999 | ▲ 20.2998 | +0.43% |
+| Silver |      75.6850 | ▲ 0.2200 | +0.29% |
+| Soybeans |   1,176.7500 | ▲ 17.0000 | +1.47% |
+| Sugar #11 (Raw) |      14.1000 | ▲ 0.5000 | +3.68% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7128 | ▼ 0.0028 | -0.40% |
+| AUD/USD |       0.7151 | ▼ 0.0007 | -0.10% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,108.3999 | ▼ 29.5000 | -0.41% |
-| US 10Y Yield (%) |       4.3230 | ▲ 0.0290 | +0.68% |
-| Hang Seng 50 |  26,163.2402 | ▼ 324.2402 | -1.22% |
-| South Africa Top 40 |  10,989.0000 | ▼ 127.0000 | -1.14% |
-| Switzerland SMI |  13,248.0596 | ▲ 180.4297 | +1.38% |
-| ASX 200 (XJO) |   8,843.5996 | ▼ 105.8008 | -1.18% |
+| S&P 500 |   7,165.0801 | ▲ 56.6802 | +0.80% |
+| US 10Y Yield (%) |       4.3100 | ▼ 0.0130 | -0.30% |
+| Hang Seng 50 |  25,915.1992 | ▼ 248.0410 | -0.95% |
+| South Africa Top 40 |  10,990.0000 | ▲ 1.0000 | +0.01% |
+| Switzerland SMI |  13,169.7002 | ▼ 78.3594 | -0.59% |
+| ASX 200 (XJO) |   8,793.4004 | ▼ 50.1992 | -0.57% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     141.5700 | ▼ 11.0500 | -7.24% |
-| McDonald's |     302.5300 | ▲ 2.4600 | +0.82% |
-| Tesla |     373.7200 | ▼ 13.7900 | -3.56% |
-| Alphabet |     338.8900 | ▼ 0.4300 | -0.13% |
-| Lockheed Martin |     529.7900 | ▼ 25.6400 | -4.62% |
-| RTX (Raytheon) |     179.3000 | ▼ 1.6100 | -0.89% |
-| Northrop Grumman |     587.6600 | ▼ 1.9600 | -0.33% |
+| Palantir |     143.0900 | ▲ 1.5200 | +1.07% |
+| McDonald's |     299.3600 | ▼ 3.1700 | -1.05% |
+| Tesla |     376.3000 | ▲ 2.5800 | +0.69% |
+| Alphabet |     344.4000 | ▲ 5.5100 | +1.63% |
+| Lockheed Martin |     513.4500 | ▼ 16.3400 | -3.08% |
+| RTX (Raytheon) |     174.2600 | ▼ 5.0400 | -2.81% |
+| Northrop Grumman |     575.1100 | ▼ 12.5500 | -2.14% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Trump tells BBC that King's visit could 'absolutely' help repair relations with UK
+**[BBC World]** Nato says 'no provision' to expel members after report US could seek to suspend Spain
+*Tags: war, nato*
+https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** No 10 says Falklands sovereignty rests with UK after report of US 'review'
+*Tags: war*
+https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Three Kosovo Serbs jailed over deadly gun battle and monastery siege
+*Tags: attack, siege*
+https://www.bbc.com/news/articles/crr1gwnx4e8o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** US justice department drops probe into Fed chairman Jerome Powell
 *Tags: president*
-https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** In Tehran, money is short and a return to war looms over daily life
+**[BBC World]** Key suspect in notorious Tadamon massacre during Syria civil war arrested
 *Tags: war*
-https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** More than 500 people killed in Tanzania election violence, inquiry finds
-*Tags: election*
-https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say
-*Tags: war*
-https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Warner Bros shareholders approve Paramount's $111bn takeover
-*Tags: war*
-https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Lebanon accuses Israel of targeting journalist killed in air strike
-*Tags: war, attack, prime minister*
-https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** South African court orders Zambia to return former president's body
-*Tags: president*
-https://www.bbc.com/news/articles/cdj7vgwwzgdo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock
+**[BBC World]** Pirates hijack oil tanker off the coast of Somalia
 *Tags: oil*
-https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Israel's Benjamin Netanyahu treated for early-stage prostate cancer
+*Tags: prime minister*
+https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** South Africa's top envoy to Ghana summoned over attacks on foreigners
+*Tags: attack*
+https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

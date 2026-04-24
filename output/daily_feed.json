@@ -1,214 +1,214 @@
 {
-  "generated_at": "2026-04-23T21:30:08+00:00",
+  "generated_at": "2026-04-24T21:30:07+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4708.600098,
-        "change": -23.899902,
-        "pct_change": -0.505,
-        "date": "2026-04-23"
+        "price": 4725.399902,
+        "change": 20.299805,
+        "pct_change": 0.431,
+        "date": "2026-04-24"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 75.459999,
-        "change": -2.432999,
-        "pct_change": -3.124,
-        "date": "2026-04-23"
+        "price": 75.684998,
+        "change": 0.220001,
+        "pct_change": 0.292,
+        "date": "2026-04-24"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1174.75,
-        "change": 10.25,
-        "pct_change": 0.88,
-        "date": "2026-04-23"
+        "price": 1176.75,
+        "change": 17.0,
+        "pct_change": 1.466,
+        "date": "2026-04-24"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 13.9,
-        "change": 0.33,
-        "pct_change": 2.432,
-        "date": "2026-04-23"
+        "price": 14.1,
+        "change": 0.5,
+        "pct_change": 3.676,
+        "date": "2026-04-24"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.712774,
-        "change": -0.002846,
-        "pct_change": -0.398,
-        "date": "2026-04-23"
+        "price": 0.715077,
+        "change": -0.000723,
+        "pct_change": -0.101,
+        "date": "2026-04-24"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7108.399902,
-        "change": -29.5,
-        "pct_change": -0.413,
-        "date": "2026-04-23"
+        "price": 7165.080078,
+        "change": 56.680176,
+        "pct_change": 0.797,
+        "date": "2026-04-24"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.323,
-        "change": 0.029,
-        "pct_change": 0.675,
-        "date": "2026-04-23"
+        "price": 4.31,
+        "change": -0.013,
+        "pct_change": -0.301,
+        "date": "2026-04-24"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 26163.240234,
-        "change": -324.240234,
-        "pct_change": -1.224,
-        "date": "2026-04-22"
+        "price": 25915.199219,
+        "change": -248.041016,
+        "pct_change": -0.948,
+        "date": "2026-04-23"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10989.0,
-        "change": -127.0,
-        "pct_change": -1.142,
-        "date": "2026-04-23"
+        "price": 10990.0,
+        "change": 1.0,
+        "pct_change": 0.009,
+        "date": "2026-04-24"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13248.05957,
-        "change": 180.429688,
-        "pct_change": 1.381,
-        "date": "2026-04-23"
+        "price": 13169.700195,
+        "change": -78.359375,
+        "pct_change": -0.591,
+        "date": "2026-04-24"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8843.599609,
-        "change": -105.800781,
-        "pct_change": -1.182,
-        "date": "2026-04-22"
+        "price": 8793.400391,
+        "change": -50.199219,
+        "pct_change": -0.568,
+        "date": "2026-04-23"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 141.570007,
-        "change": -11.049988,
-        "pct_change": -7.24,
-        "date": "2026-04-23"
+        "price": 143.089996,
+        "change": 1.519989,
+        "pct_change": 1.074,
+        "date": "2026-04-24"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 302.529999,
-        "change": 2.459991,
-        "pct_change": 0.82,
-        "date": "2026-04-23"
+        "price": 299.359985,
+        "change": -3.170013,
+        "pct_change": -1.048,
+        "date": "2026-04-24"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 373.720001,
-        "change": -13.790009,
-        "pct_change": -3.559,
-        "date": "2026-04-23"
+        "price": 376.299988,
+        "change": 2.579987,
+        "pct_change": 0.69,
+        "date": "2026-04-24"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 338.890015,
-        "change": -0.429993,
-        "pct_change": -0.127,
-        "date": "2026-04-23"
+        "price": 344.399994,
+        "change": 5.509979,
+        "pct_change": 1.626,
+        "date": "2026-04-24"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 529.789978,
-        "change": -25.640015,
-        "pct_change": -4.616,
-        "date": "2026-04-23"
+        "price": 513.450012,
+        "change": -16.339966,
+        "pct_change": -3.084,
+        "date": "2026-04-24"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 179.300003,
-        "change": -1.610001,
-        "pct_change": -0.89,
-        "date": "2026-04-23"
+        "price": 174.259995,
+        "change": -5.040009,
+        "pct_change": -2.811,
+        "date": "2026-04-24"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 587.659973,
-        "change": -1.960022,
-        "pct_change": -0.332,
-        "date": "2026-04-23"
+        "price": 575.109985,
+        "change": -12.549988,
+        "pct_change": -2.136,
+        "date": "2026-04-24"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
-      "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 17:36:11 GMT",
+      "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+      "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 16:04:29 GMT",
+      "matched_keywords": [
+        "war",
+        "nato"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+      "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 21:04:23 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Three Kosovo Serbs jailed over deadly gun battle and monastery siege",
+      "link": "https://www.bbc.com/news/articles/crr1gwnx4e8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 17:20:48 GMT",
+      "matched_keywords": [
+        "attack",
+        "siege"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US justice department drops probe into Fed chairman Jerome Powell",
+      "link": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 19:10:25 GMT",
       "matched_keywords": [
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "In Tehran, money is short and a return to war looms over daily life",
-      "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 11:26:01 GMT",
+      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
+      "link": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 10:41:32 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "More than 500 people killed in Tanzania election violence, inquiry finds",
-      "link": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 15:33:36 GMT",
+      "title": "Pirates hijack oil tanker off the coast of Somalia",
+      "link": "https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 17:04:01 GMT",
       "matched_keywords": [
-        "election"
+        "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say",
-      "link": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 15:11:03 GMT",
+      "title": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer",
+      "link": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 11:49:29 GMT",
       "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Warner Bros shareholders approve Paramount's $111bn takeover",
-      "link": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 16:15:45 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
-      "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 04:25:30 GMT",
-      "matched_keywords": [
-        "war",
-        "attack",
         "prime minister"
       ]
     },
     {
       "source": "BBC World",
-      "title": "South African court orders Zambia to return former president's body",
-      "link": "https://www.bbc.com/news/articles/cdj7vgwwzgdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 11:39:55 GMT",
+      "title": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
+      "link": "https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 17:31:41 GMT",
       "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
-      "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Apr 2026 17:48:44 GMT",
-      "matched_keywords": [
-        "oil"
+        "attack"
       ]
     }
   ]
