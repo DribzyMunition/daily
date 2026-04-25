@@ -1,5 +1,5 @@
-# Daily Feed — 2026-04-24
-*Generated: 2026-04-24T21:30:07+00:00 UTC*
+# Daily Feed — 2026-04-25
+*Generated: 2026-04-25T21:30:10+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,725.3999 | ▲ 20.2998 | +0.43% |
-| Silver |      75.6850 | ▲ 0.2200 | +0.29% |
-| Soybeans |   1,176.7500 | ▲ 17.0000 | +1.47% |
-| Sugar #11 (Raw) |      14.1000 | ▲ 0.5000 | +3.68% |
+| Gold |   4,722.2998 | ▲ 17.1997 | +0.37% |
+| Silver |      76.3830 | ▲ 0.9180 | +1.22% |
+| Soybeans |   1,163.7500 | ▲ 4.0000 | +0.34% |
+| Sugar #11 (Raw) |      13.9300 | ▲ 0.3300 | +2.43% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7151 | ▼ 0.0007 | -0.10% |
+| AUD/USD |       0.7153 | ▲ 0.0023 | +0.33% |
 
 ### Indices
 
@@ -26,10 +26,10 @@
 |:------|------:|------:|---------:|
 | S&P 500 |   7,165.0801 | ▲ 56.6802 | +0.80% |
 | US 10Y Yield (%) |       4.3100 | ▼ 0.0130 | -0.30% |
-| Hang Seng 50 |  25,915.1992 | ▼ 248.0410 | -0.95% |
+| Hang Seng 50 |  25,978.0703 | ▲ 62.8711 | +0.24% |
 | South Africa Top 40 |  10,990.0000 | ▲ 1.0000 | +0.01% |
 | Switzerland SMI |  13,169.7002 | ▼ 78.3594 | -0.59% |
-| ASX 200 (XJO) |   8,793.4004 | ▼ 50.1992 | -0.57% |
+| ASX 200 (XJO) |   8,786.5000 | ▼ 6.9004 | -0.08% |
 
 ### Stocks
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Nato says 'no provision' to expel members after report US could seek to suspend Spain
-*Tags: war, nato*
-https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** No 10 says Falklands sovereignty rests with UK after report of US 'review'
+**[BBC World]** Trump cancels US envoys' trip to Pakistan for talks on Iran war
 *Tags: war*
-https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Three Kosovo Serbs jailed over deadly gun battle and monastery siege
-*Tags: attack, siege*
-https://www.bbc.com/news/articles/crr1gwnx4e8o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Explosions and gunfire as armed groups launch co-ordinated attacks across Mali
+*Tags: attack, explosion*
+https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** US justice department drops probe into Fed chairman Jerome Powell
-*Tags: president*
-https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Palestinians in West Bank and some in Gaza vote in local elections
+*Tags: election*
+https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Key suspect in notorious Tadamon massacre during Syria civil war arrested
-*Tags: war*
-https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Pirates hijack oil tanker off the coast of Somalia
-*Tags: oil*
-https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Israel's Benjamin Netanyahu treated for early-stage prostate cancer
+**[BBC World]** Orbán steps down from Hungarian parliament after landslide defeat
 *Tags: prime minister*
-https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** South Africa's top envoy to Ghana summoned over attacks on foreigners
+**[BBC World]** Thirty-one sloths die in Florida before opening of attraction
+*Tags: war*
+https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Seven dead in major Russian attack on Ukraine
 *Tags: attack*
-https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Thousands at risk after multi-million dollar Everest flood warning system left to rust
+*Tags: war, flood*
+https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** US to allow firing squads, gas and electrocution for federal executions
+*Tags: gas*
+https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
