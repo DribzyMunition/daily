@@ -1,5 +1,5 @@
-# Daily Feed — 2026-04-25
-*Generated: 2026-04-25T21:30:10+00:00 UTC*
+# Daily Feed — 2026-04-26
+*Generated: 2026-04-26T21:30:05+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,722.2998 | ▲ 17.1997 | +0.37% |
-| Silver |      76.3830 | ▲ 0.9180 | +1.22% |
-| Soybeans |   1,163.7500 | ▲ 4.0000 | +0.34% |
-| Sugar #11 (Raw) |      13.9300 | ▲ 0.3300 | +2.43% |
+| Gold |   4,740.8999 | ▲ 35.7998 | +0.76% |
+| Silver |      76.4140 | ▲ 0.9490 | +1.26% |
+| Soybeans |   1,178.5000 | ▲ 18.7500 | +1.62% |
+| Sugar #11 (Raw) |      14.1000 | ▲ 0.5000 | +3.68% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7153 | ▲ 0.0023 | +0.33% |
+| AUD/USD |       0.7137 | ▲ 0.0007 | +0.10% |
 
 ### Indices
 
@@ -51,9 +51,13 @@
 *Tags: war*
 https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Explosions and gunfire as armed groups launch co-ordinated attacks across Mali
-*Tags: attack, explosion*
-https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Mali defence minister killed as country hit by wave of rebel attacks
+*Tags: attack*
+https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon
+*Tags: attack, ceasefire*
+https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Palestinians in West Bank and some in Gaza vote in local elections
 *Tags: election*
@@ -74,10 +78,6 @@ https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss
 **[BBC World]** Thousands at risk after multi-million dollar Everest flood warning system left to rust
 *Tags: war, flood*
 https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** US to allow firing squads, gas and electrocution for federal executions
-*Tags: gas*
-https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
