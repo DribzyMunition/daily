@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-04-26T21:30:05+00:00",
+  "generated_at": "2026-04-27T21:30:05+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4740.899902,
-        "change": 35.799805,
-        "pct_change": 0.761,
-        "date": "2026-04-24"
+        "price": 4697.700195,
+        "change": -24.599609,
+        "pct_change": -0.521,
+        "date": "2026-04-27"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 76.414001,
-        "change": 0.949005,
-        "pct_change": 1.258,
-        "date": "2026-04-24"
+        "price": 75.459999,
+        "change": -0.923004,
+        "pct_change": -1.208,
+        "date": "2026-04-27"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1178.5,
-        "change": 18.75,
-        "pct_change": 1.617,
-        "date": "2026-04-24"
+        "price": 1191.25,
+        "change": 27.5,
+        "pct_change": 2.363,
+        "date": "2026-04-27"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.1,
-        "change": 0.5,
-        "pct_change": 3.676,
-        "date": "2026-04-24"
+        "price": 13.99,
+        "change": 0.059999,
+        "pct_change": 0.431,
+        "date": "2026-04-27"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.713674,
-        "change": 0.000712,
-        "pct_change": 0.1,
-        "date": "2026-04-26"
+        "price": 0.718856,
+        "change": 0.005894,
+        "pct_change": 0.827,
+        "date": "2026-04-27"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7165.080078,
-        "change": 56.680176,
-        "pct_change": 0.797,
-        "date": "2026-04-24"
+        "price": 7173.910156,
+        "change": 8.830078,
+        "pct_change": 0.123,
+        "date": "2026-04-27"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.31,
-        "change": -0.013,
-        "pct_change": -0.301,
-        "date": "2026-04-24"
+        "price": 4.336,
+        "change": 0.026,
+        "pct_change": 0.603,
+        "date": "2026-04-27"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
@@ -71,10 +71,10 @@
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13169.700195,
-        "change": -78.359375,
-        "pct_change": -0.591,
-        "date": "2026-04-24"
+        "price": 13165.230469,
+        "change": -4.469727,
+        "pct_change": -0.034,
+        "date": "2026-04-27"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
@@ -87,128 +87,127 @@
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 143.089996,
-        "change": 1.519989,
-        "pct_change": 1.074,
-        "date": "2026-04-24"
+        "price": 143.100006,
+        "change": 0.01001,
+        "pct_change": 0.007,
+        "date": "2026-04-27"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 299.359985,
-        "change": -3.170013,
-        "pct_change": -1.048,
-        "date": "2026-04-24"
+        "price": 290.209991,
+        "change": -9.149994,
+        "pct_change": -3.057,
+        "date": "2026-04-27"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 376.299988,
-        "change": 2.579987,
-        "pct_change": 0.69,
-        "date": "2026-04-24"
+        "price": 378.670013,
+        "change": 2.370026,
+        "pct_change": 0.63,
+        "date": "2026-04-27"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 344.399994,
-        "change": 5.509979,
-        "pct_change": 1.626,
-        "date": "2026-04-24"
+        "price": 350.339996,
+        "change": 5.940002,
+        "pct_change": 1.725,
+        "date": "2026-04-27"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 513.450012,
-        "change": -16.339966,
-        "pct_change": -3.084,
-        "date": "2026-04-24"
+        "price": 513.349976,
+        "change": -0.100037,
+        "pct_change": -0.019,
+        "date": "2026-04-27"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 174.259995,
-        "change": -5.040009,
-        "pct_change": -2.811,
-        "date": "2026-04-24"
+        "price": 173.380005,
+        "change": -0.87999,
+        "pct_change": -0.505,
+        "date": "2026-04-27"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 575.109985,
-        "change": -12.549988,
-        "pct_change": -2.136,
-        "date": "2026-04-24"
+        "price": 575.280029,
+        "change": 0.170044,
+        "pct_change": 0.03,
+        "date": "2026-04-27"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
-      "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 25 Apr 2026 21:34:12 GMT",
+      "title": "Trump says King will be 'very safe' during US visit after security talks",
+      "link": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Apr 2026 09:19:11 GMT",
       "matched_keywords": [
-        "war"
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Mali defence minister killed as country hit by wave of rebel attacks",
-      "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 26 Apr 2026 20:56:26 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
-      "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 26 Apr 2026 00:34:21 GMT",
-      "matched_keywords": [
-        "attack",
-        "ceasefire"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
-      "link": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 25 Apr 2026 17:01:55 GMT",
-      "matched_keywords": [
-        "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Orbán steps down from Hungarian parliament after landslide defeat",
-      "link": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 25 Apr 2026 19:22:31 GMT",
-      "matched_keywords": [
-        "prime minister"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Thirty-one sloths die in Florida before opening of attraction",
-      "link": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 25 Apr 2026 04:02:47 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Seven dead in major Russian attack on Ukraine",
-      "link": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 25 Apr 2026 12:29:37 GMT",
+      "title": "Pakistan accused of attacking Afghan university",
+      "link": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Apr 2026 16:54:13 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
-      "link": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Apr 2026 23:28:09 GMT",
+      "title": "Gunmen raid Nigerian orphanage and kidnap children",
+      "link": "https://www.bbc.com/news/articles/cjd8dmx41vko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Apr 2026 15:39:29 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
+      "link": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Apr 2026 11:42:59 GMT",
       "matched_keywords": [
         "war",
-        "flood"
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian fighters confirm withdrawal from northern Mali city after separatist attacks",
+      "link": "https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Apr 2026 16:26:30 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 42 killed in Chad after water well dispute escalates",
+      "link": "https://www.bbc.com/news/articles/cr717plvxvgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Apr 2026 09:20:50 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war",
+      "link": "https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Apr 2026 06:52:59 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Archbishop praises Pope's anti-war comments during Vatican visit",
+      "link": "https://www.bbc.com/news/articles/c5yjyzrnl16o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Apr 2026 11:19:25 GMT",
+      "matched_keywords": [
+        "war"
       ]
     }
   ]

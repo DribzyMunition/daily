@@ -1,5 +1,5 @@
-# Daily Feed — 2026-04-26
-*Generated: 2026-04-26T21:30:05+00:00 UTC*
+# Daily Feed — 2026-04-27
+*Generated: 2026-04-27T21:30:05+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,740.8999 | ▲ 35.7998 | +0.76% |
-| Silver |      76.4140 | ▲ 0.9490 | +1.26% |
-| Soybeans |   1,178.5000 | ▲ 18.7500 | +1.62% |
-| Sugar #11 (Raw) |      14.1000 | ▲ 0.5000 | +3.68% |
+| Gold |   4,697.7002 | ▼ 24.5996 | -0.52% |
+| Silver |      75.4600 | ▼ 0.9230 | -1.21% |
+| Soybeans |   1,191.2500 | ▲ 27.5000 | +2.36% |
+| Sugar #11 (Raw) |      13.9900 | ▲ 0.0600 | +0.43% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7137 | ▲ 0.0007 | +0.10% |
+| AUD/USD |       0.7189 | ▲ 0.0059 | +0.83% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,165.0801 | ▲ 56.6802 | +0.80% |
-| US 10Y Yield (%) |       4.3100 | ▼ 0.0130 | -0.30% |
+| S&P 500 |   7,173.9102 | ▲ 8.8301 | +0.12% |
+| US 10Y Yield (%) |       4.3360 | ▲ 0.0260 | +0.60% |
 | Hang Seng 50 |  25,978.0703 | ▲ 62.8711 | +0.24% |
 | South Africa Top 40 |  10,990.0000 | ▲ 1.0000 | +0.01% |
-| Switzerland SMI |  13,169.7002 | ▼ 78.3594 | -0.59% |
+| Switzerland SMI |  13,165.2305 | ▼ 4.4697 | -0.03% |
 | ASX 200 (XJO) |   8,786.5000 | ▼ 6.9004 | -0.08% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     143.0900 | ▲ 1.5200 | +1.07% |
-| McDonald's |     299.3600 | ▼ 3.1700 | -1.05% |
-| Tesla |     376.3000 | ▲ 2.5800 | +0.69% |
-| Alphabet |     344.4000 | ▲ 5.5100 | +1.63% |
-| Lockheed Martin |     513.4500 | ▼ 16.3400 | -3.08% |
-| RTX (Raytheon) |     174.2600 | ▼ 5.0400 | -2.81% |
-| Northrop Grumman |     575.1100 | ▼ 12.5500 | -2.14% |
+| Palantir |     143.1000 | ▲ 0.0100 | +0.01% |
+| McDonald's |     290.2100 | ▼ 9.1500 | -3.06% |
+| Tesla |     378.6700 | ▲ 2.3700 | +0.63% |
+| Alphabet |     350.3400 | ▲ 5.9400 | +1.73% |
+| Lockheed Martin |     513.3500 | ▼ 0.1000 | -0.02% |
+| RTX (Raytheon) |     173.3800 | ▼ 0.8800 | -0.51% |
+| Northrop Grumman |     575.2800 | ▲ 0.1700 | +0.03% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Trump cancels US envoys' trip to Pakistan for talks on Iran war
-*Tags: war*
-https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss
+**[BBC World]** Trump says King will be 'very safe' during US visit after security talks
+*Tags: president*
+https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Mali defence minister killed as country hit by wave of rebel attacks
+**[BBC World]** Pakistan accused of attacking Afghan university
 *Tags: attack*
-https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon
-*Tags: attack, ceasefire*
-https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Palestinians in West Bank and some in Gaza vote in local elections
-*Tags: election*
-https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Orbán steps down from Hungarian parliament after landslide defeat
-*Tags: prime minister*
-https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Thirty-one sloths die in Florida before opening of attraction
-*Tags: war*
-https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Seven dead in major Russian attack on Ukraine
+**[BBC World]** Gunmen raid Nigerian orphanage and kidnap children
 *Tags: attack*
-https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cjd8dmx41vko?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Thousands at risk after multi-million dollar Everest flood warning system left to rust
-*Tags: war, flood*
-https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack
+*Tags: war, attack*
+https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Russian fighters confirm withdrawal from northern Mali city after separatist attacks
+*Tags: attack*
+https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** At least 42 killed in Chad after water well dispute escalates
+*Tags: attack*
+https://www.bbc.com/news/articles/cr717plvxvgo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war
+*Tags: war*
+https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Archbishop praises Pope's anti-war comments during Vatican visit
+*Tags: war*
+https://www.bbc.com/news/articles/c5yjyzrnl16o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
