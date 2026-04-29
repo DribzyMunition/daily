@@ -1,5 +1,5 @@
-# Daily Feed — 2026-04-28
-*Generated: 2026-04-28T21:30:07+00:00 UTC*
+# Daily Feed — 2026-04-29
+*Generated: 2026-04-29T22:16:43+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,609.6001 | ▼ 65.7998 | -1.41% |
-| Silver |      73.5500 | ▼ 1.4530 | -1.94% |
-| Soybeans |   1,190.2500 | ▲ 13.0000 | +1.10% |
-| Sugar #11 (Raw) |      14.2400 | ▲ 0.4100 | +2.96% |
+| Gold |   4,554.6001 | ▼ 36.8999 | -0.80% |
+| Silver |      71.7400 | ▼ 1.4650 | -2.00% |
+| Soybeans |   1,197.7500 | ▲ 24.7500 | +2.11% |
+| Sugar #11 (Raw) |      14.7500 | ▲ 0.6400 | +4.54% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7185 | ▲ 0.0042 | +0.59% |
+| AUD/USD |       0.7118 | ▼ 0.0073 | -1.01% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,138.7998 | ▼ 35.1104 | -0.49% |
-| US 10Y Yield (%) |       4.3540 | ▲ 0.0180 | +0.41% |
-| Hang Seng 50 |  25,925.6504 | ▼ 52.4199 | -0.20% |
+| S&P 500 |   7,135.9502 | ▼ 2.8496 | -0.04% |
+| US 10Y Yield (%) |       4.4180 | ▲ 0.0640 | +1.47% |
+| Hang Seng 50 |  25,679.7793 | ▼ 245.8711 | -0.95% |
 | South Africa Top 40 |  10,787.0000 | ▼ 203.0000 | -1.85% |
 | Switzerland SMI |  13,147.9404 | ▼ 17.2900 | -0.13% |
-| ASX 200 (XJO) |   8,766.4004 | ▼ 20.0996 | -0.23% |
+| ASX 200 (XJO) |   8,710.7002 | ▼ 55.7002 | -0.64% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     141.1800 | ▼ 1.9200 | -1.34% |
-| McDonald's |     292.3900 | ▲ 2.1800 | +0.75% |
-| Tesla |     376.0200 | ▼ 2.6500 | -0.70% |
-| Alphabet |     349.7800 | ▼ 0.5600 | -0.16% |
-| Lockheed Martin |     512.2900 | ▼ 1.0600 | -0.21% |
-| RTX (Raytheon) |     175.6800 | ▲ 2.3000 | +1.33% |
-| Northrop Grumman |     577.8200 | ▲ 2.5400 | +0.44% |
+| Palantir |     137.9700 | ▼ 3.2100 | -2.27% |
+| McDonald's |     290.0800 | ▼ 2.3100 | -0.79% |
+| Tesla |     372.8000 | ▼ 3.2200 | -0.86% |
+| Alphabet |     349.9400 | ▲ 0.1600 | +0.05% |
+| Lockheed Martin |     509.8100 | ▼ 2.4800 | -0.48% |
+| RTX (Raytheon) |     172.7900 | ▼ 2.8900 | -1.65% |
+| Northrop Grumman |     572.4100 | ▼ 5.4100 | -0.94% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** United Arab Emirates to quit oil cartel Opec
-*Tags: oil, opec*
-https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Oil price briefly hits $120 after reports of 'extended' Iran blockade
+*Tags: war, oil*
+https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Third Ukrainian strike hits Russian oil refinery and prompts evacuations
-*Tags: oil*
-https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Hungary's next PM says frozen EU funds will be paid out soon
+*Tags: election*
+https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Path cleared for Everest climbers after huge ice block
-*Tags: war, summit, collapse*
-https://www.bbc.com/news/articles/cn0p2xp18yko?at_medium=RSS&at_campaign=rss
+**[BBC World]** New images show suspect taking selfies before Washington press dinner shooting
+*Tags: president, assassination*
+https://www.bbc.com/news/articles/cm2p99n35z4o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Russian superyacht sails through Strait of Hormuz despite blockade
-*Tags: president*
-https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Russia scales back Moscow Victory Day parade, blaming threat from Ukraine
+*Tags: war, military*
+https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Suspect charged with attempted assassination of Trump at Washington dinner
-*Tags: assassination*
-https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Madagascar detains French national over alleged plot to stir unrest
+*Tags: gas*
+https://www.bbc.com/news/articles/c7v96615e99o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Man admits plotting attack on Taylor Swift concert in Vienna
+**[BBC World]** France urges citizens to leave Mali after rebel attacks
 *Tags: attack*
-https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** IS says it was behind deadly Nigeria attack on football pitch
+**[BBC World]** Former US officials criticise Pentagon silence on deadly Iran school attack
 *Tags: attack*
-https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Pakistan accused of attacking Afghan university
-*Tags: attack*
-https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss
+**[BBC World]** Global forest loss slows but El Niño fires could threaten progress
+*Tags: war*
+https://www.bbc.com/news/articles/c78q5pygn66o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
