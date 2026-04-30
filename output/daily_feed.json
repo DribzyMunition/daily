@@ -1,213 +1,212 @@
 {
-  "generated_at": "2026-04-29T22:16:43+00:00",
+  "generated_at": "2026-04-30T21:30:06+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4554.600098,
-        "change": -36.899902,
-        "pct_change": -0.804,
-        "date": "2026-04-29"
+        "price": 4636.0,
+        "change": 90.799805,
+        "pct_change": 1.998,
+        "date": "2026-04-30"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 71.739998,
-        "change": -1.465004,
-        "pct_change": -2.001,
-        "date": "2026-04-29"
+        "price": 74.230003,
+        "change": 2.661003,
+        "pct_change": 3.718,
+        "date": "2026-04-30"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1197.75,
-        "change": 24.75,
-        "pct_change": 2.11,
-        "date": "2026-04-29"
+        "price": 1195.25,
+        "change": 13.0,
+        "pct_change": 1.1,
+        "date": "2026-04-30"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.75,
-        "change": 0.64,
-        "pct_change": 4.536,
-        "date": "2026-04-29"
+        "price": 14.61,
+        "change": -0.070001,
+        "pct_change": -0.477,
+        "date": "2026-04-30"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.711794,
-        "change": -0.007295,
-        "pct_change": -1.014,
-        "date": "2026-04-29"
+        "price": 0.719942,
+        "change": 0.001221,
+        "pct_change": 0.17,
+        "date": "2026-04-30"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7135.950195,
-        "change": -2.849609,
-        "pct_change": -0.04,
-        "date": "2026-04-29"
+        "price": 7209.009766,
+        "change": 73.05957,
+        "pct_change": 1.024,
+        "date": "2026-04-30"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.418,
-        "change": 0.064,
-        "pct_change": 1.47,
-        "date": "2026-04-29"
+        "price": 4.39,
+        "change": -0.028,
+        "pct_change": -0.634,
+        "date": "2026-04-30"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25679.779297,
-        "change": -245.871094,
-        "pct_change": -0.948,
-        "date": "2026-04-28"
+        "price": 26111.839844,
+        "change": 432.060547,
+        "pct_change": 1.682,
+        "date": "2026-04-29"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10787.0,
-        "change": -203.0,
-        "pct_change": -1.847,
-        "date": "2026-04-28"
+        "price": 10860.0,
+        "change": 175.0,
+        "pct_change": 1.638,
+        "date": "2026-04-30"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13147.94043,
-        "change": -17.290039,
-        "pct_change": -0.131,
-        "date": "2026-04-28"
+        "price": 13136.269531,
+        "change": 104.369141,
+        "pct_change": 0.801,
+        "date": "2026-04-30"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8710.700195,
-        "change": -55.700195,
-        "pct_change": -0.635,
-        "date": "2026-04-28"
+        "price": 8687.0,
+        "change": -23.700195,
+        "pct_change": -0.272,
+        "date": "2026-04-29"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 137.970001,
-        "change": -3.209991,
-        "pct_change": -2.274,
-        "date": "2026-04-29"
+        "price": 139.110001,
+        "change": 1.139999,
+        "pct_change": 0.826,
+        "date": "2026-04-30"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 290.079987,
-        "change": -2.310028,
-        "pct_change": -0.79,
-        "date": "2026-04-29"
+        "price": 293.589996,
+        "change": 3.51001,
+        "pct_change": 1.21,
+        "date": "2026-04-30"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 372.799988,
-        "change": -3.220001,
-        "pct_change": -0.856,
-        "date": "2026-04-29"
+        "price": 381.630005,
+        "change": 8.830017,
+        "pct_change": 2.369,
+        "date": "2026-04-30"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 349.940002,
-        "change": 0.160004,
-        "pct_change": 0.046,
-        "date": "2026-04-29"
+        "price": 384.799988,
+        "change": 34.859985,
+        "pct_change": 9.962,
+        "date": "2026-04-30"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 509.809998,
-        "change": -2.47998,
-        "pct_change": -0.484,
-        "date": "2026-04-29"
+        "price": 517.969971,
+        "change": 8.159973,
+        "pct_change": 1.601,
+        "date": "2026-04-30"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 172.789993,
-        "change": -2.889999,
-        "pct_change": -1.645,
-        "date": "2026-04-29"
+        "price": 176.070007,
+        "change": 3.280014,
+        "pct_change": 1.898,
+        "date": "2026-04-30"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 572.409973,
-        "change": -5.410034,
-        "pct_change": -0.936,
-        "date": "2026-04-29"
+        "price": 579.47998,
+        "change": 7.070007,
+        "pct_change": 1.235,
+        "date": "2026-04-30"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Oil price briefly hits $120 after reports of 'extended' Iran blockade",
-      "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 20:24:29 GMT",
+      "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+      "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 16:38:58 GMT",
       "matched_keywords": [
-        "war",
+        "military",
+        "coup"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 18:05:26 GMT",
+      "matched_keywords": [
         "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Hungary's next PM says frozen EU funds will be paid out soon",
-      "link": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 19:51:54 GMT",
+      "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+      "link": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 20:14:48 GMT",
       "matched_keywords": [
-        "election"
+        "ceasefire"
       ]
     },
     {
       "source": "BBC World",
-      "title": "New images show suspect taking selfies before Washington press dinner shooting",
-      "link": "https://www.bbc.com/news/articles/cm2p99n35z4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 16:06:00 GMT",
+      "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
+      "link": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 20:15:20 GMT",
       "matched_keywords": [
-        "president",
-        "assassination"
+        "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
-      "link": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 13:01:57 GMT",
+      "title": "Belgium plans to nationalise nuclear power plants",
+      "link": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 19:50:29 GMT",
       "matched_keywords": [
-        "war",
-        "military"
+        "nuclear",
+        "prime minister"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Madagascar detains French national over alleged plot to stir unrest",
-      "link": "https://www.bbc.com/news/articles/c7v96615e99o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 17:03:16 GMT",
-      "matched_keywords": [
-        "gas"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "France urges citizens to leave Mali after rebel attacks",
-      "link": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 16:46:38 GMT",
+      "title": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
+      "link": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 14:32:23 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
-      "link": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 02:01:50 GMT",
+      "title": "US charges Mexican governor and other leaders with aiding drug cartel",
+      "link": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 03:20:04 GMT",
       "matched_keywords": [
-        "attack"
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Global forest loss slows but El Niño fires could threaten progress",
-      "link": "https://www.bbc.com/news/articles/c78q5pygn66o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 13:26:08 GMT",
+      "title": "Jewish agency warned of 'high' threat level ahead of Bondi shooting, report finds",
+      "link": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 06:16:36 GMT",
       "matched_keywords": [
         "war"
       ]
