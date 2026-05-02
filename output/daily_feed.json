@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-05-01T21:30:05+00:00",
+  "generated_at": "2026-05-02T23:19:42+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4625.600098,
-        "change": 10.899902,
-        "pct_change": 0.236,
+        "price": 4629.899902,
+        "change": 15.199707,
+        "pct_change": 0.329,
         "date": "2026-05-01"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 75.839996,
-        "change": 2.306,
-        "pct_change": 3.136,
+        "price": 75.950996,
+        "change": 2.417,
+        "pct_change": 3.287,
         "date": "2026-05-01"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1201.5,
-        "change": 19.5,
-        "pct_change": 1.65,
+        "price": 1187.75,
+        "change": 5.75,
+        "pct_change": 0.486,
         "date": "2026-05-01"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.97,
-        "change": 0.39,
-        "pct_change": 2.675,
+        "price": 14.95,
+        "change": 0.37,
+        "pct_change": 2.538,
         "date": "2026-05-01"
       }
     },
@@ -35,9 +35,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.720825,
-        "change": 0.00771,
-        "pct_change": 1.081,
-        "date": "2026-05-01"
+        "change": 0.000745,
+        "pct_change": 0.103,
+        "date": "2026-05-02"
       }
     },
     "indices": {
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8665.799805,
-        "change": -21.200195,
-        "pct_change": -0.244,
-        "date": "2026-04-30"
+        "price": 8729.799805,
+        "change": 64.0,
+        "pct_change": 0.739,
+        "date": "2026-05-01"
       }
     },
     "stocks": {
@@ -139,9 +139,70 @@
   "news": [
     {
       "source": "BBC World",
+      "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
+      "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 23:13:55 GMT",
+      "matched_keywords": [
+        "troops",
+        "president",
+        "nato"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
+      "link": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 14:18:14 GMT",
+      "matched_keywords": [
+        "war",
+        "sanctions",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+      "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 16:51:18 GMT",
+      "matched_keywords": [
+        "ceasefire"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil tanker hijacked off coast of Yemen and taken towards Somalia",
+      "link": "https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 17:53:07 GMT",
+      "matched_keywords": [
+        "war",
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
+      "link": "https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 17:01:47 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Cuba condemns new US sanctions as 'illegal' and 'abusive'",
+      "link": "https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 04:57:02 GMT",
+      "matched_keywords": [
+        "sanctions",
+        "oil",
+        "blackout"
+      ]
+    },
+    {
+      "source": "BBC World",
       "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
       "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 21:05:43 GMT",
+      "published": "Sat, 02 May 2026 23:03:03 GMT",
       "matched_keywords": [
         "war",
         "ceasefire",
@@ -150,68 +211,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
-      "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 13:12:10 GMT",
+      "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
+      "link": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 02:43:48 GMT",
       "matched_keywords": [
         "war",
-        "conflict"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
-      "link": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 15:12:14 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
-      "link": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 12:42:29 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Israeli police arrest man after nun attacked in Jerusalem",
-      "link": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 17:03:11 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
-      "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 04:11:53 GMT",
-      "matched_keywords": [
-        "military",
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
-      "link": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 05:04:08 GMT",
-      "matched_keywords": [
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
-      "link": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 05:58:20 GMT",
-      "matched_keywords": [
-        "coup",
-        "election",
         "president"
       ]
     }

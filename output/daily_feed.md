@@ -1,5 +1,5 @@
-# Daily Feed — 2026-05-01
-*Generated: 2026-05-01T21:30:05+00:00 UTC*
+# Daily Feed — 2026-05-02
+*Generated: 2026-05-02T23:19:42+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,625.6001 | ▲ 10.8999 | +0.24% |
-| Silver |      75.8400 | ▲ 2.3060 | +3.14% |
-| Soybeans |   1,201.5000 | ▲ 19.5000 | +1.65% |
-| Sugar #11 (Raw) |      14.9700 | ▲ 0.3900 | +2.67% |
+| Gold |   4,629.8999 | ▲ 15.1997 | +0.33% |
+| Silver |      75.9510 | ▲ 2.4170 | +3.29% |
+| Soybeans |   1,187.7500 | ▲ 5.7500 | +0.49% |
+| Sugar #11 (Raw) |      14.9500 | ▲ 0.3700 | +2.54% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7208 | ▲ 0.0077 | +1.08% |
+| AUD/USD |       0.7208 | ▲ 0.0007 | +0.10% |
 
 ### Indices
 
@@ -29,7 +29,7 @@
 | Hang Seng 50 |  25,776.5293 | ▼ 335.3105 | -1.28% |
 | South Africa Top 40 |  10,860.0000 | ▲ 175.0000 | +1.64% |
 | Switzerland SMI |  13,136.2695 | ▲ 104.3691 | +0.80% |
-| ASX 200 (XJO) |   8,665.7998 | ▼ 21.2002 | -0.24% |
+| ASX 200 (XJO) |   8,729.7998 | ▲ 64.0000 | +0.74% |
 
 ### Stocks
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
+**[BBC World]** Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification
+*Tags: troops, president, nato*
+https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** US threatens shipping firms with sanctions if they pay Iran tolls
+*Tags: war, sanctions, president*
+https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Thirteen killed in Israeli strikes on southern Lebanon, health ministry says
+*Tags: ceasefire*
+https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Oil tanker hijacked off coast of Yemen and taken towards Somalia
+*Tags: war, oil*
+https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Taiwan president visits Eswatini days after blaming China for cancelled trip
+*Tags: president*
+https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Cuba condemns new US sanctions as 'illegal' and 'abusive'
+*Tags: sanctions, oil, blackout*
+https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss
+
 **[BBC World]** Trump tells Congress ceasefire means he does not need their approval for Iran war
 *Tags: war, ceasefire, president*
 https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Billions of meals at risk due to Iran war, says fertiliser boss
-*Tags: war, conflict*
-https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** War criminal Mladic close to death, say lawyers asking judge for jail release
-*Tags: war*
-https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Missing Oscar found after Academy Award winner blocked from taking it on flight
-*Tags: war*
-https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Israeli police arrest man after nun attacked in Jerusalem
-*Tags: attack*
-https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says
-*Tags: military, coup*
-https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** British couple jailed in Iran: 'We're likely to be here for a long time'
-*Tags: coup*
-https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Brazil's Congress approves plan to drastically cut Bolsonaro's jail term
-*Tags: coup, election, president*
-https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Trump claims other presidents flouted war powers law. It's a mixed record
+*Tags: war, president*
+https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
