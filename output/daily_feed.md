@@ -1,5 +1,5 @@
-# Daily Feed — 2026-05-02
-*Generated: 2026-05-02T23:19:42+00:00 UTC*
+# Daily Feed — 2026-05-03
+*Generated: 2026-05-03T22:35:06+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,629.8999 | ▲ 15.1997 | +0.33% |
-| Silver |      75.9510 | ▲ 2.4170 | +3.29% |
-| Soybeans |   1,187.7500 | ▲ 5.7500 | +0.49% |
-| Sugar #11 (Raw) |      14.9500 | ▲ 0.3700 | +2.54% |
+| Gold |   4,628.3999 | ▼ 1.5000 | -0.03% |
+| Silver |      76.1100 | ▲ 0.1590 | +0.21% |
+| Soybeans |   1,203.2500 | ▲ 21.2500 | +1.80% |
+| Sugar #11 (Raw) |      14.9700 | ▲ 0.3900 | +2.67% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7208 | ▲ 0.0007 | +0.10% |
+| AUD/USD |       0.7225 | ▲ 0.0024 | +0.34% |
 
 ### Indices
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification
-*Tags: troops, president, nato*
-https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss
+**[BBC World]** The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?
+*Tags: war, military, ceasefire, president*
+https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** US threatens shipping firms with sanctions if they pay Iran tolls
-*Tags: war, sanctions, president*
-https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Three dead in suspected virus outbreak on Atlantic cruise ship
+*Tags: outbreak*
+https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal
+*Tags: oil*
+https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Nigeria summons South African envoy over attacks on its nationals
+*Tags: attack*
+https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Police officer lowered into crocodile-infested river to recover human remains
+*Tags: flood*
+https://www.bbc.com/news/articles/cz92gk18xn4o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** The clandestine network smuggling Starlink tech into Iran to beat internet blackout
+*Tags: blackout*
+https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Man charged with murder and sexual assault of 5-year-old Australian girl
+*Tags: outbreak*
+https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Thirteen killed in Israeli strikes on southern Lebanon, health ministry says
 *Tags: ceasefire*
 https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Oil tanker hijacked off coast of Yemen and taken towards Somalia
-*Tags: war, oil*
-https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Taiwan president visits Eswatini days after blaming China for cancelled trip
-*Tags: president*
-https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Cuba condemns new US sanctions as 'illegal' and 'abusive'
-*Tags: sanctions, oil, blackout*
-https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump tells Congress ceasefire means he does not need their approval for Iran war
-*Tags: war, ceasefire, president*
-https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump claims other presidents flouted war powers law. It's a mixed record
-*Tags: war, president*
-https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
