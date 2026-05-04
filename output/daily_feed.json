@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-05-03T22:35:06+00:00",
+  "generated_at": "2026-05-04T22:58:49+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4628.399902,
-        "change": -1.5,
-        "pct_change": -0.032,
-        "date": "2026-05-03"
+        "price": 4528.299805,
+        "change": -101.600098,
+        "pct_change": -2.194,
+        "date": "2026-05-04"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 76.110001,
-        "change": 0.159004,
-        "pct_change": 0.209,
-        "date": "2026-05-03"
+        "price": 73.18,
+        "change": -2.770996,
+        "pct_change": -3.648,
+        "date": "2026-05-04"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1203.25,
-        "change": 21.25,
-        "pct_change": 1.798,
-        "date": "2026-05-01"
+        "price": 1222.25,
+        "change": 34.5,
+        "pct_change": 2.905,
+        "date": "2026-05-04"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.97,
-        "change": 0.39,
-        "pct_change": 2.675,
-        "date": "2026-05-01"
+        "price": 15.31,
+        "change": 0.360001,
+        "pct_change": 2.408,
+        "date": "2026-05-04"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.722491,
-        "change": 0.002411,
-        "pct_change": 0.335,
-        "date": "2026-05-03"
+        "price": 0.717,
+        "change": -0.00308,
+        "pct_change": -0.428,
+        "date": "2026-05-04"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7230.120117,
-        "change": 21.110352,
-        "pct_change": 0.293,
-        "date": "2026-05-01"
+        "price": 7200.75,
+        "change": -29.370117,
+        "pct_change": -0.406,
+        "date": "2026-05-04"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.378,
-        "change": -0.012,
-        "pct_change": -0.273,
-        "date": "2026-05-01"
+        "price": 4.446,
+        "change": 0.068,
+        "pct_change": 1.553,
+        "date": "2026-05-04"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
@@ -64,10 +64,10 @@
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10860.0,
-        "change": 175.0,
-        "pct_change": 1.638,
-        "date": "2026-04-30"
+        "price": 10787.0,
+        "change": -73.0,
+        "pct_change": -0.672,
+        "date": "2026-05-04"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
@@ -87,93 +87,110 @@
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 144.070007,
-        "change": 4.960007,
-        "pct_change": 3.566,
-        "date": "2026-05-01"
+        "price": 146.029999,
+        "change": 1.959991,
+        "pct_change": 1.36,
+        "date": "2026-05-04"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 286.640015,
-        "change": -6.949982,
-        "pct_change": -2.367,
-        "date": "2026-05-01"
+        "price": 284.100006,
+        "change": -2.540009,
+        "pct_change": -0.886,
+        "date": "2026-05-04"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 390.820007,
-        "change": 9.190002,
-        "pct_change": 2.408,
-        "date": "2026-05-01"
+        "price": 392.51001,
+        "change": 1.690002,
+        "pct_change": 0.432,
+        "date": "2026-05-04"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 385.690002,
-        "change": 0.890015,
-        "pct_change": 0.231,
-        "date": "2026-05-01"
+        "price": 383.25,
+        "change": -2.440002,
+        "pct_change": -0.633,
+        "date": "2026-05-04"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 512.77002,
-        "change": -5.199951,
-        "pct_change": -1.004,
-        "date": "2026-05-01"
+        "price": 518.150024,
+        "change": 5.380005,
+        "pct_change": 1.049,
+        "date": "2026-05-04"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 173.990005,
-        "change": -2.080002,
-        "pct_change": -1.181,
-        "date": "2026-05-01"
+        "price": 172.899994,
+        "change": -1.090012,
+        "pct_change": -0.626,
+        "date": "2026-05-04"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 568.140015,
-        "change": -11.339966,
-        "pct_change": -1.957,
-        "date": "2026-05-01"
+        "price": 567.0,
+        "change": -1.140015,
+        "pct_change": -0.201,
+        "date": "2026-05-04"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-      "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 02 May 2026 23:19:27 GMT",
+      "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
+      "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 04 May 2026 22:44:07 GMT",
       "matched_keywords": [
-        "war",
+        "attack",
         "military",
-        "ceasefire",
-        "president"
+        "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
       "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 03 May 2026 22:13:36 GMT",
+      "published": "Mon, 04 May 2026 22:18:41 GMT",
       "matched_keywords": [
         "outbreak"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
-      "link": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 03 May 2026 13:43:20 GMT",
+      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+      "link": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 04 May 2026 19:09:14 GMT",
       "matched_keywords": [
-        "oil"
+        "ceasefire"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Nigeria summons South African envoy over attacks on its nationals",
-      "link": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 03 May 2026 10:16:01 GMT",
+      "title": "Antisemitism 'allowed to come into the open' says Bondi victim's daughter",
+      "link": "https://www.bbc.com/news/articles/c1m2rk209mzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 04 May 2026 04:12:04 GMT",
       "matched_keywords": [
         "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "New alliance shakes up Nigerian political landscape",
+      "link": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 04 May 2026 15:47:31 GMT",
+      "matched_keywords": [
+        "election"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "European leaders converge on Armenia as Russia looks on",
+      "link": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 03 May 2026 23:19:05 GMT",
+      "matched_keywords": [
+        "summit"
       ]
     },
     {
@@ -187,29 +204,11 @@
     },
     {
       "source": "BBC World",
-      "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-      "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 02 May 2026 23:17:17 GMT",
+      "title": "Kenya battles to stop the 'goons and guns' as fears of political violence grow",
+      "link": "https://www.bbc.com/news/articles/c9qdz0p0x5qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 03 May 2026 06:57:44 GMT",
       "matched_keywords": [
-        "blackout"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Man charged with murder and sexual assault of 5-year-old Australian girl",
-      "link": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 03 May 2026 05:52:09 GMT",
-      "matched_keywords": [
-        "outbreak"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-      "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 02 May 2026 16:51:18 GMT",
-      "matched_keywords": [
-        "ceasefire"
+        "election"
       ]
     }
   ]
