@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-05-04T22:58:49+00:00",
+  "generated_at": "2026-05-06T00:19:57+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4528.299805,
-        "change": -101.600098,
-        "pct_change": -2.194,
-        "date": "2026-05-04"
+        "price": 4603.5,
+        "change": 84.0,
+        "pct_change": 1.859,
+        "date": "2026-05-05"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 73.18,
-        "change": -2.770996,
-        "pct_change": -3.648,
-        "date": "2026-05-04"
+        "price": 74.195,
+        "change": 1.123001,
+        "pct_change": 1.537,
+        "date": "2026-05-05"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1222.25,
-        "change": 34.5,
-        "pct_change": 2.905,
-        "date": "2026-05-04"
+        "price": 1212.0,
+        "change": 4.5,
+        "pct_change": 0.373,
+        "date": "2026-05-05"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 15.31,
-        "change": 0.360001,
-        "pct_change": 2.408,
-        "date": "2026-05-04"
+        "price": 15.37,
+        "change": 0.08,
+        "pct_change": 0.523,
+        "date": "2026-05-05"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.717,
-        "change": -0.00308,
-        "pct_change": -0.428,
-        "date": "2026-05-04"
+        "price": 0.721033,
+        "change": 0.004284,
+        "pct_change": 0.598,
+        "date": "2026-05-06"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7200.75,
-        "change": -29.370117,
-        "pct_change": -0.406,
-        "date": "2026-05-04"
+        "price": 7259.220215,
+        "change": 58.470215,
+        "pct_change": 0.812,
+        "date": "2026-05-05"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.446,
-        "change": 0.068,
-        "pct_change": 1.553,
-        "date": "2026-05-04"
+        "price": 4.416,
+        "change": -0.03,
+        "pct_change": -0.675,
+        "date": "2026-05-05"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25776.529297,
-        "change": -335.310547,
-        "pct_change": -1.284,
-        "date": "2026-04-30"
+        "price": 26095.880859,
+        "change": 319.351562,
+        "pct_change": 1.239,
+        "date": "2026-05-04"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -71,90 +71,109 @@
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13136.269531,
-        "change": 104.369141,
-        "pct_change": 0.801,
-        "date": "2026-04-30"
+        "price": 13003.330078,
+        "change": -132.939453,
+        "pct_change": -1.012,
+        "date": "2026-05-04"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8729.799805,
-        "change": 64.0,
-        "pct_change": 0.739,
-        "date": "2026-05-01"
+        "price": 8697.099609,
+        "change": -32.700195,
+        "pct_change": -0.375,
+        "date": "2026-05-04"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 146.029999,
-        "change": 1.959991,
-        "pct_change": 1.36,
-        "date": "2026-05-04"
+        "price": 135.910004,
+        "change": -10.119995,
+        "pct_change": -6.93,
+        "date": "2026-05-05"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 284.100006,
-        "change": -2.540009,
-        "pct_change": -0.886,
-        "date": "2026-05-04"
+        "price": 285.170013,
+        "change": 1.070007,
+        "pct_change": 0.377,
+        "date": "2026-05-05"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 392.51001,
-        "change": 1.690002,
-        "pct_change": 0.432,
-        "date": "2026-05-04"
+        "price": 389.369995,
+        "change": -3.140015,
+        "pct_change": -0.8,
+        "date": "2026-05-05"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 383.25,
-        "change": -2.440002,
-        "pct_change": -0.633,
-        "date": "2026-05-04"
+        "price": 388.429993,
+        "change": 5.179993,
+        "pct_change": 1.352,
+        "date": "2026-05-05"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 518.150024,
-        "change": 5.380005,
-        "pct_change": 1.049,
-        "date": "2026-05-04"
+        "price": 508.929993,
+        "change": -9.220032,
+        "pct_change": -1.779,
+        "date": "2026-05-05"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 172.899994,
-        "change": -1.090012,
-        "pct_change": -0.626,
-        "date": "2026-05-04"
+        "price": 172.869995,
+        "change": -0.029999,
+        "pct_change": -0.017,
+        "date": "2026-05-05"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 567.0,
-        "change": -1.140015,
-        "pct_change": -0.201,
-        "date": "2026-05-04"
+        "price": 558.599976,
+        "change": -8.400024,
+        "pct_change": -1.481,
+        "date": "2026-05-05"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
-      "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 04 May 2026 22:44:07 GMT",
+      "title": "Trump says 'Project Freedom' to be paused 'for a short period of time'",
+      "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 05 May 2026 23:44:18 GMT",
       "matched_keywords": [
-        "attack",
-        "military",
-        "oil"
+        "war",
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
-      "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 04 May 2026 22:18:41 GMT",
+      "title": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
+      "link": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 05 May 2026 19:23:18 GMT",
       "matched_keywords": [
-        "outbreak"
+        "attack",
+        "ceasefire"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Nine coal miners die in gas explosion in Colombia",
+      "link": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 05 May 2026 10:09:23 GMT",
+      "matched_keywords": [
+        "gas",
+        "explosion"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Explosion at China fireworks factory kills 26 people",
+      "link": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 05 May 2026 06:06:42 GMT",
+      "matched_keywords": [
+        "explosion"
       ]
     },
     {
@@ -168,38 +187,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Antisemitism 'allowed to come into the open' says Bondi victim's daughter",
-      "link": "https://www.bbc.com/news/articles/c1m2rk209mzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 04 May 2026 04:12:04 GMT",
+      "title": "Finding soldier Tom: Solving family mystery of WW2 Soviet prisoner of war",
+      "link": "https://www.bbc.com/news/articles/cdjpdzvzy41o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 05 May 2026 23:24:33 GMT",
       "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "New alliance shakes up Nigerian political landscape",
-      "link": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 04 May 2026 15:47:31 GMT",
-      "matched_keywords": [
-        "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "European leaders converge on Armenia as Russia looks on",
-      "link": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 03 May 2026 23:19:05 GMT",
-      "matched_keywords": [
-        "summit"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Police officer lowered into crocodile-infested river to recover human remains",
-      "link": "https://www.bbc.com/news/articles/cz92gk18xn4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 03 May 2026 15:47:59 GMT",
-      "matched_keywords": [
-        "flood"
+        "war"
       ]
     },
     {
@@ -209,6 +201,15 @@
       "published": "Sun, 03 May 2026 06:57:44 GMT",
       "matched_keywords": [
         "election"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Voters will judge Trump on the economy - how is it doing?",
+      "link": "https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 03 May 2026 09:52:06 GMT",
+      "matched_keywords": [
+        "president"
       ]
     }
   ]
