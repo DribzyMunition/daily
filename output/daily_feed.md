@@ -1,5 +1,5 @@
-# Daily Feed — 2026-05-06
-*Generated: 2026-05-06T00:19:57+00:00 UTC*
+# Daily Feed — 2026-05-07
+*Generated: 2026-05-07T01:47:24+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,603.5000 | ▲ 84.0000 | +1.86% |
-| Silver |      74.1950 | ▲ 1.1230 | +1.54% |
-| Soybeans |   1,212.0000 | ▲ 4.5000 | +0.37% |
-| Sugar #11 (Raw) |      15.3700 | ▲ 0.0800 | +0.52% |
+| Gold |   4,717.2998 | ▲ 161.5000 | +3.54% |
+| Silver |      78.3450 | ▲ 5.2370 | +7.16% |
+| Soybeans |   1,189.7500 | ▼ 6.0000 | -0.50% |
+| Sugar #11 (Raw) |      14.8300 | ▼ 0.5400 | -3.51% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7210 | ▲ 0.0043 | +0.60% |
+| AUD/USD |       0.7250 | ▲ 0.0046 | +0.63% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,259.2202 | ▲ 58.4702 | +0.81% |
-| US 10Y Yield (%) |       4.4160 | ▼ 0.0300 | -0.68% |
-| Hang Seng 50 |  26,095.8809 | ▲ 319.3516 | +1.24% |
-| South Africa Top 40 |  10,787.0000 | ▼ 73.0000 | -0.67% |
-| Switzerland SMI |  13,003.3301 | ▼ 132.9395 | -1.01% |
-| ASX 200 (XJO) |   8,697.0996 | ▼ 32.7002 | -0.38% |
+| S&P 500 |   7,365.1201 | ▲ 105.8999 | +1.46% |
+| US 10Y Yield (%) |       4.3560 | ▼ 0.0600 | -1.36% |
+| Hang Seng 50 |  26,589.0801 | ▲ 375.3008 | +1.43% |
+| South Africa Top 40 |  10,821.0000 | ▲ 34.0000 | +0.32% |
+| Switzerland SMI |  13,283.2598 | ▲ 231.0898 | +1.77% |
+| ASX 200 (XJO) |   8,855.2998 | ▲ 61.7002 | +0.70% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     135.9100 | ▼ 10.1200 | -6.93% |
-| McDonald's |     285.1700 | ▲ 1.0700 | +0.38% |
-| Tesla |     389.3700 | ▼ 3.1400 | -0.80% |
-| Alphabet |     388.4300 | ▲ 5.1800 | +1.35% |
-| Lockheed Martin |     508.9300 | ▼ 9.2200 | -1.78% |
-| RTX (Raytheon) |     172.8700 | ▼ 0.0300 | -0.02% |
-| Northrop Grumman |     558.6000 | ▼ 8.4000 | -1.48% |
+| Palantir |     133.7900 | ▼ 2.1200 | -1.56% |
+| McDonald's |     284.1000 | ▼ 1.0700 | -0.38% |
+| Tesla |     398.7300 | ▲ 9.3600 | +2.40% |
+| Alphabet |     398.0400 | ▲ 9.6100 | +2.47% |
+| Lockheed Martin |     514.2600 | ▲ 5.3300 | +1.05% |
+| RTX (Raytheon) |     176.7400 | ▲ 3.8700 | +2.24% |
+| Northrop Grumman |     559.6000 | ▲ 1.0000 | +0.18% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Trump says 'Project Freedom' to be paused 'for a short period of time'
-*Tags: war, president*
-https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Iran considering US proposal to end war, official says
+*Tags: war*
+https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump's hopes for an Iran peace deal come with caveats
+*Tags: war*
+https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Israel strikes Beirut for first time since Hezbollah ceasefire
+*Tags: ceasefire*
+https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Oil prices drop and stock markets rise after reports of deal to end Iran war
+*Tags: war, oil*
+https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Massive Alaska megatsunami was second largest ever recorded
+*Tags: tsunami*
+https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten
+*Tags: attack, ceasefire, president*
+https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** China calls for Strait to be reopened 'as soon as possible' in Iran talks
+*Tags: war*
+https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow
 *Tags: attack, ceasefire*
 https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Nine coal miners die in gas explosion in Colombia
-*Tags: gas, explosion*
-https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Explosion at China fireworks factory kills 26 people
-*Tags: explosion*
-https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations
-*Tags: ceasefire*
-https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Finding soldier Tom: Solving family mystery of WW2 Soviet prisoner of war
-*Tags: war*
-https://www.bbc.com/news/articles/cdjpdzvzy41o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Kenya battles to stop the 'goons and guns' as fears of political violence grow
-*Tags: election*
-https://www.bbc.com/news/articles/c9qdz0p0x5qo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Voters will judge Trump on the economy - how is it doing?
-*Tags: president*
-https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
