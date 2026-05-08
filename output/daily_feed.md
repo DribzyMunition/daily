@@ -1,5 +1,5 @@
-# Daily Feed — 2026-05-07
-*Generated: 2026-05-07T01:47:24+00:00 UTC*
+# Daily Feed — 2026-05-08
+*Generated: 2026-05-08T00:56:49+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,717.2998 | ▲ 161.5000 | +3.54% |
-| Silver |      78.3450 | ▲ 5.2370 | +7.16% |
-| Soybeans |   1,189.7500 | ▼ 6.0000 | -0.50% |
-| Sugar #11 (Raw) |      14.8300 | ▼ 0.5400 | -3.51% |
+| Gold |   4,708.8999 | ▲ 27.0000 | +0.58% |
+| Silver |      79.3650 | ▲ 2.5540 | +3.33% |
+| Soybeans |   1,192.7500 | ▲ 13.7500 | +1.17% |
+| Sugar #11 (Raw) |      14.5600 | ▼ 0.2500 | -1.69% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7250 | ▲ 0.0046 | +0.63% |
+| AUD/USD |       0.7209 | ▼ 0.0026 | -0.36% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,365.1201 | ▲ 105.8999 | +1.46% |
-| US 10Y Yield (%) |       4.3560 | ▼ 0.0600 | -1.36% |
-| Hang Seng 50 |  26,589.0801 | ▲ 375.3008 | +1.43% |
-| South Africa Top 40 |  10,821.0000 | ▲ 34.0000 | +0.32% |
+| S&P 500 |   7,337.1099 | ▼ 28.0103 | -0.38% |
+| US 10Y Yield (%) |       4.3920 | ▲ 0.0360 | +0.83% |
+| Hang Seng 50 |  26,213.7793 | ▲ 315.1699 | +1.22% |
+| South Africa Top 40 |  11,203.0000 | ▲ 382.0000 | +3.53% |
 | Switzerland SMI |  13,283.2598 | ▲ 231.0898 | +1.77% |
-| ASX 200 (XJO) |   8,855.2998 | ▲ 61.7002 | +0.70% |
+| ASX 200 (XJO) |   8,779.0000 | ▼ 14.5996 | -0.17% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     133.7900 | ▼ 2.1200 | -1.56% |
-| McDonald's |     284.1000 | ▼ 1.0700 | -0.38% |
-| Tesla |     398.7300 | ▲ 9.3600 | +2.40% |
-| Alphabet |     398.0400 | ▲ 9.6100 | +2.47% |
-| Lockheed Martin |     514.2600 | ▲ 5.3300 | +1.05% |
-| RTX (Raytheon) |     176.7400 | ▲ 3.8700 | +2.24% |
-| Northrop Grumman |     559.6000 | ▲ 1.0000 | +0.18% |
+| Palantir |     137.0500 | ▲ 3.2600 | +2.44% |
+| McDonald's |     283.7000 | ▼ 0.4000 | -0.14% |
+| Tesla |     411.7900 | ▲ 13.0600 | +3.27% |
+| Alphabet |     397.9900 | ▼ 0.0500 | -0.01% |
+| Lockheed Martin |     512.4100 | ▼ 1.8500 | -0.36% |
+| RTX (Raytheon) |     176.7800 | ▲ 0.0400 | +0.02% |
+| Northrop Grumman |     552.2700 | ▼ 7.3300 | -1.31% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Iran considering US proposal to end war, official says
+**[BBC World]** Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says
+*Tags: pandemic, outbreak*
+https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump's 'irresponsible war' to blame for economic slowdown, German minister says
+*Tags: war, president*
+https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan
+*Tags: war, military*
+https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump gives EU ultimatum deadline to approve trade deal with US
+*Tags: tariff*
+https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Fears of renewed Gaza war as Hamas disarmament talks stall
 *Tags: war*
-https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Trump's hopes for an Iran peace deal come with caveats
-*Tags: war*
-https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss
+**[BBC World]** China announces suspended death sentences for former defence ministers
+*Tags: military*
+https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Israel strikes Beirut for first time since Hezbollah ceasefire
-*Tags: ceasefire*
-https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss
+**[BBC World]** 'I wouldn't pay it' - Trump on USA ticket price
+*Tags: president*
+https://www.bbc.com/sport/football/articles/cdxpq70grzlo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Oil prices drop and stock markets rise after reports of deal to end Iran war
-*Tags: war, oil*
-https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Massive Alaska megatsunami was second largest ever recorded
-*Tags: tsunami*
-https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten
-*Tags: attack, ceasefire, president*
-https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** China calls for Strait to be reopened 'as soon as possible' in Iran talks
-*Tags: war*
-https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow
-*Tags: attack, ceasefire*
-https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss
+**[BBC World]** South Africa condemns 'fake videos' of alleged xenophobic attacks
+*Tags: attack*
+https://www.bbc.com/news/articles/cx21g3vl63zo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

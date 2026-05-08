@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-05-07T01:47:24+00:00",
+  "generated_at": "2026-05-08T00:56:49+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4717.299805,
-        "change": 161.5,
-        "pct_change": 3.545,
-        "date": "2026-05-06"
+        "price": 4708.899902,
+        "change": 27.0,
+        "pct_change": 0.577,
+        "date": "2026-05-07"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 78.345001,
-        "change": 5.237,
-        "pct_change": 7.163,
-        "date": "2026-05-06"
+        "price": 79.364998,
+        "change": 2.554001,
+        "pct_change": 3.325,
+        "date": "2026-05-07"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1189.75,
-        "change": -6.0,
-        "pct_change": -0.502,
-        "date": "2026-05-06"
+        "price": 1192.75,
+        "change": 13.75,
+        "pct_change": 1.166,
+        "date": "2026-05-07"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.83,
-        "change": -0.54,
-        "pct_change": -3.513,
-        "date": "2026-05-06"
+        "price": 14.56,
+        "change": -0.25,
+        "pct_change": -1.688,
+        "date": "2026-05-07"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.724953,
-        "change": 0.004563,
-        "pct_change": 0.633,
-        "date": "2026-05-07"
+        "price": 0.720929,
+        "change": -0.002581,
+        "pct_change": -0.357,
+        "date": "2026-05-08"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7365.120117,
-        "change": 105.899902,
-        "pct_change": 1.459,
-        "date": "2026-05-06"
+        "price": 7337.109863,
+        "change": -28.010254,
+        "pct_change": -0.38,
+        "date": "2026-05-07"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.356,
-        "change": -0.06,
-        "pct_change": -1.359,
-        "date": "2026-05-06"
+        "price": 4.392,
+        "change": 0.036,
+        "pct_change": 0.826,
+        "date": "2026-05-07"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 26589.080078,
-        "change": 375.300781,
-        "pct_change": 1.432,
-        "date": "2026-05-07"
+        "price": 26213.779297,
+        "change": 315.169922,
+        "pct_change": 1.217,
+        "date": "2026-05-06"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10821.0,
-        "change": 34.0,
-        "pct_change": 0.315,
-        "date": "2026-05-05"
+        "price": 11203.0,
+        "change": 382.0,
+        "pct_change": 3.53,
+        "date": "2026-05-06"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
@@ -78,139 +78,138 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8855.299805,
-        "change": 61.700195,
-        "pct_change": 0.702,
-        "date": "2026-05-07"
+        "price": 8779.0,
+        "change": -14.599609,
+        "pct_change": -0.166,
+        "date": "2026-05-08"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 133.789993,
-        "change": -2.12001,
-        "pct_change": -1.56,
-        "date": "2026-05-06"
+        "price": 137.050003,
+        "change": 3.26001,
+        "pct_change": 2.437,
+        "date": "2026-05-07"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 284.100006,
-        "change": -1.070007,
-        "pct_change": -0.375,
-        "date": "2026-05-06"
+        "price": 283.700012,
+        "change": -0.399994,
+        "pct_change": -0.141,
+        "date": "2026-05-07"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 398.730011,
-        "change": 9.360016,
-        "pct_change": 2.404,
-        "date": "2026-05-06"
+        "price": 411.790009,
+        "change": 13.059998,
+        "pct_change": 3.275,
+        "date": "2026-05-07"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 398.040009,
-        "change": 9.610016,
-        "pct_change": 2.474,
-        "date": "2026-05-06"
+        "price": 397.98999,
+        "change": -0.050018,
+        "pct_change": -0.013,
+        "date": "2026-05-07"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 514.26001,
-        "change": 5.330017,
-        "pct_change": 1.047,
-        "date": "2026-05-06"
+        "price": 512.409973,
+        "change": -1.850037,
+        "pct_change": -0.36,
+        "date": "2026-05-07"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 176.740005,
-        "change": 3.87001,
-        "pct_change": 2.239,
-        "date": "2026-05-06"
+        "price": 176.779999,
+        "change": 0.039993,
+        "pct_change": 0.023,
+        "date": "2026-05-07"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 559.599976,
-        "change": 1.0,
-        "pct_change": 0.179,
-        "date": "2026-05-06"
+        "price": 552.27002,
+        "change": -7.329956,
+        "pct_change": -1.31,
+        "date": "2026-05-07"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Iran considering US proposal to end war, official says",
-      "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 21:27:59 GMT",
+      "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
+      "link": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 17:55:08 GMT",
       "matched_keywords": [
-        "war"
+        "pandemic",
+        "outbreak"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Trump's hopes for an Iran peace deal come with caveats",
-      "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 17:32:04 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
-      "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 19:58:04 GMT",
-      "matched_keywords": [
-        "ceasefire"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-      "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 16:11:44 GMT",
+      "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+      "link": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 18:13:11 GMT",
       "matched_keywords": [
         "war",
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Massive Alaska megatsunami was second largest ever recorded",
-      "link": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 12:00:25 GMT",
-      "matched_keywords": [
-        "tsunami"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
-      "link": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 11:53:20 GMT",
-      "matched_keywords": [
-        "attack",
-        "ceasefire",
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
-      "link": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 09:35:39 GMT",
+      "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
+      "link": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 16:00:05 GMT",
+      "matched_keywords": [
+        "war",
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump gives EU ultimatum deadline to approve trade deal with US",
+      "link": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 23:11:35 GMT",
+      "matched_keywords": [
+        "tariff"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Fears of renewed Gaza war as Hamas disarmament talks stall",
+      "link": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 14:22:20 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
-      "link": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 05 May 2026 19:23:18 GMT",
+      "title": "China announces suspended death sentences for former defence ministers",
+      "link": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 12:24:55 GMT",
       "matched_keywords": [
-        "attack",
-        "ceasefire"
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "'I wouldn't pay it' - Trump on USA ticket price",
+      "link": "https://www.bbc.com/sport/football/articles/cdxpq70grzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 18:53:49 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "South Africa condemns 'fake videos' of alleged xenophobic attacks",
+      "link": "https://www.bbc.com/news/articles/cx21g3vl63zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 13:25:14 GMT",
+      "matched_keywords": [
+        "attack"
       ]
     }
   ]
