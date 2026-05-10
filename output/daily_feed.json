@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-05-09T01:27:15+00:00",
+  "generated_at": "2026-05-10T01:20:52+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4723.700195,
-        "change": 23.900391,
-        "pct_change": 0.509,
+        "price": 4720.399902,
+        "change": 20.600098,
+        "pct_change": 0.438,
         "date": "2026-05-08"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 80.834999,
-        "change": 1.134003,
-        "pct_change": 1.423,
+        "price": 80.394997,
+        "change": 0.694,
+        "pct_change": 0.871,
         "date": "2026-05-08"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1206.25,
-        "change": 29.25,
-        "pct_change": 2.485,
+        "price": 1194.25,
+        "change": 17.25,
+        "pct_change": 1.466,
         "date": "2026-05-08"
       },
       "Sugar #11 (Raw)": {
@@ -35,9 +35,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.724953,
-        "change": 0.001443,
-        "pct_change": 0.199,
-        "date": "2026-05-08"
+        "change": 0.004093,
+        "pct_change": 0.568,
+        "date": "2026-05-09"
       }
     },
     "indices": {
@@ -57,31 +57,31 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 26626.279297,
-        "change": 412.5,
-        "pct_change": 1.574,
-        "date": "2026-05-07"
+        "price": 26393.710938,
+        "change": -232.568359,
+        "pct_change": -0.873,
+        "date": "2026-05-08"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 11229.0,
-        "change": 26.0,
-        "pct_change": 0.232,
-        "date": "2026-05-07"
+        "price": 11127.0,
+        "change": -102.0,
+        "pct_change": -0.908,
+        "date": "2026-05-08"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13135.429688,
-        "change": -147.830078,
-        "pct_change": -1.113,
-        "date": "2026-05-07"
+        "price": 13100.629883,
+        "change": -34.799805,
+        "pct_change": -0.265,
+        "date": "2026-05-08"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8878.099609,
-        "change": 84.5,
-        "pct_change": 0.961,
-        "date": "2026-05-07"
+        "price": 8744.400391,
+        "change": -133.699219,
+        "pct_change": -1.506,
+        "date": "2026-05-08"
       }
     },
     "stocks": {
@@ -139,30 +139,49 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Iran accuses US of 'reckless military adventure'",
-      "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 16:11:06 GMT",
-      "matched_keywords": [
-        "attack",
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
-      "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 18:59:58 GMT",
+      "title": "Lebanon says Israeli strikes killed 39",
+      "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 21:23:14 GMT",
       "matched_keywords": [
         "ceasefire"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Greece examines mystery naval drone found in Ionian Sea",
-      "link": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 17:53:25 GMT",
+      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
+      "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 10 May 2026 00:46:07 GMT",
       "matched_keywords": [
-        "war"
+        "conflict",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Tenerife medics poised for arrival of virus-hit cruise ship",
+      "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 10 May 2026 01:08:51 GMT",
+      "matched_keywords": [
+        "outbreak"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia's right-wing One Nation party scores historic parliamentary win",
+      "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 14:36:21 GMT",
+      "matched_keywords": [
+        "election"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran accuses US of 'reckless military adventure'",
+      "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 06:13:30 GMT",
+      "matched_keywords": [
+        "attack",
+        "military"
       ]
     },
     {
@@ -177,41 +196,20 @@
     },
     {
       "source": "BBC World",
-      "title": "Three dead after volcano erupts on Indonesian island",
-      "link": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 11:54:14 GMT",
+      "title": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
+      "link": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 14:03:11 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "White House calls Mark Hamill 'sick' after actor's Trump grave post",
-      "link": "https://www.bbc.com/news/articles/c4g723pkgllo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 11:14:17 GMT",
+      "title": "Greece examines mystery naval drone found in Ionian Sea",
+      "link": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 17:53:25 GMT",
       "matched_keywords": [
-        "war",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
-      "link": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 21:02:52 GMT",
-      "matched_keywords": [
-        "outbreak"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-      "link": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 08:43:55 GMT",
-      "matched_keywords": [
-        "ceasefire",
-        "president",
-        "oil"
+        "war"
       ]
     }
   ]
