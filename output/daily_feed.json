@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-05-10T01:20:52+00:00",
+  "generated_at": "2026-05-11T01:57:49+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4720.399902,
-        "change": 20.600098,
-        "pct_change": 0.438,
-        "date": "2026-05-08"
+        "price": 4704.100098,
+        "change": -16.299805,
+        "pct_change": -0.345,
+        "date": "2026-05-10"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 80.394997,
-        "change": 0.694,
-        "pct_change": 0.871,
-        "date": "2026-05-08"
+        "price": 81.230003,
+        "change": 0.835007,
+        "pct_change": 1.039,
+        "date": "2026-05-10"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1194.25,
-        "change": 17.25,
-        "pct_change": 1.466,
-        "date": "2026-05-08"
+        "price": 1214.0,
+        "change": 19.75,
+        "pct_change": 1.654,
+        "date": "2026-05-10"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
@@ -34,10 +34,10 @@
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.724953,
-        "change": 0.004093,
-        "pct_change": 0.568,
-        "date": "2026-05-09"
+        "price": 0.723432,
+        "change": 0.002572,
+        "pct_change": 0.357,
+        "date": "2026-05-11"
       }
     },
     "indices": {
@@ -57,10 +57,10 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 26393.710938,
-        "change": -232.568359,
-        "pct_change": -0.873,
-        "date": "2026-05-08"
+        "price": 26257.179688,
+        "change": -136.53125,
+        "pct_change": -0.517,
+        "date": "2026-05-11"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8744.400391,
-        "change": -133.699219,
-        "pct_change": -1.506,
-        "date": "2026-05-08"
+        "price": 8660.0,
+        "change": -84.400391,
+        "pct_change": -0.965,
+        "date": "2026-05-11"
       }
     },
     "stocks": {
@@ -139,6 +139,61 @@
   "news": [
     {
       "source": "BBC World",
+      "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+      "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 01:55:13 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "French national shows symptoms on return from hantavirus-hit ship",
+      "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 10 May 2026 19:43:57 GMT",
+      "matched_keywords": [
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran activists tell BBC how threat of war intensifies trauma of repression",
+      "link": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 10 May 2026 21:01:17 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Dress made from 500 loaves stuns African film awards",
+      "link": "https://www.bbc.com/news/articles/c4g0d3d5zn4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 10 May 2026 14:29:45 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
+      "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 10 May 2026 13:56:43 GMT",
+      "matched_keywords": [
+        "conflict",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Suspected boat explosion injures 11 in Miami",
+      "link": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 10 May 2026 03:24:44 GMT",
+      "matched_keywords": [
+        "explosion"
+      ]
+    },
+    {
+      "source": "BBC World",
       "title": "Lebanon says Israeli strikes killed 39",
       "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 09 May 2026 21:23:14 GMT",
@@ -148,68 +203,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 00:46:07 GMT",
-      "matched_keywords": [
-        "conflict",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Tenerife medics poised for arrival of virus-hit cruise ship",
-      "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 01:08:51 GMT",
-      "matched_keywords": [
-        "outbreak"
-      ]
-    },
-    {
-      "source": "BBC World",
       "title": "Australia's right-wing One Nation party scores historic parliamentary win",
       "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 14:36:21 GMT",
+      "published": "Sun, 10 May 2026 14:37:16 GMT",
       "matched_keywords": [
         "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran accuses US of 'reckless military adventure'",
-      "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 06:13:30 GMT",
-      "matched_keywords": [
-        "attack",
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "International cyber attack disrupts swathe of universities and schools",
-      "link": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 01:17:55 GMT",
-      "matched_keywords": [
-        "war",
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
-      "link": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 14:03:11 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Greece examines mystery naval drone found in Ionian Sea",
-      "link": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 17:53:25 GMT",
-      "matched_keywords": [
-        "war"
       ]
     }
   ]
