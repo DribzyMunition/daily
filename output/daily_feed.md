@@ -1,5 +1,5 @@
-# Daily Feed — 2026-05-12
-*Generated: 2026-05-12T03:02:18+00:00 UTC*
+# Daily Feed — 2026-05-13
+*Generated: 2026-05-13T01:45:04+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,740.3999 | ▲ 20.0000 | +0.42% |
-| Silver |      86.9600 | ▲ 6.5650 | +8.17% |
-| Soybeans |   1,215.7500 | ▲ 21.5000 | +1.80% |
-| Sugar #11 (Raw) |      14.9500 | ▲ 0.2600 | +1.77% |
+| Gold |   4,713.3999 | ▼ 5.3003 | -0.11% |
+| Silver |      87.5200 | ▲ 2.0350 | +2.38% |
+| Soybeans |   1,226.5000 | ▲ 26.7500 | +2.23% |
+| Sugar #11 (Raw) |      14.9800 | ▲ 0.0700 | +0.47% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7239 | ▲ 0.0002 | +0.02% |
+| AUD/USD |       0.7244 | ▼ 0.0002 | -0.03% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,412.8398 | ▲ 13.9097 | +0.19% |
-| US 10Y Yield (%) |       4.4100 | ▲ 0.0460 | +1.05% |
-| Hang Seng 50 |  26,582.4492 | ▲ 175.6094 | +0.67% |
-| South Africa Top 40 |  11,127.0000 | ▼ 102.0000 | -0.91% |
+| S&P 500 |   7,400.9600 | ▼ 11.8799 | -0.16% |
+| US 10Y Yield (%) |       4.4630 | ▲ 0.0530 | +1.20% |
+| Hang Seng 50 |  26,387.2207 | ▼ 19.6191 | -0.07% |
+| South Africa Top 40 |  11,206.0000 | ▲ 79.0000 | +0.71% |
 | Switzerland SMI |  13,101.3301 | ▲ 0.7002 | +0.01% |
-| ASX 200 (XJO) |   8,663.5996 | ▼ 38.2002 | -0.44% |
+| ASX 200 (XJO) |   8,642.0000 | ▼ 59.7998 | -0.69% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     136.8900 | ▼ 0.9100 | -0.66% |
-| McDonald's |     274.6000 | ▼ 1.1500 | -0.42% |
-| Tesla |     445.0000 | ▲ 16.6500 | +3.89% |
-| Alphabet |     388.6400 | ▼ 12.1600 | -3.03% |
-| Lockheed Martin |     512.2500 | ▲ 5.7400 | +1.13% |
-| RTX (Raytheon) |     178.6100 | ▲ 2.5200 | +1.43% |
-| Northrop Grumman |     548.2100 | ▼ 1.3100 | -0.24% |
+| Palantir |     136.0000 | ▼ 0.8900 | -0.65% |
+| McDonald's |     274.8400 | ▲ 0.2400 | +0.09% |
+| Tesla |     433.4500 | ▼ 11.5500 | -2.60% |
+| Alphabet |     387.3500 | ▼ 1.2900 | -0.33% |
+| Lockheed Martin |     521.0000 | ▲ 8.7500 | +1.71% |
+| RTX (Raytheon) |     178.8900 | ▲ 0.2800 | +0.16% |
+| Northrop Grumman |     558.3000 | ▲ 10.0900 | +1.84% |
 
 ---
 
 ## Key Global Headlines
 
+**[BBC World]** No sign of larger hantavirus outbreak, says UN health agency
+*Tags: war, outbreak*
+https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss
+
 **[BBC World]** Trump says Iran ceasefire is on 'massive life support'
 *Tags: war, ceasefire, president*
 https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** How the Trump-Xi summit could set superpower relations for many years to come
+**[BBC World]** Lebanon says two paramedics among 13 killed in Israeli strikes
+*Tags: attack*
+https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** US inflation jumps to 3.8% as energy costs surge from Iran war
+*Tags: war, inflation*
+https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says
+*Tags: attack*
+https://www.bbc.com/news/articles/cvgz9k7pzggo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Dali ship operator charged over deadly  Baltimore bridge collapse
+*Tags: collapse*
+https://www.bbc.com/news/articles/cnvpm67ner6o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Uganda's president sworn in for record seventh term
+*Tags: election, president*
+https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** EU needs to delay social media access for children - von der Leyen
 *Tags: summit*
-https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** EU agrees sanctions on Israeli settlers over West Bank violence
-*Tags: sanctions*
-https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** South African president says he will not step down after impeachment call
-*Tags: president*
-https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Whales could be harmed by diverted ships avoiding Middle East, scientists warn
-*Tags: war, conflict*
-https://www.bbc.com/news/articles/cz02dkkd9j9o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** China should stop hoarding food and fertiliser, says former World Bank chief
-*Tags: president*
-https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Portrait looted by Nazis found in home of Dutch SS leader's descendants
-*Tags: war*
-https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Washington dinner shooting suspect pleads not guilty
-*Tags: president*
-https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c9q3x19ddl7o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
