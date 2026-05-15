@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-05-14T04:34:58+00:00",
+  "generated_at": "2026-05-15T05:14:53+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4697.5,
-        "change": -0.200195,
-        "pct_change": -0.004,
-        "date": "2026-05-14"
+        "price": 4604.899902,
+        "change": -73.200195,
+        "pct_change": -1.565,
+        "date": "2026-05-15"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 87.525002,
-        "change": -1.362999,
-        "pct_change": -1.533,
-        "date": "2026-05-14"
+        "price": 81.160004,
+        "change": -3.751999,
+        "pct_change": -4.419,
+        "date": "2026-05-15"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1225.25,
-        "change": 10.0,
-        "pct_change": 0.823,
-        "date": "2026-05-14"
+        "price": 1195.5,
+        "change": 21.0,
+        "pct_change": 1.788,
+        "date": "2026-05-15"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 15.38,
-        "change": 0.37,
-        "pct_change": 2.465,
-        "date": "2026-05-13"
+        "price": 14.99,
+        "change": -0.39,
+        "pct_change": -2.536,
+        "date": "2026-05-14"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.725953,
-        "change": 0.002173,
-        "pct_change": 0.3,
-        "date": "2026-05-14"
+        "price": 0.717051,
+        "change": -0.008448,
+        "pct_change": -1.164,
+        "date": "2026-05-15"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7444.25,
-        "change": 43.290039,
-        "pct_change": 0.585,
-        "date": "2026-05-13"
+        "price": 7501.240234,
+        "change": 56.990234,
+        "pct_change": 0.766,
+        "date": "2026-05-14"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.481,
-        "change": 0.018,
-        "pct_change": 0.403,
-        "date": "2026-05-13"
+        "price": 4.461,
+        "change": -0.02,
+        "pct_change": -0.446,
+        "date": "2026-05-14"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 26478.990234,
-        "change": 90.550781,
-        "pct_change": 0.343,
-        "date": "2026-05-14"
+        "price": 26160.029297,
+        "change": -229.009766,
+        "pct_change": -0.868,
+        "date": "2026-05-15"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 11042.0,
-        "change": -164.0,
-        "pct_change": -1.464,
-        "date": "2026-05-12"
+        "price": 11076.0,
+        "change": 34.0,
+        "pct_change": 0.308,
+        "date": "2026-05-13"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
@@ -78,72 +78,130 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8609.200195,
-        "change": -21.200195,
-        "pct_change": -0.246,
-        "date": "2026-05-14"
+        "price": 8624.700195,
+        "change": -16.0,
+        "pct_change": -0.185,
+        "date": "2026-05-15"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 130.050003,
-        "change": -5.949997,
-        "pct_change": -4.375,
-        "date": "2026-05-13"
+        "price": 133.729996,
+        "change": 3.679993,
+        "pct_change": 2.83,
+        "date": "2026-05-14"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 275.700012,
-        "change": 0.860016,
-        "pct_change": 0.313,
-        "date": "2026-05-13"
+        "price": 274.970001,
+        "change": -0.730011,
+        "pct_change": -0.265,
+        "date": "2026-05-14"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 445.269989,
-        "change": 11.819977,
-        "pct_change": 2.727,
-        "date": "2026-05-13"
+        "price": 443.299988,
+        "change": -1.970001,
+        "pct_change": -0.442,
+        "date": "2026-05-14"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 402.619995,
-        "change": 15.269989,
-        "pct_change": 3.942,
-        "date": "2026-05-13"
+        "price": 401.070007,
+        "change": -1.549988,
+        "pct_change": -0.385,
+        "date": "2026-05-14"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 519.940002,
-        "change": -1.059998,
-        "pct_change": -0.203,
-        "date": "2026-05-13"
+        "price": 520.409973,
+        "change": 0.469971,
+        "pct_change": 0.09,
+        "date": "2026-05-14"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 178.110001,
-        "change": -0.779999,
-        "pct_change": -0.436,
-        "date": "2026-05-13"
+        "price": 175.679993,
+        "change": -2.430008,
+        "pct_change": -1.364,
+        "date": "2026-05-14"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 551.799988,
-        "change": -6.5,
-        "pct_change": -1.164,
-        "date": "2026-05-13"
+        "price": 548.650024,
+        "change": -3.149963,
+        "pct_change": -0.571,
+        "date": "2026-05-14"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
-      "link": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 17:00:12 GMT",
+      "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+      "link": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 13:02:13 GMT",
       "matched_keywords": [
         "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "'Floating armoury' ship reportedly seized by Iran",
+      "link": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 13:33:20 GMT",
+      "matched_keywords": [
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "CIA chief visits Cuba as energy crisis worsens",
+      "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 15 May 2026 02:40:50 GMT",
+      "matched_keywords": [
+        "oil",
+        "energy crisis",
+        "crisis"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+      "link": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 13:16:32 GMT",
+      "matched_keywords": [
+        "attack",
+        "missile"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Warning of record global temperatures as chance of very strong El Niño grows",
+      "link": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 13:56:57 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "War criminal Ratko Mladić's jail release request denied",
+      "link": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 17:45:39 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "'They shot my neighbour in the head' - the lakeside city traumatised by war",
+      "link": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 05:09:04 GMT",
+      "matched_keywords": [
+        "war",
+        "troops"
       ]
     },
     {
@@ -155,63 +213,6 @@
         "war",
         "president",
         "nato"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Deadly Russian drone attacks on Ukraine resume after ceasefire expires",
-      "link": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 16:39:28 GMT",
-      "matched_keywords": [
-        "war",
-        "attack",
-        "ceasefire"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Passengers allowed to leave norovirus-hit cruise ship",
-      "link": "https://www.bbc.com/news/articles/cn5pe4yel1ko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 20:46:05 GMT",
-      "matched_keywords": [
-        "gas"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Climbers clear path to Everest summit past giant chunk of ice",
-      "link": "https://www.bbc.com/news/articles/c3w2np14g92o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 11:57:37 GMT",
-      "matched_keywords": [
-        "summit"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
-      "link": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 14:40:20 GMT",
-      "matched_keywords": [
-        "flood"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Air India crisis deepens ahead of final Ahmedabad crash report",
-      "link": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 12 May 2026 22:15:50 GMT",
-      "matched_keywords": [
-        "crisis"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
-      "link": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 01:59:53 GMT",
-      "matched_keywords": [
-        "attack",
-        "missile"
       ]
     }
   ]
