@@ -1,5 +1,5 @@
 # Daily Feed — 2026-05-15
-*Generated: 2026-05-15T05:14:53+00:00 UTC*
+*Generated: 2026-05-15T21:30:06+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,604.8999 | ▼ 73.2002 | -1.56% |
-| Silver |      81.1600 | ▼ 3.7520 | -4.42% |
-| Soybeans |   1,195.5000 | ▲ 21.0000 | +1.79% |
-| Sugar #11 (Raw) |      14.9900 | ▼ 0.3900 | -2.54% |
+| Gold |   4,543.6001 | ▼ 134.5000 | -2.88% |
+| Silver |      76.2950 | ▼ 8.6170 | -10.15% |
+| Soybeans |   1,177.2500 | ▲ 2.7500 | +0.23% |
+| Sugar #11 (Raw) |      14.7800 | ▼ 0.2100 | -1.40% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7171 | ▼ 0.0084 | -1.16% |
+| AUD/USD |       0.7153 | ▼ 0.0102 | -1.41% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,501.2402 | ▲ 56.9902 | +0.77% |
-| US 10Y Yield (%) |       4.4610 | ▼ 0.0200 | -0.45% |
-| Hang Seng 50 |  26,160.0293 | ▼ 229.0098 | -0.87% |
-| South Africa Top 40 |  11,076.0000 | ▲ 34.0000 | +0.31% |
-| Switzerland SMI |  13,212.9600 | ▲ 93.4297 | +0.71% |
-| ASX 200 (XJO) |   8,624.7002 | ▼ 16.0000 | -0.18% |
+| S&P 500 |   7,408.5000 | ▼ 92.7402 | -1.24% |
+| US 10Y Yield (%) |       4.5950 | ▲ 0.1340 | +3.00% |
+| Hang Seng 50 |  26,389.0391 | ▲ 0.5996 | +0.00% |
+| South Africa Top 40 |  10,815.0000 | ▼ 267.0000 | -2.41% |
+| Switzerland SMI |  13,220.1699 | ▲ 7.2100 | +0.06% |
+| ASX 200 (XJO) |   8,640.7002 | ▲ 10.2998 | +0.12% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     133.7300 | ▲ 3.6800 | +2.83% |
-| McDonald's |     274.9700 | ▼ 0.7300 | -0.27% |
-| Tesla |     443.3000 | ▼ 1.9700 | -0.44% |
-| Alphabet |     401.0700 | ▼ 1.5500 | -0.39% |
-| Lockheed Martin |     520.4100 | ▲ 0.4700 | +0.09% |
-| RTX (Raytheon) |     175.6800 | ▼ 2.4300 | -1.36% |
-| Northrop Grumman |     548.6500 | ▼ 3.1500 | -0.57% |
+| Palantir |     133.9900 | ▲ 0.2600 | +0.19% |
+| McDonald's |     276.3900 | ▲ 1.4200 | +0.52% |
+| Tesla |     422.2400 | ▼ 21.0600 | -4.75% |
+| Alphabet |     396.7800 | ▼ 4.2900 | -1.07% |
+| Lockheed Martin |     516.0100 | ▼ 4.4000 | -0.84% |
+| RTX (Raytheon) |     171.1800 | ▼ 4.5000 | -2.56% |
+| Northrop Grumman |     540.6900 | ▼ 7.9600 | -1.45% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Flattery and fanfare as Trump welcomed to China - but thorny issues remain
-*Tags: president*
-https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Trump warns Taiwan against declaring independence, hours after summit with China's Xi
+*Tags: war, president, summit*
+https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** 'Floating armoury' ship reportedly seized by Iran
-*Tags: military*
-https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss
+**[BBC World]** Trump says 20-year nuclear programme suspension by Iran is enough
+*Tags: nuclear, president*
+https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Israel and Lebanon agree to extend ceasefire, US state department says
+*Tags: ceasefire, president*
+https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats
+*Tags: war*
+https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** New York Times defends journalist after Israel threatens to sue
+*Tags: prime minister*
+https://www.bbc.com/news/articles/c9wedpk155jo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** New outbreak of Ebola kills 65 in eastern DR Congo
+*Tags: outbreak*
+https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** CIA chief visits Cuba as energy crisis worsens
 *Tags: oil, energy crisis, crisis*
 https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes
-*Tags: attack, missile*
-https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Warning of record global temperatures as chance of very strong El Niño grows
+**[BBC World]** What China critics in Maga movement make of Trump's Beijing trip
 *Tags: war*
-https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** War criminal Ratko Mladić's jail release request denied
-*Tags: war*
-https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** 'They shot my neighbour in the head' - the lakeside city traumatised by war
-*Tags: war, troops*
-https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Gunshots fired in Philippine Senate where lawmaker wanted by ICC is holed up
-*Tags: war, president, nato*
-https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
