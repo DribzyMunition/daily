@@ -1,5 +1,5 @@
 # Daily Feed — 2026-05-17
-*Generated: 2026-05-17T07:23:34+00:00 UTC*
+*Generated: 2026-05-17T21:30:05+00:00 UTC*
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7153 | ▼ 0.0061 | -0.85% |
+| AUD/USD |       0.7156 | ▼ 0.0059 | -0.81% |
 
 ### Indices
 
@@ -47,9 +47,21 @@
 
 ## Key Global Headlines
 
-**[BBC World]** WHO declares Ebola outbreak in DR Congo a global health emergency
+**[BBC World]** WHO declares Ebola outbreak in DR Congo an international emergency
 *Tags: pandemic, outbreak*
 https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** How worrying is the Ebola outbreak in DR Congo?
+*Tags: outbreak*
+https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Large-scale Ukrainian drone attack kills three in Moscow region, says Russia
+*Tags: attack, president*
+https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** UAE reports strike near Abu Dhabi nuclear power plant
+*Tags: nuclear*
+https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Hezbollah drone strike videos show evolving tactics against Israel
 *Tags: attack*
@@ -59,25 +71,13 @@ https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss
 *Tags: war, president, summit*
 https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Senior IS leader killed in joint operation, US and Nigeria say
-*Tags: president*
-https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Trump-backed challenger defeats Republican senator who voted to convict president
+*Tags: president, nato*
+https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Toddlers among more than 50 schoolchildren kidnapped in Nigeria
 *Tags: attack*
 https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele
-*Tags: war*
-https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Lebanon says six killed in Israeli strike as US announces ceasefire extension
-*Tags: ceasefire, president*
-https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** What China critics in Maga movement make of Trump's Beijing trip
-*Tags: war*
-https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
