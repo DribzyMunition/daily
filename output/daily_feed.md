@@ -1,5 +1,5 @@
-# Daily Feed — 2026-05-15
-*Generated: 2026-05-15T21:30:06+00:00 UTC*
+# Daily Feed — 2026-05-17
+*Generated: 2026-05-17T07:23:34+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,543.6001 | ▼ 134.5000 | -2.88% |
-| Silver |      76.2950 | ▼ 8.6170 | -10.15% |
-| Soybeans |   1,177.2500 | ▲ 2.7500 | +0.23% |
+| Gold |   4,561.8999 | ▼ 116.2002 | -2.48% |
+| Silver |      77.5470 | ▼ 7.3650 | -8.67% |
+| Soybeans |   1,177.0000 | ▲ 2.5000 | +0.21% |
 | Sugar #11 (Raw) |      14.7800 | ▼ 0.2100 | -1.40% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7153 | ▼ 0.0102 | -1.41% |
+| AUD/USD |       0.7153 | ▼ 0.0061 | -0.85% |
 
 ### Indices
 
@@ -26,10 +26,10 @@
 |:------|------:|------:|---------:|
 | S&P 500 |   7,408.5000 | ▼ 92.7402 | -1.24% |
 | US 10Y Yield (%) |       4.5950 | ▲ 0.1340 | +3.00% |
-| Hang Seng 50 |  26,389.0391 | ▲ 0.5996 | +0.00% |
+| Hang Seng 50 |  25,962.7305 | ▼ 426.3086 | -1.61% |
 | South Africa Top 40 |  10,815.0000 | ▼ 267.0000 | -2.41% |
 | Switzerland SMI |  13,220.1699 | ▲ 7.2100 | +0.06% |
-| ASX 200 (XJO) |   8,640.7002 | ▲ 10.2998 | +0.12% |
+| ASX 200 (XJO) |   8,630.7998 | ▼ 9.9004 | -0.12% |
 
 ### Stocks
 
@@ -47,33 +47,33 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Trump warns Taiwan against declaring independence, hours after summit with China's Xi
+**[BBC World]** WHO declares Ebola outbreak in DR Congo a global health emergency
+*Tags: pandemic, outbreak*
+https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Hezbollah drone strike videos show evolving tactics against Israel
+*Tags: attack*
+https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Taiwan insists it is independent after Trump warning
 *Tags: war, president, summit*
-https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Trump says 20-year nuclear programme suspension by Iran is enough
-*Tags: nuclear, president*
-https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Senior IS leader killed in joint operation, US and Nigeria say
+*Tags: president*
+https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Israel and Lebanon agree to extend ceasefire, US state department says
+**[BBC World]** Toddlers among more than 50 schoolchildren kidnapped in Nigeria
+*Tags: attack*
+https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele
+*Tags: war*
+https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Lebanon says six killed in Israeli strike as US announces ceasefire extension
 *Tags: ceasefire, president*
 https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats
-*Tags: war*
-https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** New York Times defends journalist after Israel threatens to sue
-*Tags: prime minister*
-https://www.bbc.com/news/articles/c9wedpk155jo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** New outbreak of Ebola kills 65 in eastern DR Congo
-*Tags: outbreak*
-https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** CIA chief visits Cuba as energy crisis worsens
-*Tags: oil, energy crisis, crisis*
-https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** What China critics in Maga movement make of Trump's Beijing trip
 *Tags: war*

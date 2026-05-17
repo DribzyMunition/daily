@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-05-15T21:30:06+00:00",
+  "generated_at": "2026-05-17T07:23:34+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4543.600098,
-        "change": -134.5,
-        "pct_change": -2.875,
+        "price": 4561.899902,
+        "change": -116.200195,
+        "pct_change": -2.484,
         "date": "2026-05-15"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 76.294998,
-        "change": -8.617004,
-        "pct_change": -10.148,
+        "price": 77.546997,
+        "change": -7.365005,
+        "pct_change": -8.674,
         "date": "2026-05-15"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1177.25,
-        "change": 2.75,
-        "pct_change": 0.234,
+        "price": 1177.0,
+        "change": 2.5,
+        "pct_change": 0.213,
         "date": "2026-05-15"
       },
       "Sugar #11 (Raw)": {
@@ -35,9 +35,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.715308,
-        "change": -0.010192,
-        "pct_change": -1.405,
-        "date": "2026-05-15"
+        "change": -0.006122,
+        "pct_change": -0.849,
+        "date": "2026-05-17"
       }
     },
     "indices": {
@@ -57,10 +57,10 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 26389.039062,
-        "change": 0.599609,
-        "pct_change": 0.002,
-        "date": "2026-05-14"
+        "price": 25962.730469,
+        "change": -426.308594,
+        "pct_change": -1.615,
+        "date": "2026-05-15"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8640.700195,
-        "change": 10.299805,
-        "pct_change": 0.119,
-        "date": "2026-05-14"
+        "price": 8630.799805,
+        "change": -9.900391,
+        "pct_change": -0.115,
+        "date": "2026-05-15"
       }
     },
     "stocks": {
@@ -139,9 +139,28 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-      "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 15 May 2026 21:28:25 GMT",
+      "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+      "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 17 May 2026 07:08:26 GMT",
+      "matched_keywords": [
+        "pandemic",
+        "outbreak"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+      "link": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 16 May 2026 23:10:19 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Taiwan insists it is independent after Trump warning",
+      "link": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 16 May 2026 17:01:53 GMT",
       "matched_keywords": [
         "war",
         "president",
@@ -150,60 +169,39 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump says 20-year nuclear programme suspension by Iran is enough",
-      "link": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 15 May 2026 21:17:05 GMT",
+      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+      "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 16 May 2026 11:44:54 GMT",
       "matched_keywords": [
-        "nuclear",
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
-      "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 15 May 2026 20:26:51 GMT",
+      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
+      "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 16 May 2026 15:50:09 GMT",
       "matched_keywords": [
-        "ceasefire",
-        "president"
+        "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
-      "link": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 15 May 2026 12:53:57 GMT",
+      "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
+      "link": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 15 May 2026 23:04:33 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "New York Times defends journalist after Israel threatens to sue",
-      "link": "https://www.bbc.com/news/articles/c9wedpk155jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 15 May 2026 16:30:31 GMT",
+      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+      "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 16 May 2026 22:27:44 GMT",
       "matched_keywords": [
-        "prime minister"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
-      "link": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 15 May 2026 17:53:23 GMT",
-      "matched_keywords": [
-        "outbreak"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "CIA chief visits Cuba as energy crisis worsens",
-      "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 15 May 2026 17:47:19 GMT",
-      "matched_keywords": [
-        "oil",
-        "energy crisis",
-        "crisis"
+        "ceasefire",
+        "president"
       ]
     },
     {
