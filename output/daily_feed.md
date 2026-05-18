@@ -1,5 +1,5 @@
-# Daily Feed — 2026-05-17
-*Generated: 2026-05-17T21:30:05+00:00 UTC*
+# Daily Feed — 2026-05-18
+*Generated: 2026-05-18T21:30:06+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,561.8999 | ▼ 116.2002 | -2.48% |
-| Silver |      77.5470 | ▼ 7.3650 | -8.67% |
-| Soybeans |   1,177.0000 | ▲ 2.5000 | +0.21% |
-| Sugar #11 (Raw) |      14.7800 | ▼ 0.2100 | -1.40% |
+| Gold |   4,570.7998 | ▲ 15.0000 | +0.33% |
+| Silver |      78.1200 | ▲ 0.9590 | +1.24% |
+| Soybeans |   1,212.0000 | ▲ 35.0000 | +2.97% |
+| Sugar #11 (Raw) |      14.7100 | ▼ 0.0900 | -0.61% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7156 | ▼ 0.0059 | -0.81% |
+| AUD/USD |       0.7171 | ▼ 0.0043 | -0.60% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,408.5000 | ▼ 92.7402 | -1.24% |
-| US 10Y Yield (%) |       4.5950 | ▲ 0.1340 | +3.00% |
+| S&P 500 |   7,403.0498 | ▼ 5.4502 | -0.07% |
+| US 10Y Yield (%) |       4.6230 | ▲ 0.0280 | +0.61% |
 | Hang Seng 50 |  25,962.7305 | ▼ 426.3086 | -1.61% |
-| South Africa Top 40 |  10,815.0000 | ▼ 267.0000 | -2.41% |
-| Switzerland SMI |  13,220.1699 | ▲ 7.2100 | +0.06% |
+| South Africa Top 40 |  10,822.0000 | ▲ 7.0000 | +0.07% |
+| Switzerland SMI |  13,240.7002 | ▲ 20.5303 | +0.15% |
 | ASX 200 (XJO) |   8,630.7998 | ▼ 9.9004 | -0.12% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     133.9900 | ▲ 0.2600 | +0.19% |
-| McDonald's |     276.3900 | ▲ 1.4200 | +0.52% |
-| Tesla |     422.2400 | ▼ 21.0600 | -4.75% |
-| Alphabet |     396.7800 | ▼ 4.2900 | -1.07% |
-| Lockheed Martin |     516.0100 | ▼ 4.4000 | -0.84% |
-| RTX (Raytheon) |     171.1800 | ▼ 4.5000 | -2.56% |
-| Northrop Grumman |     540.6900 | ▼ 7.9600 | -1.45% |
+| Palantir |     135.1400 | ▲ 1.1500 | +0.86% |
+| McDonald's |     282.4700 | ▲ 6.0800 | +2.20% |
+| Tesla |     409.9900 | ▼ 12.2500 | -2.90% |
+| Alphabet |     396.9400 | ▲ 0.1600 | +0.04% |
+| Lockheed Martin |     528.3100 | ▲ 12.3000 | +2.38% |
+| RTX (Raytheon) |     175.9500 | ▲ 4.7700 | +2.79% |
+| Northrop Grumman |     550.0000 | ▲ 9.3100 | +1.72% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** WHO declares Ebola outbreak in DR Congo an international emergency
-*Tags: pandemic, outbreak*
-https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Trump says he called off new Iran attack at request of Gulf states
+*Tags: attack, president*
+https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** How worrying is the Ebola outbreak in DR Congo?
+**[BBC World]** At least 100 dead in Ebola outbreak in DR Congo, official says
 *Tags: outbreak*
-https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** What is Ebola and why is stopping this outbreak so difficult?
+*Tags: conflict, outbreak*
+https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Death toll from Israeli strikes on Lebanon passes 3,000, officials say
+*Tags: conflict, ceasefire*
+https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump warns 'clock is ticking' for Iran as peace progress stalls
+*Tags: war*
+https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** 'This may be the last time you hear my voice': Political executions surge in Iran since start of war
+*Tags: war, attack*
+https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Large-scale Ukrainian drone attack kills three in Moscow region, says Russia
 *Tags: attack, president*
 https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** UAE reports strike near Abu Dhabi nuclear power plant
-*Tags: nuclear*
-https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Hezbollah drone strike videos show evolving tactics against Israel
+**[BBC World]** Escaped tiger shot by German police after attacking man
 *Tags: attack*
-https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Taiwan insists it is independent after Trump warning
-*Tags: war, president, summit*
-https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump-backed challenger defeats Republican senator who voted to convict president
-*Tags: president, nato*
-https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Toddlers among more than 50 schoolchildren kidnapped in Nigeria
-*Tags: attack*
-https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cwy217yw7nxo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
