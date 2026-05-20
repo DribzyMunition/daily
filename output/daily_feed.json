@@ -1,204 +1,165 @@
 {
-  "generated_at": "2026-05-19T21:30:04+00:00",
+  "generated_at": "2026-05-20T21:30:04+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4485.399902,
-        "change": -67.100098,
-        "pct_change": -1.474,
-        "date": "2026-05-19"
+        "price": 4546.200195,
+        "change": 39.900391,
+        "pct_change": 0.885,
+        "date": "2026-05-20"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 73.970001,
-        "change": -3.102997,
-        "pct_change": -4.026,
-        "date": "2026-05-19"
+        "price": 76.205002,
+        "change": 1.376999,
+        "pct_change": 1.84,
+        "date": "2026-05-20"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1210.25,
-        "change": -2.75,
-        "pct_change": -0.227,
-        "date": "2026-05-19"
+        "price": 1199.25,
+        "change": -10.25,
+        "pct_change": -0.847,
+        "date": "2026-05-20"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 15.04,
-        "change": 0.31,
-        "pct_change": 2.105,
-        "date": "2026-05-19"
+        "price": 14.76,
+        "change": -0.25,
+        "pct_change": -1.666,
+        "date": "2026-05-20"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.711136,
-        "change": -0.001884,
-        "pct_change": -0.264,
-        "date": "2026-05-19"
+        "price": 0.715615,
+        "change": -0.001675,
+        "pct_change": -0.234,
+        "date": "2026-05-20"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7353.609863,
-        "change": -49.439941,
-        "pct_change": -0.668,
-        "date": "2026-05-19"
+        "price": 7432.970215,
+        "change": 79.360352,
+        "pct_change": 1.079,
+        "date": "2026-05-20"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.667,
-        "change": 0.044,
-        "pct_change": 0.952,
-        "date": "2026-05-19"
+        "price": 4.572,
+        "change": -0.095,
+        "pct_change": -2.036,
+        "date": "2026-05-20"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25675.179688,
-        "change": -287.550781,
-        "pct_change": -1.108,
-        "date": "2026-05-18"
+        "price": 25797.849609,
+        "change": 122.669922,
+        "pct_change": 0.478,
+        "date": "2026-05-19"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10728.0,
-        "change": -94.0,
-        "pct_change": -0.869,
-        "date": "2026-05-19"
+        "price": 10792.0,
+        "change": 64.0,
+        "pct_change": 0.597,
+        "date": "2026-05-20"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13364.799805,
-        "change": 124.099609,
-        "pct_change": 0.937,
-        "date": "2026-05-19"
+        "price": 13399.290039,
+        "change": 34.490234,
+        "pct_change": 0.258,
+        "date": "2026-05-20"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8505.299805,
-        "change": -125.5,
-        "pct_change": -1.454,
-        "date": "2026-05-18"
+        "price": 8604.700195,
+        "change": 99.400391,
+        "pct_change": 1.169,
+        "date": "2026-05-19"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 135.259995,
-        "change": 0.119995,
-        "pct_change": 0.089,
-        "date": "2026-05-19"
+        "price": 137.149994,
+        "change": 1.889999,
+        "pct_change": 1.397,
+        "date": "2026-05-20"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 280.799988,
-        "change": -1.670013,
-        "pct_change": -0.591,
-        "date": "2026-05-19"
+        "price": 280.269989,
+        "change": -0.529999,
+        "pct_change": -0.189,
+        "date": "2026-05-20"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 404.109985,
-        "change": -5.880005,
-        "pct_change": -1.434,
-        "date": "2026-05-19"
+        "price": 417.26001,
+        "change": 13.150024,
+        "pct_change": 3.254,
+        "date": "2026-05-20"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 387.660004,
-        "change": -9.279999,
-        "pct_change": -2.338,
-        "date": "2026-05-19"
+        "price": 388.910004,
+        "change": 1.25,
+        "pct_change": 0.322,
+        "date": "2026-05-20"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 526.630005,
-        "change": -1.679993,
-        "pct_change": -0.318,
-        "date": "2026-05-19"
+        "price": 522.590027,
+        "change": -4.039978,
+        "pct_change": -0.767,
+        "date": "2026-05-20"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 174.490005,
-        "change": -1.459991,
-        "pct_change": -0.83,
-        "date": "2026-05-19"
+        "price": 174.850006,
+        "change": 0.360001,
+        "pct_change": 0.206,
+        "date": "2026-05-20"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 556.340027,
-        "change": 6.340027,
-        "pct_change": 1.153,
-        "date": "2026-05-19"
+        "price": 552.169983,
+        "change": -4.170044,
+        "pct_change": -0.75,
+        "date": "2026-05-20"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
-      "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 19:32:22 GMT",
-      "matched_keywords": [
-        "war",
-        "outbreak"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
-      "link": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 20:32:36 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Estonia says Nato jet shot down drone over its territory",
-      "link": "https://www.bbc.com/news/articles/c302jy8z4vro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 19:01:44 GMT",
-      "matched_keywords": [
-        "nato"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says he called off new Iran attack at request of Gulf states",
-      "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 22:30:58 GMT",
-      "matched_keywords": [
-        "attack",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
-      "link": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 16:16:38 GMT",
-      "matched_keywords": [
-        "conflict",
-        "ceasefire"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump administration unveils $1.8bn fund to compensate his allies as he drops tax lawsuit",
-      "link": "https://www.bbc.com/news/articles/cvgzr7vr203o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 19:53:31 GMT",
+      "title": "Ebola vaccine could take nine months as death toll rises further, WHO warns",
+      "link": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 15:18:12 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "The Republican who stood up to Trump is hoping for a big win against president",
-      "link": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 21:39:45 GMT",
+      "title": "US military jets and drones tracked near Cuba as tensions rise",
+      "link": "https://www.bbc.com/news/articles/cjep1wx7w0ko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 15:36:03 GMT",
+      "matched_keywords": [
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Xi basks in spotlight as he hosts Putin days after Trump",
+      "link": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 11:42:44 GMT",
       "matched_keywords": [
         "president"
       ]
@@ -207,10 +168,46 @@
       "source": "BBC World",
       "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
       "link": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 12:24:50 GMT",
+      "published": "Wed, 20 May 2026 14:37:46 GMT",
       "matched_keywords": [
         "conflict",
         "outbreak"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump exerts iron grip on Republican Party with Massie defeated",
+      "link": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 09:49:33 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "What we know about the San Diego mosque attack suspects",
+      "link": "https://www.bbc.com/news/articles/cg4pnp0gdlko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 15:15:09 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Anti-government demonstrators and police clash in Bolivia",
+      "link": "https://www.bbc.com/news/videos/cx21349w77go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 19 May 2026 11:37:51 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Bolivian president to reshuffle cabinet amid anti-government protests",
+      "link": "https://www.aljazeera.com/news/2026/5/20/bolivian-president-to-reshuffle-cabinet-amid-anti-government-protests?traffic_source=rss",
+      "published": "Wed, 20 May 2026 21:07:38 +0000",
+      "matched_keywords": [
+        "president"
       ]
     }
   ]
