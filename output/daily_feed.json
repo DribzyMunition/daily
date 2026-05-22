@@ -1,158 +1,197 @@
 {
-  "generated_at": "2026-05-22T01:04:00+00:00",
+  "generated_at": "2026-05-22T22:22:16+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4530.0,
-        "change": -1.299805,
-        "pct_change": -0.029,
-        "date": "2026-05-21"
+        "price": 4510.5,
+        "change": -29.299805,
+        "pct_change": -0.645,
+        "date": "2026-05-22"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 76.639999,
-        "change": 0.789001,
-        "pct_change": 1.04,
-        "date": "2026-05-21"
+        "price": 75.915001,
+        "change": -0.499001,
+        "pct_change": -0.653,
+        "date": "2026-05-22"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1192.5,
-        "change": -7.25,
-        "pct_change": -0.604,
-        "date": "2026-05-21"
+        "price": 1197.25,
+        "change": 3.0,
+        "pct_change": 0.251,
+        "date": "2026-05-22"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.9,
-        "change": 0.17,
-        "pct_change": 1.154,
-        "date": "2026-05-21"
+        "price": 14.68,
+        "change": -0.219999,
+        "pct_change": -1.477,
+        "date": "2026-05-22"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.714031,
-        "change": -0.00097,
-        "pct_change": -0.136,
+        "price": 0.712962,
+        "change": -0.002039,
+        "pct_change": -0.285,
         "date": "2026-05-22"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7445.720215,
-        "change": 12.75,
-        "pct_change": 0.172,
-        "date": "2026-05-21"
+        "price": 7473.470215,
+        "change": 27.75,
+        "pct_change": 0.373,
+        "date": "2026-05-22"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.586,
-        "change": 0.014,
-        "pct_change": 0.306,
-        "date": "2026-05-21"
+        "price": 4.558,
+        "change": -0.028,
+        "pct_change": -0.611,
+        "date": "2026-05-22"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25651.119141,
-        "change": -146.730469,
-        "pct_change": -0.569,
-        "date": "2026-05-20"
+        "price": 25386.519531,
+        "change": -264.599609,
+        "pct_change": -1.032,
+        "date": "2026-05-21"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10792.0,
-        "change": 64.0,
-        "pct_change": 0.597,
-        "date": "2026-05-20"
+        "price": 10768.0,
+        "change": -24.0,
+        "pct_change": -0.222,
+        "date": "2026-05-21"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13399.290039,
-        "change": 34.490234,
-        "pct_change": 0.258,
-        "date": "2026-05-20"
+        "price": 13446.429688,
+        "change": 47.139648,
+        "pct_change": 0.352,
+        "date": "2026-05-21"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8650.700195,
-        "change": 154.100586,
-        "pct_change": 1.814,
-        "date": "2026-05-22"
+        "price": 8621.700195,
+        "change": 125.100586,
+        "pct_change": 1.472,
+        "date": "2026-05-21"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 137.414993,
-        "change": 0.264999,
-        "pct_change": 0.193,
-        "date": "2026-05-21"
+        "price": 136.880005,
+        "change": -0.534988,
+        "pct_change": -0.389,
+        "date": "2026-05-22"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 284.179993,
-        "change": 3.910004,
-        "pct_change": 1.395,
-        "date": "2026-05-21"
+        "price": 282.269989,
+        "change": -1.910004,
+        "pct_change": -0.672,
+        "date": "2026-05-22"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 417.850006,
-        "change": 0.589996,
-        "pct_change": 0.141,
-        "date": "2026-05-21"
+        "price": 426.01001,
+        "change": 8.160004,
+        "pct_change": 1.953,
+        "date": "2026-05-22"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 387.660004,
-        "change": -1.25,
-        "pct_change": -0.321,
-        "date": "2026-05-21"
+        "price": 382.970001,
+        "change": -4.690002,
+        "pct_change": -1.21,
+        "date": "2026-05-22"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 522.789978,
-        "change": 0.199951,
-        "pct_change": 0.038,
-        "date": "2026-05-21"
+        "price": 533.23999,
+        "change": 10.450012,
+        "pct_change": 1.999,
+        "date": "2026-05-22"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 175.979996,
-        "change": 1.12999,
-        "pct_change": 0.646,
-        "date": "2026-05-21"
+        "price": 177.009995,
+        "change": 1.029999,
+        "pct_change": 0.585,
+        "date": "2026-05-22"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 551.580017,
-        "change": -0.589966,
-        "pct_change": -0.107,
-        "date": "2026-05-21"
+        "price": 555.580017,
+        "change": 4.0,
+        "pct_change": 0.725,
+        "date": "2026-05-22"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
-      "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 00:10:44 GMT",
+      "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 19:40:14 GMT",
       "matched_keywords": [
         "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Walmart warns US shoppers are cutting spending as higher petrol prices bite",
-      "link": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 18:08:17 GMT",
+      "title": "Rubio tries to reassure Nato allies over US troop deployments",
+      "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 15:18:30 GMT",
+      "matched_keywords": [
+        "troops",
+        "president",
+        "nato"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
+      "link": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 16:10:21 GMT",
+      "matched_keywords": [
+        "flood"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "AI used to fake evidence that ended Korean actor's career, say police",
+      "link": "https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 10:50:24 GMT",
       "matched_keywords": [
         "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump is putting pressure on Cuba - why and to what end?",
+      "link": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 18:33:36 GMT",
+      "matched_keywords": [
+        "war",
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
+      "link": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 01:37:02 GMT",
+      "matched_keywords": [
+        "president"
       ]
     },
     {
@@ -166,48 +205,10 @@
     },
     {
       "source": "BBC World",
-      "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
-      "link": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 17:52:03 GMT",
+      "title": "Why thousands of stock trades tied to Trump are raising eyebrows",
+      "link": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 10:45:38 GMT",
       "matched_keywords": [
-        "conflict",
-        "outbreak"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump exerts iron grip on Republican Party with Massie defeated",
-      "link": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 20 May 2026 09:49:33 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "What we know about the San Diego mosque attack suspects",
-      "link": "https://www.bbc.com/news/articles/cg4pnp0gdlko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 20 May 2026 15:15:09 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Why Russian jets intercepting an RAF spy plane is 'serious incident'",
-      "link": "https://www.bbc.com/news/videos/cx21y59q35wo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 20 May 2026 21:46:32 GMT",
-      "matched_keywords": [
-        "nato"
-      ]
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss",
-      "published": "Fri, 22 May 2026 00:00:00 +0000",
-      "matched_keywords": [
-        "war",
         "president"
       ]
     }
