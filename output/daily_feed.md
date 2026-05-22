@@ -1,5 +1,5 @@
-# Daily Feed — 2026-05-20
-*Generated: 2026-05-20T21:30:04+00:00 UTC*
+# Daily Feed — 2026-05-22
+*Generated: 2026-05-22T01:04:00+00:00 UTC*
 
 ---
 
@@ -9,55 +9,55 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,546.2002 | ▲ 39.9004 | +0.89% |
-| Silver |      76.2050 | ▲ 1.3770 | +1.84% |
-| Soybeans |   1,199.2500 | ▼ 10.2500 | -0.85% |
-| Sugar #11 (Raw) |      14.7600 | ▼ 0.2500 | -1.67% |
+| Gold |   4,530.0000 | ▼ 1.2998 | -0.03% |
+| Silver |      76.6400 | ▲ 0.7890 | +1.04% |
+| Soybeans |   1,192.5000 | ▼ 7.2500 | -0.60% |
+| Sugar #11 (Raw) |      14.9000 | ▲ 0.1700 | +1.15% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7156 | ▼ 0.0017 | -0.23% |
+| AUD/USD |       0.7140 | ▼ 0.0010 | -0.14% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,432.9702 | ▲ 79.3604 | +1.08% |
-| US 10Y Yield (%) |       4.5720 | ▼ 0.0950 | -2.04% |
-| Hang Seng 50 |  25,797.8496 | ▲ 122.6699 | +0.48% |
+| S&P 500 |   7,445.7202 | ▲ 12.7500 | +0.17% |
+| US 10Y Yield (%) |       4.5860 | ▲ 0.0140 | +0.31% |
+| Hang Seng 50 |  25,651.1191 | ▼ 146.7305 | -0.57% |
 | South Africa Top 40 |  10,792.0000 | ▲ 64.0000 | +0.60% |
 | Switzerland SMI |  13,399.2900 | ▲ 34.4902 | +0.26% |
-| ASX 200 (XJO) |   8,604.7002 | ▲ 99.4004 | +1.17% |
+| ASX 200 (XJO) |   8,650.7002 | ▲ 154.1006 | +1.81% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     137.1500 | ▲ 1.8900 | +1.40% |
-| McDonald's |     280.2700 | ▼ 0.5300 | -0.19% |
-| Tesla |     417.2600 | ▲ 13.1500 | +3.25% |
-| Alphabet |     388.9100 | ▲ 1.2500 | +0.32% |
-| Lockheed Martin |     522.5900 | ▼ 4.0400 | -0.77% |
-| RTX (Raytheon) |     174.8500 | ▲ 0.3600 | +0.21% |
-| Northrop Grumman |     552.1700 | ▼ 4.1700 | -0.75% |
+| Palantir |     137.4150 | ▲ 0.2650 | +0.19% |
+| McDonald's |     284.1800 | ▲ 3.9100 | +1.40% |
+| Tesla |     417.8500 | ▲ 0.5900 | +0.14% |
+| Alphabet |     387.6600 | ▼ 1.2500 | -0.32% |
+| Lockheed Martin |     522.7900 | ▲ 0.2000 | +0.04% |
+| RTX (Raytheon) |     175.9800 | ▲ 1.1300 | +0.65% |
+| Northrop Grumman |     551.5800 | ▼ 0.5900 | -0.11% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Ebola vaccine could take nine months as death toll rises further, WHO warns
-*Tags: war*
-https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** US military jets and drones tracked near Cuba as tensions rise
+**[BBC World]** Rubio says Cuba is threat to US as Havana accuses him of 'lies'
 *Tags: military*
-https://www.bbc.com/news/articles/cjep1wx7w0ko?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Xi basks in spotlight as he hosts Putin days after Trump
-*Tags: president*
-https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Walmart warns US shoppers are cutting spending as higher petrol prices bite
+*Tags: war*
+https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** From AI to interceptors, Ukraine is trying to drone-proof its skies
+*Tags: invasion*
+https://www.bbc.com/news/articles/c1k2lmmjvzxo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** What is Ebola and why is stopping the latest outbreak so difficult?
 *Tags: conflict, outbreak*
@@ -71,13 +71,13 @@ https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss
 *Tags: attack*
 https://www.bbc.com/news/articles/cg4pnp0gdlko?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Anti-government demonstrators and police clash in Bolivia
-*Tags: president*
-https://www.bbc.com/news/videos/cx21349w77go?at_medium=RSS&at_campaign=rss
+**[BBC World]** Why Russian jets intercepting an RAF spy plane is 'serious incident'
+*Tags: nato*
+https://www.bbc.com/news/videos/cx21y59q35wo?at_medium=RSS&at_campaign=rss
 
-**[Al Jazeera]** Bolivian president to reshuffle cabinet amid anti-government protests
-*Tags: president*
-https://www.aljazeera.com/news/2026/5/20/bolivian-president-to-reshuffle-cabinet-amid-anti-government-protests?traffic_source=rss
+**[Al Jazeera]** Iran war live: Signs of progress amid efforts to reach US-Iran peace deal
+*Tags: war, president*
+https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

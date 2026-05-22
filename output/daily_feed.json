@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-05-20T21:30:04+00:00",
+  "generated_at": "2026-05-22T01:04:00+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4546.200195,
-        "change": 39.900391,
-        "pct_change": 0.885,
-        "date": "2026-05-20"
+        "price": 4530.0,
+        "change": -1.299805,
+        "pct_change": -0.029,
+        "date": "2026-05-21"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 76.205002,
-        "change": 1.376999,
-        "pct_change": 1.84,
-        "date": "2026-05-20"
+        "price": 76.639999,
+        "change": 0.789001,
+        "pct_change": 1.04,
+        "date": "2026-05-21"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1199.25,
-        "change": -10.25,
-        "pct_change": -0.847,
-        "date": "2026-05-20"
+        "price": 1192.5,
+        "change": -7.25,
+        "pct_change": -0.604,
+        "date": "2026-05-21"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.76,
-        "change": -0.25,
-        "pct_change": -1.666,
-        "date": "2026-05-20"
+        "price": 14.9,
+        "change": 0.17,
+        "pct_change": 1.154,
+        "date": "2026-05-21"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.715615,
-        "change": -0.001675,
-        "pct_change": -0.234,
-        "date": "2026-05-20"
+        "price": 0.714031,
+        "change": -0.00097,
+        "pct_change": -0.136,
+        "date": "2026-05-22"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7432.970215,
-        "change": 79.360352,
-        "pct_change": 1.079,
-        "date": "2026-05-20"
+        "price": 7445.720215,
+        "change": 12.75,
+        "pct_change": 0.172,
+        "date": "2026-05-21"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.572,
-        "change": -0.095,
-        "pct_change": -2.036,
-        "date": "2026-05-20"
+        "price": 4.586,
+        "change": 0.014,
+        "pct_change": 0.306,
+        "date": "2026-05-21"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25797.849609,
-        "change": 122.669922,
-        "pct_change": 0.478,
-        "date": "2026-05-19"
+        "price": 25651.119141,
+        "change": -146.730469,
+        "pct_change": -0.569,
+        "date": "2026-05-20"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -78,97 +78,97 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8604.700195,
-        "change": 99.400391,
-        "pct_change": 1.169,
-        "date": "2026-05-19"
+        "price": 8650.700195,
+        "change": 154.100586,
+        "pct_change": 1.814,
+        "date": "2026-05-22"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 137.149994,
-        "change": 1.889999,
-        "pct_change": 1.397,
-        "date": "2026-05-20"
+        "price": 137.414993,
+        "change": 0.264999,
+        "pct_change": 0.193,
+        "date": "2026-05-21"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 280.269989,
-        "change": -0.529999,
-        "pct_change": -0.189,
-        "date": "2026-05-20"
+        "price": 284.179993,
+        "change": 3.910004,
+        "pct_change": 1.395,
+        "date": "2026-05-21"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 417.26001,
-        "change": 13.150024,
-        "pct_change": 3.254,
-        "date": "2026-05-20"
+        "price": 417.850006,
+        "change": 0.589996,
+        "pct_change": 0.141,
+        "date": "2026-05-21"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 388.910004,
-        "change": 1.25,
-        "pct_change": 0.322,
-        "date": "2026-05-20"
+        "price": 387.660004,
+        "change": -1.25,
+        "pct_change": -0.321,
+        "date": "2026-05-21"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 522.590027,
-        "change": -4.039978,
-        "pct_change": -0.767,
-        "date": "2026-05-20"
+        "price": 522.789978,
+        "change": 0.199951,
+        "pct_change": 0.038,
+        "date": "2026-05-21"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 174.850006,
-        "change": 0.360001,
-        "pct_change": 0.206,
-        "date": "2026-05-20"
+        "price": 175.979996,
+        "change": 1.12999,
+        "pct_change": 0.646,
+        "date": "2026-05-21"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 552.169983,
-        "change": -4.170044,
-        "pct_change": -0.75,
-        "date": "2026-05-20"
+        "price": 551.580017,
+        "change": -0.589966,
+        "pct_change": -0.107,
+        "date": "2026-05-21"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Ebola vaccine could take nine months as death toll rises further, WHO warns",
-      "link": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 20 May 2026 15:18:12 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US military jets and drones tracked near Cuba as tensions rise",
-      "link": "https://www.bbc.com/news/articles/cjep1wx7w0ko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 20 May 2026 15:36:03 GMT",
+      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+      "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 00:10:44 GMT",
       "matched_keywords": [
         "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Xi basks in spotlight as he hosts Putin days after Trump",
-      "link": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 20 May 2026 11:42:44 GMT",
+      "title": "Walmart warns US shoppers are cutting spending as higher petrol prices bite",
+      "link": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 18:08:17 GMT",
       "matched_keywords": [
-        "president"
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
+      "link": "https://www.bbc.com/news/articles/c1k2lmmjvzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 05:04:08 GMT",
+      "matched_keywords": [
+        "invasion"
       ]
     },
     {
       "source": "BBC World",
       "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
       "link": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 20 May 2026 14:37:46 GMT",
+      "published": "Thu, 21 May 2026 17:52:03 GMT",
       "matched_keywords": [
         "conflict",
         "outbreak"
@@ -194,19 +194,20 @@
     },
     {
       "source": "BBC World",
-      "title": "Anti-government demonstrators and police clash in Bolivia",
-      "link": "https://www.bbc.com/news/videos/cx21349w77go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 11:37:51 GMT",
+      "title": "Why Russian jets intercepting an RAF spy plane is 'serious incident'",
+      "link": "https://www.bbc.com/news/videos/cx21y59q35wo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 21:46:32 GMT",
       "matched_keywords": [
-        "president"
+        "nato"
       ]
     },
     {
       "source": "Al Jazeera",
-      "title": "Bolivian president to reshuffle cabinet amid anti-government protests",
-      "link": "https://www.aljazeera.com/news/2026/5/20/bolivian-president-to-reshuffle-cabinet-amid-anti-government-protests?traffic_source=rss",
-      "published": "Wed, 20 May 2026 21:07:38 +0000",
+      "title": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss",
+      "published": "Fri, 22 May 2026 00:00:00 +0000",
       "matched_keywords": [
+        "war",
         "president"
       ]
     }
