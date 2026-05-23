@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-05-22T22:22:16+00:00",
+  "generated_at": "2026-05-23T21:30:05+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4510.5,
-        "change": -29.299805,
-        "pct_change": -0.645,
+        "price": 4521.0,
+        "change": -18.799805,
+        "pct_change": -0.414,
         "date": "2026-05-22"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 75.915001,
-        "change": -0.499001,
-        "pct_change": -0.653,
+        "price": 75.892998,
+        "change": -0.521004,
+        "pct_change": -0.682,
         "date": "2026-05-22"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1197.25,
-        "change": 3.0,
-        "pct_change": 0.251,
+        "price": 1196.5,
+        "change": 2.25,
+        "pct_change": 0.188,
         "date": "2026-05-22"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.68,
-        "change": -0.219999,
-        "pct_change": -1.477,
+        "price": 14.7,
+        "change": -0.2,
+        "pct_change": -1.342,
         "date": "2026-05-22"
       }
     },
@@ -35,9 +35,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.712962,
-        "change": -0.002039,
-        "pct_change": -0.285,
-        "date": "2026-05-22"
+        "change": -0.001868,
+        "pct_change": -0.261,
+        "date": "2026-05-23"
       }
     },
     "indices": {
@@ -57,31 +57,31 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25386.519531,
-        "change": -264.599609,
-        "pct_change": -1.032,
-        "date": "2026-05-21"
+        "price": 25606.029297,
+        "change": 219.509766,
+        "pct_change": 0.865,
+        "date": "2026-05-22"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10768.0,
-        "change": -24.0,
-        "pct_change": -0.222,
-        "date": "2026-05-21"
+        "price": 10665.0,
+        "change": -103.0,
+        "pct_change": -0.957,
+        "date": "2026-05-22"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13446.429688,
-        "change": 47.139648,
-        "pct_change": 0.352,
-        "date": "2026-05-21"
+        "price": 13503.209961,
+        "change": 56.780273,
+        "pct_change": 0.422,
+        "date": "2026-05-22"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8621.700195,
-        "change": 125.100586,
-        "pct_change": 1.472,
-        "date": "2026-05-21"
+        "price": 8657.0,
+        "change": 35.299805,
+        "pct_change": 0.409,
+        "date": "2026-05-22"
       }
     },
     "stocks": {
@@ -123,8 +123,8 @@
       "RTX (Raytheon)": {
         "ticker": "RTX",
         "price": 177.009995,
-        "change": 1.029999,
-        "pct_change": 0.585,
+        "change": 1.759995,
+        "pct_change": 1.004,
         "date": "2026-05-22"
       },
       "Northrop Grumman": {
@@ -139,77 +139,76 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 21:14:57 GMT",
+      "matched_keywords": [
+        "nuclear"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 82 killed in Chinese coal mine explosion",
+      "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 15:18:40 GMT",
+      "matched_keywords": [
+        "explosion"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+      "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 19:55:16 GMT",
+      "matched_keywords": [
+        "outbreak"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
+      "link": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 14:24:48 GMT",
+      "matched_keywords": [
+        "coup"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
       "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 19:40:14 GMT",
+      "published": "Sat, 23 May 2026 14:06:12 GMT",
       "matched_keywords": [
         "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Rubio tries to reassure Nato allies over US troop deployments",
-      "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 15:18:30 GMT",
-      "matched_keywords": [
-        "troops",
-        "president",
-        "nato"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
-      "link": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 16:10:21 GMT",
-      "matched_keywords": [
-        "flood"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "AI used to fake evidence that ended Korean actor's career, say police",
-      "link": "https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 10:50:24 GMT",
+      "title": "Rubio meets Modi during India visit with energy high on agenda",
+      "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 11:55:39 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Trump is putting pressure on Cuba - why and to what end?",
-      "link": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 18:33:36 GMT",
+      "title": "California declares state of emergency as fire crews race to contain toxic chemical leak",
+      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 20:07:01 GMT",
       "matched_keywords": [
-        "war",
-        "military"
+        "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
-      "link": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 01:37:02 GMT",
+      "title": "Senegal's president sacks PM and former ally after months-long feud",
+      "link": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 11:36:09 GMT",
       "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
-      "link": "https://www.bbc.com/news/articles/c1k2lmmjvzxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 05:04:08 GMT",
-      "matched_keywords": [
-        "invasion"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Why thousands of stock trades tied to Trump are raising eyebrows",
-      "link": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 10:45:38 GMT",
-      "matched_keywords": [
-        "president"
+        "president",
+        "debt crisis",
+        "crisis"
       ]
     }
   ]
