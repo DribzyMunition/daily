@@ -1,5 +1,5 @@
-# Daily Feed — 2026-05-23
-*Generated: 2026-05-23T21:30:05+00:00 UTC*
+# Daily Feed — 2026-05-24
+*Generated: 2026-05-24T21:30:05+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,521.0000 | ▼ 18.7998 | -0.41% |
-| Silver |      75.8930 | ▼ 0.5210 | -0.68% |
+| Gold |   4,523.2002 | ▼ 16.5996 | -0.37% |
+| Silver |      76.1990 | ▼ 0.2150 | -0.28% |
 | Soybeans |   1,196.5000 | ▲ 2.2500 | +0.19% |
-| Sugar #11 (Raw) |      14.7000 | ▼ 0.2000 | -1.34% |
+| Sugar #11 (Raw) |      14.6800 | ▼ 0.2200 | -1.48% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7130 | ▼ 0.0019 | -0.26% |
+| AUD/USD |       0.7161 | ▲ 0.0012 | +0.17% |
 
 ### Indices
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz
-*Tags: nuclear*
-https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Trump tells US negotiators 'not to rush' into deal with Iran
+*Tags: ceasefire*
+https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** At least 82 killed in Chinese coal mine explosion
-*Tags: explosion*
-https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss
+**[BBC World]** Large-scale Russian attack on Ukraine leaves four dead and dozens injured
+*Tags: attack, missile*
+https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** BBC at the site of China's worst mining disaster in more than a decade
+*Tags: gas, explosion*
+https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Blast targeting train kills at least 20 in Pakistan
+*Tags: attack, military*
+https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Man killed in shark attack off Australia's north-east coast
+*Tags: war, attack*
+https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** One killed and many feared trapped under collapsed building in Philippines
+*Tags: collapse*
+https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** California declares emergency as fire crews race to contain toxic leak
+*Tags: war*
+https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Red Cross volunteers die from suspected Ebola in DR Congo
 *Tags: outbreak*
 https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** French mum and partner held until trial after sons abandoned by road in Portugal
-*Tags: coup*
-https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Putin vows retaliation after accusing Ukraine of hitting student dormitory
-*Tags: military*
-https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Rubio meets Modi during India visit with energy high on agenda
-*Tags: war*
-https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** California declares state of emergency as fire crews race to contain toxic chemical leak
-*Tags: war*
-https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Senegal's president sacks PM and former ally after months-long feud
-*Tags: president, debt crisis, crisis*
-https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

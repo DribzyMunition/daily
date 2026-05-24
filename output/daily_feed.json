@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-05-23T21:30:05+00:00",
+  "generated_at": "2026-05-24T21:30:05+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4521.0,
-        "change": -18.799805,
-        "pct_change": -0.414,
+        "price": 4523.200195,
+        "change": -16.599609,
+        "pct_change": -0.366,
         "date": "2026-05-22"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 75.892998,
-        "change": -0.521004,
-        "pct_change": -0.682,
+        "price": 76.198997,
+        "change": -0.215004,
+        "pct_change": -0.281,
         "date": "2026-05-22"
       },
       "Soybeans": {
@@ -25,19 +25,19 @@
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.7,
-        "change": -0.2,
-        "pct_change": -1.342,
+        "price": 14.68,
+        "change": -0.219999,
+        "pct_change": -1.477,
         "date": "2026-05-22"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.712962,
-        "change": -0.001868,
-        "pct_change": -0.261,
-        "date": "2026-05-23"
+        "price": 0.716076,
+        "change": 0.001246,
+        "pct_change": 0.174,
+        "date": "2026-05-24"
       }
     },
     "indices": {
@@ -139,76 +139,78 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 21:14:57 GMT",
+      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+      "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 20:26:26 GMT",
       "matched_keywords": [
-        "nuclear"
+        "ceasefire"
       ]
     },
     {
       "source": "BBC World",
-      "title": "At least 82 killed in Chinese coal mine explosion",
-      "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 15:18:40 GMT",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 16:50:46 GMT",
       "matched_keywords": [
+        "attack",
+        "missile"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "BBC at the site of China's worst mining disaster in more than a decade",
+      "link": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 10:34:52 GMT",
+      "matched_keywords": [
+        "gas",
         "explosion"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 12:26:09 GMT",
+      "matched_keywords": [
+        "attack",
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "link": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 15:29:08 GMT",
+      "matched_keywords": [
+        "war",
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "One killed and many feared trapped under collapsed building in Philippines",
+      "link": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 14:25:00 GMT",
+      "matched_keywords": [
+        "collapse"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "California declares emergency as fire crews race to contain toxic leak",
+      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 18:51:00 GMT",
+      "matched_keywords": [
+        "war"
       ]
     },
     {
       "source": "BBC World",
       "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
       "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 19:55:16 GMT",
+      "published": "Sun, 24 May 2026 11:09:54 GMT",
       "matched_keywords": [
         "outbreak"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
-      "link": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 14:24:48 GMT",
-      "matched_keywords": [
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 14:06:12 GMT",
-      "matched_keywords": [
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Rubio meets Modi during India visit with energy high on agenda",
-      "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 11:55:39 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "California declares state of emergency as fire crews race to contain toxic chemical leak",
-      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 20:07:01 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Senegal's president sacks PM and former ally after months-long feud",
-      "link": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 11:36:09 GMT",
-      "matched_keywords": [
-        "president",
-        "debt crisis",
-        "crisis"
       ]
     }
   ]
