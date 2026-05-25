@@ -1,5 +1,5 @@
-# Daily Feed — 2026-05-24
-*Generated: 2026-05-24T21:30:05+00:00 UTC*
+# Daily Feed — 2026-05-25
+*Generated: 2026-05-25T21:30:06+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,523.2002 | ▼ 16.5996 | -0.37% |
-| Silver |      76.1990 | ▼ 0.2150 | -0.28% |
+| Gold |   4,523.2002 | ▲ 2.2002 | +0.05% |
+| Silver |      76.1990 | ▲ 0.3060 | +0.40% |
 | Soybeans |   1,196.5000 | ▲ 2.2500 | +0.19% |
-| Sugar #11 (Raw) |      14.6800 | ▼ 0.2200 | -1.48% |
+| Sugar #11 (Raw) |      14.7000 | ▼ 0.2000 | -1.34% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7161 | ▲ 0.0012 | +0.17% |
+| AUD/USD |       0.7175 | ▲ 0.0026 | +0.37% |
 
 ### Indices
 
@@ -27,7 +27,7 @@
 | S&P 500 |   7,473.4702 | ▲ 27.7500 | +0.37% |
 | US 10Y Yield (%) |       4.5580 | ▼ 0.0280 | -0.61% |
 | Hang Seng 50 |  25,606.0293 | ▲ 219.5098 | +0.86% |
-| South Africa Top 40 |  10,665.0000 | ▼ 103.0000 | -0.96% |
+| South Africa Top 40 |  10,940.0000 | ▲ 275.0000 | +2.58% |
 | Switzerland SMI |  13,503.2100 | ▲ 56.7803 | +0.42% |
 | ASX 200 (XJO) |   8,657.0000 | ▲ 35.2998 | +0.41% |
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Trump tells US negotiators 'not to rush' into deal with Iran
-*Tags: ceasefire*
-https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss
+**[BBC World]** Oil prices slide on hopes of US-Iran peace deal
+*Tags: oil*
+https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Large-scale Russian attack on Ukraine leaves four dead and dozens injured
-*Tags: attack, missile*
-https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Russia threatens more Kyiv strikes and tells foreign nationals to leave
+*Tags: war*
+https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** BBC at the site of China's worst mining disaster in more than a decade
-*Tags: gas, explosion*
-https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Netanyahu says Israel will intensify strikes against Hezbollah
+*Tags: military, prime minister*
+https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Blast targeting train kills at least 20 in Pakistan
-*Tags: attack, military*
-https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss
+**[BBC World]** More than 1.5m foreign pilgrims begin Hajj despite Iran war fears
+*Tags: war*
+https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Man killed in shark attack off Australia's north-east coast
 *Tags: war, attack*
 https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss
 
+**[BBC World]** Blast targeting train kills at least 20 in Pakistan
+*Tags: attack, military*
+https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss
+
 **[BBC World]** One killed and many feared trapped under collapsed building in Philippines
 *Tags: collapse*
 https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** California declares emergency as fire crews race to contain toxic leak
-*Tags: war*
-https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Red Cross volunteers die from suspected Ebola in DR Congo
-*Tags: outbreak*
-https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Ebola outbreak poses massive challenges, warns nurse
+*Tags: war, outbreak*
+https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

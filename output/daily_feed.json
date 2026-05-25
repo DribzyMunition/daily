@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-05-24T21:30:05+00:00",
+  "generated_at": "2026-05-25T21:30:06+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
         "price": 4523.200195,
-        "change": -16.599609,
-        "pct_change": -0.366,
-        "date": "2026-05-22"
+        "change": 2.200195,
+        "pct_change": 0.049,
+        "date": "2026-05-25"
       },
       "Silver": {
         "ticker": "SI=F",
         "price": 76.198997,
-        "change": -0.215004,
-        "pct_change": -0.281,
-        "date": "2026-05-22"
+        "change": 0.306,
+        "pct_change": 0.403,
+        "date": "2026-05-25"
       },
       "Soybeans": {
         "ticker": "ZS=F",
@@ -25,19 +25,19 @@
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.68,
-        "change": -0.219999,
-        "pct_change": -1.477,
+        "price": 14.7,
+        "change": -0.2,
+        "pct_change": -1.342,
         "date": "2026-05-22"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.716076,
-        "change": 0.001246,
-        "pct_change": 0.174,
-        "date": "2026-05-24"
+        "price": 0.717463,
+        "change": 0.002633,
+        "pct_change": 0.368,
+        "date": "2026-05-25"
       }
     },
     "indices": {
@@ -64,10 +64,10 @@
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10665.0,
-        "change": -103.0,
-        "pct_change": -0.957,
-        "date": "2026-05-22"
+        "price": 10940.0,
+        "change": 275.0,
+        "pct_change": 2.579,
+        "date": "2026-05-25"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
@@ -139,41 +139,39 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
-      "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 20:26:26 GMT",
+      "title": "Oil prices slide on hopes of US-Iran peace deal",
+      "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 25 May 2026 13:05:56 GMT",
       "matched_keywords": [
-        "ceasefire"
+        "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 16:50:46 GMT",
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 25 May 2026 21:24:34 GMT",
       "matched_keywords": [
-        "attack",
-        "missile"
+        "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "BBC at the site of China's worst mining disaster in more than a decade",
-      "link": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 10:34:52 GMT",
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "link": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 25 May 2026 20:40:15 GMT",
       "matched_keywords": [
-        "gas",
-        "explosion"
+        "military",
+        "prime minister"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Blast targeting train kills at least 20 in Pakistan",
-      "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 12:26:09 GMT",
+      "title": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
+      "link": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 25 May 2026 20:11:59 GMT",
       "matched_keywords": [
-        "attack",
-        "military"
+        "war"
       ]
     },
     {
@@ -188,6 +186,16 @@
     },
     {
       "source": "BBC World",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 22:11:51 GMT",
+      "matched_keywords": [
+        "attack",
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
       "title": "One killed and many feared trapped under collapsed building in Philippines",
       "link": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 24 May 2026 14:25:00 GMT",
@@ -197,19 +205,11 @@
     },
     {
       "source": "BBC World",
-      "title": "California declares emergency as fire crews race to contain toxic leak",
-      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 18:51:00 GMT",
+      "title": "Ebola outbreak poses massive challenges, warns nurse",
+      "link": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 17:46:14 GMT",
       "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
-      "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 11:09:54 GMT",
-      "matched_keywords": [
+        "war",
         "outbreak"
       ]
     }
