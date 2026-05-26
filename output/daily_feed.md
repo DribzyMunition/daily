@@ -1,5 +1,5 @@
-# Daily Feed — 2026-05-25
-*Generated: 2026-05-25T21:30:06+00:00 UTC*
+# Daily Feed — 2026-05-26
+*Generated: 2026-05-26T21:30:04+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,523.2002 | ▲ 2.2002 | +0.05% |
-| Silver |      76.1990 | ▲ 0.3060 | +0.40% |
-| Soybeans |   1,196.5000 | ▲ 2.2500 | +0.19% |
-| Sugar #11 (Raw) |      14.7000 | ▼ 0.2000 | -1.34% |
+| Gold |   4,507.2998 | ▼ 13.7002 | -0.30% |
+| Silver |      77.2700 | ▲ 1.3770 | +1.81% |
+| Soybeans |   1,185.5000 | ▼ 11.0000 | -0.92% |
+| Sugar #11 (Raw) |      14.5300 | ▼ 0.1700 | -1.16% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7175 | ▲ 0.0026 | +0.37% |
+| AUD/USD |       0.7171 | ▲ 0.0013 | +0.19% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,473.4702 | ▲ 27.7500 | +0.37% |
-| US 10Y Yield (%) |       4.5580 | ▼ 0.0280 | -0.61% |
+| S&P 500 |   7,519.1201 | ▲ 45.6499 | +0.61% |
+| US 10Y Yield (%) |       4.4930 | ▼ 0.0650 | -1.43% |
 | Hang Seng 50 |  25,606.0293 | ▲ 219.5098 | +0.86% |
-| South Africa Top 40 |  10,940.0000 | ▲ 275.0000 | +2.58% |
-| Switzerland SMI |  13,503.2100 | ▲ 56.7803 | +0.42% |
-| ASX 200 (XJO) |   8,657.0000 | ▲ 35.2998 | +0.41% |
+| South Africa Top 40 |  10,925.0000 | ▼ 15.0000 | -0.14% |
+| Switzerland SMI |  13,525.6797 | ▲ 22.4697 | +0.17% |
+| ASX 200 (XJO) |   8,692.0000 | ▲ 35.0000 | +0.40% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     136.8800 | ▼ 0.5350 | -0.39% |
-| McDonald's |     282.2700 | ▼ 1.9100 | -0.67% |
-| Tesla |     426.0100 | ▲ 8.1600 | +1.95% |
-| Alphabet |     382.9700 | ▼ 4.6900 | -1.21% |
-| Lockheed Martin |     533.2400 | ▲ 10.4500 | +2.00% |
-| RTX (Raytheon) |     177.0100 | ▲ 1.7600 | +1.00% |
-| Northrop Grumman |     555.5800 | ▲ 4.0000 | +0.72% |
+| Palantir |     136.6000 | ▼ 0.2800 | -0.20% |
+| McDonald's |     279.2600 | ▼ 3.0100 | -1.07% |
+| Tesla |     433.5900 | ▲ 7.5800 | +1.78% |
+| Alphabet |     388.8800 | ▲ 5.9100 | +1.54% |
+| Lockheed Martin |     532.9000 | ▼ 0.3400 | -0.06% |
+| RTX (Raytheon) |     178.9700 | ▲ 1.9600 | +1.11% |
+| Northrop Grumman |     556.8000 | ▲ 1.2200 | +0.22% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Oil prices slide on hopes of US-Iran peace deal
-*Tags: oil*
-https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Iran condemns US strikes as 'gross violation' of ceasefire
+*Tags: attack, ceasefire*
+https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Russia threatens more Kyiv strikes and tells foreign nationals to leave
 *Tags: war*
 https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Netanyahu says Israel will intensify strikes against Hezbollah
-*Tags: military, prime minister*
-https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** More than 1.5m foreign pilgrims begin Hajj despite Iran war fears
+**[BBC World]** Why temperature records are being not only broken but smashed
 *Tags: war*
-https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Man killed in shark attack off Australia's north-east coast
-*Tags: war, attack*
-https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss
+**[BBC World]** South African president mounts legal challenge against report that could lead to impeachment
+*Tags: president*
+https://www.bbc.com/news/articles/cy72213v2elo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Blast targeting train kills at least 20 in Pakistan
-*Tags: attack, military*
-https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Internet starts coming back in Iran after months-long blackout
+*Tags: war, blackout*
+https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** One killed and many feared trapped under collapsed building in Philippines
+**[BBC World]** Australia confirms first diphtheria death amid worst outbreak in decades
+*Tags: outbreak*
+https://www.bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Rescuers race to free seven people trapped in flooded Laos cave
+*Tags: flood*
+https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Watch: Bridge collapses and car swept away in China river
 *Tags: collapse*
-https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Ebola outbreak poses massive challenges, warns nurse
-*Tags: war, outbreak*
-https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/videos/cdjppm1rpn7o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
