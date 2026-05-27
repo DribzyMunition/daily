@@ -1,5 +1,5 @@
-# Daily Feed — 2026-05-26
-*Generated: 2026-05-26T21:30:04+00:00 UTC*
+# Daily Feed — 2026-05-27
+*Generated: 2026-05-27T21:30:04+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,507.2998 | ▼ 13.7002 | -0.30% |
-| Silver |      77.2700 | ▲ 1.3770 | +1.81% |
-| Soybeans |   1,185.5000 | ▼ 11.0000 | -0.92% |
-| Sugar #11 (Raw) |      14.5300 | ▼ 0.1700 | -1.16% |
+| Gold |   4,488.5000 | ▼ 11.8999 | -0.26% |
+| Silver |      74.8850 | ▼ 1.4200 | -1.86% |
+| Soybeans |   1,185.5000 | ▼ 0.5000 | -0.04% |
+| Sugar #11 (Raw) |      14.1300 | ▼ 0.4100 | -2.82% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7171 | ▲ 0.0013 | +0.19% |
+| AUD/USD |       0.7142 | ▼ 0.0028 | -0.39% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,519.1201 | ▲ 45.6499 | +0.61% |
-| US 10Y Yield (%) |       4.4930 | ▼ 0.0650 | -1.43% |
-| Hang Seng 50 |  25,606.0293 | ▲ 219.5098 | +0.86% |
-| South Africa Top 40 |  10,925.0000 | ▼ 15.0000 | -0.14% |
-| Switzerland SMI |  13,525.6797 | ▲ 22.4697 | +0.17% |
-| ASX 200 (XJO) |   8,692.0000 | ▲ 35.0000 | +0.40% |
+| S&P 500 |   7,520.3599 | ▲ 1.2397 | +0.02% |
+| US 10Y Yield (%) |       4.4810 | ▼ 0.0120 | -0.27% |
+| Hang Seng 50 |  25,599.4492 | ▼ 6.5801 | -0.03% |
+| South Africa Top 40 |  10,876.0000 | ▼ 49.0000 | -0.45% |
+| Switzerland SMI |  13,627.4102 | ▲ 101.7305 | +0.75% |
+| ASX 200 (XJO) |   8,657.7998 | ▼ 34.2002 | -0.39% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     136.6000 | ▼ 0.2800 | -0.20% |
-| McDonald's |     279.2600 | ▼ 3.0100 | -1.07% |
-| Tesla |     433.5900 | ▲ 7.5800 | +1.78% |
-| Alphabet |     388.8800 | ▲ 5.9100 | +1.54% |
-| Lockheed Martin |     532.9000 | ▼ 0.3400 | -0.06% |
-| RTX (Raytheon) |     178.9700 | ▲ 1.9600 | +1.11% |
-| Northrop Grumman |     556.8000 | ▲ 1.2200 | +0.22% |
+| Palantir |     132.5100 | ▼ 4.0900 | -2.99% |
+| McDonald's |     280.9200 | ▲ 1.6600 | +0.59% |
+| Tesla |     440.3600 | ▲ 6.7700 | +1.56% |
+| Alphabet |     388.8300 | ▼ 0.0500 | -0.01% |
+| Lockheed Martin |     531.1400 | ▼ 1.7600 | -0.33% |
+| RTX (Raytheon) |     176.5900 | ▼ 2.3800 | -1.33% |
+| Northrop Grumman |     551.3400 | ▼ 5.4600 | -0.98% |
 
 ---
 
 ## Key Global Headlines
 
+**[BBC World]** Israel issues evacuation order for swathes of southern Lebanon
+*Tags: military*
+https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns
+*Tags: war, conflict*
+https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump says US 'not satisfied' with Iran deal yet
+*Tags: president*
+https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Five people found alive after week trapped in flooded Laos cave
+*Tags: flood*
+https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Israeli strike in Gaza City kills new head of Hamas's military wing
+*Tags: military*
+https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** One killed and nine missing after chemical explosion at US paper mill
+*Tags: explosion*
+https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump-backed challenger beats veteran US senator in Texas primary
+*Tags: election, nato*
+https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss
+
 **[BBC World]** Iran condemns US strikes as 'gross violation' of ceasefire
 *Tags: attack, ceasefire*
 https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Russia threatens more Kyiv strikes and tells foreign nationals to leave
-*Tags: war*
-https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Why temperature records are being not only broken but smashed
-*Tags: war*
-https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** South African president mounts legal challenge against report that could lead to impeachment
-*Tags: president*
-https://www.bbc.com/news/articles/cy72213v2elo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Internet starts coming back in Iran after months-long blackout
-*Tags: war, blackout*
-https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Australia confirms first diphtheria death amid worst outbreak in decades
-*Tags: outbreak*
-https://www.bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Rescuers race to free seven people trapped in flooded Laos cave
-*Tags: flood*
-https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Watch: Bridge collapses and car swept away in China river
-*Tags: collapse*
-https://www.bbc.com/news/videos/cdjppm1rpn7o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

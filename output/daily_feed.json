@@ -1,142 +1,207 @@
 {
-  "generated_at": "2026-05-26T21:30:04+00:00",
+  "generated_at": "2026-05-27T21:30:04+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4507.299805,
-        "change": -13.700195,
-        "pct_change": -0.303,
-        "date": "2026-05-26"
+        "price": 4488.5,
+        "change": -11.899902,
+        "pct_change": -0.264,
+        "date": "2026-05-27"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 77.269997,
-        "change": 1.376999,
-        "pct_change": 1.814,
-        "date": "2026-05-26"
+        "price": 74.885002,
+        "change": -1.419998,
+        "pct_change": -1.861,
+        "date": "2026-05-27"
       },
       "Soybeans": {
         "ticker": "ZS=F",
         "price": 1185.5,
-        "change": -11.0,
-        "pct_change": -0.919,
-        "date": "2026-05-26"
+        "change": -0.5,
+        "pct_change": -0.042,
+        "date": "2026-05-27"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.53,
-        "change": -0.17,
-        "pct_change": -1.156,
-        "date": "2026-05-26"
+        "price": 14.13,
+        "change": -0.41,
+        "pct_change": -2.82,
+        "date": "2026-05-27"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.717051,
-        "change": 0.001331,
-        "pct_change": 0.186,
-        "date": "2026-05-26"
+        "price": 0.714235,
+        "change": -0.002795,
+        "pct_change": -0.39,
+        "date": "2026-05-27"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7519.120117,
-        "change": 45.649902,
-        "pct_change": 0.611,
-        "date": "2026-05-26"
+        "price": 7520.359863,
+        "change": 1.239746,
+        "pct_change": 0.016,
+        "date": "2026-05-27"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.493,
-        "change": -0.065,
-        "pct_change": -1.426,
-        "date": "2026-05-26"
+        "price": 4.481,
+        "change": -0.012,
+        "pct_change": -0.267,
+        "date": "2026-05-27"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25606.029297,
-        "change": 219.509766,
-        "pct_change": 0.865,
-        "date": "2026-05-22"
+        "price": 25599.449219,
+        "change": -6.580078,
+        "pct_change": -0.026,
+        "date": "2026-05-26"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10925.0,
-        "change": -15.0,
-        "pct_change": -0.137,
-        "date": "2026-05-26"
+        "price": 10876.0,
+        "change": -49.0,
+        "pct_change": -0.449,
+        "date": "2026-05-27"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13525.679688,
-        "change": 22.469727,
-        "pct_change": 0.166,
-        "date": "2026-05-26"
+        "price": 13627.410156,
+        "change": 101.730469,
+        "pct_change": 0.752,
+        "date": "2026-05-27"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8692.0,
-        "change": 35.0,
-        "pct_change": 0.404,
-        "date": "2026-05-25"
+        "price": 8657.799805,
+        "change": -34.200195,
+        "pct_change": -0.393,
+        "date": "2026-05-26"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 136.600006,
-        "change": -0.279999,
-        "pct_change": -0.205,
-        "date": "2026-05-26"
+        "price": 132.509995,
+        "change": -4.090012,
+        "pct_change": -2.994,
+        "date": "2026-05-27"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 279.26001,
-        "change": -3.009979,
-        "pct_change": -1.066,
-        "date": "2026-05-26"
+        "price": 280.920013,
+        "change": 1.660004,
+        "pct_change": 0.594,
+        "date": "2026-05-27"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 433.589996,
-        "change": 7.579987,
-        "pct_change": 1.779,
-        "date": "2026-05-26"
+        "price": 440.359985,
+        "change": 6.769989,
+        "pct_change": 1.561,
+        "date": "2026-05-27"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 388.880005,
-        "change": 5.910004,
-        "pct_change": 1.543,
-        "date": "2026-05-26"
+        "price": 388.829987,
+        "change": -0.050018,
+        "pct_change": -0.013,
+        "date": "2026-05-27"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 532.900024,
-        "change": -0.339966,
-        "pct_change": -0.064,
-        "date": "2026-05-26"
+        "price": 531.140015,
+        "change": -1.76001,
+        "pct_change": -0.33,
+        "date": "2026-05-27"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 178.970001,
-        "change": 1.960007,
-        "pct_change": 1.107,
-        "date": "2026-05-26"
+        "price": 176.589996,
+        "change": -2.380005,
+        "pct_change": -1.33,
+        "date": "2026-05-27"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 556.799988,
-        "change": 1.219971,
-        "pct_change": 0.22,
-        "date": "2026-05-26"
+        "price": 551.340027,
+        "change": -5.459961,
+        "pct_change": -0.981,
+        "date": "2026-05-27"
       }
     }
   },
   "news": [
+    {
+      "source": "BBC World",
+      "title": "Israel issues evacuation order for swathes of southern Lebanon",
+      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 20:26:03 GMT",
+      "matched_keywords": [
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+      "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 18:50:50 GMT",
+      "matched_keywords": [
+        "war",
+        "conflict"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says US 'not satisfied' with Iran deal yet",
+      "link": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 17:37:33 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Five people found alive after week trapped in flooded Laos cave",
+      "link": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 11:52:46 GMT",
+      "matched_keywords": [
+        "flood"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 13:15:26 GMT",
+      "matched_keywords": [
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "One killed and nine missing after chemical explosion at US paper mill",
+      "link": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 03:02:27 GMT",
+      "matched_keywords": [
+        "explosion"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump-backed challenger beats veteran US senator in Texas primary",
+      "link": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 11:53:06 GMT",
+      "matched_keywords": [
+        "election",
+        "nato"
+      ]
+    },
     {
       "source": "BBC World",
       "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
@@ -145,70 +210,6 @@
       "matched_keywords": [
         "attack",
         "ceasefire"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-      "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 03:06:06 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Why temperature records are being not only broken but smashed",
-      "link": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 17:57:28 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "South African president mounts legal challenge against report that could lead to impeachment",
-      "link": "https://www.bbc.com/news/articles/cy72213v2elo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 17:24:19 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Internet starts coming back in Iran after months-long blackout",
-      "link": "https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 16:38:05 GMT",
-      "matched_keywords": [
-        "war",
-        "blackout"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
-      "link": "https://www.bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 07:09:38 GMT",
-      "matched_keywords": [
-        "outbreak"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Rescuers race to free seven people trapped in flooded Laos cave",
-      "link": "https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 01:48:34 GMT",
-      "matched_keywords": [
-        "flood"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Bridge collapses and car swept away in China river",
-      "link": "https://www.bbc.com/news/videos/cdjppm1rpn7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 09:12:57 GMT",
-      "matched_keywords": [
-        "collapse"
       ]
     }
   ]
