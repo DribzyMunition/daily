@@ -1,5 +1,5 @@
-# Daily Feed — 2026-05-29
-*Generated: 2026-05-29T21:30:06+00:00 UTC*
+# Daily Feed — 2026-05-30
+*Generated: 2026-05-30T21:30:06+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,569.8999 | ▲ 70.6001 | +1.57% |
-| Silver |      75.5850 | ▼ 0.0600 | -0.08% |
-| Soybeans |   1,186.5000 | ▼ 8.0000 | -0.67% |
-| Sugar #11 (Raw) |      14.0700 | ▲ 0.1400 | +1.00% |
+| Gold |   4,560.5000 | ▲ 61.2002 | +1.36% |
+| Silver |      75.6160 | ▼ 0.0290 | -0.04% |
+| Soybeans |   1,186.7500 | ▼ 7.7500 | -0.65% |
+| Sugar #11 (Raw) |      14.0600 | ▲ 0.1300 | +0.93% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7186 | ▲ 0.0053 | +0.74% |
+| AUD/USD |       0.7186 | ▲ 0.0022 | +0.30% |
 
 ### Indices
 
@@ -26,10 +26,10 @@
 |:------|------:|------:|---------:|
 | S&P 500 |   7,580.0601 | ▲ 16.4302 | +0.22% |
 | US 10Y Yield (%) |       4.4530 | ▼ 0.0020 | -0.04% |
-| Hang Seng 50 |  25,006.1602 | ▼ 322.0703 | -1.27% |
+| Hang Seng 50 |  25,182.3906 | ▲ 176.2305 | +0.70% |
 | South Africa Top 40 |  10,819.0000 | ▲ 1.0000 | +0.01% |
 | Switzerland SMI |  13,542.6602 | ▲ 37.9004 | +0.28% |
-| ASX 200 (XJO) |   8,592.9004 | ▼ 124.7998 | -1.43% |
+| ASX 200 (XJO) |   8,731.7002 | ▲ 138.7998 | +1.61% |
 
 ### Stocks
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Nato and EU condemn Russia after drone hits Romanian residential block
-*Tags: nato*
-https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss
+**[BBC World]** US, UK and Australia to develop underwater drone technology
+*Tags: military*
+https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Trump holds meeting to make 'final determination' on Iran deal
+**[BBC World]** No deal announced after Trump meeting to make 'final determination' on Iran
 *Tags: president*
 https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** 'Controversial' North Korean invasion setting for next Call of Duty game
-*Tags: war, military, invasion*
-https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Oscar-winning Star Wars editor Marcia Lucas dies aged 80
+*Tags: war*
+https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe
-*Tags: president*
-https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Ebola spread in DR Congo 'deeply alarming', MSF warns
+*Tags: war, outbreak*
+https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Eight students arrested in Kenya after suspected deadly school arson attack
+**[BBC World]** Ecuador accused of meddling in Colombian election with tariff vow
+*Tags: election, president, tariff*
+https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Four more men freed from flooded Laos cave after 10 days
+*Tags: flood*
+https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself
 *Tags: attack*
-https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Exploding rocket casts doubts over Nasa's Moon plans
-*Tags: explosion*
-https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Netanyahu says he has directed IDF to increase control of Gaza to 70%
-*Tags: ceasefire*
-https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna
-*Tags: attack*
-https://www.bbc.com/news/articles/cgrp7y05l9do?at_medium=RSS&at_campaign=rss
+**[BBC World]** US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth
+*Tags: summit*
+https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

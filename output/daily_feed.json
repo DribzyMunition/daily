@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-05-29T21:30:06+00:00",
+  "generated_at": "2026-05-30T21:30:06+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4569.899902,
-        "change": 70.600098,
-        "pct_change": 1.569,
+        "price": 4560.5,
+        "change": 61.200195,
+        "pct_change": 1.36,
         "date": "2026-05-29"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 75.584999,
-        "change": -0.059998,
-        "pct_change": -0.079,
+        "price": 75.615997,
+        "change": -0.028999,
+        "pct_change": -0.038,
         "date": "2026-05-29"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1186.5,
-        "change": -8.0,
-        "pct_change": -0.67,
+        "price": 1186.75,
+        "change": -7.75,
+        "pct_change": -0.649,
         "date": "2026-05-29"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.07,
-        "change": 0.139999,
-        "pct_change": 1.005,
+        "price": 14.06,
+        "change": 0.13,
+        "pct_change": 0.933,
         "date": "2026-05-29"
       }
     },
@@ -35,9 +35,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.718597,
-        "change": 0.005277,
-        "pct_change": 0.74,
-        "date": "2026-05-29"
+        "change": 0.002177,
+        "pct_change": 0.304,
+        "date": "2026-05-30"
       }
     },
     "indices": {
@@ -57,10 +57,10 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25006.160156,
-        "change": -322.070312,
-        "pct_change": -1.272,
-        "date": "2026-05-28"
+        "price": 25182.390625,
+        "change": 176.230469,
+        "pct_change": 0.705,
+        "date": "2026-05-29"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8592.900391,
-        "change": -124.799805,
-        "pct_change": -1.432,
-        "date": "2026-05-28"
+        "price": 8731.700195,
+        "change": 138.799805,
+        "pct_change": 1.615,
+        "date": "2026-05-29"
       }
     },
     "stocks": {
@@ -139,76 +139,77 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
-      "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 29 May 2026 17:27:09 GMT",
+      "title": "US, UK and Australia to develop underwater drone technology",
+      "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 30 May 2026 12:16:26 GMT",
       "matched_keywords": [
-        "nato"
+        "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Trump holds meeting to make 'final determination' on Iran deal",
+      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
       "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 29 May 2026 19:32:24 GMT",
+      "published": "Sat, 30 May 2026 11:39:32 GMT",
       "matched_keywords": [
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
-      "link": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 29 May 2026 13:55:04 GMT",
+      "title": "Oscar-winning Star Wars editor Marcia Lucas dies aged 80",
+      "link": "https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 30 May 2026 18:03:40 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+      "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 30 May 2026 21:10:06 GMT",
       "matched_keywords": [
         "war",
-        "military",
-        "invasion"
+        "outbreak"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe",
-      "link": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 29 May 2026 17:45:06 GMT",
+      "title": "Ecuador accused of meddling in Colombian election with tariff vow",
+      "link": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 30 May 2026 20:40:07 GMT",
       "matched_keywords": [
-        "president"
+        "election",
+        "president",
+        "tariff"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
-      "link": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 29 May 2026 11:22:10 GMT",
+      "title": "Four more men freed from flooded Laos cave after 10 days",
+      "link": "https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 30 May 2026 09:50:56 GMT",
       "matched_keywords": [
-        "attack"
+        "flood"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Exploding rocket casts doubts over Nasa's Moon plans",
-      "link": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 29 May 2026 10:38:46 GMT",
-      "matched_keywords": [
-        "explosion"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
-      "link": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 29 May 2026 02:24:52 GMT",
-      "matched_keywords": [
-        "ceasefire"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna",
-      "link": "https://www.bbc.com/news/articles/cgrp7y05l9do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 28 May 2026 21:07:46 GMT",
+      "title": "Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself",
+      "link": "https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 30 May 2026 17:40:47 GMT",
       "matched_keywords": [
         "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
+      "link": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 30 May 2026 13:34:57 GMT",
+      "matched_keywords": [
+        "summit"
       ]
     }
   ]
