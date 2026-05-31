@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-05-30T21:30:06+00:00",
+  "generated_at": "2026-05-31T21:30:06+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4560.5,
-        "change": 61.200195,
-        "pct_change": 1.36,
+        "price": 4593.0,
+        "change": 93.700195,
+        "pct_change": 2.083,
         "date": "2026-05-29"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 75.615997,
-        "change": -0.028999,
-        "pct_change": -0.038,
+        "price": 75.875,
+        "change": 0.230003,
+        "pct_change": 0.304,
         "date": "2026-05-29"
       },
       "Soybeans": {
@@ -25,19 +25,19 @@
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.06,
-        "change": 0.13,
-        "pct_change": 0.933,
+        "price": 14.07,
+        "change": 0.139999,
+        "pct_change": 1.005,
         "date": "2026-05-29"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.718597,
-        "change": 0.002177,
-        "pct_change": 0.304,
-        "date": "2026-05-30"
+        "price": 0.717412,
+        "change": 0.000991,
+        "pct_change": 0.138,
+        "date": "2026-05-31"
       }
     },
     "indices": {
@@ -139,20 +139,49 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "US, UK and Australia to develop underwater drone technology",
-      "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 30 May 2026 12:16:26 GMT",
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 31 May 2026 20:26:11 GMT",
+      "matched_keywords": [
+        "military",
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
+      "link": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 31 May 2026 06:34:04 GMT",
       "matched_keywords": [
         "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-      "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 30 May 2026 11:39:32 GMT",
+      "title": "Polls close in Colombia presidential election that may reshape relations with US",
+      "link": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 31 May 2026 21:08:21 GMT",
       "matched_keywords": [
+        "election",
         "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Laos cave survivors help with plan to find last two missing men",
+      "link": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 31 May 2026 15:52:42 GMT",
+      "matched_keywords": [
+        "flood"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Brazil monitors two patients for possible Ebola infection",
+      "link": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 31 May 2026 19:07:47 GMT",
+      "matched_keywords": [
+        "outbreak"
       ]
     },
     {
@@ -168,7 +197,7 @@
       "source": "BBC World",
       "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
       "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 30 May 2026 21:10:06 GMT",
+      "published": "Sun, 31 May 2026 06:47:05 GMT",
       "matched_keywords": [
         "war",
         "outbreak"
@@ -176,40 +205,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Ecuador accused of meddling in Colombian election with tariff vow",
-      "link": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 30 May 2026 20:40:07 GMT",
+      "title": "US, UK and Australia to develop underwater drone technology",
+      "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 30 May 2026 12:16:26 GMT",
       "matched_keywords": [
-        "election",
-        "president",
-        "tariff"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Four more men freed from flooded Laos cave after 10 days",
-      "link": "https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 30 May 2026 09:50:56 GMT",
-      "matched_keywords": [
-        "flood"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself",
-      "link": "https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 30 May 2026 17:40:47 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
-      "link": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 30 May 2026 13:34:57 GMT",
-      "matched_keywords": [
-        "summit"
+        "military"
       ]
     }
   ]

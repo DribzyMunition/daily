@@ -1,5 +1,5 @@
-# Daily Feed — 2026-05-30
-*Generated: 2026-05-30T21:30:06+00:00 UTC*
+# Daily Feed — 2026-05-31
+*Generated: 2026-05-31T21:30:06+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,560.5000 | ▲ 61.2002 | +1.36% |
-| Silver |      75.6160 | ▼ 0.0290 | -0.04% |
+| Gold |   4,593.0000 | ▲ 93.7002 | +2.08% |
+| Silver |      75.8750 | ▲ 0.2300 | +0.30% |
 | Soybeans |   1,186.7500 | ▼ 7.7500 | -0.65% |
-| Sugar #11 (Raw) |      14.0600 | ▲ 0.1300 | +0.93% |
+| Sugar #11 (Raw) |      14.0700 | ▲ 0.1400 | +1.00% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7186 | ▲ 0.0022 | +0.30% |
+| AUD/USD |       0.7174 | ▲ 0.0010 | +0.14% |
 
 ### Indices
 
@@ -47,13 +47,25 @@
 
 ## Key Global Headlines
 
-**[BBC World]** US, UK and Australia to develop underwater drone technology
-*Tags: military*
-https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Israel seizes castle in Lebanon as it expands ground offensive
+*Tags: military, prime minister*
+https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** No deal announced after Trump meeting to make 'final determination' on Iran
-*Tags: president*
-https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Japan defence minister denies militarism and criticises China's 'huge arsenal'
+*Tags: military*
+https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Polls close in Colombia presidential election that may reshape relations with US
+*Tags: election, president*
+https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Laos cave survivors help with plan to find last two missing men
+*Tags: flood*
+https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Brazil monitors two patients for possible Ebola infection
+*Tags: outbreak*
+https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Oscar-winning Star Wars editor Marcia Lucas dies aged 80
 *Tags: war*
@@ -63,21 +75,9 @@ https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&at_campaign=rss
 *Tags: war, outbreak*
 https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ecuador accused of meddling in Colombian election with tariff vow
-*Tags: election, president, tariff*
-https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Four more men freed from flooded Laos cave after 10 days
-*Tags: flood*
-https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself
-*Tags: attack*
-https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth
-*Tags: summit*
-https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss
+**[BBC World]** US, UK and Australia to develop underwater drone technology
+*Tags: military*
+https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
