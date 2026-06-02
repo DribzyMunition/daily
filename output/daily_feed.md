@@ -1,5 +1,5 @@
-# Daily Feed — 2026-05-31
-*Generated: 2026-05-31T21:30:06+00:00 UTC*
+# Daily Feed — 2026-06-02
+*Generated: 2026-06-02T00:56:38+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,593.0000 | ▲ 93.7002 | +2.08% |
-| Silver |      75.8750 | ▲ 0.2300 | +0.30% |
-| Soybeans |   1,186.7500 | ▼ 7.7500 | -0.65% |
-| Sugar #11 (Raw) |      14.0700 | ▲ 0.1400 | +1.00% |
+| Gold |   4,517.0000 | ▼ 43.5000 | -0.95% |
+| Silver |      75.2700 | ▼ 0.3460 | -0.46% |
+| Soybeans |   1,175.7500 | ▼ 11.0000 | -0.93% |
+| Sugar #11 (Raw) |      14.4200 | ▲ 0.3600 | +2.56% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7174 | ▲ 0.0010 | +0.14% |
+| AUD/USD |       0.7164 | ▼ 0.0017 | -0.23% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,580.0601 | ▲ 16.4302 | +0.22% |
-| US 10Y Yield (%) |       4.4530 | ▼ 0.0020 | -0.04% |
+| S&P 500 |   7,599.9600 | ▲ 19.8999 | +0.26% |
+| US 10Y Yield (%) |       4.4750 | ▲ 0.0220 | +0.49% |
 | Hang Seng 50 |  25,182.3906 | ▲ 176.2305 | +0.70% |
 | South Africa Top 40 |  10,819.0000 | ▲ 1.0000 | +0.01% |
 | Switzerland SMI |  13,542.6602 | ▲ 37.9004 | +0.28% |
-| ASX 200 (XJO) |   8,731.7002 | ▲ 138.7998 | +1.61% |
+| ASX 200 (XJO) |   8,651.2998 | ▼ 80.4004 | -0.92% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     156.5400 | ▲ 13.2000 | +9.21% |
-| McDonald's |     279.2000 | ▲ 1.2300 | +0.44% |
-| Tesla |     435.7900 | ▼ 6.3100 | -1.43% |
-| Alphabet |     380.3400 | ▼ 9.7900 | -2.51% |
-| Lockheed Martin |     530.4500 | ▼ 6.7600 | -1.26% |
-| RTX (Raytheon) |     179.6600 | ▲ 0.7000 | +0.39% |
-| Northrop Grumman |     563.6800 | ▲ 4.3900 | +0.79% |
+| Palantir |     160.6500 | ▲ 4.1100 | +2.63% |
+| McDonald's |     276.1100 | ▼ 3.0900 | -1.11% |
+| Tesla |     415.8800 | ▼ 19.9100 | -4.57% |
+| Alphabet |     376.3700 | ▼ 3.9700 | -1.04% |
+| Lockheed Martin |     516.5000 | ▼ 13.9500 | -2.63% |
+| RTX (Raytheon) |     174.4100 | ▼ 5.2500 | -2.92% |
+| Northrop Grumman |     539.2200 | ▼ 24.4600 | -4.34% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Israel seizes castle in Lebanon as it expands ground offensive
-*Tags: military, prime minister*
-https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel
+*Tags: attack, military*
+https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Japan defence minister denies militarism and criticises China's 'huge arsenal'
-*Tags: military*
-https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Polls close in Colombia presidential election that may reshape relations with US
-*Tags: election, president*
-https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Laos cave survivors help with plan to find last two missing men
-*Tags: flood*
-https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Brazil monitors two patients for possible Ebola infection
-*Tags: outbreak*
-https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Oscar-winning Star Wars editor Marcia Lucas dies aged 80
+**[BBC World]** Bowen: Trump needs this war to end but Iran is not backing down
 *Tags: war*
-https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ebola spread in DR Congo 'deeply alarming', MSF warns
-*Tags: war, outbreak*
-https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Three Ebola vaccines in development amid growing outbreak fears
+*Tags: outbreak*
+https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** US, UK and Australia to develop underwater drone technology
-*Tags: military*
-https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Hungarian PM threatens to oust Orbán-era president
+*Tags: president, prime minister*
+https://www.bbc.com/news/articles/c3w2vdd6jj3o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** France seized sanctioned Russian oil tanker with UK help, Macron says
+*Tags: oil*
+https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Voting suspended in parts of Ethiopia over security concerns
+*Tags: conflict, election, prime minister*
+https://www.bbc.com/news/articles/cn0pngz2rego?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Nigeria police warn against reprisal attacks against South Africans
+*Tags: war, attack*
+https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Colombia presidential runoff pits leftist senator against pro-Trump rival
+*Tags: president, nato*
+https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

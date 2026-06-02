@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-05-31T21:30:06+00:00",
+  "generated_at": "2026-06-02T00:56:38+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4593.0,
-        "change": 93.700195,
-        "pct_change": 2.083,
-        "date": "2026-05-29"
+        "price": 4517.0,
+        "change": -43.5,
+        "pct_change": -0.954,
+        "date": "2026-06-01"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 75.875,
-        "change": 0.230003,
-        "pct_change": 0.304,
-        "date": "2026-05-29"
+        "price": 75.269997,
+        "change": -0.346001,
+        "pct_change": -0.458,
+        "date": "2026-06-01"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1186.75,
-        "change": -7.75,
-        "pct_change": -0.649,
-        "date": "2026-05-29"
+        "price": 1175.75,
+        "change": -11.0,
+        "pct_change": -0.927,
+        "date": "2026-06-01"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.07,
-        "change": 0.139999,
-        "pct_change": 1.005,
-        "date": "2026-05-29"
+        "price": 14.42,
+        "change": 0.36,
+        "pct_change": 2.56,
+        "date": "2026-06-01"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.717412,
-        "change": 0.000991,
-        "pct_change": 0.138,
-        "date": "2026-05-31"
+        "price": 0.716384,
+        "change": -0.001666,
+        "pct_change": -0.232,
+        "date": "2026-06-02"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7580.060059,
-        "change": 16.430176,
-        "pct_change": 0.217,
-        "date": "2026-05-29"
+        "price": 7599.959961,
+        "change": 19.899902,
+        "pct_change": 0.263,
+        "date": "2026-06-01"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.453,
-        "change": -0.002,
-        "pct_change": -0.045,
-        "date": "2026-05-29"
+        "price": 4.475,
+        "change": 0.022,
+        "pct_change": 0.494,
+        "date": "2026-06-01"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
@@ -78,138 +78,141 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8731.700195,
-        "change": 138.799805,
-        "pct_change": 1.615,
-        "date": "2026-05-29"
+        "price": 8651.299805,
+        "change": -80.400391,
+        "pct_change": -0.921,
+        "date": "2026-06-02"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 156.539993,
-        "change": 13.199997,
-        "pct_change": 9.209,
-        "date": "2026-05-29"
+        "price": 160.649994,
+        "change": 4.110001,
+        "pct_change": 2.626,
+        "date": "2026-06-01"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 279.200012,
-        "change": 1.230011,
-        "pct_change": 0.442,
-        "date": "2026-05-29"
+        "price": 276.109985,
+        "change": -3.090027,
+        "pct_change": -1.107,
+        "date": "2026-06-01"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 435.790009,
-        "change": -6.309998,
-        "pct_change": -1.427,
-        "date": "2026-05-29"
+        "price": 415.880005,
+        "change": -19.910004,
+        "pct_change": -4.569,
+        "date": "2026-06-01"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 380.339996,
-        "change": -9.790009,
-        "pct_change": -2.509,
-        "date": "2026-05-29"
+        "price": 376.369995,
+        "change": -3.970001,
+        "pct_change": -1.044,
+        "date": "2026-06-01"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 530.450012,
-        "change": -6.76001,
-        "pct_change": -1.258,
-        "date": "2026-05-29"
+        "price": 516.5,
+        "change": -13.950012,
+        "pct_change": -2.63,
+        "date": "2026-06-01"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 179.660004,
-        "change": 0.699997,
-        "pct_change": 0.391,
-        "date": "2026-05-29"
+        "price": 174.410004,
+        "change": -5.25,
+        "pct_change": -2.922,
+        "date": "2026-06-01"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 563.679993,
-        "change": 4.390015,
-        "pct_change": 0.785,
-        "date": "2026-05-29"
+        "price": 539.219971,
+        "change": -24.460022,
+        "pct_change": -4.339,
+        "date": "2026-06-01"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 31 May 2026 20:26:11 GMT",
+      "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
+      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 01 Jun 2026 23:50:03 GMT",
       "matched_keywords": [
-        "military",
-        "prime minister"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
-      "link": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 31 May 2026 06:34:04 GMT",
-      "matched_keywords": [
+        "attack",
         "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Polls close in Colombia presidential election that may reshape relations with US",
-      "link": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 31 May 2026 21:08:21 GMT",
-      "matched_keywords": [
-        "election",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Laos cave survivors help with plan to find last two missing men",
-      "link": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 31 May 2026 15:52:42 GMT",
-      "matched_keywords": [
-        "flood"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Brazil monitors two patients for possible Ebola infection",
-      "link": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 31 May 2026 19:07:47 GMT",
-      "matched_keywords": [
-        "outbreak"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Oscar-winning Star Wars editor Marcia Lucas dies aged 80",
-      "link": "https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 30 May 2026 18:03:40 GMT",
+      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+      "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 01 Jun 2026 21:50:52 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
-      "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 31 May 2026 06:47:05 GMT",
+      "title": "Three Ebola vaccines in development amid growing outbreak fears",
+      "link": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 01 Jun 2026 14:30:39 GMT",
       "matched_keywords": [
-        "war",
         "outbreak"
       ]
     },
     {
       "source": "BBC World",
-      "title": "US, UK and Australia to develop underwater drone technology",
-      "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 30 May 2026 12:16:26 GMT",
+      "title": "Hungarian PM threatens to oust Orbán-era president",
+      "link": "https://www.bbc.com/news/articles/c3w2vdd6jj3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 01 Jun 2026 16:54:28 GMT",
       "matched_keywords": [
-        "military"
+        "president",
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
+      "link": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 01 Jun 2026 11:53:26 GMT",
+      "matched_keywords": [
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Voting suspended in parts of Ethiopia over security concerns",
+      "link": "https://www.bbc.com/news/articles/cn0pngz2rego?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 01 Jun 2026 14:35:36 GMT",
+      "matched_keywords": [
+        "conflict",
+        "election",
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigeria police warn against reprisal attacks against South Africans",
+      "link": "https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 01 Jun 2026 10:02:49 GMT",
+      "matched_keywords": [
+        "war",
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+      "link": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 01 Jun 2026 01:53:03 GMT",
+      "matched_keywords": [
+        "president",
+        "nato"
       ]
     }
   ]
