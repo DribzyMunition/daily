@@ -1,218 +1,215 @@
 {
-  "generated_at": "2026-06-02T00:56:38+00:00",
+  "generated_at": "2026-06-02T21:51:10+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4517.0,
-        "change": -43.5,
-        "pct_change": -0.954,
-        "date": "2026-06-01"
+        "price": 4519.200195,
+        "change": 44.0,
+        "pct_change": 0.983,
+        "date": "2026-06-02"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 75.269997,
-        "change": -0.346001,
-        "pct_change": -0.458,
-        "date": "2026-06-01"
+        "price": 75.440002,
+        "change": 0.432999,
+        "pct_change": 0.577,
+        "date": "2026-06-02"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1175.75,
-        "change": -11.0,
-        "pct_change": -0.927,
-        "date": "2026-06-01"
+        "price": 1164.5,
+        "change": -16.25,
+        "pct_change": -1.376,
+        "date": "2026-06-02"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.42,
-        "change": 0.36,
-        "pct_change": 2.56,
-        "date": "2026-06-01"
+        "price": 14.38,
+        "change": -0.07,
+        "pct_change": -0.484,
+        "date": "2026-06-02"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.716384,
-        "change": -0.001666,
-        "pct_change": -0.232,
+        "price": 0.718236,
+        "change": 0.000186,
+        "pct_change": 0.026,
         "date": "2026-06-02"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7599.959961,
-        "change": 19.899902,
-        "pct_change": 0.263,
-        "date": "2026-06-01"
+        "price": 7609.779785,
+        "change": 9.819824,
+        "pct_change": 0.129,
+        "date": "2026-06-02"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.475,
-        "change": 0.022,
-        "pct_change": 0.494,
-        "date": "2026-06-01"
+        "price": 4.455,
+        "change": -0.02,
+        "pct_change": -0.447,
+        "date": "2026-06-02"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25182.390625,
-        "change": 176.230469,
-        "pct_change": 0.705,
-        "date": "2026-05-29"
+        "price": 25398.179688,
+        "change": 215.789062,
+        "pct_change": 0.857,
+        "date": "2026-06-01"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10819.0,
-        "change": 1.0,
-        "pct_change": 0.009,
-        "date": "2026-05-29"
+        "price": 10744.0,
+        "change": 180.0,
+        "pct_change": 1.704,
+        "date": "2026-06-02"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13542.660156,
-        "change": 37.900391,
-        "pct_change": 0.281,
-        "date": "2026-05-29"
+        "price": 13305.719727,
+        "change": 0.319336,
+        "pct_change": 0.002,
+        "date": "2026-06-02"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8651.299805,
-        "change": -80.400391,
-        "pct_change": -0.921,
-        "date": "2026-06-02"
+        "price": 8729.400391,
+        "change": -2.299805,
+        "pct_change": -0.026,
+        "date": "2026-06-01"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 160.649994,
-        "change": 4.110001,
-        "pct_change": 2.626,
-        "date": "2026-06-01"
+        "price": 152.169998,
+        "change": -8.479996,
+        "pct_change": -5.279,
+        "date": "2026-06-02"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 276.109985,
-        "change": -3.090027,
-        "pct_change": -1.107,
-        "date": "2026-06-01"
+        "price": 276.359985,
+        "change": 0.25,
+        "pct_change": 0.091,
+        "date": "2026-06-02"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 415.880005,
-        "change": -19.910004,
-        "pct_change": -4.569,
-        "date": "2026-06-01"
+        "price": 423.73999,
+        "change": 7.859985,
+        "pct_change": 1.89,
+        "date": "2026-06-02"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 376.369995,
-        "change": -3.970001,
-        "pct_change": -1.044,
-        "date": "2026-06-01"
+        "price": 361.850006,
+        "change": -14.519989,
+        "pct_change": -3.858,
+        "date": "2026-06-02"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 516.5,
-        "change": -13.950012,
-        "pct_change": -2.63,
-        "date": "2026-06-01"
+        "price": 513.429993,
+        "change": -3.070007,
+        "pct_change": -0.594,
+        "date": "2026-06-02"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 174.410004,
-        "change": -5.25,
-        "pct_change": -2.922,
-        "date": "2026-06-01"
+        "price": 174.259995,
+        "change": -0.150009,
+        "pct_change": -0.086,
+        "date": "2026-06-02"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 539.219971,
-        "change": -24.460022,
-        "pct_change": -4.339,
-        "date": "2026-06-01"
+        "price": 536.590027,
+        "change": -2.629944,
+        "pct_change": -0.488,
+        "date": "2026-06-02"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
-      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 23:50:03 GMT",
+      "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
+      "link": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 19:13:21 GMT",
       "matched_keywords": [
-        "attack",
-        "military"
+        "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
-      "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 21:50:52 GMT",
+      "title": "British couple lose Iran jail sentence appeal, family says",
+      "link": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 16:04:18 GMT",
       "matched_keywords": [
-        "war"
+        "coup"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Three Ebola vaccines in development amid growing outbreak fears",
-      "link": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 14:30:39 GMT",
+      "title": "US says it fired missile at Iran-bound oil tanker",
+      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 21:49:00 GMT",
+      "matched_keywords": [
+        "war",
+        "military",
+        "missile",
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Mayor cancels DR Congo friendly with Chile in Spain over Ebola concern",
+      "link": "https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 19:28:55 GMT",
       "matched_keywords": [
         "outbreak"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Hungarian PM threatens to oust Orbán-era president",
-      "link": "https://www.bbc.com/news/articles/c3w2vdd6jj3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 16:54:28 GMT",
+      "title": "Mysteriously missing New Jersey congressman receives Trump endorsement",
+      "link": "https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 17:40:56 GMT",
       "matched_keywords": [
-        "president",
+        "election"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ghana's anti-LGBTQ+ bill to be scrutinised before approval, president says",
+      "link": "https://www.bbc.com/news/articles/cp8pgrd50xko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 11:59:30 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Denmark's Mette Frederiksen to form government after months of negotiations",
+      "link": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 01:19:15 GMT",
+      "matched_keywords": [
         "prime minister"
       ]
     },
     {
       "source": "BBC World",
-      "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
-      "link": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 11:53:26 GMT",
+      "title": "Why Myanmar president's India visit is being closely watched",
+      "link": "https://www.bbc.com/news/articles/ckgplnj1wexo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 08:29:20 GMT",
       "matched_keywords": [
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Voting suspended in parts of Ethiopia over security concerns",
-      "link": "https://www.bbc.com/news/articles/cn0pngz2rego?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 14:35:36 GMT",
-      "matched_keywords": [
-        "conflict",
-        "election",
-        "prime minister"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Nigeria police warn against reprisal attacks against South Africans",
-      "link": "https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 10:02:49 GMT",
-      "matched_keywords": [
-        "war",
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
-      "link": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 01:53:03 GMT",
-      "matched_keywords": [
-        "president",
-        "nato"
+        "president"
       ]
     }
   ]
