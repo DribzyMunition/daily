@@ -1,5 +1,5 @@
-# Daily Feed — 2026-06-02
-*Generated: 2026-06-02T21:51:10+00:00 UTC*
+# Daily Feed — 2026-06-03
+*Generated: 2026-06-03T23:21:42+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,519.2002 | ▲ 44.0000 | +0.98% |
-| Silver |      75.4400 | ▲ 0.4330 | +0.58% |
-| Soybeans |   1,164.5000 | ▼ 16.2500 | -1.38% |
-| Sugar #11 (Raw) |      14.3800 | ▼ 0.0700 | -0.48% |
+| Gold | — | — | ⚠ data unavailable |
+| Silver | — | — | ⚠ data unavailable |
+| Soybeans |   1,153.5000 | ▼ 11.7500 | -1.01% |
+| Sugar #11 (Raw) |      14.2200 | ▼ 0.1600 | -1.11% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7182 | ▲ 0.0002 | +0.03% |
+| AUD/USD |       0.7134 | ▼ 0.0040 | -0.56% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,609.7798 | ▲ 9.8198 | +0.13% |
-| US 10Y Yield (%) |       4.4550 | ▼ 0.0200 | -0.45% |
-| Hang Seng 50 |  25,398.1797 | ▲ 215.7891 | +0.86% |
+| S&P 500 |   7,553.6802 | ▼ 56.0996 | -0.74% |
+| US 10Y Yield (%) |       4.4910 | ▲ 0.0360 | +0.81% |
+| Hang Seng 50 |  26,038.3203 | ▲ 640.1406 | +2.52% |
 | South Africa Top 40 |  10,744.0000 | ▲ 180.0000 | +1.70% |
 | Switzerland SMI |  13,305.7197 | ▲ 0.3193 | +0.00% |
-| ASX 200 (XJO) |   8,729.4004 | ▼ 2.2998 | -0.03% |
+| ASX 200 (XJO) |   8,724.4004 | ▼ 5.0000 | -0.06% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     152.1700 | ▼ 8.4800 | -5.28% |
-| McDonald's |     276.3600 | ▲ 0.2500 | +0.09% |
-| Tesla |     423.7400 | ▲ 7.8600 | +1.89% |
-| Alphabet |     361.8500 | ▼ 14.5200 | -3.86% |
-| Lockheed Martin |     513.4300 | ▼ 3.0700 | -0.59% |
-| RTX (Raytheon) |     174.2600 | ▼ 0.1500 | -0.09% |
-| Northrop Grumman |     536.5900 | ▼ 2.6299 | -0.49% |
+| Palantir |     142.2000 | ▼ 9.9700 | -6.55% |
+| McDonald's |     273.2900 | ▼ 3.0700 | -1.11% |
+| Tesla |     423.7000 | ▼ 0.0400 | -0.01% |
+| Alphabet |     358.9900 | ▼ 2.8600 | -0.79% |
+| Lockheed Martin |     512.0300 | ▼ 1.4000 | -0.27% |
+| RTX (Raytheon) |     172.5500 | ▼ 1.7100 | -0.98% |
+| Northrop Grumman |     526.0600 | ▼ 10.5300 | -1.96% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** 'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike
-*Tags: attack*
-https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border
+*Tags: ceasefire*
+https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** British couple lose Iran jail sentence appeal, family says
-*Tags: coup*
-https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss
+**[BBC World]** US House votes to halt Iran war, in rebuke to Trump
+*Tags: war*
+https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** US says it fired missile at Iran-bound oil tanker
-*Tags: war, military, missile, oil*
+**[BBC World]** 'Crazy' phone call between Trump and Netanyahu complicates Iran talks
+*Tags: president*
+https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens
+*Tags: oil*
+https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** One killed and dozens injured in Iranian drone strikes on Kuwait airport
+*Tags: attack, oil*
 https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Mayor cancels DR Congo friendly with Chile in Spain over Ebola concern
-*Tags: outbreak*
-https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&at_campaign=rss
+**[BBC World]** US announces new tariffs over forced labour concerns
+*Tags: president, tariff*
+https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Mysteriously missing New Jersey congressman receives Trump endorsement
-*Tags: election*
-https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show
+*Tags: oil*
+https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ghana's anti-LGBTQ+ bill to be scrutinised before approval, president says
-*Tags: president*
-https://www.bbc.com/news/articles/cp8pgrd50xko?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Denmark's Mette Frederiksen to form government after months of negotiations
-*Tags: prime minister*
-https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Why Myanmar president's India visit is being closely watched
-*Tags: president*
-https://www.bbc.com/news/articles/ckgplnj1wexo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Man shot dead by FBI after taking hostages at California bank
+*Tags: hostage*
+https://www.bbc.com/news/articles/cn0pdrgy623o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

@@ -1,66 +1,60 @@
 {
-  "generated_at": "2026-06-02T21:51:10+00:00",
+  "generated_at": "2026-06-03T23:21:42+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4519.200195,
-        "change": 44.0,
-        "pct_change": 0.983,
-        "date": "2026-06-02"
+        "error": "'NoneType' object is not subscriptable"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 75.440002,
-        "change": 0.432999,
-        "pct_change": 0.577,
-        "date": "2026-06-02"
+        "error": "'NoneType' object is not subscriptable"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1164.5,
-        "change": -16.25,
-        "pct_change": -1.376,
-        "date": "2026-06-02"
+        "price": 1153.5,
+        "change": -11.75,
+        "pct_change": -1.008,
+        "date": "2026-06-03"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.38,
-        "change": -0.07,
-        "pct_change": -0.484,
-        "date": "2026-06-02"
+        "price": 14.22,
+        "change": -0.16,
+        "pct_change": -1.113,
+        "date": "2026-06-03"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.718236,
-        "change": 0.000186,
-        "pct_change": 0.026,
-        "date": "2026-06-02"
+        "price": 0.713369,
+        "change": -0.004043,
+        "pct_change": -0.564,
+        "date": "2026-06-04"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7609.779785,
-        "change": 9.819824,
-        "pct_change": 0.129,
-        "date": "2026-06-02"
+        "price": 7553.680176,
+        "change": -56.099609,
+        "pct_change": -0.737,
+        "date": "2026-06-03"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.455,
-        "change": -0.02,
-        "pct_change": -0.447,
-        "date": "2026-06-02"
+        "price": 4.491,
+        "change": 0.036,
+        "pct_change": 0.808,
+        "date": "2026-06-03"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25398.179688,
-        "change": 215.789062,
-        "pct_change": 0.857,
-        "date": "2026-06-01"
+        "price": 26038.320312,
+        "change": 640.140625,
+        "pct_change": 2.52,
+        "date": "2026-06-02"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -78,138 +72,137 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8729.400391,
-        "change": -2.299805,
-        "pct_change": -0.026,
-        "date": "2026-06-01"
+        "price": 8724.400391,
+        "change": -5.0,
+        "pct_change": -0.057,
+        "date": "2026-06-02"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 152.169998,
-        "change": -8.479996,
-        "pct_change": -5.279,
-        "date": "2026-06-02"
+        "price": 142.199997,
+        "change": -9.970001,
+        "pct_change": -6.552,
+        "date": "2026-06-03"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 276.359985,
-        "change": 0.25,
-        "pct_change": 0.091,
-        "date": "2026-06-02"
+        "price": 273.290009,
+        "change": -3.069977,
+        "pct_change": -1.111,
+        "date": "2026-06-03"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 423.73999,
-        "change": 7.859985,
-        "pct_change": 1.89,
-        "date": "2026-06-02"
+        "price": 423.700012,
+        "change": -0.039978,
+        "pct_change": -0.009,
+        "date": "2026-06-03"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 361.850006,
-        "change": -14.519989,
-        "pct_change": -3.858,
-        "date": "2026-06-02"
+        "price": 358.98999,
+        "change": -2.860016,
+        "pct_change": -0.79,
+        "date": "2026-06-03"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 513.429993,
-        "change": -3.070007,
-        "pct_change": -0.594,
-        "date": "2026-06-02"
+        "price": 512.030029,
+        "change": -1.399963,
+        "pct_change": -0.273,
+        "date": "2026-06-03"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 174.259995,
-        "change": -0.150009,
-        "pct_change": -0.086,
-        "date": "2026-06-02"
+        "price": 172.550003,
+        "change": -1.709991,
+        "pct_change": -0.981,
+        "date": "2026-06-03"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 536.590027,
-        "change": -2.629944,
-        "pct_change": -0.488,
-        "date": "2026-06-02"
+        "price": 526.059998,
+        "change": -10.530029,
+        "pct_change": -1.962,
+        "date": "2026-06-03"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
-      "link": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 19:13:21 GMT",
+      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+      "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 21:19:19 GMT",
       "matched_keywords": [
-        "attack"
+        "ceasefire"
       ]
     },
     {
       "source": "BBC World",
-      "title": "British couple lose Iran jail sentence appeal, family says",
-      "link": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 16:04:18 GMT",
+      "title": "US House votes to halt Iran war, in rebuke to Trump",
+      "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 23:01:07 GMT",
       "matched_keywords": [
-        "coup"
+        "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "US says it fired missile at Iran-bound oil tanker",
-      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 21:49:00 GMT",
+      "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+      "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 20:28:01 GMT",
       "matched_keywords": [
-        "war",
-        "military",
-        "missile",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+      "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 11:34:07 GMT",
+      "matched_keywords": [
         "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Mayor cancels DR Congo friendly with Chile in Spain over Ebola concern",
-      "link": "https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 19:28:55 GMT",
+      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 20:05:58 GMT",
       "matched_keywords": [
-        "outbreak"
+        "attack",
+        "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Mysteriously missing New Jersey congressman receives Trump endorsement",
-      "link": "https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 17:40:56 GMT",
+      "title": "US announces new tariffs over forced labour concerns",
+      "link": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 15:12:28 GMT",
       "matched_keywords": [
-        "election"
+        "president",
+        "tariff"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Ghana's anti-LGBTQ+ bill to be scrutinised before approval, president says",
-      "link": "https://www.bbc.com/news/articles/cp8pgrd50xko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 11:59:30 GMT",
+      "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
+      "link": "https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 05:13:02 GMT",
       "matched_keywords": [
-        "president"
+        "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Denmark's Mette Frederiksen to form government after months of negotiations",
-      "link": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 01:19:15 GMT",
+      "title": "Man shot dead by FBI after taking hostages at California bank",
+      "link": "https://www.bbc.com/news/articles/cn0pdrgy623o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 16:04:05 GMT",
       "matched_keywords": [
-        "prime minister"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Why Myanmar president's India visit is being closely watched",
-      "link": "https://www.bbc.com/news/articles/ckgplnj1wexo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 08:29:20 GMT",
-      "matched_keywords": [
-        "president"
+        "hostage"
       ]
     }
   ]
