@@ -1,141 +1,147 @@
 {
-  "generated_at": "2026-06-04T22:32:37+00:00",
+  "generated_at": "2026-06-05T23:08:56+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "error": "'NoneType' object is not subscriptable"
+        "price": 4353.899902,
+        "change": -121.899902,
+        "pct_change": -2.724,
+        "date": "2026-06-05"
       },
       "Silver": {
         "ticker": "SI=F",
-        "error": "'NoneType' object is not subscriptable"
+        "price": 67.995003,
+        "change": -5.783997,
+        "pct_change": -7.84,
+        "date": "2026-06-05"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1128.75,
-        "change": -25.25,
-        "pct_change": -2.188,
-        "date": "2026-06-04"
+        "price": 1122.25,
+        "change": -7.25,
+        "pct_change": -0.642,
+        "date": "2026-06-05"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.28,
-        "change": 0.04,
-        "pct_change": 0.281,
-        "date": "2026-06-04"
+        "price": 14.12,
+        "change": -0.150001,
+        "pct_change": -1.051,
+        "date": "2026-06-05"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.713725,
-        "change": -0.003687,
-        "pct_change": -0.514,
-        "date": "2026-06-04"
+        "price": 0.70497,
+        "change": -0.00848,
+        "pct_change": -1.189,
+        "date": "2026-06-05"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7584.310059,
-        "change": 30.629883,
-        "pct_change": 0.405,
-        "date": "2026-06-04"
+        "price": 7383.740234,
+        "change": -200.569824,
+        "pct_change": -2.645,
+        "date": "2026-06-05"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.477,
-        "change": -0.014,
-        "pct_change": -0.312,
-        "date": "2026-06-04"
+        "price": 4.536,
+        "change": 0.059,
+        "pct_change": 1.318,
+        "date": "2026-06-05"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25633.210938,
-        "change": -405.109375,
-        "pct_change": -1.556,
-        "date": "2026-06-03"
+        "price": 25253.400391,
+        "change": -379.810547,
+        "pct_change": -1.482,
+        "date": "2026-06-04"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10647.0,
-        "change": -97.0,
-        "pct_change": -0.903,
-        "date": "2026-06-03"
+        "price": 10597.0,
+        "change": -50.0,
+        "pct_change": -0.47,
+        "date": "2026-06-04"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13218.320312,
-        "change": -87.399414,
-        "pct_change": -0.657,
-        "date": "2026-06-03"
+        "price": 13341.269531,
+        "change": 122.949219,
+        "pct_change": 0.93,
+        "date": "2026-06-04"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8785.700195,
-        "change": 61.299805,
-        "pct_change": 0.703,
-        "date": "2026-06-03"
+        "price": 8686.099609,
+        "change": -99.600586,
+        "pct_change": -1.134,
+        "date": "2026-06-04"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 141.699997,
-        "change": -0.5,
-        "pct_change": -0.352,
-        "date": "2026-06-04"
+        "price": 135.529999,
+        "change": -6.169998,
+        "pct_change": -4.354,
+        "date": "2026-06-05"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 272.720001,
-        "change": -0.570007,
-        "pct_change": -0.209,
-        "date": "2026-06-04"
+        "price": 279.839996,
+        "change": 7.119995,
+        "pct_change": 2.611,
+        "date": "2026-06-05"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 418.450012,
-        "change": -5.25,
-        "pct_change": -1.239,
-        "date": "2026-06-04"
+        "price": 391.0,
+        "change": -27.450012,
+        "pct_change": -6.56,
+        "date": "2026-06-05"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 372.190002,
-        "change": 13.200012,
-        "pct_change": 3.677,
-        "date": "2026-06-04"
+        "price": 368.529999,
+        "change": -3.660004,
+        "pct_change": -0.983,
+        "date": "2026-06-05"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 519.049988,
-        "change": 7.019958,
-        "pct_change": 1.371,
-        "date": "2026-06-04"
+        "price": 523.76001,
+        "change": 4.710022,
+        "pct_change": 0.907,
+        "date": "2026-06-05"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 179.410004,
-        "change": 6.860001,
-        "pct_change": 3.976,
-        "date": "2026-06-04"
+        "price": 180.990005,
+        "change": 1.580002,
+        "pct_change": 0.881,
+        "date": "2026-06-05"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 545.169983,
-        "change": 19.109985,
-        "pct_change": 3.633,
-        "date": "2026-06-04"
+        "price": 544.400024,
+        "change": -0.769958,
+        "pct_change": -0.141,
+        "date": "2026-06-05"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 21:34:14 GMT",
+      "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+      "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 05 Jun 2026 18:16:15 GMT",
       "matched_keywords": [
         "war",
         "president"
@@ -145,65 +151,66 @@
       "source": "BBC World",
       "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
       "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 20:37:46 GMT",
+      "published": "Fri, 05 Jun 2026 01:44:16 GMT",
       "matched_keywords": [
         "ceasefire"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
-      "link": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 14:46:36 GMT",
+      "title": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
+      "link": "https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 05 Jun 2026 00:56:42 GMT",
       "matched_keywords": [
-        "military"
+        "outbreak"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-      "link": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 17:50:20 GMT",
+      "title": "Here's why counting votes in California is taking so long",
+      "link": "https://www.bbc.com/news/articles/c2020jrpxz3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 04 Jun 2026 22:20:24 GMT",
+      "matched_keywords": [
+        "election"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Lebanon-Israel ceasefire deal made in 'hope rather than expectation'",
+      "link": "https://www.bbc.com/news/videos/cwy20yggenxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 04 Jun 2026 11:02:17 GMT",
+      "matched_keywords": [
+        "ceasefire"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
+      "link": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
+      "published": "Fri, 05 Jun 2026 21:02:52 +0000",
+      "matched_keywords": [
+        "war",
+        "tariff"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Zelenskyy: Putin choosing war by rejecting offer for in-person talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/zelenskyy-putin-choosing-war-by-rejecting-offer-for-in-person-talks?traffic_source=rss",
+      "published": "Fri, 05 Jun 2026 20:36:46 +0000",
+      "matched_keywords": [
+        "war",
+        "president"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire",
+      "link": "https://www.aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss",
+      "published": "Fri, 05 Jun 2026 20:17:35 +0000",
       "matched_keywords": [
         "attack",
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says Eiffel Tower-like UFC structure may stay",
-      "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/cx21778x81zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 10:28:43 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Heavy gunfire in Somali capital as row over election delay escalates",
-      "link": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 12:40:22 GMT",
-      "matched_keywords": [
-        "election",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Ukraine accused of killing four in occupied Crimea",
-      "link": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 11:55:20 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
-      "link": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 10:18:49 GMT",
-      "matched_keywords": [
-        "war"
+        "ceasefire"
       ]
     }
   ]
