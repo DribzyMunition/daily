@@ -1,5 +1,5 @@
-# Daily Feed — 2026-06-06
-*Generated: 2026-06-06T21:30:04+00:00 UTC*
+# Daily Feed — 2026-06-07
+*Generated: 2026-06-07T21:30:04+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold | — | — | ⚠ data unavailable |
-| Silver |      68.9430 | ▼ 4.8360 | -6.55% |
+| Gold |   4,365.2998 | ▼ 110.5000 | -2.47% |
+| Silver |      69.1030 | ▼ 4.6760 | -6.34% |
 | Soybeans |   1,121.5000 | ▼ 8.0000 | -0.71% |
-| Sugar #11 (Raw) |      14.1400 | ▼ 0.1300 | -0.91% |
+| Sugar #11 (Raw) |      14.1200 | ▼ 0.1500 | -1.05% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7050 | ▼ 0.0082 | -1.16% |
+| AUD/USD |       0.7030 | ▼ 0.0102 | -1.43% |
 
 ### Indices
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'
-*Tags: war, attack*
-https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Zelensky in Downing Street for Ukraine war talks with European leaders
+*Tags: war, president*
+https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** US and Iran exchange strikes in Gulf in latest test of ceasefire
-*Tags: military, ceasefire*
-https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Trump abruptly ends NBC interview after clash over 'rigged election' claim
+*Tags: election, president*
+https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech
-*Tags: attack, invasion*
-https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Armenia votes as Russia piles pressure on pro-West government
+*Tags: prime minister*
+https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Funeral held for baby shot dead by Israeli troops in occupied West Bank
-*Tags: troops*
-https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Eriksen conscious after collapsing in Denmark game
+*Tags: collapse*
+https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Pope begins Spain visit with praise for country's opposition to war and support for migrants
-*Tags: war*
-https://www.bbc.com/news/articles/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Insecurity and instability drive voters in Peru's tight presidential race
+*Tags: president*
+https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Lebanese general among three soldiers killed in Israeli attack on car
-*Tags: attack, military*
-https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Israel strikes Beirut suburb days after US-brokered truce
+*Tags: attack*
+https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Canada bans Texas cattle over flesh-eating screwworm outbreak in US
-*Tags: outbreak*
-https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg
+*Tags: attack*
+https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** US plans to fight flesh-eating screwworm outbreak with flies and dogs
-*Tags: outbreak*
-https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss
+**[BBC World]** The cash-in-the-sofa saga that just won't go away for South Africa's president
+*Tags: president*
+https://www.bbc.com/news/articles/cy429dv9kk0o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
