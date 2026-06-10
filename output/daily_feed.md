@@ -1,5 +1,5 @@
 # Daily Feed — 2026-06-10
-*Generated: 2026-06-10T01:10:16+00:00 UTC*
+*Generated: 2026-06-10T21:30:04+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,238.3999 | ▼ 97.5000 | -2.25% |
-| Silver |      64.5500 | ▼ 3.8750 | -5.66% |
-| Soybeans |   1,115.7500 | ▲ 0.0000 | +0.00% |
-| Sugar #11 (Raw) |      14.1400 | ▲ 0.0200 | +0.14% |
+| Gold |   4,094.1001 | ▼ 165.8999 | -3.89% |
+| Silver |      63.5000 | ▼ 1.5940 | -2.45% |
+| Soybeans |   1,123.7500 | ▲ 10.0000 | +0.90% |
+| Sugar #11 (Raw) |      13.9100 | ▼ 0.1700 | -1.21% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7029 | ▼ 0.0011 | -0.16% |
+| AUD/USD |       0.7001 | ▼ 0.0040 | -0.56% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,386.6499 | ▼ 19.0801 | -0.26% |
-| US 10Y Yield (%) |       4.5280 | ▼ 0.0240 | -0.53% |
-| Hang Seng 50 |  24,657.0605 | ▼ 304.8887 | -1.22% |
-| South Africa Top 40 |  10,438.0000 | ▼ 22.0000 | -0.21% |
-| Switzerland SMI |  13,320.9902 | ▼ 67.2402 | -0.50% |
-| ASX 200 (XJO) |   8,641.2002 | ▲ 16.1006 | +0.19% |
+| S&P 500 |   7,266.9902 | ▼ 119.6597 | -1.62% |
+| US 10Y Yield (%) |       4.5420 | ▲ 0.0140 | +0.31% |
+| Hang Seng 50 |  24,565.9004 | ▼ 91.1602 | -0.37% |
+| South Africa Top 40 |  10,289.0000 | ▼ 156.0000 | -1.49% |
+| Switzerland SMI |  13,463.3301 | ▲ 107.0205 | +0.80% |
+| ASX 200 (XJO) |   8,604.2002 | ▼ 20.8994 | -0.24% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     132.0700 | ▼ 4.4000 | -3.22% |
-| McDonald's |     282.2500 | ▲ 4.4700 | +1.61% |
-| Tesla |     396.6800 | ▼ 12.2700 | -3.00% |
-| Alphabet |     364.2600 | ▲ 0.9500 | +0.26% |
-| Lockheed Martin |     530.1300 | ▲ 10.0600 | +1.93% |
-| RTX (Raytheon) |     181.5600 | ▲ 2.9000 | +1.62% |
-| Northrop Grumman |     548.6700 | ▲ 7.8600 | +1.45% |
+| Palantir |     130.2100 | ▼ 1.8600 | -1.41% |
+| McDonald's |     282.5200 | ▲ 0.2700 | +0.10% |
+| Tesla |     381.5900 | ▼ 15.0900 | -3.80% |
+| Alphabet |     356.3800 | ▼ 7.8800 | -2.16% |
+| Lockheed Martin |     525.0200 | ▼ 5.1100 | -0.96% |
+| RTX (Raytheon) |     177.4100 | ▼ 4.1500 | -2.29% |
+| Northrop Grumman |     542.1400 | ▼ 6.5300 | -1.19% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Inside Myanmar, rebels are losing ground as military forces men into army
-*Tags: war, military*
-https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Trump says US will hit Iran 'hard' again today
+*Tags: war, attack, president*
+https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** US strikes Iran in response to downing of helicopter, military says
-*Tags: military, president*
-https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Israeli strikes in southern Lebanon kill 17, reports say
+*Tags: attack*
+https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Ukraine says missiles hit military plant deep inside Russia
+*Tags: military, missile, oil*
+https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Growing backlash in Japan over Trump's use of anime characters
+*Tags: president*
+https://www.bbc.com/news/articles/cdx7vynyl4eo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Zelensky under pressure to end row with Poland over WW2 name of army unit
+*Tags: war, military, president*
+https://www.bbc.com/news/articles/c992r4kn5j9o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Alleged Bondi Beach gunman charged with another 19 offences
+*Tags: attack*
+https://www.bbc.com/news/articles/ckg0l7g7n9no?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks
 *Tags: war, attack*
 https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Hundreds of aftershocks jolt Philippines as officials say death toll could rise
-*Tags: earthquake*
-https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories
-*Tags: military, crisis*
-https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Black bear caught in Japan after days of sightings
-*Tags: attack*
-https://www.bbc.com/news/articles/c0qyzvnjlxno?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump booed in New York as he becomes first US president to attend NBA Finals
-*Tags: president*
-https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** 'Please send help': Crew's distress call after ship hit by US missile
-*Tags: missile, oil*
-https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis
+*Tags: war, crisis*
+https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
