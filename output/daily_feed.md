@@ -1,5 +1,5 @@
-# Daily Feed — 2026-06-08
-*Generated: 2026-06-08T21:52:10+00:00 UTC*
+# Daily Feed — 2026-06-10
+*Generated: 2026-06-10T01:10:16+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,353.7998 | ▲ 16.6997 | +0.39% |
-| Silver |      68.3250 | ▼ 0.6180 | -0.90% |
-| Soybeans |   1,116.7500 | ▼ 4.7500 | -0.42% |
-| Sugar #11 (Raw) |      14.1600 | ▲ 0.0200 | +0.14% |
+| Gold |   4,238.3999 | ▼ 97.5000 | -2.25% |
+| Silver |      64.5500 | ▼ 3.8750 | -5.66% |
+| Soybeans |   1,115.7500 | ▲ 0.0000 | +0.00% |
+| Sugar #11 (Raw) |      14.1400 | ▲ 0.0200 | +0.14% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7048 | ▼ 0.0084 | -1.18% |
+| AUD/USD |       0.7029 | ▼ 0.0011 | -0.16% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,405.7300 | ▲ 21.9897 | +0.30% |
-| US 10Y Yield (%) |       4.5520 | ▲ 0.0160 | +0.35% |
-| Hang Seng 50 |  24,961.9492 | ▼ 291.4512 | -1.15% |
+| S&P 500 |   7,386.6499 | ▼ 19.0801 | -0.26% |
+| US 10Y Yield (%) |       4.5280 | ▼ 0.0240 | -0.53% |
+| Hang Seng 50 |  24,657.0605 | ▼ 304.8887 | -1.22% |
 | South Africa Top 40 |  10,438.0000 | ▼ 22.0000 | -0.21% |
 | Switzerland SMI |  13,320.9902 | ▼ 67.2402 | -0.50% |
-| ASX 200 (XJO) |   8,625.0996 | ▼ 61.0000 | -0.70% |
+| ASX 200 (XJO) |   8,641.2002 | ▲ 16.1006 | +0.19% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     136.4700 | ▲ 0.9400 | +0.69% |
-| McDonald's |     277.7800 | ▼ 2.0600 | -0.74% |
-| Tesla |     408.9500 | ▲ 17.9500 | +4.59% |
-| Alphabet |     363.3100 | ▼ 5.2200 | -1.42% |
-| Lockheed Martin |     520.0700 | ▼ 3.6900 | -0.70% |
-| RTX (Raytheon) |     178.6600 | ▼ 2.3300 | -1.29% |
-| Northrop Grumman |     540.8100 | ▼ 3.5900 | -0.66% |
+| Palantir |     132.0700 | ▼ 4.4000 | -3.22% |
+| McDonald's |     282.2500 | ▲ 4.4700 | +1.61% |
+| Tesla |     396.6800 | ▼ 12.2700 | -3.00% |
+| Alphabet |     364.2600 | ▲ 0.9500 | +0.26% |
+| Lockheed Martin |     530.1300 | ▲ 10.0600 | +1.93% |
+| RTX (Raytheon) |     181.5600 | ▲ 2.9000 | +1.62% |
+| Northrop Grumman |     548.6700 | ▲ 7.8600 | +1.45% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again
-*Tags: war, military, ceasefire*
-https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss
+**[BBC World]** Inside Myanmar, rebels are losing ground as military forces men into army
+*Tags: war, military*
+https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** At least 35 dead after major earthquake strikes southern Philippines
-*Tags: earthquake, tsunami*
-https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss
+**[BBC World]** US strikes Iran in response to downing of helicopter, military says
+*Tags: military, president*
+https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Armenia's pro-West government wins election despite Russian pressure
-*Tags: election, prime minister*
-https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks
+*Tags: war, attack*
+https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Stock market jitters remain amid tech fears and renewed Middle East attacks
-*Tags: attack, oil*
-https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Hundreds of aftershocks jolt Philippines as officials say death toll could rise
+*Tags: earthquake*
+https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Eriksen at home and 'doing well' after collapse
-*Tags: collapse*
-https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss
+**[BBC World]** Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories
+*Tags: military, crisis*
+https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Peru election result close as vote counting continues
-*Tags: election*
-https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Black bear caught in Japan after days of sightings
+*Tags: attack*
+https://www.bbc.com/news/articles/c0qyzvnjlxno?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Zelensky's close European allies set out five conditions for peace talks
-*Tags: war, president*
-https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Trump booed in New York as he becomes first US president to attend NBA Finals
+*Tags: president*
+https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Trump abruptly ends NBC interview after clash over 'rigged election' claim
-*Tags: election, president*
-https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss
+**[BBC World]** 'Please send help': Crew's distress call after ship hit by US missile
+*Tags: missile, oil*
+https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
