@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-06-10T21:30:04+00:00",
+  "generated_at": "2026-06-12T00:43:41+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4094.100098,
-        "change": -165.899902,
-        "pct_change": -3.894,
-        "date": "2026-06-10"
+        "price": 4247.600098,
+        "change": 139.399902,
+        "pct_change": 3.393,
+        "date": "2026-06-11"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 63.5,
-        "change": -1.594002,
-        "pct_change": -2.449,
-        "date": "2026-06-10"
+        "price": 67.879997,
+        "change": 3.280998,
+        "pct_change": 5.079,
+        "date": "2026-06-11"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1123.75,
-        "change": 10.0,
-        "pct_change": 0.898,
-        "date": "2026-06-10"
+        "price": 1114.25,
+        "change": -8.75,
+        "pct_change": -0.779,
+        "date": "2026-06-11"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 13.91,
-        "change": -0.17,
-        "pct_change": -1.207,
-        "date": "2026-06-10"
+        "price": 14.37,
+        "change": 0.45,
+        "pct_change": 3.233,
+        "date": "2026-06-11"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.700084,
-        "change": -0.003966,
-        "pct_change": -0.563,
-        "date": "2026-06-10"
+        "price": 0.704573,
+        "change": 0.005153,
+        "pct_change": 0.737,
+        "date": "2026-06-12"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7266.990234,
-        "change": -119.659668,
-        "pct_change": -1.62,
-        "date": "2026-06-10"
+        "price": 7394.299805,
+        "change": 127.30957,
+        "pct_change": 1.752,
+        "date": "2026-06-11"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.542,
-        "change": 0.014,
-        "pct_change": 0.309,
-        "date": "2026-06-10"
+        "price": 4.463,
+        "change": -0.079,
+        "pct_change": -1.739,
+        "date": "2026-06-11"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24565.900391,
-        "change": -91.160156,
-        "pct_change": -0.37,
-        "date": "2026-06-09"
+        "price": 24407.960938,
+        "change": -157.939453,
+        "pct_change": -0.643,
+        "date": "2026-06-10"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -78,74 +78,109 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8604.200195,
-        "change": -20.899414,
-        "pct_change": -0.242,
-        "date": "2026-06-09"
+        "price": 8780.400391,
+        "change": 127.100586,
+        "pct_change": 1.469,
+        "date": "2026-06-12"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 130.210007,
-        "change": -1.860001,
-        "pct_change": -1.408,
-        "date": "2026-06-10"
+        "price": 131.080002,
+        "change": 0.869995,
+        "pct_change": 0.668,
+        "date": "2026-06-11"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 282.519989,
-        "change": 0.269989,
-        "pct_change": 0.096,
-        "date": "2026-06-10"
+        "price": 284.769989,
+        "change": 2.25,
+        "pct_change": 0.796,
+        "date": "2026-06-11"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 381.589996,
-        "change": -15.089996,
-        "pct_change": -3.804,
-        "date": "2026-06-10"
+        "price": 399.149994,
+        "change": 17.559998,
+        "pct_change": 4.602,
+        "date": "2026-06-11"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 356.380005,
-        "change": -7.880005,
-        "pct_change": -2.163,
-        "date": "2026-06-10"
+        "price": 357.769989,
+        "change": 1.389984,
+        "pct_change": 0.39,
+        "date": "2026-06-11"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 525.02002,
-        "change": -5.109985,
-        "pct_change": -0.964,
-        "date": "2026-06-10"
+        "price": 548.679993,
+        "change": 23.659973,
+        "pct_change": 4.506,
+        "date": "2026-06-11"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 177.410004,
-        "change": -4.149994,
-        "pct_change": -2.286,
-        "date": "2026-06-10"
+        "price": 184.210007,
+        "change": 6.800003,
+        "pct_change": 3.833,
+        "date": "2026-06-11"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 542.140015,
-        "change": -6.529968,
-        "pct_change": -1.19,
-        "date": "2026-06-10"
+        "price": 552.52002,
+        "change": 10.380005,
+        "pct_change": 1.915,
+        "date": "2026-06-11"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Trump says US will hit Iran 'hard' again today",
-      "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 10 Jun 2026 17:33:22 GMT",
+      "title": "Deadly Sudan drone strike targets funeral procession",
+      "link": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 11 Jun 2026 15:57:04 GMT",
       "matched_keywords": [
         "war",
-        "attack",
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
+      "link": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 11 Jun 2026 16:25:17 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
+      "link": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 11 Jun 2026 10:26:59 GMT",
+      "matched_keywords": [
         "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song",
+      "link": "https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 23:09:25 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Thai court sentences two men to death over Bangkok shrine bombing",
+      "link": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 11 Jun 2026 06:45:10 GMT",
+      "matched_keywords": [
+        "explosion"
       ]
     },
     {
@@ -159,62 +194,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Ukraine says missiles hit military plant deep inside Russia",
-      "link": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 10 Jun 2026 11:43:40 GMT",
-      "matched_keywords": [
-        "military",
-        "missile",
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Growing backlash in Japan over Trump's use of anime characters",
-      "link": "https://www.bbc.com/news/articles/cdx7vynyl4eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 10 Jun 2026 13:42:23 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Zelensky under pressure to end row with Poland over WW2 name of army unit",
-      "link": "https://www.bbc.com/news/articles/c992r4kn5j9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 10 Jun 2026 09:57:20 GMT",
-      "matched_keywords": [
-        "war",
-        "military",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Alleged Bondi Beach gunman charged with another 19 offences",
-      "link": "https://www.bbc.com/news/articles/ckg0l7g7n9no?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 10 Jun 2026 03:43:31 GMT",
+      "title": "'I will never get over watching my home burn': Belfast residents reel after night of unrest",
+      "link": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 18:20:54 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-      "link": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 17:47:41 GMT",
+      "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+      "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 21:13:17 GMT",
       "matched_keywords": [
         "war",
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
-      "link": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 20:14:12 GMT",
-      "matched_keywords": [
-        "war",
-        "crisis"
+        "military"
       ]
     }
   ]

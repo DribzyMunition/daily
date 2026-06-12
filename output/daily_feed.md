@@ -1,5 +1,5 @@
-# Daily Feed — 2026-06-10
-*Generated: 2026-06-10T21:30:04+00:00 UTC*
+# Daily Feed — 2026-06-12
+*Generated: 2026-06-12T00:43:41+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,094.1001 | ▼ 165.8999 | -3.89% |
-| Silver |      63.5000 | ▼ 1.5940 | -2.45% |
-| Soybeans |   1,123.7500 | ▲ 10.0000 | +0.90% |
-| Sugar #11 (Raw) |      13.9100 | ▼ 0.1700 | -1.21% |
+| Gold |   4,247.6001 | ▲ 139.3999 | +3.39% |
+| Silver |      67.8800 | ▲ 3.2810 | +5.08% |
+| Soybeans |   1,114.2500 | ▼ 8.7500 | -0.78% |
+| Sugar #11 (Raw) |      14.3700 | ▲ 0.4500 | +3.23% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7001 | ▼ 0.0040 | -0.56% |
+| AUD/USD |       0.7046 | ▲ 0.0052 | +0.74% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,266.9902 | ▼ 119.6597 | -1.62% |
-| US 10Y Yield (%) |       4.5420 | ▲ 0.0140 | +0.31% |
-| Hang Seng 50 |  24,565.9004 | ▼ 91.1602 | -0.37% |
+| S&P 500 |   7,394.2998 | ▲ 127.3096 | +1.75% |
+| US 10Y Yield (%) |       4.4630 | ▼ 0.0790 | -1.74% |
+| Hang Seng 50 |  24,407.9609 | ▼ 157.9395 | -0.64% |
 | South Africa Top 40 |  10,289.0000 | ▼ 156.0000 | -1.49% |
 | Switzerland SMI |  13,463.3301 | ▲ 107.0205 | +0.80% |
-| ASX 200 (XJO) |   8,604.2002 | ▼ 20.8994 | -0.24% |
+| ASX 200 (XJO) |   8,780.4004 | ▲ 127.1006 | +1.47% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     130.2100 | ▼ 1.8600 | -1.41% |
-| McDonald's |     282.5200 | ▲ 0.2700 | +0.10% |
-| Tesla |     381.5900 | ▼ 15.0900 | -3.80% |
-| Alphabet |     356.3800 | ▼ 7.8800 | -2.16% |
-| Lockheed Martin |     525.0200 | ▼ 5.1100 | -0.96% |
-| RTX (Raytheon) |     177.4100 | ▼ 4.1500 | -2.29% |
-| Northrop Grumman |     542.1400 | ▼ 6.5300 | -1.19% |
+| Palantir |     131.0800 | ▲ 0.8700 | +0.67% |
+| McDonald's |     284.7700 | ▲ 2.2500 | +0.80% |
+| Tesla |     399.1500 | ▲ 17.5600 | +4.60% |
+| Alphabet |     357.7700 | ▲ 1.3900 | +0.39% |
+| Lockheed Martin |     548.6800 | ▲ 23.6600 | +4.51% |
+| RTX (Raytheon) |     184.2100 | ▲ 6.8000 | +3.83% |
+| Northrop Grumman |     552.5200 | ▲ 10.3800 | +1.92% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Trump says US will hit Iran 'hard' again today
-*Tags: war, attack, president*
-https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Deadly Sudan drone strike targets funeral procession
+*Tags: war, military*
+https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises
+*Tags: attack*
+https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Vance says Israeli PM Netanyahu 'has got some things wrong'
+*Tags: president*
+https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song
+*Tags: attack*
+https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Thai court sentences two men to death over Bangkok shrine bombing
+*Tags: explosion*
+https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Israeli strikes in southern Lebanon kill 17, reports say
 *Tags: attack*
 https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ukraine says missiles hit military plant deep inside Russia
-*Tags: military, missile, oil*
-https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Growing backlash in Japan over Trump's use of anime characters
-*Tags: president*
-https://www.bbc.com/news/articles/cdx7vynyl4eo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Zelensky under pressure to end row with Poland over WW2 name of army unit
-*Tags: war, military, president*
-https://www.bbc.com/news/articles/c992r4kn5j9o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Alleged Bondi Beach gunman charged with another 19 offences
+**[BBC World]** 'I will never get over watching my home burn': Belfast residents reel after night of unrest
 *Tags: attack*
-https://www.bbc.com/news/articles/ckg0l7g7n9no?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks
-*Tags: war, attack*
-https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis
-*Tags: war, crisis*
-https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Inside Myanmar, rebels are losing ground as military forces men into army
+*Tags: war, military*
+https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
