@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-06-13T00:46:28+00:00",
+  "generated_at": "2026-06-14T02:30:27+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4239.899902,
-        "change": 149.599854,
-        "pct_change": 3.657,
+        "price": 4215.0,
+        "change": 124.699951,
+        "pct_change": 3.049,
         "date": "2026-06-12"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 68.120003,
-        "change": 4.235004,
-        "pct_change": 6.629,
+        "price": 67.859001,
+        "change": 3.974003,
+        "pct_change": 6.221,
         "date": "2026-06-12"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1113.25,
-        "change": -1.75,
-        "pct_change": -0.157,
+        "price": 1113.5,
+        "change": -1.5,
+        "pct_change": -0.135,
         "date": "2026-06-12"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.24,
-        "change": 0.45,
-        "pct_change": 3.263,
+        "price": 13.7,
+        "change": -0.09,
+        "pct_change": -0.653,
         "date": "2026-06-12"
       }
     },
@@ -35,9 +35,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.704871,
-        "change": 0.005451,
-        "pct_change": 0.779,
-        "date": "2026-06-12"
+        "change": 8e-05,
+        "pct_change": 0.011,
+        "date": "2026-06-13"
       }
     },
     "indices": {
@@ -64,10 +64,10 @@
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10339.0,
-        "change": 50.0,
-        "pct_change": 0.486,
-        "date": "2026-06-11"
+        "price": 10537.0,
+        "change": 198.0,
+        "pct_change": 1.915,
+        "date": "2026-06-12"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
@@ -139,11 +139,57 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
-      "link": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 12 Jun 2026 00:45:20 GMT",
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 13 Jun 2026 18:39:26 GMT",
       "matched_keywords": [
-        "collapse"
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
+      "link": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 13 Jun 2026 22:05:24 GMT",
+      "matched_keywords": [
+        "coup"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Woman seriously injured in shark attack at Sydney beach",
+      "link": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 13 Jun 2026 15:24:25 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+      "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 13 Jun 2026 04:09:07 GMT",
+      "matched_keywords": [
+        "airstrike",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Warner Bros $111bn sale to Paramount approved by US justice department",
+      "link": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 13 Jun 2026 03:28:25 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "The college scam that promised students fleeing war a new life in Finland",
+      "link": "https://www.bbc.com/news/articles/cgrprx55zpvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 12 Jun 2026 22:08:38 GMT",
+      "matched_keywords": [
+        "war"
       ]
     },
     {
@@ -163,53 +209,6 @@
       "published": "Fri, 12 Jun 2026 08:52:36 GMT",
       "matched_keywords": [
         "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "More than 50 Iranian military bases damaged in US strikes since start of war, satellite images show",
-      "link": "https://www.bbc.com/news/articles/cd6p6z7pq9wo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 11 Jun 2026 23:37:15 GMT",
-      "matched_keywords": [
-        "war",
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
-      "link": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 11 Jun 2026 20:22:16 GMT",
-      "matched_keywords": [
-        "war",
-        "president"
-      ]
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: US, Tehran signal peace deal within reach but not signed yet",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss",
-      "published": "Sat, 13 Jun 2026 00:00:00 +0000",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Mother sues OpenAI in US after daughter’s death linked to ChatGPT use",
-      "link": "https://www.aljazeera.com/economy/2026/6/12/mother-sues-openai-in-us-after-daughters-death-linked-to-chatgpt-use?traffic_source=rss",
-      "published": "Fri, 12 Jun 2026 21:38:03 +0000",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Judge keeps order in place to remove Trump’s name from Kennedy Center",
-      "link": "https://www.aljazeera.com/news/2026/6/12/judge-keeps-order-in-place-to-remove-trumps-name-from-kennedy-center?traffic_source=rss",
-      "published": "Fri, 12 Jun 2026 21:32:08 +0000",
-      "matched_keywords": [
-        "president"
       ]
     }
   ]
