@@ -1,5 +1,5 @@
-# Daily Feed — 2026-06-14
-*Generated: 2026-06-14T02:30:27+00:00 UTC*
+# Daily Feed — 2026-06-15
+*Generated: 2026-06-15T01:46:57+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,215.0000 | ▲ 124.7000 | +3.05% |
-| Silver |      67.8590 | ▲ 3.9740 | +6.22% |
-| Soybeans |   1,113.5000 | ▼ 1.5000 | -0.14% |
-| Sugar #11 (Raw) |      13.7000 | ▼ 0.0900 | -0.65% |
+| Gold |   4,331.2998 | ▲ 116.2998 | +2.76% |
+| Silver |      70.3600 | ▲ 2.5010 | +3.69% |
+| Soybeans |   1,131.5000 | ▲ 18.0000 | +1.62% |
+| Sugar #11 (Raw) |      14.2400 | ▲ 0.4500 | +3.26% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7049 | ▲ 0.0001 | +0.01% |
+| AUD/USD |       0.7074 | ▲ 0.0026 | +0.36% |
 
 ### Indices
 
@@ -26,10 +26,10 @@
 |:------|------:|------:|---------:|
 | S&P 500 |   7,431.4600 | ▲ 37.1602 | +0.50% |
 | US 10Y Yield (%) |       4.4870 | ▲ 0.0240 | +0.54% |
-| Hang Seng 50 |  24,718.0996 | ▲ 468.8105 | +1.93% |
+| Hang Seng 50 |  24,886.7793 | ▲ 168.6797 | +0.68% |
 | South Africa Top 40 |  10,537.0000 | ▲ 198.0000 | +1.92% |
 | Switzerland SMI |  13,708.0195 | ▲ 178.3691 | +1.32% |
-| ASX 200 (XJO) |   8,804.0000 | ▲ 170.7998 | +1.98% |
+| ASX 200 (XJO) |   8,928.9004 | ▲ 124.9004 | +1.42% |
 
 ### Stocks
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing
+**[Al Jazeera]** Zimbabwe’s climate migrants fear eviction as crackdown intensifies
+*Tags: drought*
+https://www.aljazeera.com/news/2026/6/15/zimbabwes-climate-migrants-fear-eviction-as-crackdown-intensifies?traffic_source=rss
+
+**[Al Jazeera]** Stock markets soar, oil falls as US, Iran confirm deal to end war
+*Tags: war, oil*
+https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war?traffic_source=rss
+
+**[Al Jazeera]** Claims Israel’s Beirut strike pushed Trump on Iran announcement
+*Tags: ceasefire*
+https://www.aljazeera.com/video/newsfeed/2026/6/15/claims-israels-beirut-strike-pushed-trump-on-iran-announcement?traffic_source=rss
+
+**[Al Jazeera]** BREAKING: US, Iran announce ceasefire agreement
+*Tags: ceasefire, president*
+https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement?traffic_source=rss
+
+**[Al Jazeera]** US-Iran ‘peace deal’ announced; Trump says Strait of Hormuz reopening
+*Tags: ceasefire*
+https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss
+
+**[Al Jazeera]** LIVE: Ilia Topuria vs Justin Gaethje title fight at Trump’s UFC Freedom 250
 *Tags: president*
-https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss
+https://www.aljazeera.com/sports/liveblog/2026/6/14/live-ilia-topuria-vs-justin-gaethje-title-fight-at-ufc-freedom-250?traffic_source=rss
 
-**[BBC World]** Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online
-*Tags: coup*
-https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss
+**[Al Jazeera]** Violence erupts during anti-G7 protests in Geneva on eve of summit
+*Tags: summit*
+https://www.aljazeera.com/video/newsfeed/2026/6/14/violence-erupts-during-anti-g7-protests-in-geneva-on-eve-of-summit?traffic_source=rss
 
-**[BBC World]** Woman seriously injured in shark attack at Sydney beach
-*Tags: attack*
-https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says
-*Tags: airstrike, president*
-https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Warner Bros $111bn sale to Paramount approved by US justice department
-*Tags: war*
-https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** The college scam that promised students fleeing war a new life in Finland
-*Tags: war*
-https://www.bbc.com/news/articles/cgrprx55zpvo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Why the economics make this the craziest World Cup ever
-*Tags: war, trade war*
-https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** 'I will come home safely': Indian sailor's last words to wife before a US strike killed him
-*Tags: war*
-https://www.bbc.com/news/articles/cx24vlj2nvyo?at_medium=RSS&at_campaign=rss
+**[Al Jazeera]** The president, the billionaires and the news
+*Tags: president*
+https://www.aljazeera.com/video/the-listening-post/2026/6/14/the-president-the-billionaires-and-the-news?traffic_source=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-06-14T02:30:27+00:00",
+  "generated_at": "2026-06-15T01:46:57+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4215.0,
-        "change": 124.699951,
-        "pct_change": 3.049,
-        "date": "2026-06-12"
+        "price": 4331.299805,
+        "change": 116.299805,
+        "pct_change": 2.759,
+        "date": "2026-06-14"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 67.859001,
-        "change": 3.974003,
-        "pct_change": 6.221,
-        "date": "2026-06-12"
+        "price": 70.360001,
+        "change": 2.500999,
+        "pct_change": 3.686,
+        "date": "2026-06-14"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1113.5,
-        "change": -1.5,
-        "pct_change": -0.135,
-        "date": "2026-06-12"
+        "price": 1131.5,
+        "change": 18.0,
+        "pct_change": 1.617,
+        "date": "2026-06-14"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 13.7,
-        "change": -0.09,
-        "pct_change": -0.653,
+        "price": 14.24,
+        "change": 0.45,
+        "pct_change": 3.263,
         "date": "2026-06-12"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.704871,
-        "change": 8e-05,
-        "pct_change": 0.011,
-        "date": "2026-06-13"
+        "price": 0.707364,
+        "change": 0.002573,
+        "pct_change": 0.365,
+        "date": "2026-06-15"
       }
     },
     "indices": {
@@ -57,10 +57,10 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24718.099609,
-        "change": 468.810547,
-        "pct_change": 1.933,
-        "date": "2026-06-12"
+        "price": 24886.779297,
+        "change": 168.679688,
+        "pct_change": 0.682,
+        "date": "2026-06-15"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8804.0,
-        "change": 170.799805,
-        "pct_change": 1.978,
-        "date": "2026-06-12"
+        "price": 8928.900391,
+        "change": 124.900391,
+        "pct_change": 1.419,
+        "date": "2026-06-15"
       }
     },
     "stocks": {
@@ -138,77 +138,77 @@
   },
   "news": [
     {
-      "source": "BBC World",
-      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-      "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 18:39:26 GMT",
+      "source": "Al Jazeera",
+      "title": "Zimbabwe’s climate migrants fear eviction as crackdown intensifies",
+      "link": "https://www.aljazeera.com/news/2026/6/15/zimbabwes-climate-migrants-fear-eviction-as-crackdown-intensifies?traffic_source=rss",
+      "published": "Mon, 15 Jun 2026 00:54:32 +0000",
       "matched_keywords": [
-        "president"
+        "drought"
       ]
     },
     {
-      "source": "BBC World",
-      "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
-      "link": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 22:05:24 GMT",
-      "matched_keywords": [
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Woman seriously injured in shark attack at Sydney beach",
-      "link": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 15:24:25 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
-      "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 04:09:07 GMT",
-      "matched_keywords": [
-        "airstrike",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Warner Bros $111bn sale to Paramount approved by US justice department",
-      "link": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 03:28:25 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "The college scam that promised students fleeing war a new life in Finland",
-      "link": "https://www.bbc.com/news/articles/cgrprx55zpvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 12 Jun 2026 22:08:38 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Why the economics make this the craziest World Cup ever",
-      "link": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 11 Jun 2026 23:07:52 GMT",
+      "source": "Al Jazeera",
+      "title": "Stock markets soar, oil falls as US, Iran confirm deal to end war",
+      "link": "https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war?traffic_source=rss",
+      "published": "Mon, 15 Jun 2026 00:37:07 +0000",
       "matched_keywords": [
         "war",
-        "trade war"
+        "oil"
       ]
     },
     {
-      "source": "BBC World",
-      "title": "'I will come home safely': Indian sailor's last words to wife before a US strike killed him",
-      "link": "https://www.bbc.com/news/articles/cx24vlj2nvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 12 Jun 2026 08:52:36 GMT",
+      "source": "Al Jazeera",
+      "title": "Claims Israel’s Beirut strike pushed Trump on Iran announcement",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/claims-israels-beirut-strike-pushed-trump-on-iran-announcement?traffic_source=rss",
+      "published": "Mon, 15 Jun 2026 00:15:27 +0000",
       "matched_keywords": [
-        "war"
+        "ceasefire"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "BREAKING: US, Iran announce ceasefire agreement",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement?traffic_source=rss",
+      "published": "Sun, 14 Jun 2026 22:54:36 +0000",
+      "matched_keywords": [
+        "ceasefire",
+        "president"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US-Iran ‘peace deal’ announced; Trump says Strait of Hormuz reopening",
+      "link": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss",
+      "published": "Sun, 14 Jun 2026 22:43:19 +0000",
+      "matched_keywords": [
+        "ceasefire"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "LIVE: Ilia Topuria vs Justin Gaethje title fight at Trump’s UFC Freedom 250",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/14/live-ilia-topuria-vs-justin-gaethje-title-fight-at-ufc-freedom-250?traffic_source=rss",
+      "published": "Sun, 14 Jun 2026 21:21:43 +0000",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Violence erupts during anti-G7 protests in Geneva on eve of summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/violence-erupts-during-anti-g7-protests-in-geneva-on-eve-of-summit?traffic_source=rss",
+      "published": "Sun, 14 Jun 2026 20:45:10 +0000",
+      "matched_keywords": [
+        "summit"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "The president, the billionaires and the news",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/14/the-president-the-billionaires-and-the-news?traffic_source=rss",
+      "published": "Sun, 14 Jun 2026 19:36:39 +0000",
+      "matched_keywords": [
+        "president"
       ]
     }
   ]
