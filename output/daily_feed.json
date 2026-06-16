@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-06-15T01:46:57+00:00",
+  "generated_at": "2026-06-16T02:28:16+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4331.299805,
-        "change": 116.299805,
-        "pct_change": 2.759,
-        "date": "2026-06-14"
+        "price": 4331.0,
+        "change": 116.0,
+        "pct_change": 2.752,
+        "date": "2026-06-15"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 70.360001,
-        "change": 2.500999,
-        "pct_change": 3.686,
-        "date": "2026-06-14"
+        "price": 69.294998,
+        "change": 1.435997,
+        "pct_change": 2.116,
+        "date": "2026-06-15"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1131.5,
-        "change": 18.0,
-        "pct_change": 1.617,
-        "date": "2026-06-14"
+        "price": 1129.5,
+        "change": 16.0,
+        "pct_change": 1.437,
+        "date": "2026-06-15"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.24,
-        "change": 0.45,
-        "pct_change": 3.263,
-        "date": "2026-06-12"
+        "price": 14.16,
+        "change": 0.46,
+        "pct_change": 3.358,
+        "date": "2026-06-15"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.707364,
-        "change": 0.002573,
-        "pct_change": 0.365,
-        "date": "2026-06-15"
+        "price": 0.706215,
+        "change": -0.001305,
+        "pct_change": -0.184,
+        "date": "2026-06-16"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7431.459961,
-        "change": 37.160156,
-        "pct_change": 0.503,
-        "date": "2026-06-12"
+        "price": 7554.290039,
+        "change": 122.830078,
+        "pct_change": 1.653,
+        "date": "2026-06-15"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.487,
-        "change": 0.024,
-        "pct_change": 0.538,
-        "date": "2026-06-12"
+        "price": 4.469,
+        "change": -0.018,
+        "pct_change": -0.401,
+        "date": "2026-06-15"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24886.779297,
-        "change": 168.679688,
-        "pct_change": 0.682,
-        "date": "2026-06-15"
+        "price": 24543.130859,
+        "change": -174.96875,
+        "pct_change": -0.708,
+        "date": "2026-06-16"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -78,137 +78,135 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8928.900391,
-        "change": 124.900391,
-        "pct_change": 1.419,
-        "date": "2026-06-15"
+        "price": 8880.400391,
+        "change": 76.400391,
+        "pct_change": 0.868,
+        "date": "2026-06-16"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 127.989998,
-        "change": -3.090004,
-        "pct_change": -2.357,
-        "date": "2026-06-12"
+        "price": 134.710007,
+        "change": 6.720009,
+        "pct_change": 5.25,
+        "date": "2026-06-15"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 284.809998,
-        "change": 0.040009,
-        "pct_change": 0.014,
-        "date": "2026-06-12"
+        "price": 286.119995,
+        "change": 1.309998,
+        "pct_change": 0.46,
+        "date": "2026-06-15"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 406.429993,
-        "change": 7.279999,
-        "pct_change": 1.824,
-        "date": "2026-06-12"
+        "price": 411.149994,
+        "change": 4.720001,
+        "pct_change": 1.161,
+        "date": "2026-06-15"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 359.679993,
-        "change": 1.910004,
-        "pct_change": 0.534,
-        "date": "2026-06-12"
+        "price": 369.350006,
+        "change": 9.670013,
+        "pct_change": 2.689,
+        "date": "2026-06-15"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 540.330017,
-        "change": -8.349976,
-        "pct_change": -1.522,
-        "date": "2026-06-12"
+        "price": 530.359985,
+        "change": -9.970032,
+        "pct_change": -1.845,
+        "date": "2026-06-15"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 183.529999,
-        "change": -0.680008,
-        "pct_change": -0.369,
-        "date": "2026-06-12"
+        "price": 183.639999,
+        "change": 0.110001,
+        "pct_change": 0.06,
+        "date": "2026-06-15"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 550.330017,
-        "change": -2.190002,
-        "pct_change": -0.396,
-        "date": "2026-06-12"
+        "price": 544.72998,
+        "change": -5.600037,
+        "pct_change": -1.018,
+        "date": "2026-06-15"
       }
     }
   },
   "news": [
     {
-      "source": "Al Jazeera",
-      "title": "Zimbabwe’s climate migrants fear eviction as crackdown intensifies",
-      "link": "https://www.aljazeera.com/news/2026/6/15/zimbabwes-climate-migrants-fear-eviction-as-crackdown-intensifies?traffic_source=rss",
-      "published": "Mon, 15 Jun 2026 00:54:32 +0000",
+      "source": "BBC World",
+      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+      "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 16 Jun 2026 00:03:56 GMT",
       "matched_keywords": [
-        "drought"
+        "war"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "Stock markets soar, oil falls as US, Iran confirm deal to end war",
-      "link": "https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war?traffic_source=rss",
-      "published": "Mon, 15 Jun 2026 00:37:07 +0000",
+      "source": "BBC World",
+      "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+      "link": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 14:26:28 GMT",
       "matched_keywords": [
-        "war",
-        "oil"
+        "war"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "Claims Israel’s Beirut strike pushed Trump on Iran announcement",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/claims-israels-beirut-strike-pushed-trump-on-iran-announcement?traffic_source=rss",
-      "published": "Mon, 15 Jun 2026 00:15:27 +0000",
+      "source": "BBC World",
+      "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+      "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 12:07:36 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "South Korea's Starbucks to shut for staff history lesson after backlash",
+      "link": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 12:37:27 GMT",
+      "matched_keywords": [
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Witnessing joy amid the death: BBC travels to epicentre of Ebola outbreak",
+      "link": "https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 23:26:39 GMT",
+      "matched_keywords": [
+        "outbreak"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran deal presents political nightmare for Netanyahu",
+      "link": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 18:15:30 GMT",
       "matched_keywords": [
         "ceasefire"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "BREAKING: US, Iran announce ceasefire agreement",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement?traffic_source=rss",
-      "published": "Sun, 14 Jun 2026 22:54:36 +0000",
-      "matched_keywords": [
-        "ceasefire",
-        "president"
-      ]
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US-Iran ‘peace deal’ announced; Trump says Strait of Hormuz reopening",
-      "link": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss",
-      "published": "Sun, 14 Jun 2026 22:43:19 +0000",
+      "source": "BBC World",
+      "title": "Unclear if US-Iran agreement will provide respite to Lebanon",
+      "link": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 01:37:47 GMT",
       "matched_keywords": [
         "ceasefire"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "LIVE: Ilia Topuria vs Justin Gaethje title fight at Trump’s UFC Freedom 250",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/14/live-ilia-topuria-vs-justin-gaethje-title-fight-at-ufc-freedom-250?traffic_source=rss",
-      "published": "Sun, 14 Jun 2026 21:21:43 +0000",
+      "source": "BBC World",
+      "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
+      "link": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 13 Jun 2026 22:05:24 GMT",
       "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Violence erupts during anti-G7 protests in Geneva on eve of summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/violence-erupts-during-anti-g7-protests-in-geneva-on-eve-of-summit?traffic_source=rss",
-      "published": "Sun, 14 Jun 2026 20:45:10 +0000",
-      "matched_keywords": [
-        "summit"
-      ]
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "The president, the billionaires and the news",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/14/the-president-the-billionaires-and-the-news?traffic_source=rss",
-      "published": "Sun, 14 Jun 2026 19:36:39 +0000",
-      "matched_keywords": [
-        "president"
+        "coup"
       ]
     }
   ]
