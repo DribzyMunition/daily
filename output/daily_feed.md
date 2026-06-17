@@ -1,5 +1,5 @@
-# Daily Feed — 2026-06-16
-*Generated: 2026-06-16T02:28:16+00:00 UTC*
+# Daily Feed — 2026-06-17
+*Generated: 2026-06-17T03:26:58+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,331.0000 | ▲ 116.0000 | +2.75% |
-| Silver |      69.2950 | ▲ 1.4360 | +2.12% |
-| Soybeans |   1,129.5000 | ▲ 16.0000 | +1.44% |
-| Sugar #11 (Raw) |      14.1600 | ▲ 0.4600 | +3.36% |
+| Gold |   4,350.2998 | ▲ 22.2998 | +0.52% |
+| Silver |      70.2000 | ▲ 0.1340 | +0.19% |
+| Soybeans |   1,151.7500 | ▲ 32.5000 | +2.90% |
+| Sugar #11 (Raw) |      14.2900 | ▲ 0.6100 | +4.46% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7062 | ▼ 0.0013 | -0.18% |
+| AUD/USD |       0.7064 | ▼ 0.0009 | -0.12% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,554.2900 | ▲ 122.8301 | +1.65% |
-| US 10Y Yield (%) |       4.4690 | ▼ 0.0180 | -0.40% |
-| Hang Seng 50 |  24,543.1309 | ▼ 174.9688 | -0.71% |
-| South Africa Top 40 |  10,537.0000 | ▲ 198.0000 | +1.92% |
-| Switzerland SMI |  13,708.0195 | ▲ 178.3691 | +1.32% |
-| ASX 200 (XJO) |   8,880.4004 | ▲ 76.4004 | +0.87% |
+| S&P 500 |   7,511.3501 | ▼ 42.9399 | -0.57% |
+| US 10Y Yield (%) |       4.4280 | ▼ 0.0590 | -1.31% |
+| Hang Seng 50 |  24,309.1699 | ▼ 184.7793 | -0.75% |
+| South Africa Top 40 |  10,890.0000 | ▲ 353.0000 | +3.35% |
+| Switzerland SMI |  13,761.5303 | ▲ 43.9902 | +0.32% |
+| ASX 200 (XJO) |   8,963.7002 | ▲ 46.0000 | +0.52% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     134.7100 | ▲ 6.7200 | +5.25% |
-| McDonald's |     286.1200 | ▲ 1.3100 | +0.46% |
-| Tesla |     411.1500 | ▲ 4.7200 | +1.16% |
-| Alphabet |     369.3500 | ▲ 9.6700 | +2.69% |
-| Lockheed Martin |     530.3600 | ▼ 9.9700 | -1.84% |
-| RTX (Raytheon) |     183.6400 | ▲ 0.1100 | +0.06% |
-| Northrop Grumman |     544.7300 | ▼ 5.6000 | -1.02% |
+| Palantir |     133.2500 | ▼ 1.4600 | -1.08% |
+| McDonald's |     287.9300 | ▲ 1.8100 | +0.63% |
+| Tesla |     404.6600 | ▼ 6.4900 | -1.58% |
+| Alphabet |     373.2500 | ▲ 3.9000 | +1.06% |
+| Lockheed Martin |     535.9500 | ▲ 5.5900 | +1.05% |
+| RTX (Raytheon) |     186.7700 | ▲ 3.1300 | +1.70% |
+| Northrop Grumman |     551.2100 | ▲ 6.4800 | +1.19% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Trump says deal to end war with Iran already signed and details to be released 'pretty soon'
+**[BBC World]** Tehran selling deal with US as victory – but for Iranians it was necessity
 *Tags: war*
-https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Bowen: Iran deal ends Trump's war that revealed limit of US dominance
-*Tags: war*
-https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss
+**[BBC World]** UK investigating reports Russian warship fired warning shots near yacht in English Channel
+*Tags: war, coup*
+https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Russian strikes kill 11 and set historic cathedral in Kyiv ablaze
+**[BBC World]** Cuba tourism collapses as US pressure campaign bites
+*Tags: sanctions, oil, collapse*
+https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Hungary's MPs block return of Orbán, limiting rule of PM to eight years
+*Tags: prime minister*
+https://www.bbc.com/news/articles/c621zplqrrno?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Group planned to attack White House UFC event using snipers and drones, FBI says
 *Tags: attack*
-https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** South Korea's Starbucks to shut for staff history lesson after backlash
-*Tags: military*
-https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Three reasons ships are not going through the Strait of Hormuz yet
+*Tags: conflict*
+https://www.bbc.com/news/articles/cn4rw784nj2o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Witnessing joy amid the death: BBC travels to epicentre of Ebola outbreak
+**[BBC World]** Recovery of Ebola patients offers rare moments of joy at epicentre of outbreak
 *Tags: outbreak*
 https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Iran deal presents political nightmare for Netanyahu
-*Tags: ceasefire*
-https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Unclear if US-Iran agreement will provide respite to Lebanon
-*Tags: ceasefire*
-https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online
-*Tags: coup*
-https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss
+**[BBC World]** 'Warning fire went up': Couple on board yacht describe encounter with Russian warship
+*Tags: war, coup*
+https://www.bbc.com/news/videos/cevldxgklxko?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

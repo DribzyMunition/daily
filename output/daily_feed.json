@@ -1,181 +1,202 @@
 {
-  "generated_at": "2026-06-16T02:28:16+00:00",
+  "generated_at": "2026-06-17T03:26:58+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4331.0,
-        "change": 116.0,
-        "pct_change": 2.752,
-        "date": "2026-06-15"
+        "price": 4350.299805,
+        "change": 22.299805,
+        "pct_change": 0.515,
+        "date": "2026-06-16"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 69.294998,
-        "change": 1.435997,
-        "pct_change": 2.116,
-        "date": "2026-06-15"
+        "price": 70.199997,
+        "change": 0.133995,
+        "pct_change": 0.191,
+        "date": "2026-06-16"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1129.5,
-        "change": 16.0,
-        "pct_change": 1.437,
-        "date": "2026-06-15"
+        "price": 1151.75,
+        "change": 32.5,
+        "pct_change": 2.904,
+        "date": "2026-06-16"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.16,
-        "change": 0.46,
-        "pct_change": 3.358,
-        "date": "2026-06-15"
+        "price": 14.29,
+        "change": 0.61,
+        "pct_change": 4.459,
+        "date": "2026-06-16"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.706215,
-        "change": -0.001305,
-        "pct_change": -0.184,
-        "date": "2026-06-16"
+        "price": 0.706414,
+        "change": -0.000886,
+        "pct_change": -0.125,
+        "date": "2026-06-17"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7554.290039,
-        "change": 122.830078,
-        "pct_change": 1.653,
-        "date": "2026-06-15"
+        "price": 7511.350098,
+        "change": -42.939941,
+        "pct_change": -0.568,
+        "date": "2026-06-16"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.469,
-        "change": -0.018,
-        "pct_change": -0.401,
-        "date": "2026-06-15"
+        "price": 4.428,
+        "change": -0.059,
+        "pct_change": -1.315,
+        "date": "2026-06-16"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24543.130859,
-        "change": -174.96875,
-        "pct_change": -0.708,
-        "date": "2026-06-16"
+        "price": 24309.169922,
+        "change": -184.779297,
+        "pct_change": -0.754,
+        "date": "2026-06-17"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10537.0,
-        "change": 198.0,
-        "pct_change": 1.915,
-        "date": "2026-06-12"
+        "price": 10890.0,
+        "change": 353.0,
+        "pct_change": 3.35,
+        "date": "2026-06-15"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13708.019531,
-        "change": 178.369141,
-        "pct_change": 1.318,
-        "date": "2026-06-12"
+        "price": 13761.530273,
+        "change": 43.990234,
+        "pct_change": 0.321,
+        "date": "2026-06-16"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8880.400391,
-        "change": 76.400391,
-        "pct_change": 0.868,
-        "date": "2026-06-16"
+        "price": 8963.700195,
+        "change": 46.0,
+        "pct_change": 0.516,
+        "date": "2026-06-17"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 134.710007,
-        "change": 6.720009,
-        "pct_change": 5.25,
-        "date": "2026-06-15"
+        "price": 133.25,
+        "change": -1.460007,
+        "pct_change": -1.084,
+        "date": "2026-06-16"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 286.119995,
-        "change": 1.309998,
-        "pct_change": 0.46,
-        "date": "2026-06-15"
+        "price": 287.929993,
+        "change": 1.809998,
+        "pct_change": 0.633,
+        "date": "2026-06-16"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 411.149994,
-        "change": 4.720001,
-        "pct_change": 1.161,
-        "date": "2026-06-15"
+        "price": 404.660004,
+        "change": -6.48999,
+        "pct_change": -1.578,
+        "date": "2026-06-16"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 369.350006,
-        "change": 9.670013,
-        "pct_change": 2.689,
-        "date": "2026-06-15"
+        "price": 373.25,
+        "change": 3.899994,
+        "pct_change": 1.056,
+        "date": "2026-06-16"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 530.359985,
-        "change": -9.970032,
-        "pct_change": -1.845,
-        "date": "2026-06-15"
+        "price": 535.950012,
+        "change": 5.590027,
+        "pct_change": 1.054,
+        "date": "2026-06-16"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 183.639999,
-        "change": 0.110001,
-        "pct_change": 0.06,
-        "date": "2026-06-15"
+        "price": 186.770004,
+        "change": 3.130005,
+        "pct_change": 1.704,
+        "date": "2026-06-16"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 544.72998,
-        "change": -5.600037,
-        "pct_change": -1.018,
-        "date": "2026-06-15"
+        "price": 551.210022,
+        "change": 6.480042,
+        "pct_change": 1.19,
+        "date": "2026-06-16"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
-      "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 00:03:56 GMT",
+      "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+      "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 16 Jun 2026 15:31:24 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
-      "link": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 15 Jun 2026 14:26:28 GMT",
+      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 17 Jun 2026 00:25:39 GMT",
       "matched_keywords": [
-        "war"
+        "war",
+        "coup"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-      "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 15 Jun 2026 12:07:36 GMT",
+      "title": "Cuba tourism collapses as US pressure campaign bites",
+      "link": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 16 Jun 2026 11:16:59 GMT",
+      "matched_keywords": [
+        "sanctions",
+        "oil",
+        "collapse"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Hungary's MPs block return of Orbán, limiting rule of PM to eight years",
+      "link": "https://www.bbc.com/news/articles/c621zplqrrno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 16 Jun 2026 12:42:15 GMT",
+      "matched_keywords": [
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
+      "link": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 16 Jun 2026 23:17:46 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "South Korea's Starbucks to shut for staff history lesson after backlash",
-      "link": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 15 Jun 2026 12:37:27 GMT",
+      "title": "Three reasons ships are not going through the Strait of Hormuz yet",
+      "link": "https://www.bbc.com/news/articles/cn4rw784nj2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 16 Jun 2026 14:11:30 GMT",
       "matched_keywords": [
-        "military"
+        "conflict"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Witnessing joy amid the death: BBC travels to epicentre of Ebola outbreak",
+      "title": "Recovery of Ebola patients offers rare moments of joy at epicentre of outbreak",
       "link": "https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 15 Jun 2026 23:26:39 GMT",
       "matched_keywords": [
@@ -184,28 +205,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Iran deal presents political nightmare for Netanyahu",
-      "link": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 15 Jun 2026 18:15:30 GMT",
+      "title": "'Warning fire went up': Couple on board yacht describe encounter with Russian warship",
+      "link": "https://www.bbc.com/news/videos/cevldxgklxko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 16 Jun 2026 22:01:34 GMT",
       "matched_keywords": [
-        "ceasefire"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Unclear if US-Iran agreement will provide respite to Lebanon",
-      "link": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 15 Jun 2026 01:37:47 GMT",
-      "matched_keywords": [
-        "ceasefire"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
-      "link": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 22:05:24 GMT",
-      "matched_keywords": [
+        "war",
         "coup"
       ]
     }
