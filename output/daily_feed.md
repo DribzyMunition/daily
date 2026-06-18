@@ -1,5 +1,5 @@
-# Daily Feed — 2026-06-17
-*Generated: 2026-06-17T03:26:58+00:00 UTC*
+# Daily Feed — 2026-06-18
+*Generated: 2026-06-18T02:40:31+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,350.2998 | ▲ 22.2998 | +0.52% |
-| Silver |      70.2000 | ▲ 0.1340 | +0.19% |
-| Soybeans |   1,151.7500 | ▲ 32.5000 | +2.90% |
-| Sugar #11 (Raw) |      14.2900 | ▲ 0.6100 | +4.46% |
+| Gold |   4,344.8999 | ▲ 14.0000 | +0.32% |
+| Silver |      69.7000 | ▼ 0.1990 | -0.28% |
+| Soybeans |   1,148.5000 | ▲ 18.5000 | +1.64% |
+| Sugar #11 (Raw) |      14.3700 | ▲ 0.5500 | +3.98% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7064 | ▼ 0.0009 | -0.12% |
+| AUD/USD |       0.7037 | ▼ 0.0028 | -0.40% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,511.3501 | ▼ 42.9399 | -0.57% |
-| US 10Y Yield (%) |       4.4280 | ▼ 0.0590 | -1.31% |
-| Hang Seng 50 |  24,309.1699 | ▼ 184.7793 | -0.75% |
-| South Africa Top 40 |  10,890.0000 | ▲ 353.0000 | +3.35% |
-| Switzerland SMI |  13,761.5303 | ▲ 43.9902 | +0.32% |
-| ASX 200 (XJO) |   8,963.7002 | ▲ 46.0000 | +0.52% |
+| S&P 500 |   7,420.1001 | ▼ 91.2500 | -1.22% |
+| US 10Y Yield (%) |       4.4630 | ▼ 0.0240 | -0.54% |
+| Hang Seng 50 |  23,926.6309 | ▼ 385.5293 | -1.59% |
+| South Africa Top 40 |  10,943.0000 | ▲ 53.0000 | +0.49% |
+| Switzerland SMI |  13,815.2402 | ▲ 53.7100 | +0.39% |
+| ASX 200 (XJO) |   8,930.5996 | ▼ 35.7002 | -0.40% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     133.2500 | ▼ 1.4600 | -1.08% |
-| McDonald's |     287.9300 | ▲ 1.8100 | +0.63% |
-| Tesla |     404.6600 | ▼ 6.4900 | -1.58% |
-| Alphabet |     373.2500 | ▲ 3.9000 | +1.06% |
-| Lockheed Martin |     535.9500 | ▲ 5.5900 | +1.05% |
-| RTX (Raytheon) |     186.7700 | ▲ 3.1300 | +1.70% |
-| Northrop Grumman |     551.2100 | ▲ 6.4800 | +1.19% |
+| Palantir |     130.6300 | ▼ 2.6200 | -1.97% |
+| McDonald's |     283.8200 | ▼ 4.1100 | -1.43% |
+| Tesla |     396.3800 | ▼ 8.2800 | -2.05% |
+| Alphabet |     363.7900 | ▼ 9.4600 | -2.53% |
+| Lockheed Martin |     532.3200 | ▼ 3.6300 | -0.68% |
+| RTX (Raytheon) |     192.5800 | ▲ 5.8100 | +3.11% |
+| Northrop Grumman |     550.1500 | ▼ 1.0600 | -0.19% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Tehran selling deal with US as victory – but for Iranians it was necessity
+**[BBC World]** What's in the US-Iran agreement that's now in effect
+*Tags: nuclear*
+https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Iran sends tankers loaded with oil past US military blockade
+*Tags: military, oil*
+https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC
 *Tags: war*
-https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** UK investigating reports Russian warship fired warning shots near yacht in English Channel
-*Tags: war, coup*
-https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Search for six-year-old Ebola patient after armed men storm DR Congo hospital
+*Tags: attack, outbreak*
+https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Cuba tourism collapses as US pressure campaign bites
-*Tags: sanctions, oil, collapse*
-https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Hungary's MPs block return of Orbán, limiting rule of PM to eight years
-*Tags: prime minister*
-https://www.bbc.com/news/articles/c621zplqrrno?at_medium=RSS&at_campaign=rss
+**[BBC World]** Ex-Nigeria oil minister cleared in UK bribery trial
+*Tags: war, oil*
+https://www.bbc.com/news/articles/c872pwx4x2vo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Group planned to attack White House UFC event using snipers and drones, FBI says
 *Tags: attack*
 https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Three reasons ships are not going through the Strait of Hormuz yet
-*Tags: conflict*
-https://www.bbc.com/news/articles/cn4rw784nj2o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Equatorial Guinea government resigns after failing to meet targets
+*Tags: president*
+https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Recovery of Ebola patients offers rare moments of joy at epicentre of outbreak
-*Tags: outbreak*
-https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** 'Warning fire went up': Couple on board yacht describe encounter with Russian warship
-*Tags: war, coup*
-https://www.bbc.com/news/videos/cevldxgklxko?at_medium=RSS&at_campaign=rss
+**[BBC World]** Bolivia signs $20m deal with US to fight drug trafficking, foreign ministry says
+*Tags: president*
+https://www.bbc.com/news/articles/c9w28vzj0q0o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

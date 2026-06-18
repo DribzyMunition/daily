@@ -1,216 +1,215 @@
 {
-  "generated_at": "2026-06-17T03:26:58+00:00",
+  "generated_at": "2026-06-18T02:40:31+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4350.299805,
-        "change": 22.299805,
-        "pct_change": 0.515,
-        "date": "2026-06-16"
+        "price": 4344.899902,
+        "change": 14.0,
+        "pct_change": 0.323,
+        "date": "2026-06-17"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 70.199997,
-        "change": 0.133995,
-        "pct_change": 0.191,
-        "date": "2026-06-16"
+        "price": 69.699997,
+        "change": -0.199005,
+        "pct_change": -0.285,
+        "date": "2026-06-17"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1151.75,
-        "change": 32.5,
-        "pct_change": 2.904,
-        "date": "2026-06-16"
+        "price": 1148.5,
+        "change": 18.5,
+        "pct_change": 1.637,
+        "date": "2026-06-17"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.29,
-        "change": 0.61,
-        "pct_change": 4.459,
-        "date": "2026-06-16"
+        "price": 14.37,
+        "change": 0.55,
+        "pct_change": 3.98,
+        "date": "2026-06-17"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.706414,
-        "change": -0.000886,
-        "pct_change": -0.125,
-        "date": "2026-06-17"
+        "price": 0.70373,
+        "change": -0.00282,
+        "pct_change": -0.399,
+        "date": "2026-06-18"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7511.350098,
-        "change": -42.939941,
-        "pct_change": -0.568,
-        "date": "2026-06-16"
+        "price": 7420.100098,
+        "change": -91.25,
+        "pct_change": -1.215,
+        "date": "2026-06-17"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.428,
-        "change": -0.059,
-        "pct_change": -1.315,
-        "date": "2026-06-16"
+        "price": 4.463,
+        "change": -0.024,
+        "pct_change": -0.535,
+        "date": "2026-06-17"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24309.169922,
-        "change": -184.779297,
-        "pct_change": -0.754,
-        "date": "2026-06-17"
+        "price": 23926.630859,
+        "change": -385.529297,
+        "pct_change": -1.586,
+        "date": "2026-06-18"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10890.0,
-        "change": 353.0,
-        "pct_change": 3.35,
-        "date": "2026-06-15"
+        "price": 10943.0,
+        "change": 53.0,
+        "pct_change": 0.487,
+        "date": "2026-06-17"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13761.530273,
-        "change": 43.990234,
-        "pct_change": 0.321,
-        "date": "2026-06-16"
+        "price": 13815.240234,
+        "change": 53.709961,
+        "pct_change": 0.39,
+        "date": "2026-06-17"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8963.700195,
-        "change": 46.0,
-        "pct_change": 0.516,
-        "date": "2026-06-17"
+        "price": 8930.599609,
+        "change": -35.700195,
+        "pct_change": -0.398,
+        "date": "2026-06-18"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 133.25,
-        "change": -1.460007,
-        "pct_change": -1.084,
-        "date": "2026-06-16"
+        "price": 130.630005,
+        "change": -2.619995,
+        "pct_change": -1.966,
+        "date": "2026-06-17"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 287.929993,
-        "change": 1.809998,
-        "pct_change": 0.633,
-        "date": "2026-06-16"
+        "price": 283.820007,
+        "change": -4.109985,
+        "pct_change": -1.427,
+        "date": "2026-06-17"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 404.660004,
-        "change": -6.48999,
-        "pct_change": -1.578,
-        "date": "2026-06-16"
+        "price": 396.380005,
+        "change": -8.279999,
+        "pct_change": -2.046,
+        "date": "2026-06-17"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 373.25,
-        "change": 3.899994,
-        "pct_change": 1.056,
-        "date": "2026-06-16"
+        "price": 363.790009,
+        "change": -9.459991,
+        "pct_change": -2.534,
+        "date": "2026-06-17"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 535.950012,
-        "change": 5.590027,
-        "pct_change": 1.054,
-        "date": "2026-06-16"
+        "price": 532.320007,
+        "change": -3.630005,
+        "pct_change": -0.677,
+        "date": "2026-06-17"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 186.770004,
-        "change": 3.130005,
-        "pct_change": 1.704,
-        "date": "2026-06-16"
+        "price": 192.580002,
+        "change": 5.809998,
+        "pct_change": 3.111,
+        "date": "2026-06-17"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 551.210022,
-        "change": 6.480042,
-        "pct_change": 1.19,
-        "date": "2026-06-16"
+        "price": 550.150024,
+        "change": -1.059998,
+        "pct_change": -0.192,
+        "date": "2026-06-17"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-      "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 15:31:24 GMT",
+      "title": "What's in the US-Iran agreement that's now in effect",
+      "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 01:28:02 GMT",
+      "matched_keywords": [
+        "nuclear"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran sends tankers loaded with oil past US military blockade",
+      "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 17 Jun 2026 13:27:47 GMT",
+      "matched_keywords": [
+        "military",
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
+      "link": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 17 Jun 2026 22:36:13 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-      "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 00:25:39 GMT",
+      "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
+      "link": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 17 Jun 2026 16:50:42 GMT",
+      "matched_keywords": [
+        "attack",
+        "outbreak"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ex-Nigeria oil minister cleared in UK bribery trial",
+      "link": "https://www.bbc.com/news/articles/c872pwx4x2vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 17 Jun 2026 19:03:10 GMT",
       "matched_keywords": [
         "war",
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Cuba tourism collapses as US pressure campaign bites",
-      "link": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 11:16:59 GMT",
-      "matched_keywords": [
-        "sanctions",
-        "oil",
-        "collapse"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Hungary's MPs block return of Orbán, limiting rule of PM to eight years",
-      "link": "https://www.bbc.com/news/articles/c621zplqrrno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 12:42:15 GMT",
-      "matched_keywords": [
-        "prime minister"
+        "oil"
       ]
     },
     {
       "source": "BBC World",
       "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
       "link": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 23:17:46 GMT",
+      "published": "Wed, 17 Jun 2026 09:46:31 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Three reasons ships are not going through the Strait of Hormuz yet",
-      "link": "https://www.bbc.com/news/articles/cn4rw784nj2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 14:11:30 GMT",
+      "title": "Equatorial Guinea government resigns after failing to meet targets",
+      "link": "https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 17 Jun 2026 09:52:52 GMT",
       "matched_keywords": [
-        "conflict"
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Recovery of Ebola patients offers rare moments of joy at epicentre of outbreak",
-      "link": "https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 15 Jun 2026 23:26:39 GMT",
+      "title": "Bolivia signs $20m deal with US to fight drug trafficking, foreign ministry says",
+      "link": "https://www.bbc.com/news/articles/c9w28vzj0q0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 17 Jun 2026 12:01:04 GMT",
       "matched_keywords": [
-        "outbreak"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "'Warning fire went up': Couple on board yacht describe encounter with Russian warship",
-      "link": "https://www.bbc.com/news/videos/cevldxgklxko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 22:01:34 GMT",
-      "matched_keywords": [
-        "war",
-        "coup"
+        "president"
       ]
     }
   ]
