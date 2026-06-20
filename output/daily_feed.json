@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-06-19T03:57:50+00:00",
+  "generated_at": "2026-06-20T04:03:27+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4176.899902,
-        "change": -182.0,
-        "pct_change": -4.175,
-        "date": "2026-06-18"
+        "price": 4172.899902,
+        "change": -51.200195,
+        "pct_change": -1.212,
+        "date": "2026-06-19"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 64.294998,
-        "change": -6.401001,
-        "pct_change": -9.054,
-        "date": "2026-06-18"
+        "price": 64.910004,
+        "change": -1.344994,
+        "pct_change": -2.03,
+        "date": "2026-06-19"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1142.0,
-        "change": 10.0,
-        "pct_change": 0.883,
+        "price": 1122.75,
+        "change": -9.25,
+        "pct_change": -0.817,
         "date": "2026-06-18"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.14,
-        "change": 0.29,
-        "pct_change": 2.094,
+        "price": 13.59,
+        "change": -0.26,
+        "pct_change": -1.877,
         "date": "2026-06-18"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.700231,
-        "change": -0.001619,
-        "pct_change": -0.231,
+        "price": 0.701557,
+        "change": -0.000292,
+        "pct_change": -0.042,
         "date": "2026-06-19"
       }
     },
@@ -51,8 +51,8 @@
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
         "price": 4.451,
-        "change": -0.036,
-        "pct_change": -0.802,
+        "change": null,
+        "pct_change": null,
         "date": "2026-06-18"
       },
       "Hang Seng 50": {
@@ -64,23 +64,23 @@
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10943.0,
-        "change": 53.0,
-        "pct_change": 0.487,
-        "date": "2026-06-17"
+        "price": 10860.0,
+        "change": -83.0,
+        "pct_change": -0.758,
+        "date": "2026-06-18"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13765.830078,
-        "change": -49.410156,
-        "pct_change": -0.358,
-        "date": "2026-06-18"
+        "price": 13774.019531,
+        "change": 8.189453,
+        "pct_change": 0.059,
+        "date": "2026-06-19"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8814.400391,
-        "change": -96.699219,
-        "pct_change": -1.085,
+        "price": 8828.700195,
+        "change": -82.399414,
+        "pct_change": -0.925,
         "date": "2026-06-19"
       }
     },
@@ -139,20 +139,50 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
-      "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 15:53:55 GMT",
+      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 19:27:12 GMT",
+      "matched_keywords": [
+        "war",
+        "ceasefire"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+      "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 19:36:10 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "What Iran and US get from deal and why both could struggle to keep it",
-      "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 20:04:40 GMT",
+      "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
+      "link": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 14:45:57 GMT",
       "matched_keywords": [
-        "war"
+        "attack",
+        "outbreak"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Zimbabwe MPs pass bill to extend president's time in power",
+      "link": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 08:03:32 GMT",
+      "matched_keywords": [
+        "election",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "In Trump's shadow, Vance becomes face of Iran deal",
+      "link": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 04:12:07 GMT",
+      "matched_keywords": [
+        "president"
       ]
     },
     {
@@ -161,6 +191,7 @@
       "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 18 Jun 2026 15:46:36 GMT",
       "matched_keywords": [
+        "war",
         "attack",
         "oil"
       ]
@@ -169,43 +200,16 @@
       "source": "BBC World",
       "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
       "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 21:47:25 GMT",
+      "published": "Fri, 19 Jun 2026 09:43:30 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
-      "link": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 20:27:31 GMT",
-      "matched_keywords": [
-        "nato"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Obamas host star-studded opening of Chicago presidential centre",
-      "link": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 00:01:27 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Lawyer in high-profile Ugandan treason case charged with related offence",
-      "link": "https://www.bbc.com/news/articles/cj9g3j4pe2no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 09:35:29 GMT",
-      "matched_keywords": [
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
-      "link": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 22:36:13 GMT",
+      "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+      "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 15:53:55 GMT",
       "matched_keywords": [
         "war"
       ]
