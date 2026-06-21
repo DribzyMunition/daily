@@ -1,5 +1,5 @@
-# Daily Feed — 2026-06-20
-*Generated: 2026-06-20T04:03:27+00:00 UTC*
+# Daily Feed — 2026-06-21
+*Generated: 2026-06-21T04:51:47+00:00 UTC*
 
 ---
 
@@ -9,25 +9,25 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,172.8999 | ▼ 51.2002 | -1.21% |
-| Silver |      64.9100 | ▼ 1.3450 | -2.03% |
-| Soybeans |   1,122.7500 | ▼ 9.2500 | -0.82% |
-| Sugar #11 (Raw) |      13.5900 | ▼ 0.2600 | -1.88% |
+| Gold | — | — | ⚠ data unavailable |
+| Silver | — | — | ⚠ data unavailable |
+| Soybeans |   1,142.0000 | ▲ 10.0000 | +0.88% |
+| Sugar #11 (Raw) |      14.1400 | ▲ 0.2900 | +2.09% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7016 | ▼ 0.0003 | -0.04% |
+| AUD/USD |       0.7016 | ▲ 0.0002 | +0.04% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
 | S&P 500 |   7,500.5801 | ▲ 80.4800 | +1.08% |
-| US 10Y Yield (%) |       4.4510 | ▲ 0.0000 | +0.00% |
+| US 10Y Yield (%) |       4.4510 | ▼ 0.0120 | -0.27% |
 | Hang Seng 50 |  23,924.8105 | ▼ 387.3496 | -1.59% |
-| South Africa Top 40 |  10,860.0000 | ▼ 83.0000 | -0.76% |
+| South Africa Top 40 |  10,589.0000 | ▼ 271.0000 | -2.50% |
 | Switzerland SMI |  13,774.0195 | ▲ 8.1895 | +0.06% |
 | ASX 200 (XJO) |   8,828.7002 | ▼ 82.3994 | -0.93% |
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported
-*Tags: war, ceasefire*
-https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss
+**[BBC World]** US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz
+*Tags: attack*
+https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7
+**[BBC World]** Colombia's escalating, brutal internal conflict is defining its presidential election
+*Tags: conflict, election, president, nato*
+https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Meloni tells Trump to 'focus on your own popularity' as row escalates
+*Tags: president, summit*
+https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say
+*Tags: military*
+https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Zelensky returns highest Polish honour after award stripped
+*Tags: war, president*
+https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** France bans alcohol consumption at music festival events under red heatwave alert
 *Tags: war*
-https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'
-*Tags: attack, outbreak*
-https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Bolivian president declares state of emergency
+*Tags: president*
+https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Zimbabwe MPs pass bill to extend president's time in power
 *Tags: election, president*
 https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** In Trump's shadow, Vance becomes face of Iran deal
-*Tags: president*
-https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery
-*Tags: war, attack, oil*
-https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Thirty-five killed as gunmen attack Niger's biggest airport
-*Tags: attack*
-https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Bowen: US-Iran deal raises inescapable question of what the war was for
-*Tags: war*
-https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

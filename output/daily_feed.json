@@ -1,33 +1,27 @@
 {
-  "generated_at": "2026-06-20T04:03:27+00:00",
+  "generated_at": "2026-06-21T04:51:47+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4172.899902,
-        "change": -51.200195,
-        "pct_change": -1.212,
-        "date": "2026-06-19"
+        "error": "'NoneType' object is not subscriptable"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 64.910004,
-        "change": -1.344994,
-        "pct_change": -2.03,
-        "date": "2026-06-19"
+        "error": "'NoneType' object is not subscriptable"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1122.75,
-        "change": -9.25,
-        "pct_change": -0.817,
+        "price": 1142.0,
+        "change": 10.0,
+        "pct_change": 0.883,
         "date": "2026-06-18"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 13.59,
-        "change": -0.26,
-        "pct_change": -1.877,
+        "price": 14.14,
+        "change": 0.29,
+        "pct_change": 2.094,
         "date": "2026-06-18"
       }
     },
@@ -35,9 +29,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.701557,
-        "change": -0.000292,
-        "pct_change": -0.042,
-        "date": "2026-06-19"
+        "change": 0.000247,
+        "pct_change": 0.035,
+        "date": "2026-06-21"
       }
     },
     "indices": {
@@ -51,8 +45,8 @@
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
         "price": 4.451,
-        "change": null,
-        "pct_change": null,
+        "change": -0.012,
+        "pct_change": -0.269,
         "date": "2026-06-18"
       },
       "Hang Seng 50": {
@@ -64,10 +58,10 @@
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10860.0,
-        "change": -83.0,
-        "pct_change": -0.758,
-        "date": "2026-06-18"
+        "price": 10589.0,
+        "change": -271.0,
+        "pct_change": -2.495,
+        "date": "2026-06-19"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
@@ -139,31 +133,70 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-      "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 19:27:12 GMT",
+      "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 04:34:00 GMT",
       "matched_keywords": [
-        "war",
-        "ceasefire"
+        "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-      "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 19:36:10 GMT",
+      "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
+      "link": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 23:17:51 GMT",
+      "matched_keywords": [
+        "conflict",
+        "election",
+        "president",
+        "nato"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+      "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 15:31:12 GMT",
+      "matched_keywords": [
+        "president",
+        "summit"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+      "link": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 21:57:36 GMT",
+      "matched_keywords": [
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Zelensky returns highest Polish honour after award stripped",
+      "link": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 16:34:15 GMT",
+      "matched_keywords": [
+        "war",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "France bans alcohol consumption at music festival events under red heatwave alert",
+      "link": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 00:29:51 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
-      "link": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 14:45:57 GMT",
+      "title": "Bolivian president declares state of emergency",
+      "link": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 15:27:09 GMT",
       "matched_keywords": [
-        "attack",
-        "outbreak"
+        "president"
       ]
     },
     {
@@ -174,44 +207,6 @@
       "matched_keywords": [
         "election",
         "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "In Trump's shadow, Vance becomes face of Iran deal",
-      "link": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 04:12:07 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
-      "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 15:46:36 GMT",
-      "matched_keywords": [
-        "war",
-        "attack",
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
-      "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 09:43:30 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
-      "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 15:53:55 GMT",
-      "matched_keywords": [
-        "war"
       ]
     }
   ]
