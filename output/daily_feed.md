@@ -1,5 +1,5 @@
-# Daily Feed — 2026-06-21
-*Generated: 2026-06-21T04:51:47+00:00 UTC*
+# Daily Feed — 2026-06-22
+*Generated: 2026-06-22T03:42:35+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold | — | — | ⚠ data unavailable |
-| Silver | — | — | ⚠ data unavailable |
-| Soybeans |   1,142.0000 | ▲ 10.0000 | +0.88% |
+| Gold |   4,195.3999 | ▼ 28.7002 | -0.68% |
+| Silver |      65.7000 | ▼ 0.5550 | -0.84% |
+| Soybeans |   1,145.2500 | ▲ 22.5000 | +2.00% |
 | Sugar #11 (Raw) |      14.1400 | ▲ 0.2900 | +2.09% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7016 | ▲ 0.0002 | +0.04% |
+| AUD/USD |       0.7011 | ▼ 0.0002 | -0.04% |
 
 ### Indices
 
@@ -26,10 +26,10 @@
 |:------|------:|------:|---------:|
 | S&P 500 |   7,500.5801 | ▲ 80.4800 | +1.08% |
 | US 10Y Yield (%) |       4.4510 | ▼ 0.0120 | -0.27% |
-| Hang Seng 50 |  23,924.8105 | ▼ 387.3496 | -1.59% |
+| Hang Seng 50 |  23,706.9609 | ▼ 217.8496 | -0.91% |
 | South Africa Top 40 |  10,589.0000 | ▼ 271.0000 | -2.50% |
 | Switzerland SMI |  13,774.0195 | ▲ 8.1895 | +0.06% |
-| ASX 200 (XJO) |   8,828.7002 | ▼ 82.3994 | -0.93% |
+| ASX 200 (XJO) |   8,818.5996 | ▼ 10.1006 | -0.11% |
 
 ### Stocks
 
@@ -47,17 +47,21 @@
 
 ## Key Global Headlines
 
-**[BBC World]** US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz
-*Tags: attack*
-https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Fuel sales halted in occupied Crimea as Ukraine targets oil facilities
+*Tags: attack, oil*
+https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Ethiopia PM's party wins landslide as fears grow of new conflict
+*Tags: conflict*
+https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Half of France under red heat alert as alcohol banned at street music festival
+*Tags: war*
+https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Colombia's escalating, brutal internal conflict is defining its presidential election
 *Tags: conflict, election, president, nato*
 https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Meloni tells Trump to 'focus on your own popularity' as row escalates
-*Tags: president, summit*
-https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say
 *Tags: military*
@@ -66,10 +70,6 @@ https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss
 **[BBC World]** Zelensky returns highest Polish honour after award stripped
 *Tags: war, president*
 https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** France bans alcohol consumption at music festival events under red heatwave alert
-*Tags: war*
-https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Bolivian president declares state of emergency
 *Tags: president*

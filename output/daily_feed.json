@@ -1,21 +1,27 @@
 {
-  "generated_at": "2026-06-21T04:51:47+00:00",
+  "generated_at": "2026-06-22T03:42:35+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "error": "'NoneType' object is not subscriptable"
+        "price": 4195.399902,
+        "change": -28.700195,
+        "pct_change": -0.679,
+        "date": "2026-06-21"
       },
       "Silver": {
         "ticker": "SI=F",
-        "error": "'NoneType' object is not subscriptable"
+        "price": 65.699997,
+        "change": -0.555,
+        "pct_change": -0.838,
+        "date": "2026-06-21"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1142.0,
-        "change": 10.0,
-        "pct_change": 0.883,
-        "date": "2026-06-18"
+        "price": 1145.25,
+        "change": 22.5,
+        "pct_change": 2.004,
+        "date": "2026-06-21"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
@@ -28,10 +34,10 @@
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.701557,
-        "change": 0.000247,
-        "pct_change": 0.035,
-        "date": "2026-06-21"
+        "price": 0.701066,
+        "change": -0.000244,
+        "pct_change": -0.035,
+        "date": "2026-06-22"
       }
     },
     "indices": {
@@ -51,10 +57,10 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 23924.810547,
-        "change": -387.349609,
-        "pct_change": -1.593,
-        "date": "2026-06-18"
+        "price": 23706.960938,
+        "change": -217.849609,
+        "pct_change": -0.911,
+        "date": "2026-06-22"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -72,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8828.700195,
-        "change": -82.399414,
-        "pct_change": -0.925,
-        "date": "2026-06-19"
+        "price": 8818.599609,
+        "change": -10.100586,
+        "pct_change": -0.114,
+        "date": "2026-06-22"
       }
     },
     "stocks": {
@@ -133,11 +139,30 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 04:34:00 GMT",
+      "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+      "link": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 10:55:05 GMT",
       "matched_keywords": [
-        "attack"
+        "attack",
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
+      "link": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 15:01:28 GMT",
+      "matched_keywords": [
+        "conflict"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Half of France under red heat alert as alcohol banned at street music festival",
+      "link": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 15:22:14 GMT",
+      "matched_keywords": [
+        "war"
       ]
     },
     {
@@ -150,16 +175,6 @@
         "election",
         "president",
         "nato"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
-      "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 15:31:12 GMT",
-      "matched_keywords": [
-        "president",
-        "summit"
       ]
     },
     {
@@ -179,15 +194,6 @@
       "matched_keywords": [
         "war",
         "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "France bans alcohol consumption at music festival events under red heatwave alert",
-      "link": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 00:29:51 GMT",
-      "matched_keywords": [
-        "war"
       ]
     },
     {
