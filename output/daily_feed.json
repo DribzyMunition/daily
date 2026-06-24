@@ -1,66 +1,63 @@
 {
-  "generated_at": "2026-06-23T05:58:08+00:00",
+  "generated_at": "2026-06-24T02:34:24+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4138.0,
-        "change": -43.899902,
-        "pct_change": -1.05,
-        "date": "2026-06-23"
+        "error": "'NoneType' object is not subscriptable"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 62.674999,
-        "change": -2.852001,
-        "pct_change": -4.352,
+        "price": 61.445,
+        "change": -4.082001,
+        "pct_change": -6.229,
         "date": "2026-06-23"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1140.75,
-        "change": 25.0,
-        "pct_change": 2.241,
+        "price": 1144.25,
+        "change": 28.5,
+        "pct_change": 2.554,
         "date": "2026-06-23"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 13.35,
-        "change": -0.24,
-        "pct_change": -1.766,
-        "date": "2026-06-22"
+        "price": 13.93,
+        "change": 0.58,
+        "pct_change": 4.345,
+        "date": "2026-06-23"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.696476,
-        "change": -0.003814,
-        "pct_change": -0.545,
-        "date": "2026-06-23"
+        "price": 0.691659,
+        "change": -0.007803,
+        "pct_change": -1.116,
+        "date": "2026-06-24"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7472.790039,
-        "change": -27.790039,
-        "pct_change": -0.371,
-        "date": "2026-06-22"
+        "price": 7365.459961,
+        "change": -107.330078,
+        "pct_change": -1.436,
+        "date": "2026-06-23"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.451,
-        "change": -0.012,
-        "pct_change": -0.269,
-        "date": "2026-06-18"
+        "price": 4.493,
+        "change": 0.042,
+        "pct_change": 0.944,
+        "date": "2026-06-23"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 23427.640625,
-        "change": -340.878906,
-        "pct_change": -1.434,
-        "date": "2026-06-23"
+        "price": 23361.949219,
+        "change": 25.669922,
+        "pct_change": 0.11,
+        "date": "2026-06-24"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -71,146 +68,144 @@
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13848.509766,
-        "change": 74.490234,
-        "pct_change": 0.541,
-        "date": "2026-06-22"
+        "price": 13910.700195,
+        "change": 62.19043,
+        "pct_change": 0.449,
+        "date": "2026-06-23"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8783.200195,
-        "change": -32.899414,
-        "pct_change": -0.373,
-        "date": "2026-06-23"
+        "price": 8816.599609,
+        "change": 29.599609,
+        "pct_change": 0.337,
+        "date": "2026-06-24"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 119.5,
-        "change": -8.970001,
-        "pct_change": -6.982,
-        "date": "2026-06-22"
+        "price": 116.699997,
+        "change": -2.800003,
+        "pct_change": -2.343,
+        "date": "2026-06-23"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 270.100006,
-        "change": -8.509979,
-        "pct_change": -3.054,
-        "date": "2026-06-22"
+        "price": 271.660004,
+        "change": 1.559998,
+        "pct_change": 0.578,
+        "date": "2026-06-23"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 405.049988,
-        "change": 4.559998,
-        "pct_change": 1.139,
-        "date": "2026-06-22"
+        "price": 381.609985,
+        "change": -23.440002,
+        "pct_change": -5.787,
+        "date": "2026-06-23"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 349.679993,
-        "change": -18.350006,
-        "pct_change": -4.986,
-        "date": "2026-06-22"
+        "price": 346.130005,
+        "change": -3.549988,
+        "pct_change": -1.015,
+        "date": "2026-06-23"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 493.600006,
-        "change": -17.350006,
-        "pct_change": -3.396,
-        "date": "2026-06-22"
+        "price": 503.670013,
+        "change": 10.070007,
+        "pct_change": 2.04,
+        "date": "2026-06-23"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 181.830002,
-        "change": -3.770004,
-        "pct_change": -2.031,
-        "date": "2026-06-22"
+        "price": 186.389999,
+        "change": 4.559998,
+        "pct_change": 2.508,
+        "date": "2026-06-23"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 507.329987,
-        "change": -14.170013,
-        "pct_change": -2.717,
-        "date": "2026-06-22"
+        "price": 513.219971,
+        "change": 5.889984,
+        "pct_change": 1.161,
+        "date": "2026-06-23"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
-      "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 05:39:17 GMT",
+      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+      "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 16:27:17 GMT",
       "matched_keywords": [
-        "nuclear",
-        "sanctions",
-        "oil"
+        "prime minister"
       ]
     },
     {
       "source": "BBC World",
-      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
-      "link": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 15:15:42 GMT",
-      "matched_keywords": [
-        "gas",
-        "explosion"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
-      "link": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 23:57:59 GMT",
+      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+      "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 21:04:11 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Trump-backed political outsider wins Colombia election, initial count shows",
-      "link": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 03:31:40 GMT",
+      "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 16:47:45 GMT",
       "matched_keywords": [
-        "election"
+        "military",
+        "ceasefire",
+        "troops"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Alan Greenspan, architect of the modern American economy, dies aged 100",
-      "link": "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 11:55:36 GMT",
+      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+      "link": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 14:55:31 GMT",
       "matched_keywords": [
-        "federal reserve"
+        "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Three dead in Philippines high school shooting over bullying 'grudge'",
-      "link": "https://www.bbc.com/news/articles/cjegy777xw5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 09:45:52 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-      "link": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 21:57:36 GMT",
+      "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
+      "link": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 23:25:07 GMT",
       "matched_keywords": [
         "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
-      "link": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 10:55:05 GMT",
+      "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
+      "link": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 17:30:44 GMT",
       "matched_keywords": [
-        "attack",
-        "oil"
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump anticipates better relationship with Colombia under new leader",
+      "link": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 10:27:04 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ransom note claims Nancy Guthrie died after abduction",
+      "link": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 17:59:22 GMT",
+      "matched_keywords": [
+        "war"
       ]
     }
   ]

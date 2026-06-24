@@ -1,5 +1,5 @@
-# Daily Feed — 2026-06-23
-*Generated: 2026-06-23T05:58:08+00:00 UTC*
+# Daily Feed — 2026-06-24
+*Generated: 2026-06-24T02:34:24+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,138.0000 | ▼ 43.8999 | -1.05% |
-| Silver |      62.6750 | ▼ 2.8520 | -4.35% |
-| Soybeans |   1,140.7500 | ▲ 25.0000 | +2.24% |
-| Sugar #11 (Raw) |      13.3500 | ▼ 0.2400 | -1.77% |
+| Gold | — | — | ⚠ data unavailable |
+| Silver |      61.4450 | ▼ 4.0820 | -6.23% |
+| Soybeans |   1,144.2500 | ▲ 28.5000 | +2.55% |
+| Sugar #11 (Raw) |      13.9300 | ▲ 0.5800 | +4.34% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6965 | ▼ 0.0038 | -0.55% |
+| AUD/USD |       0.6917 | ▼ 0.0078 | -1.12% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,472.7900 | ▼ 27.7900 | -0.37% |
-| US 10Y Yield (%) |       4.4510 | ▼ 0.0120 | -0.27% |
-| Hang Seng 50 |  23,427.6406 | ▼ 340.8789 | -1.43% |
+| S&P 500 |   7,365.4600 | ▼ 107.3301 | -1.44% |
+| US 10Y Yield (%) |       4.4930 | ▲ 0.0420 | +0.94% |
+| Hang Seng 50 |  23,361.9492 | ▲ 25.6699 | +0.11% |
 | South Africa Top 40 |  10,547.0000 | ▼ 42.0000 | -0.40% |
-| Switzerland SMI |  13,848.5098 | ▲ 74.4902 | +0.54% |
-| ASX 200 (XJO) |   8,783.2002 | ▼ 32.8994 | -0.37% |
+| Switzerland SMI |  13,910.7002 | ▲ 62.1904 | +0.45% |
+| ASX 200 (XJO) |   8,816.5996 | ▲ 29.5996 | +0.34% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     119.5000 | ▼ 8.9700 | -6.98% |
-| McDonald's |     270.1000 | ▼ 8.5100 | -3.05% |
-| Tesla |     405.0500 | ▲ 4.5600 | +1.14% |
-| Alphabet |     349.6800 | ▼ 18.3500 | -4.99% |
-| Lockheed Martin |     493.6000 | ▼ 17.3500 | -3.40% |
-| RTX (Raytheon) |     181.8300 | ▼ 3.7700 | -2.03% |
-| Northrop Grumman |     507.3300 | ▼ 14.1700 | -2.72% |
+| Palantir |     116.7000 | ▼ 2.8000 | -2.34% |
+| McDonald's |     271.6600 | ▲ 1.5600 | +0.58% |
+| Tesla |     381.6100 | ▼ 23.4400 | -5.79% |
+| Alphabet |     346.1300 | ▼ 3.5500 | -1.01% |
+| Lockheed Martin |     503.6700 | ▲ 10.0700 | +2.04% |
+| RTX (Raytheon) |     186.3900 | ▲ 4.5600 | +2.51% |
+| Northrop Grumman |     513.2200 | ▲ 5.8900 | +1.16% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** US eases oil sanctions as Iran denies Vance claim on nuclear inspectors
-*Tags: nuclear, sanctions, oil*
-https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Drowning deaths soar in France as Europe buckles in peak of heatwave
+*Tags: prime minister*
+https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** At least 13 killed and dozens injured after Qatar gas explosion
-*Tags: gas, explosion*
-https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas
+**[BBC World]** UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls
 *Tags: war*
-https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Trump-backed political outsider wins Colombia election, initial count shows
-*Tags: election*
-https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Israeli troops kill two in south Lebanon after lull in fighting, authorities say
+*Tags: military, ceasefire, troops*
+https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Alan Greenspan, architect of the modern American economy, dies aged 100
-*Tags: federal reserve*
-https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Dozens of ships head through Strait of Hormuz after US-Iran deal
+*Tags: war*
+https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Three dead in Philippines high school shooting over bullying 'grudge'
-*Tags: attack*
-https://www.bbc.com/news/articles/cjegy777xw5o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say
+**[BBC World]** Chinese e-commerce giant Alibaba sues US government over defence blacklist
 *Tags: military*
-https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Fuel sales halted in occupied Crimea as Ukraine targets oil facilities
-*Tags: attack, oil*
-https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Zambia ex-president's family wins latest legal battle over what should happen to his body
+*Tags: president*
+https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump anticipates better relationship with Colombia under new leader
+*Tags: president*
+https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Ransom note claims Nancy Guthrie died after abduction
+*Tags: war*
+https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
