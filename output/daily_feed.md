@@ -1,5 +1,5 @@
-# Daily Feed — 2026-06-24
-*Generated: 2026-06-24T02:34:24+00:00 UTC*
+# Daily Feed — 2026-06-25
+*Generated: 2026-06-25T03:11:49+00:00 UTC*
 
 ---
 
@@ -10,74 +10,74 @@
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
 | Gold | — | — | ⚠ data unavailable |
-| Silver |      61.4450 | ▼ 4.0820 | -6.23% |
-| Soybeans |   1,144.2500 | ▲ 28.5000 | +2.55% |
-| Sugar #11 (Raw) |      13.9300 | ▲ 0.5800 | +4.34% |
+| Silver | — | — | ⚠ data unavailable |
+| Soybeans |   1,133.0000 | ▲ 16.0000 | +1.43% |
+| Sugar #11 (Raw) |      14.0100 | ▲ 0.5900 | +4.40% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6917 | ▼ 0.0078 | -1.12% |
+| AUD/USD |       0.6896 | ▼ 0.0020 | -0.28% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,365.4600 | ▼ 107.3301 | -1.44% |
-| US 10Y Yield (%) |       4.4930 | ▲ 0.0420 | +0.94% |
-| Hang Seng 50 |  23,361.9492 | ▲ 25.6699 | +0.11% |
-| South Africa Top 40 |  10,547.0000 | ▼ 42.0000 | -0.40% |
-| Switzerland SMI |  13,910.7002 | ▲ 62.1904 | +0.45% |
-| ASX 200 (XJO) |   8,816.5996 | ▲ 29.5996 | +0.34% |
+| S&P 500 |   7,358.2202 | ▼ 7.2397 | -0.10% |
+| US 10Y Yield (%) |       4.4020 | ▼ 0.0490 | -1.10% |
+| Hang Seng 50 |  23,153.5508 | ▼ 258.6289 | -1.10% |
+| South Africa Top 40 |  10,460.0000 | ▼ 87.0000 | -0.82% |
+| Switzerland SMI |  14,117.7500 | ▲ 207.0498 | +1.49% |
+| ASX 200 (XJO) |   8,771.5996 | ▼ 36.8008 | -0.42% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     116.7000 | ▼ 2.8000 | -2.34% |
-| McDonald's |     271.6600 | ▲ 1.5600 | +0.58% |
-| Tesla |     381.6100 | ▼ 23.4400 | -5.79% |
-| Alphabet |     346.1300 | ▼ 3.5500 | -1.01% |
-| Lockheed Martin |     503.6700 | ▲ 10.0700 | +2.04% |
-| RTX (Raytheon) |     186.3900 | ▲ 4.5600 | +2.51% |
-| Northrop Grumman |     513.2200 | ▲ 5.8900 | +1.16% |
+| Palantir |     113.5000 | ▼ 3.2000 | -2.74% |
+| McDonald's |     273.8800 | ▲ 2.2200 | +0.82% |
+| Tesla |     375.5300 | ▼ 6.0800 | -1.59% |
+| Alphabet |     345.2900 | ▼ 0.8400 | -0.24% |
+| Lockheed Martin |     491.6400 | ▼ 12.0300 | -2.39% |
+| RTX (Raytheon) |     185.0600 | ▼ 1.3300 | -0.71% |
+| Northrop Grumman |     503.0100 | ▼ 10.2100 | -1.99% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Drowning deaths soar in France as Europe buckles in peak of heatwave
-*Tags: prime minister*
-https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss
+**[Al Jazeera]** Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit
+*Tags: summit, nato*
+https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss
 
-**[BBC World]** UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls
+**[Al Jazeera]** Russian opposition leader jailed over anti-war social media posts
 *Tags: war*
-https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss
+https://www.aljazeera.com/video/newsfeed/2026/6/25/russian-opposition-leader-jailed-over-anti-war-social-media-posts?traffic_source=rss
 
-**[BBC World]** Israeli troops kill two in south Lebanon after lull in fighting, authorities say
-*Tags: military, ceasefire, troops*
-https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss
+**[Al Jazeera]** Venezuela quakes live: Tremors of 7.5 and 7.2 collapse buildings in Caracas
+*Tags: earthquake, collapse*
+https://www.aljazeera.com/news/liveblog/2026/6/25/venezuela-earthquakes-live-two-powerful-quakes-shake-s-american-country?traffic_source=rss
 
-**[BBC World]** Dozens of ships head through Strait of Hormuz after US-Iran deal
+**[Al Jazeera]** Buildings collapse in Venezuelan capital after powerful earthquakes hit
+*Tags: earthquake, collapse*
+https://www.aljazeera.com/video/newsfeed/2026/6/25/buildings-collapse-in-venezuelan-capital-after-powerful-earthquakes-hit?traffic_source=rss
+
+**[Al Jazeera]** Venezuela struck by back-to-back earthquakes, many casualties feared
+*Tags: earthquake*
+https://www.aljazeera.com/news/2026/6/25/venezuela-struck-by-back-to-back-earthquakes-high-casualties-feared?traffic_source=rss
+
+**[Al Jazeera]** Iran war live: US vows to defend Gulf interests; Israel kills 2 in Lebanon
 *Tags: war*
-https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss
+https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss
 
-**[BBC World]** Chinese e-commerce giant Alibaba sues US government over defence blacklist
-*Tags: military*
-https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss
+**[Al Jazeera]** Trump slams NATO over lax participation in Iran war in talk with Mark Rutte
+*Tags: war, nato*
+https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte?traffic_source=rss
 
-**[BBC World]** Zambia ex-president's family wins latest legal battle over what should happen to his body
-*Tags: president*
-https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump anticipates better relationship with Colombia under new leader
-*Tags: president*
-https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Ransom note claims Nancy Guthrie died after abduction
+**[Al Jazeera]** Trump White House requests $87.6bn in spending, including for Iran war
 *Tags: war*
-https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss
+https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T02:34:24+00:00",
+  "generated_at": "2026-06-25T03:11:49+00:00",
   "prices": {
     "commodities": {
       "Gold": {
@@ -8,202 +8,201 @@
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 61.445,
-        "change": -4.082001,
-        "pct_change": -6.229,
-        "date": "2026-06-23"
+        "error": "'NoneType' object is not subscriptable"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1144.25,
-        "change": 28.5,
-        "pct_change": 2.554,
-        "date": "2026-06-23"
+        "price": 1133.0,
+        "change": 16.0,
+        "pct_change": 1.432,
+        "date": "2026-06-24"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 13.93,
-        "change": 0.58,
-        "pct_change": 4.345,
-        "date": "2026-06-23"
+        "price": 14.01,
+        "change": 0.59,
+        "pct_change": 4.396,
+        "date": "2026-06-24"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.691659,
-        "change": -0.007803,
-        "pct_change": -1.116,
-        "date": "2026-06-24"
+        "price": 0.689608,
+        "change": -0.001952,
+        "pct_change": -0.282,
+        "date": "2026-06-25"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7365.459961,
-        "change": -107.330078,
-        "pct_change": -1.436,
-        "date": "2026-06-23"
+        "price": 7358.220215,
+        "change": -7.239746,
+        "pct_change": -0.098,
+        "date": "2026-06-24"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.493,
-        "change": 0.042,
-        "pct_change": 0.944,
-        "date": "2026-06-23"
+        "price": 4.402,
+        "change": -0.049,
+        "pct_change": -1.101,
+        "date": "2026-06-24"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 23361.949219,
-        "change": 25.669922,
-        "pct_change": 0.11,
-        "date": "2026-06-24"
+        "price": 23153.550781,
+        "change": -258.628906,
+        "pct_change": -1.105,
+        "date": "2026-06-25"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10547.0,
-        "change": -42.0,
-        "pct_change": -0.397,
-        "date": "2026-06-22"
+        "price": 10460.0,
+        "change": -87.0,
+        "pct_change": -0.825,
+        "date": "2026-06-23"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13910.700195,
-        "change": 62.19043,
-        "pct_change": 0.449,
-        "date": "2026-06-23"
+        "price": 14117.75,
+        "change": 207.049805,
+        "pct_change": 1.488,
+        "date": "2026-06-24"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8816.599609,
-        "change": 29.599609,
-        "pct_change": 0.337,
-        "date": "2026-06-24"
+        "price": 8771.599609,
+        "change": -36.800781,
+        "pct_change": -0.418,
+        "date": "2026-06-25"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 116.699997,
-        "change": -2.800003,
-        "pct_change": -2.343,
-        "date": "2026-06-23"
+        "price": 113.5,
+        "change": -3.199997,
+        "pct_change": -2.742,
+        "date": "2026-06-24"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 271.660004,
-        "change": 1.559998,
-        "pct_change": 0.578,
-        "date": "2026-06-23"
+        "price": 273.880005,
+        "change": 2.220001,
+        "pct_change": 0.817,
+        "date": "2026-06-24"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 381.609985,
-        "change": -23.440002,
-        "pct_change": -5.787,
-        "date": "2026-06-23"
+        "price": 375.529999,
+        "change": -6.079987,
+        "pct_change": -1.593,
+        "date": "2026-06-24"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 346.130005,
-        "change": -3.549988,
-        "pct_change": -1.015,
-        "date": "2026-06-23"
+        "price": 345.290009,
+        "change": -0.839996,
+        "pct_change": -0.243,
+        "date": "2026-06-24"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 503.670013,
-        "change": 10.070007,
-        "pct_change": 2.04,
-        "date": "2026-06-23"
+        "price": 491.640015,
+        "change": -12.029999,
+        "pct_change": -2.388,
+        "date": "2026-06-24"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 186.389999,
-        "change": 4.559998,
-        "pct_change": 2.508,
-        "date": "2026-06-23"
+        "price": 185.059998,
+        "change": -1.330002,
+        "pct_change": -0.714,
+        "date": "2026-06-24"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 513.219971,
-        "change": 5.889984,
-        "pct_change": 1.161,
-        "date": "2026-06-23"
+        "price": 503.01001,
+        "change": -10.209961,
+        "pct_change": -1.989,
+        "date": "2026-06-24"
       }
     }
   },
   "news": [
     {
-      "source": "BBC World",
-      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
-      "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 16:27:17 GMT",
+      "source": "Al Jazeera",
+      "title": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss",
+      "published": "Thu, 25 Jun 2026 02:22:08 +0000",
       "matched_keywords": [
-        "prime minister"
+        "summit",
+        "nato"
       ]
     },
     {
-      "source": "BBC World",
-      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-      "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 21:04:11 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 16:47:45 GMT",
-      "matched_keywords": [
-        "military",
-        "ceasefire",
-        "troops"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
-      "link": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 14:55:31 GMT",
+      "source": "Al Jazeera",
+      "title": "Russian opposition leader jailed over anti-war social media posts",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/russian-opposition-leader-jailed-over-anti-war-social-media-posts?traffic_source=rss",
+      "published": "Thu, 25 Jun 2026 01:34:19 +0000",
       "matched_keywords": [
         "war"
       ]
     },
     {
-      "source": "BBC World",
-      "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
-      "link": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 23:25:07 GMT",
+      "source": "Al Jazeera",
+      "title": "Venezuela quakes live: Tremors of 7.5 and 7.2 collapse buildings in Caracas",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/venezuela-earthquakes-live-two-powerful-quakes-shake-s-american-country?traffic_source=rss",
+      "published": "Thu, 25 Jun 2026 01:11:53 +0000",
       "matched_keywords": [
-        "military"
+        "earthquake",
+        "collapse"
       ]
     },
     {
-      "source": "BBC World",
-      "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
-      "link": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 17:30:44 GMT",
+      "source": "Al Jazeera",
+      "title": "Buildings collapse in Venezuelan capital after powerful earthquakes hit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/buildings-collapse-in-venezuelan-capital-after-powerful-earthquakes-hit?traffic_source=rss",
+      "published": "Thu, 25 Jun 2026 00:18:28 +0000",
       "matched_keywords": [
-        "president"
+        "earthquake",
+        "collapse"
       ]
     },
     {
-      "source": "BBC World",
-      "title": "Trump anticipates better relationship with Colombia under new leader",
-      "link": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 10:27:04 GMT",
+      "source": "Al Jazeera",
+      "title": "Venezuela struck by back-to-back earthquakes, many casualties feared",
+      "link": "https://www.aljazeera.com/news/2026/6/25/venezuela-struck-by-back-to-back-earthquakes-high-casualties-feared?traffic_source=rss",
+      "published": "Thu, 25 Jun 2026 00:07:32 +0000",
       "matched_keywords": [
-        "president"
+        "earthquake"
       ]
     },
     {
-      "source": "BBC World",
-      "title": "Ransom note claims Nancy Guthrie died after abduction",
-      "link": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 17:59:22 GMT",
+      "source": "Al Jazeera",
+      "title": "Iran war live: US vows to defend Gulf interests; Israel kills 2 in Lebanon",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss",
+      "published": "Thu, 25 Jun 2026 00:00:00 +0000",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte",
+      "link": "https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte?traffic_source=rss",
+      "published": "Wed, 24 Jun 2026 23:47:48 +0000",
+      "matched_keywords": [
+        "war",
+        "nato"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump White House requests $87.6bn in spending, including for Iran war",
+      "link": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss",
+      "published": "Wed, 24 Jun 2026 23:25:01 +0000",
       "matched_keywords": [
         "war"
       ]
