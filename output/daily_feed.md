@@ -1,5 +1,5 @@
-# Daily Feed — 2026-06-25
-*Generated: 2026-06-25T03:11:49+00:00 UTC*
+# Daily Feed — 2026-06-26
+*Generated: 2026-06-26T03:50:00+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold | — | — | ⚠ data unavailable |
-| Silver | — | — | ⚠ data unavailable |
-| Soybeans |   1,133.0000 | ▲ 16.0000 | +1.43% |
-| Sugar #11 (Raw) |      14.0100 | ▲ 0.5900 | +4.40% |
+| Gold |   4,013.0000 | ▲ 22.7000 | +0.57% |
+| Silver |      56.4000 | ▼ 1.6520 | -2.85% |
+| Soybeans |   1,150.7500 | ▲ 42.0000 | +3.79% |
+| Sugar #11 (Raw) |      14.1200 | ▲ 0.7000 | +5.22% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6896 | ▼ 0.0020 | -0.28% |
+| AUD/USD |       0.6886 | ▼ 0.0014 | -0.20% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,358.2202 | ▼ 7.2397 | -0.10% |
-| US 10Y Yield (%) |       4.4020 | ▼ 0.0490 | -1.10% |
-| Hang Seng 50 |  23,153.5508 | ▼ 258.6289 | -1.10% |
-| South Africa Top 40 |  10,460.0000 | ▼ 87.0000 | -0.82% |
-| Switzerland SMI |  14,117.7500 | ▲ 207.0498 | +1.49% |
-| ASX 200 (XJO) |   8,771.5996 | ▼ 36.8008 | -0.42% |
+| S&P 500 |   7,357.4902 | ▼ 0.7300 | -0.01% |
+| US 10Y Yield (%) |       4.3920 | ▼ 0.0590 | -1.33% |
+| Hang Seng 50 |  22,542.1895 | ▼ 534.7207 | -2.32% |
+| South Africa Top 40 |  10,309.0000 | ▼ 151.0000 | -1.44% |
+| Switzerland SMI |  14,231.9600 | ▲ 114.2100 | +0.81% |
+| ASX 200 (XJO) |   8,713.5996 | ▼ 35.1006 | -0.40% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     113.5000 | ▼ 3.2000 | -2.74% |
-| McDonald's |     273.8800 | ▲ 2.2200 | +0.82% |
-| Tesla |     375.5300 | ▼ 6.0800 | -1.59% |
-| Alphabet |     345.2900 | ▼ 0.8400 | -0.24% |
-| Lockheed Martin |     491.6400 | ▼ 12.0300 | -2.39% |
-| RTX (Raytheon) |     185.0600 | ▼ 1.3300 | -0.71% |
-| Northrop Grumman |     503.0100 | ▼ 10.2100 | -1.99% |
+| Palantir |     107.2700 | ▼ 6.2300 | -5.49% |
+| McDonald's |     264.5400 | ▼ 9.3400 | -3.41% |
+| Tesla |     375.1200 | ▼ 0.4100 | -0.11% |
+| Alphabet |     343.7100 | ▼ 1.5800 | -0.46% |
+| Lockheed Martin |     505.0200 | ▲ 13.3800 | +2.72% |
+| RTX (Raytheon) |     186.5900 | ▲ 1.5300 | +0.83% |
+| Northrop Grumman |     499.3300 | ▼ 3.6800 | -0.73% |
 
 ---
 
 ## Key Global Headlines
 
-**[Al Jazeera]** Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit
-*Tags: summit, nato*
-https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss
-
-**[Al Jazeera]** Russian opposition leader jailed over anti-war social media posts
-*Tags: war*
-https://www.aljazeera.com/video/newsfeed/2026/6/25/russian-opposition-leader-jailed-over-anti-war-social-media-posts?traffic_source=rss
-
-**[Al Jazeera]** Venezuela quakes live: Tremors of 7.5 and 7.2 collapse buildings in Caracas
-*Tags: earthquake, collapse*
-https://www.aljazeera.com/news/liveblog/2026/6/25/venezuela-earthquakes-live-two-powerful-quakes-shake-s-american-country?traffic_source=rss
-
-**[Al Jazeera]** Buildings collapse in Venezuelan capital after powerful earthquakes hit
-*Tags: earthquake, collapse*
-https://www.aljazeera.com/video/newsfeed/2026/6/25/buildings-collapse-in-venezuelan-capital-after-powerful-earthquakes-hit?traffic_source=rss
-
-**[Al Jazeera]** Venezuela struck by back-to-back earthquakes, many casualties feared
+**[BBC World]** Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235
 *Tags: earthquake*
-https://www.aljazeera.com/news/2026/6/25/venezuela-struck-by-back-to-back-earthquakes-high-casualties-feared?traffic_source=rss
+https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss
 
-**[Al Jazeera]** Iran war live: US vows to defend Gulf interests; Israel kills 2 in Lebanon
+**[BBC World]** Earthquake is devastating blow to Venezuela at time of uncertainty
+*Tags: earthquake*
+https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** People flee as building collapses on Caracas outskirts
+*Tags: collapse*
+https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** UN pauses Strait of Hormuz evacuation plan after cargo ship attacked
+*Tags: attack*
+https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump asks Congress for billions for Iran war, after tension with Republicans
+*Tags: war, president*
+https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Oil price falls back to pre-Iran war levels
+*Tags: war, oil*
+https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Clean sweep for Mamdani-backed candidates in New York's Democratic primary
 *Tags: war*
-https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss
+https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss
 
-**[Al Jazeera]** Trump slams NATO over lax participation in Iran war in talk with Mark Rutte
-*Tags: war, nato*
-https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte?traffic_source=rss
-
-**[Al Jazeera]** Trump White House requests $87.6bn in spending, including for Iran war
+**[BBC World]** Biggest city in Crimea without power after Ukraine strikes
 *Tags: war*
-https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss
+https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
