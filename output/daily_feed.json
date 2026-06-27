@@ -1,214 +1,204 @@
 {
-  "generated_at": "2026-06-26T03:50:00+00:00",
+  "generated_at": "2026-06-27T03:17:09+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4013.0,
-        "change": 22.699951,
-        "pct_change": 0.569,
-        "date": "2026-06-25"
+        "error": "'NoneType' object is not subscriptable"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 56.400002,
-        "change": -1.651997,
-        "pct_change": -2.846,
-        "date": "2026-06-25"
+        "error": "'NoneType' object is not subscriptable"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1150.75,
-        "change": 42.0,
-        "pct_change": 3.788,
-        "date": "2026-06-25"
+        "error": "'NoneType' object is not subscriptable"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.12,
-        "change": 0.7,
-        "pct_change": 5.216,
-        "date": "2026-06-25"
+        "price": 14.55,
+        "change": 1.0,
+        "pct_change": 7.38,
+        "date": "2026-06-26"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.68861,
-        "change": -0.00139,
-        "pct_change": -0.201,
+        "price": 0.690131,
+        "change": 0.000131,
+        "pct_change": 0.019,
         "date": "2026-06-26"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7357.490234,
-        "change": -0.72998,
-        "pct_change": -0.01,
-        "date": "2026-06-25"
+        "price": 7354.02002,
+        "change": -3.470215,
+        "pct_change": -0.047,
+        "date": "2026-06-26"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.392,
-        "change": -0.059,
-        "pct_change": -1.326,
-        "date": "2026-06-25"
+        "price": 4.372,
+        "change": null,
+        "pct_change": null,
+        "date": "2026-06-26"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 22542.189453,
-        "change": -534.720703,
-        "pct_change": -2.317,
+        "price": 22671.859375,
+        "change": -405.050781,
+        "pct_change": -1.755,
         "date": "2026-06-26"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10309.0,
-        "change": -151.0,
-        "pct_change": -1.444,
-        "date": "2026-06-24"
+        "price": 10402.0,
+        "change": 93.0,
+        "pct_change": 0.902,
+        "date": "2026-06-25"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14231.959961,
-        "change": 114.209961,
-        "pct_change": 0.809,
-        "date": "2026-06-25"
+        "price": 14172.709961,
+        "change": -59.25,
+        "pct_change": -0.416,
+        "date": "2026-06-26"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8713.599609,
-        "change": -35.100586,
-        "pct_change": -0.401,
+        "price": 8764.200195,
+        "change": 15.5,
+        "pct_change": 0.177,
         "date": "2026-06-26"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 107.269997,
-        "change": -6.230003,
-        "pct_change": -5.489,
-        "date": "2026-06-25"
+        "price": 112.93,
+        "change": 5.660004,
+        "pct_change": 5.276,
+        "date": "2026-06-26"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 264.540009,
-        "change": -9.339996,
-        "pct_change": -3.41,
-        "date": "2026-06-25"
+        "price": 269.76001,
+        "change": 5.220001,
+        "pct_change": 1.973,
+        "date": "2026-06-26"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 375.119995,
-        "change": -0.410004,
-        "pct_change": -0.109,
-        "date": "2026-06-25"
+        "price": 379.709991,
+        "change": 4.589996,
+        "pct_change": 1.224,
+        "date": "2026-06-26"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 343.709991,
-        "change": -1.580017,
-        "pct_change": -0.458,
-        "date": "2026-06-25"
+        "price": 337.390015,
+        "change": -6.319977,
+        "pct_change": -1.839,
+        "date": "2026-06-26"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 505.019989,
-        "change": 13.379974,
-        "pct_change": 2.721,
-        "date": "2026-06-25"
+        "price": 507.399994,
+        "change": 2.380005,
+        "pct_change": 0.471,
+        "date": "2026-06-26"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 186.589996,
-        "change": 1.529999,
-        "pct_change": 0.827,
-        "date": "2026-06-25"
+        "price": 187.990005,
+        "change": 1.400009,
+        "pct_change": 0.75,
+        "date": "2026-06-26"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 499.329987,
-        "change": -3.680023,
-        "pct_change": -0.732,
-        "date": "2026-06-25"
+        "price": 500.029999,
+        "change": 0.700012,
+        "pct_change": 0.14,
+        "date": "2026-06-26"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
-      "link": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 03:24:12 GMT",
+      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 02:48:12 GMT",
+      "matched_keywords": [
+        "attack",
+        "missile"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+      "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 21:15:37 GMT",
       "matched_keywords": [
         "earthquake"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-      "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 02:12:07 GMT",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 18:36:32 GMT",
       "matched_keywords": [
         "earthquake"
       ]
     },
     {
       "source": "BBC World",
-      "title": "People flee as building collapses on Caracas outskirts",
-      "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 12:08:30 GMT",
-      "matched_keywords": [
-        "collapse"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 00:28:02 GMT",
+      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+      "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 23:01:50 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-      "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 09:06:59 GMT",
+      "title": "DR Congo takes Rwanda to international court over decades of conflict",
+      "link": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 17:05:22 GMT",
       "matched_keywords": [
-        "war",
-        "president"
+        "conflict"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Oil price falls back to pre-Iran war levels",
-      "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 15:32:04 GMT",
+      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 22:55:28 GMT",
       "matched_keywords": [
-        "war",
-        "oil"
+        "ceasefire"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-      "link": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 13:03:35 GMT",
+      "title": "Christmas market attacker jailed for life for murdering six in Germany",
+      "link": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 10:49:11 GMT",
       "matched_keywords": [
-        "war"
+        "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Biggest city in Crimea without power after Ukraine strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 09:48:24 GMT",
+      "title": "Canada eligible to join Eurovision competition",
+      "link": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 13:41:36 GMT",
       "matched_keywords": [
-        "war"
+        "prime minister"
       ]
     }
   ]
