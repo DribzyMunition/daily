@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-06-28T03:47:09+00:00",
+  "generated_at": "2026-06-28T21:30:06+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4078.699951,
-        "change": 48.199951,
-        "pct_change": 1.196,
+        "price": 4096.299805,
+        "change": 65.799805,
+        "pct_change": 1.633,
         "date": "2026-06-26"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 59.216999,
-        "change": 0.868999,
-        "pct_change": 1.489,
+        "price": 59.674,
+        "change": 1.326,
+        "pct_change": 2.273,
         "date": "2026-06-26"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1126.25,
-        "change": -1.25,
-        "pct_change": -0.111,
+        "price": 1156.25,
+        "change": 28.75,
+        "pct_change": 2.55,
         "date": "2026-06-26"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 13.98,
-        "change": 0.429999,
-        "pct_change": 3.173,
+        "price": 14.55,
+        "change": 1.0,
+        "pct_change": 7.38,
         "date": "2026-06-26"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.690131,
-        "change": 8.1e-05,
-        "pct_change": 0.012,
-        "date": "2026-06-27"
+        "price": 0.689227,
+        "change": -0.000823,
+        "pct_change": -0.119,
+        "date": "2026-06-28"
       }
     },
     "indices": {
@@ -51,8 +51,8 @@
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
         "price": 4.372,
-        "change": null,
-        "pct_change": null,
+        "change": -0.02,
+        "pct_change": -0.455,
         "date": "2026-06-26"
       },
       "Hang Seng 50": {
@@ -139,9 +139,27 @@
   "news": [
     {
       "source": "BBC World",
+      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 28 Jun 2026 19:21:07 GMT",
+      "matched_keywords": [
+        "earthquake"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 28 Jun 2026 19:37:07 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
       "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
       "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 28 Jun 2026 03:35:50 GMT",
+      "published": "Sun, 28 Jun 2026 04:54:50 GMT",
       "matched_keywords": [
         "attack",
         "ceasefire"
@@ -149,29 +167,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-      "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 23:01:50 GMT",
+      "title": "Fourteen killed in Saudi Arabia helicopter crash",
+      "link": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 28 Jun 2026 15:42:01 GMT",
       "matched_keywords": [
-        "attack"
+        "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "DR Congo takes Rwanda to international court over decades of conflict",
-      "link": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 17:05:22 GMT",
+      "title": "Uganda's leading media outlets shut down by army chief",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 28 Jun 2026 15:19:53 GMT",
       "matched_keywords": [
-        "conflict"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Mother dies saving daughter in Venezuela earthquakes",
-      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 18:36:32 GMT",
-      "matched_keywords": [
-        "earthquake"
+        "military",
+        "siege"
       ]
     },
     {
@@ -185,29 +195,20 @@
     },
     {
       "source": "BBC World",
+      "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
+      "link": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 28 Jun 2026 17:32:30 GMT",
+      "matched_keywords": [
+        "earthquake"
+      ]
+    },
+    {
+      "source": "BBC World",
       "title": "Panic attacks and fractures - Venezuela hospital treats earthquake victims",
       "link": "https://www.bbc.co.uk/news/videos/cm2d0rjg4l3o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 27 Jun 2026 21:33:12 GMT",
       "matched_keywords": [
         "attack",
-        "earthquake"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: A race against the clock for Venezuela earthquake rescuers",
-      "link": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 27 Jun 2026 18:41:03 GMT",
-      "matched_keywords": [
-        "earthquake"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Newborn baby rescued from Venezuela earthquake rubble",
-      "link": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 27 Jun 2026 12:51:25 GMT",
-      "matched_keywords": [
         "earthquake"
       ]
     }
