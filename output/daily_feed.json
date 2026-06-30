@@ -1,168 +1,205 @@
 {
-  "generated_at": "2026-06-29T21:30:05+00:00",
+  "generated_at": "2026-06-30T21:30:06+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4030.5,
-        "change": -48.199951,
-        "pct_change": -1.182,
-        "date": "2026-06-29"
+        "price": 4021.800049,
+        "change": -0.5,
+        "pct_change": -0.012,
+        "date": "2026-06-30"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 58.755001,
-        "change": -0.461998,
-        "pct_change": -0.78,
-        "date": "2026-06-29"
+        "price": 59.044998,
+        "change": 0.869999,
+        "pct_change": 1.495,
+        "date": "2026-06-30"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1137.5,
-        "change": 11.25,
-        "pct_change": 0.999,
-        "date": "2026-06-29"
+        "price": 1143.5,
+        "change": 34.75,
+        "pct_change": 3.134,
+        "date": "2026-06-30"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
         "price": 14.8,
-        "change": 0.820001,
-        "pct_change": 5.866,
-        "date": "2026-06-29"
+        "change": 0.51,
+        "pct_change": 3.569,
+        "date": "2026-06-30"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.6888,
-        "change": -0.00125,
-        "pct_change": -0.181,
-        "date": "2026-06-29"
+        "price": 0.691994,
+        "change": 0.002372,
+        "pct_change": 0.344,
+        "date": "2026-06-30"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7440.430176,
-        "change": 86.410156,
-        "pct_change": 1.175,
-        "date": "2026-06-29"
+        "price": 7499.359863,
+        "change": 58.929688,
+        "pct_change": 0.792,
+        "date": "2026-06-30"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.374,
-        "change": 0.002,
-        "pct_change": 0.046,
-        "date": "2026-06-29"
+        "price": 4.418,
+        "change": 0.046,
+        "pct_change": 1.052,
+        "date": "2026-06-30"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 22671.859375,
-        "change": -405.050781,
-        "pct_change": -1.755,
-        "date": "2026-06-26"
+        "price": 23026.679688,
+        "change": 354.820312,
+        "pct_change": 1.565,
+        "date": "2026-06-29"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10332.0,
-        "change": -19.0,
-        "pct_change": -0.184,
-        "date": "2026-06-29"
+        "price": 10331.0,
+        "change": -1.0,
+        "pct_change": -0.01,
+        "date": "2026-06-30"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14223.900391,
-        "change": 51.19043,
-        "pct_change": 0.361,
-        "date": "2026-06-29"
+        "price": 14193.919922,
+        "change": -29.980469,
+        "pct_change": -0.211,
+        "date": "2026-06-30"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8764.200195,
-        "change": 15.5,
-        "pct_change": 0.177,
-        "date": "2026-06-26"
+        "price": 8823.400391,
+        "change": 59.200195,
+        "pct_change": 0.675,
+        "date": "2026-06-29"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 115.699997,
-        "change": 2.769997,
-        "pct_change": 2.453,
-        "date": "2026-06-29"
+        "price": 116.669998,
+        "change": 0.970001,
+        "pct_change": 0.838,
+        "date": "2026-06-30"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 267.179993,
-        "change": -2.580017,
-        "pct_change": -0.956,
-        "date": "2026-06-29"
+        "price": 270.309998,
+        "change": 3.130005,
+        "pct_change": 1.171,
+        "date": "2026-06-30"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 411.839996,
-        "change": 32.130005,
-        "pct_change": 8.462,
-        "date": "2026-06-29"
+        "price": 420.600006,
+        "change": 8.76001,
+        "pct_change": 2.127,
+        "date": "2026-06-30"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 353.649994,
-        "change": 16.259979,
-        "pct_change": 4.819,
-        "date": "2026-06-29"
+        "price": 357.369995,
+        "change": 3.720001,
+        "pct_change": 1.052,
+        "date": "2026-06-30"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 502.070007,
-        "change": -5.329987,
-        "pct_change": -1.05,
-        "date": "2026-06-29"
+        "price": 509.459991,
+        "change": 7.389984,
+        "pct_change": 1.472,
+        "date": "2026-06-30"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 187.330002,
-        "change": -0.660004,
-        "pct_change": -0.351,
-        "date": "2026-06-29"
+        "price": 189.729996,
+        "change": 2.399994,
+        "pct_change": 1.281,
+        "date": "2026-06-30"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 496.019989,
-        "change": -4.01001,
-        "pct_change": -0.802,
-        "date": "2026-06-29"
+        "price": 509.309998,
+        "change": 13.290009,
+        "pct_change": 2.679,
+        "date": "2026-06-30"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-      "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 20:00:44 GMT",
+      "title": "Supreme Court's birthright ruling is major blow to Trump",
+      "link": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 14:37:54 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Roof collapse kills 14 children at Pakistan tuition centre",
+      "link": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 19:36:48 GMT",
+      "matched_keywords": [
+        "collapse"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
+      "link": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 18:37:59 GMT",
+      "matched_keywords": [
+        "war",
+        "conflict",
+        "troops"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 03:53:48 GMT",
       "matched_keywords": [
         "earthquake"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
-      "link": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 15:30:35 GMT",
+      "title": "Senegalese MPs move to clip presidential powers as tensions mount",
+      "link": "https://www.bbc.co.uk/news/articles/cgl352xjgngo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 14:35:03 GMT",
       "matched_keywords": [
-        "war",
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 14:52:10 GMT",
+      "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
+      "link": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 11:20:44 GMT",
       "matched_keywords": [
-        "ceasefire"
+        "flood"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
+      "link": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 20:34:52 GMT",
+      "matched_keywords": [
+        "president"
       ]
     },
     {
@@ -172,42 +209,6 @@
       "published": "Mon, 29 Jun 2026 17:28:59 GMT",
       "matched_keywords": [
         "attack",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
-      "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 19:16:34 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "DR Congo bans mass gatherings in the  capital to prevent spread of Ebola",
-      "link": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 14:40:58 GMT",
-      "matched_keywords": [
-        "outbreak"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
-      "link": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 16:51:52 GMT",
-      "matched_keywords": [
-        "federal reserve"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "South Korea football coach quits as president calls for probe into World Cup loss",
-      "link": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 07:18:14 GMT",
-      "matched_keywords": [
         "president"
       ]
     }
