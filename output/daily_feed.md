@@ -1,5 +1,5 @@
-# Daily Feed — 2026-06-30
-*Generated: 2026-06-30T21:30:06+00:00 UTC*
+# Daily Feed — 2026-07-02
+*Generated: 2026-07-02T05:46:32+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,021.8000 | ▼ 0.5000 | -0.01% |
-| Silver |      59.0450 | ▲ 0.8700 | +1.50% |
-| Soybeans |   1,143.5000 | ▲ 34.7500 | +3.13% |
-| Sugar #11 (Raw) |      14.8000 | ▲ 0.5100 | +3.57% |
+| Gold |   4,069.0000 | ▲ 0.7000 | +0.02% |
+| Silver |      59.9550 | ▼ 0.1300 | -0.22% |
+| Soybeans |   1,152.5000 | ▲ 26.2500 | +2.33% |
+| Sugar #11 (Raw) |      14.9900 | ▲ 0.6500 | +4.53% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6920 | ▲ 0.0024 | +0.34% |
+| AUD/USD |       0.6895 | ▼ 0.0018 | -0.26% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,499.3599 | ▲ 58.9297 | +0.79% |
-| US 10Y Yield (%) |       4.4180 | ▲ 0.0460 | +1.05% |
-| Hang Seng 50 |  23,026.6797 | ▲ 354.8203 | +1.56% |
-| South Africa Top 40 |  10,331.0000 | ▼ 1.0000 | -0.01% |
-| Switzerland SMI |  14,193.9199 | ▼ 29.9805 | -0.21% |
-| ASX 200 (XJO) |   8,823.4004 | ▲ 59.2002 | +0.68% |
+| S&P 500 |   7,483.2300 | ▼ 16.1299 | -0.21% |
+| US 10Y Yield (%) |       4.3720 | ▼ 0.0200 | -0.46% |
+| Hang Seng 50 |  23,041.6699 | ▲ 160.6504 | +0.70% |
+| South Africa Top 40 |  10,285.0000 | ▼ 46.0000 | -0.45% |
+| Switzerland SMI |  14,114.0000 | ▼ 79.9199 | -0.56% |
+| ASX 200 (XJO) |   8,722.2998 | ▼ 0.6006 | -0.01% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     116.6700 | ▲ 0.9700 | +0.84% |
-| McDonald's |     270.3100 | ▲ 3.1300 | +1.17% |
-| Tesla |     420.6000 | ▲ 8.7600 | +2.13% |
-| Alphabet |     357.3700 | ▲ 3.7200 | +1.05% |
-| Lockheed Martin |     509.4600 | ▲ 7.3900 | +1.47% |
-| RTX (Raytheon) |     189.7300 | ▲ 2.4000 | +1.28% |
-| Northrop Grumman |     509.3100 | ▲ 13.2900 | +2.68% |
+| Palantir |     125.7300 | ▲ 9.0600 | +7.76% |
+| McDonald's |     269.4300 | ▼ 0.8800 | -0.33% |
+| Tesla |     425.3000 | ▲ 4.7000 | +1.12% |
+| Alphabet |     361.2100 | ▲ 3.8400 | +1.07% |
+| Lockheed Martin |     521.8200 | ▲ 12.3600 | +2.43% |
+| RTX (Raytheon) |     191.7800 | ▲ 2.0500 | +1.08% |
+| Northrop Grumman |     519.9500 | ▲ 10.6400 | +2.09% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Supreme Court's birthright ruling is major blow to Trump
-*Tags: president*
-https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss
+**[BBC World]** At least 10 killed in large-scale Russian missile and drone strikes on Kyiv
+*Tags: missile*
+https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Roof collapse kills 14 children at Pakistan tuition centre
-*Tags: collapse*
-https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss
+**[BBC World]** 'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation
+*Tags: ceasefire*
+https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** What are US and Japanese soldiers doing in the middle of the Australian bush?
-*Tags: war, conflict, troops*
-https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'
+*Tags: war, earthquake*
+https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Angry Venezuelans accuse government of negligence over earthquake response
+**[BBC World]** From Truman's pension to Trump's billions - a White House windfall unmatched by any president
+*Tags: conflict, president*
+https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** The US deported them to Venezuela - hours later earthquakes struck
 *Tags: earthquake*
-https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Senegalese MPs move to clip presidential powers as tensions mount
+**[BBC World]** Syria's president names final 70 lawmakers to new post-Assad parliament
 *Tags: president*
-https://www.bbc.co.uk/news/articles/cgl352xjgngo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Flooding hits Ghana's capital killing 13 people - with another storm forecast
-*Tags: flood*
-https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Watch: Couple scale Empire State Building, get engaged and are arrested
+*Tags: coup*
+https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** One big win and three defeats for Trump in dramatic day at Supreme Court
-*Tags: president*
-https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Putin makes rare admission of fuel shortages caused by Ukrainian strikes
-*Tags: attack, president*
-https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Controversial bishops ordained as Pope warns of 'schism' in Catholic Church
+*Tags: war*
+https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

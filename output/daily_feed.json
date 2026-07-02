@@ -1,215 +1,214 @@
 {
-  "generated_at": "2026-06-30T21:30:06+00:00",
+  "generated_at": "2026-07-02T05:46:32+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4021.800049,
-        "change": -0.5,
-        "pct_change": -0.012,
-        "date": "2026-06-30"
+        "price": 4069.0,
+        "change": 0.699951,
+        "pct_change": 0.017,
+        "date": "2026-07-02"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 59.044998,
-        "change": 0.869999,
-        "pct_change": 1.495,
-        "date": "2026-06-30"
+        "price": 59.955002,
+        "change": -0.129997,
+        "pct_change": -0.216,
+        "date": "2026-07-02"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1143.5,
-        "change": 34.75,
-        "pct_change": 3.134,
-        "date": "2026-06-30"
+        "price": 1152.5,
+        "change": 26.25,
+        "pct_change": 2.331,
+        "date": "2026-07-02"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.8,
-        "change": 0.51,
-        "pct_change": 3.569,
-        "date": "2026-06-30"
+        "price": 14.99,
+        "change": 0.65,
+        "pct_change": 4.533,
+        "date": "2026-07-01"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.691994,
-        "change": 0.002372,
-        "pct_change": 0.344,
-        "date": "2026-06-30"
+        "price": 0.689513,
+        "change": -0.001787,
+        "pct_change": -0.258,
+        "date": "2026-07-02"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7499.359863,
-        "change": 58.929688,
-        "pct_change": 0.792,
-        "date": "2026-06-30"
+        "price": 7483.22998,
+        "change": -16.129883,
+        "pct_change": -0.215,
+        "date": "2026-07-01"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.418,
-        "change": 0.046,
-        "pct_change": 1.052,
-        "date": "2026-06-30"
+        "price": 4.372,
+        "change": -0.02,
+        "pct_change": -0.455,
+        "date": "2026-06-26"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 23026.679688,
-        "change": 354.820312,
-        "pct_change": 1.565,
-        "date": "2026-06-29"
+        "price": 23041.669922,
+        "change": 160.650391,
+        "pct_change": 0.702,
+        "date": "2026-07-02"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10331.0,
-        "change": -1.0,
-        "pct_change": -0.01,
-        "date": "2026-06-30"
+        "price": 10285.0,
+        "change": -46.0,
+        "pct_change": -0.445,
+        "date": "2026-07-01"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14193.919922,
-        "change": -29.980469,
-        "pct_change": -0.211,
-        "date": "2026-06-30"
+        "price": 14114.0,
+        "change": -79.919922,
+        "pct_change": -0.563,
+        "date": "2026-07-01"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8823.400391,
-        "change": 59.200195,
-        "pct_change": 0.675,
-        "date": "2026-06-29"
+        "price": 8722.299805,
+        "change": -0.600586,
+        "pct_change": -0.007,
+        "date": "2026-07-02"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 116.669998,
-        "change": 0.970001,
-        "pct_change": 0.838,
-        "date": "2026-06-30"
+        "price": 125.730003,
+        "change": 9.060005,
+        "pct_change": 7.765,
+        "date": "2026-07-01"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 270.309998,
-        "change": 3.130005,
-        "pct_change": 1.171,
-        "date": "2026-06-30"
+        "price": 269.429993,
+        "change": -0.880005,
+        "pct_change": -0.326,
+        "date": "2026-07-01"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 420.600006,
-        "change": 8.76001,
-        "pct_change": 2.127,
-        "date": "2026-06-30"
+        "price": 425.299988,
+        "change": 4.699982,
+        "pct_change": 1.117,
+        "date": "2026-07-01"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 357.369995,
-        "change": 3.720001,
-        "pct_change": 1.052,
-        "date": "2026-06-30"
+        "price": 361.209991,
+        "change": 3.839996,
+        "pct_change": 1.075,
+        "date": "2026-07-01"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 509.459991,
-        "change": 7.389984,
-        "pct_change": 1.472,
-        "date": "2026-06-30"
+        "price": 521.820007,
+        "change": 12.360016,
+        "pct_change": 2.426,
+        "date": "2026-07-01"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 189.729996,
-        "change": 2.399994,
-        "pct_change": 1.281,
-        "date": "2026-06-30"
+        "price": 191.779999,
+        "change": 2.050003,
+        "pct_change": 1.08,
+        "date": "2026-07-01"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 509.309998,
-        "change": 13.290009,
-        "pct_change": 2.679,
-        "date": "2026-06-30"
+        "price": 519.950012,
+        "change": 10.640015,
+        "pct_change": 2.089,
+        "date": "2026-07-01"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Supreme Court's birthright ruling is major blow to Trump",
-      "link": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 14:37:54 GMT",
+      "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 05:00:57 GMT",
       "matched_keywords": [
+        "missile"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+      "link": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 04:59:55 GMT",
+      "matched_keywords": [
+        "ceasefire"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+      "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 00:26:13 GMT",
+      "matched_keywords": [
+        "war",
+        "earthquake"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+      "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 22:36:43 GMT",
+      "matched_keywords": [
+        "conflict",
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Roof collapse kills 14 children at Pakistan tuition centre",
-      "link": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 19:36:48 GMT",
-      "matched_keywords": [
-        "collapse"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
-      "link": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 18:37:59 GMT",
-      "matched_keywords": [
-        "war",
-        "conflict",
-        "troops"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 03:53:48 GMT",
+      "title": "The US deported them to Venezuela - hours later earthquakes struck",
+      "link": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 01:56:17 GMT",
       "matched_keywords": [
         "earthquake"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Senegalese MPs move to clip presidential powers as tensions mount",
-      "link": "https://www.bbc.co.uk/news/articles/cgl352xjgngo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 14:35:03 GMT",
+      "title": "Syria's president names final 70 lawmakers to new post-Assad parliament",
+      "link": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 16:44:58 GMT",
       "matched_keywords": [
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
-      "link": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 11:20:44 GMT",
+      "title": "Watch: Couple scale Empire State Building, get engaged and are arrested",
+      "link": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 04:16:09 GMT",
       "matched_keywords": [
-        "flood"
+        "coup"
       ]
     },
     {
       "source": "BBC World",
-      "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-      "link": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 20:34:52 GMT",
+      "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
+      "link": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 16:10:38 GMT",
       "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-      "link": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 17:28:59 GMT",
-      "matched_keywords": [
-        "attack",
-        "president"
+        "war"
       ]
     }
   ]
