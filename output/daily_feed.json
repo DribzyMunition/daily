@@ -1,154 +1,190 @@
 {
-  "generated_at": "2026-07-02T05:46:32+00:00",
+  "generated_at": "2026-07-03T07:28:53+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4069.0,
-        "change": 0.699951,
-        "pct_change": 0.017,
-        "date": "2026-07-02"
+        "price": 4185.0,
+        "change": 72.299805,
+        "pct_change": 1.758,
+        "date": "2026-07-03"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 59.955002,
-        "change": -0.129997,
-        "pct_change": -0.216,
-        "date": "2026-07-02"
+        "price": 62.865002,
+        "change": 2.222,
+        "pct_change": 3.664,
+        "date": "2026-07-03"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1152.5,
-        "change": 26.25,
-        "pct_change": 2.331,
+        "price": 1131.75,
+        "change": 5.5,
+        "pct_change": 0.488,
         "date": "2026-07-02"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.99,
-        "change": 0.65,
-        "pct_change": 4.533,
-        "date": "2026-07-01"
+        "price": 14.85,
+        "change": -0.139999,
+        "pct_change": -0.934,
+        "date": "2026-07-02"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.689513,
-        "change": -0.001787,
-        "pct_change": -0.258,
-        "date": "2026-07-02"
+        "price": 0.694782,
+        "change": 0.005572,
+        "pct_change": 0.808,
+        "date": "2026-07-03"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7483.22998,
-        "change": -16.129883,
-        "pct_change": -0.215,
-        "date": "2026-07-01"
+        "price": 7483.240234,
+        "change": 0.010254,
+        "pct_change": 0.0,
+        "date": "2026-07-02"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
         "price": 4.372,
-        "change": -0.02,
-        "pct_change": -0.455,
+        "change": null,
+        "pct_change": null,
         "date": "2026-06-26"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 23041.669922,
-        "change": 160.650391,
-        "pct_change": 0.702,
-        "date": "2026-07-02"
+        "price": 23343.609375,
+        "change": 288.580078,
+        "pct_change": 1.252,
+        "date": "2026-07-03"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10285.0,
-        "change": -46.0,
-        "pct_change": -0.445,
-        "date": "2026-07-01"
+        "price": 10520.0,
+        "change": 147.0,
+        "pct_change": 1.417,
+        "date": "2026-07-03"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14114.0,
-        "change": -79.919922,
-        "pct_change": -0.563,
-        "date": "2026-07-01"
+        "price": 14386.19043,
+        "change": 33.209961,
+        "pct_change": 0.231,
+        "date": "2026-07-03"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8722.299805,
-        "change": -0.600586,
-        "pct_change": -0.007,
-        "date": "2026-07-02"
+        "price": 8844.400391,
+        "change": 119.900391,
+        "pct_change": 1.374,
+        "date": "2026-07-03"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 125.730003,
-        "change": 9.060005,
-        "pct_change": 7.765,
-        "date": "2026-07-01"
+        "price": 129.300003,
+        "change": 3.57,
+        "pct_change": 2.839,
+        "date": "2026-07-02"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 269.429993,
-        "change": -0.880005,
-        "pct_change": -0.326,
-        "date": "2026-07-01"
+        "price": 280.630005,
+        "change": 11.200012,
+        "pct_change": 4.157,
+        "date": "2026-07-02"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 425.299988,
-        "change": 4.699982,
-        "pct_change": 1.117,
-        "date": "2026-07-01"
+        "price": 393.450012,
+        "change": -31.849976,
+        "pct_change": -7.489,
+        "date": "2026-07-02"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 361.209991,
-        "change": 3.839996,
-        "pct_change": 1.075,
-        "date": "2026-07-01"
+        "price": 359.910004,
+        "change": -1.299988,
+        "pct_change": -0.36,
+        "date": "2026-07-02"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 521.820007,
-        "change": 12.360016,
-        "pct_change": 2.426,
-        "date": "2026-07-01"
+        "price": 545.909973,
+        "change": 24.089966,
+        "pct_change": 4.617,
+        "date": "2026-07-02"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 191.779999,
-        "change": 2.050003,
-        "pct_change": 1.08,
-        "date": "2026-07-01"
+        "price": 199.25,
+        "change": 7.470001,
+        "pct_change": 3.895,
+        "date": "2026-07-02"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 519.950012,
-        "change": 10.640015,
-        "pct_change": 2.089,
-        "date": "2026-07-01"
+        "price": 549.01001,
+        "change": 29.059998,
+        "pct_change": 5.589,
+        "date": "2026-07-02"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 05:00:57 GMT",
+      "title": "Venezuela quake survivor pulled out alive after eight days",
+      "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Jul 2026 06:38:45 GMT",
       "matched_keywords": [
-        "missile"
+        "collapse"
       ]
     },
     {
       "source": "BBC World",
-      "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 30",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Jul 2026 04:41:05 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Killers of British couple in South Africa sentenced to life",
+      "link": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 18:43:07 GMT",
+      "matched_keywords": [
+        "coup"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+      "link": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 20:34:52 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ryanair warns of 'queue chaos' from new EU border system",
+      "link": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 17:17:36 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Gaza patients face agonising delays for medical evacuation",
       "link": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 02 Jul 2026 04:59:55 GMT",
       "matched_keywords": [
@@ -173,42 +209,6 @@
       "matched_keywords": [
         "conflict",
         "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "The US deported them to Venezuela - hours later earthquakes struck",
-      "link": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 01:56:17 GMT",
-      "matched_keywords": [
-        "earthquake"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Syria's president names final 70 lawmakers to new post-Assad parliament",
-      "link": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 16:44:58 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Couple scale Empire State Building, get engaged and are arrested",
-      "link": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 04:16:09 GMT",
-      "matched_keywords": [
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
-      "link": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 16:10:38 GMT",
-      "matched_keywords": [
-        "war"
       ]
     }
   ]
