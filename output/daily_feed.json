@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-03T07:28:53+00:00",
+  "generated_at": "2026-07-03T21:30:06+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4185.0,
-        "change": 72.299805,
-        "pct_change": 1.758,
+        "price": 4187.299805,
+        "change": 74.599609,
+        "pct_change": 1.814,
         "date": "2026-07-03"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 62.865002,
-        "change": 2.222,
-        "pct_change": 3.664,
+        "price": 62.814999,
+        "change": 2.171997,
+        "pct_change": 3.582,
         "date": "2026-07-03"
       },
       "Soybeans": {
@@ -34,9 +34,9 @@
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.694782,
-        "change": 0.005572,
-        "pct_change": 0.808,
+        "price": 0.6943,
+        "change": 0.00509,
+        "pct_change": 0.739,
         "date": "2026-07-03"
       }
     },
@@ -57,31 +57,31 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 23343.609375,
-        "change": 288.580078,
-        "pct_change": 1.252,
-        "date": "2026-07-03"
+        "price": 23055.029297,
+        "change": 174.009766,
+        "pct_change": 0.76,
+        "date": "2026-07-02"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10520.0,
-        "change": 147.0,
-        "pct_change": 1.417,
+        "price": 10475.0,
+        "change": 102.0,
+        "pct_change": 0.983,
         "date": "2026-07-03"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14386.19043,
-        "change": 33.209961,
-        "pct_change": 0.231,
+        "price": 14424.240234,
+        "change": 71.259766,
+        "pct_change": 0.496,
         "date": "2026-07-03"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8844.400391,
-        "change": 119.900391,
-        "pct_change": 1.374,
-        "date": "2026-07-03"
+        "price": 8724.5,
+        "change": 1.599609,
+        "pct_change": 0.018,
+        "date": "2026-07-02"
       }
     },
     "stocks": {
@@ -139,6 +139,52 @@
   "news": [
     {
       "source": "BBC World",
+      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+      "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Jul 2026 15:20:57 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Polish PM warns critical months ahead in face of Russian threat",
+      "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Jul 2026 16:41:00 GMT",
+      "matched_keywords": [
+        "war",
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+      "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Jul 2026 10:23:32 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister",
+      "link": "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Jul 2026 16:39:00 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US withdraws troops from Nigeria after Islamic State mission",
+      "link": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Jul 2026 14:00:50 GMT",
+      "matched_keywords": [
+        "troops"
+      ]
+    },
+    {
+      "source": "BBC World",
       "title": "Venezuela quake survivor pulled out alive after eight days",
       "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 03 Jul 2026 06:38:45 GMT",
@@ -148,67 +194,20 @@
     },
     {
       "source": "BBC World",
-      "title": "'Most massive' Russian attack on Kyiv kills at least 30",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 04:41:05 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Killers of British couple in South Africa sentenced to life",
-      "link": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 18:43:07 GMT",
-      "matched_keywords": [
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-      "link": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 20:34:52 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Ryanair warns of 'queue chaos' from new EU border system",
-      "link": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 17:17:36 GMT",
+      "title": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan",
+      "link": "https://www.bbc.co.uk/news/articles/czrxezg60x1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Jul 2026 09:56:57 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Gaza patients face agonising delays for medical evacuation",
-      "link": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 04:59:55 GMT",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 30",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Jul 2026 04:41:05 GMT",
       "matched_keywords": [
-        "ceasefire"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
-      "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 00:26:13 GMT",
-      "matched_keywords": [
-        "war",
-        "earthquake"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
-      "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 22:36:43 GMT",
-      "matched_keywords": [
-        "conflict",
-        "president"
+        "attack"
       ]
     }
   ]
