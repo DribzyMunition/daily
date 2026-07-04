@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T21:30:06+00:00",
+  "generated_at": "2026-07-04T21:30:05+00:00",
   "prices": {
     "commodities": {
       "Gold": {
@@ -35,9 +35,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.6943,
-        "change": 0.00509,
-        "pct_change": 0.739,
-        "date": "2026-07-03"
+        "change": 0.0027,
+        "pct_change": 0.39,
+        "date": "2026-07-04"
       }
     },
     "indices": {
@@ -50,17 +50,17 @@
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.372,
+        "price": 4.485,
         "change": null,
         "pct_change": null,
-        "date": "2026-06-26"
+        "date": "2026-07-02"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 23055.029297,
-        "change": 174.009766,
-        "pct_change": 0.76,
-        "date": "2026-07-02"
+        "price": 23350.029297,
+        "change": 295.0,
+        "pct_change": 1.28,
+        "date": "2026-07-03"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8724.5,
-        "change": 1.599609,
-        "pct_change": 0.018,
-        "date": "2026-07-02"
+        "price": 8844.400391,
+        "change": 119.900391,
+        "pct_change": 1.374,
+        "date": "2026-07-03"
       }
     },
     "stocks": {
@@ -139,20 +139,31 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 15:20:57 GMT",
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 18:41:25 GMT",
       "matched_keywords": [
-        "attack"
+        "war",
+        "president",
+        "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Polish PM warns critical months ahead in face of Russian threat",
-      "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 16:41:00 GMT",
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 07:52:55 GMT",
       "matched_keywords": [
-        "war",
+        "election",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+      "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Jul 2026 15:20:57 GMT",
+      "matched_keywords": [
         "attack"
       ]
     },
@@ -167,47 +178,38 @@
     },
     {
       "source": "BBC World",
-      "title": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister",
-      "link": "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 16:39:00 GMT",
+      "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
+      "link": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 17:51:04 GMT",
       "matched_keywords": [
-        "president"
+        "coup"
       ]
     },
     {
       "source": "BBC World",
-      "title": "US withdraws troops from Nigeria after Islamic State mission",
-      "link": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 14:00:50 GMT",
+      "title": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
+      "link": "https://www.bbc.co.uk/news/articles/c7vyqgy4r5lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 08:24:17 GMT",
       "matched_keywords": [
-        "troops"
+        "coup"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Venezuela quake survivor pulled out alive after eight days",
-      "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 06:38:45 GMT",
-      "matched_keywords": [
-        "collapse"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan",
-      "link": "https://www.bbc.co.uk/news/articles/czrxezg60x1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 09:56:57 GMT",
+      "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
+      "link": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 00:57:05 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "'Most massive' Russian attack on Kyiv kills at least 30",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 04:41:05 GMT",
+      "title": "Watch: Taylor Swift and Travis Kelce wed in NYC - here's how the day unfolded",
+      "link": "https://www.bbc.co.uk/news/videos/cewqpdgqj0ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 04:50:06 GMT",
       "matched_keywords": [
-        "attack"
+        "coup"
       ]
     }
   ]

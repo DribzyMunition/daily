@@ -1,5 +1,5 @@
-# Daily Feed — 2026-07-03
-*Generated: 2026-07-03T21:30:06+00:00 UTC*
+# Daily Feed — 2026-07-04
+*Generated: 2026-07-04T21:30:05+00:00 UTC*
 
 ---
 
@@ -18,18 +18,18 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6943 | ▲ 0.0051 | +0.74% |
+| AUD/USD |       0.6943 | ▲ 0.0027 | +0.39% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
 | S&P 500 |   7,483.2402 | ▲ 0.0103 | +0.00% |
-| US 10Y Yield (%) |       4.3720 | ▲ 0.0000 | +0.00% |
-| Hang Seng 50 |  23,055.0293 | ▲ 174.0098 | +0.76% |
+| US 10Y Yield (%) |       4.4850 | ▲ 0.0000 | +0.00% |
+| Hang Seng 50 |  23,350.0293 | ▲ 295.0000 | +1.28% |
 | South Africa Top 40 |  10,475.0000 | ▲ 102.0000 | +0.98% |
 | Switzerland SMI |  14,424.2402 | ▲ 71.2598 | +0.50% |
-| ASX 200 (XJO) |   8,724.5000 | ▲ 1.5996 | +0.02% |
+| ASX 200 (XJO) |   8,844.4004 | ▲ 119.9004 | +1.37% |
 
 ### Stocks
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
+**[BBC World]** Ukraine hits major oil terminal in Russia's St Petersburg
+*Tags: war, president, oil*
+https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Keiko Fujimori declared winner of Peru's presidential election weeks after vote
+*Tags: election, president*
+https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss
+
 **[BBC World]** Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'
 *Tags: attack*
 https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Polish PM warns critical months ahead in face of Russian threat
-*Tags: war, attack*
-https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather
 *Tags: war*
 https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister
-*Tags: president*
-https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding
+*Tags: coup*
+https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** US withdraws troops from Nigeria after Islamic State mission
-*Tags: troops*
-https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss
+**[BBC World]** In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding
+*Tags: coup*
+https://www.bbc.co.uk/news/articles/c7vyqgy4r5lo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Venezuela quake survivor pulled out alive after eight days
-*Tags: collapse*
-https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** At least 32 dead after overcrowded bus plunges into ravine in Pakistan
+**[BBC World]** 'Hotter and hotter and hotter' - Europe's new climate in seven charts
 *Tags: war*
-https://www.bbc.co.uk/news/articles/czrxezg60x1o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** 'Most massive' Russian attack on Kyiv kills at least 30
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss
+**[BBC World]** Watch: Taylor Swift and Travis Kelce wed in NYC - here's how the day unfolded
+*Tags: coup*
+https://www.bbc.co.uk/news/videos/cewqpdgqj0ko?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
