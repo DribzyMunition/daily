@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T21:30:05+00:00",
+  "generated_at": "2026-07-05T21:30:05+00:00",
   "prices": {
     "commodities": {
       "Gold": {
@@ -18,26 +18,26 @@
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1131.75,
-        "change": 5.5,
-        "pct_change": 0.488,
+        "price": 1146.75,
+        "change": 20.5,
+        "pct_change": 1.82,
         "date": "2026-07-02"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.85,
-        "change": -0.139999,
-        "pct_change": -0.934,
+        "price": 14.81,
+        "change": -0.179999,
+        "pct_change": -1.201,
         "date": "2026-07-02"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.6943,
-        "change": 0.0027,
-        "pct_change": 0.39,
-        "date": "2026-07-04"
+        "price": 0.694493,
+        "change": 0.002892,
+        "pct_change": 0.418,
+        "date": "2026-07-05"
       }
     },
     "indices": {
@@ -51,8 +51,8 @@
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
         "price": 4.485,
-        "change": null,
-        "pct_change": null,
+        "change": 0.01,
+        "pct_change": 0.223,
         "date": "2026-07-02"
       },
       "Hang Seng 50": {
@@ -139,41 +139,30 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 18:41:25 GMT",
+      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 17:58:01 GMT",
       "matched_keywords": [
         "war",
-        "president",
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 07:52:55 GMT",
-      "matched_keywords": [
-        "election",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 15:20:57 GMT",
-      "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-      "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 10:23:32 GMT",
+      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 23:17:24 GMT",
       "matched_keywords": [
-        "war"
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+      "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 17:30:45 GMT",
+      "matched_keywords": [
+        "attack"
       ]
     },
     {
@@ -181,15 +170,6 @@
       "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
       "link": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 04 Jul 2026 17:51:04 GMT",
-      "matched_keywords": [
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
-      "link": "https://www.bbc.co.uk/news/articles/c7vyqgy4r5lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 08:24:17 GMT",
       "matched_keywords": [
         "coup"
       ]
@@ -210,6 +190,24 @@
       "published": "Sat, 04 Jul 2026 04:50:06 GMT",
       "matched_keywords": [
         "coup"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Albanian court frees protesters who rallied against Kushner-linked resort",
+      "link": "https://www.aljazeera.com/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort?traffic_source=rss",
+      "published": "Sun, 05 Jul 2026 20:50:58 +0000",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "How will the rise of right-wing populism affect Latin America?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/5/how-will-the-rise-of-right-wing-populism-affect-latin-america?traffic_source=rss",
+      "published": "Sun, 05 Jul 2026 20:34:04 +0000",
+      "matched_keywords": [
+        "election"
       ]
     }
   ]
