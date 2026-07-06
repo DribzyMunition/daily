@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T21:30:05+00:00",
+  "generated_at": "2026-07-06T21:30:07+00:00",
   "prices": {
     "commodities": {
       "Gold": {
@@ -7,53 +7,53 @@
         "price": 4187.299805,
         "change": 74.599609,
         "pct_change": 1.814,
-        "date": "2026-07-03"
+        "date": "2026-07-06"
       },
       "Silver": {
         "ticker": "SI=F",
         "price": 62.814999,
         "change": 2.171997,
         "pct_change": 3.582,
-        "date": "2026-07-03"
+        "date": "2026-07-06"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1146.75,
-        "change": 20.5,
-        "pct_change": 1.82,
-        "date": "2026-07-02"
+        "price": 1190.75,
+        "change": 59.0,
+        "pct_change": 5.213,
+        "date": "2026-07-06"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.81,
-        "change": -0.179999,
-        "pct_change": -1.201,
-        "date": "2026-07-02"
+        "price": 15.16,
+        "change": 0.309999,
+        "pct_change": 2.088,
+        "date": "2026-07-06"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.694493,
-        "change": 0.002892,
-        "pct_change": 0.418,
-        "date": "2026-07-05"
+        "price": 0.695846,
+        "change": 0.004246,
+        "pct_change": 0.614,
+        "date": "2026-07-06"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7483.240234,
-        "change": 0.010254,
-        "pct_change": 0.0,
-        "date": "2026-07-02"
+        "price": 7537.430176,
+        "change": 54.189941,
+        "pct_change": 0.724,
+        "date": "2026-07-06"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.485,
-        "change": 0.01,
-        "pct_change": 0.223,
-        "date": "2026-07-02"
+        "price": 4.479,
+        "change": -0.006,
+        "pct_change": -0.134,
+        "date": "2026-07-06"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
@@ -64,17 +64,17 @@
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10475.0,
-        "change": 102.0,
-        "pct_change": 0.983,
-        "date": "2026-07-03"
+        "price": 10394.0,
+        "change": -81.0,
+        "pct_change": -0.773,
+        "date": "2026-07-06"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14424.240234,
-        "change": 71.259766,
-        "pct_change": 0.496,
-        "date": "2026-07-03"
+        "price": 14302.259766,
+        "change": -121.980469,
+        "pct_change": -0.846,
+        "date": "2026-07-06"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
@@ -87,125 +87,128 @@
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 129.300003,
-        "change": 3.57,
-        "pct_change": 2.839,
-        "date": "2026-07-02"
+        "price": 132.539993,
+        "change": 3.23999,
+        "pct_change": 2.506,
+        "date": "2026-07-06"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 280.630005,
-        "change": 11.200012,
-        "pct_change": 4.157,
-        "date": "2026-07-02"
+        "price": 279.5,
+        "change": -1.130005,
+        "pct_change": -0.403,
+        "date": "2026-07-06"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 393.450012,
-        "change": -31.849976,
-        "pct_change": -7.489,
-        "date": "2026-07-02"
+        "price": 419.769989,
+        "change": 26.319977,
+        "pct_change": 6.69,
+        "date": "2026-07-06"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 359.910004,
-        "change": -1.299988,
-        "pct_change": -0.36,
-        "date": "2026-07-02"
+        "price": 366.459991,
+        "change": 6.549988,
+        "pct_change": 1.82,
+        "date": "2026-07-06"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 545.909973,
-        "change": 24.089966,
-        "pct_change": 4.617,
-        "date": "2026-07-02"
+        "price": 538.0,
+        "change": -7.909973,
+        "pct_change": -1.449,
+        "date": "2026-07-06"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 199.25,
-        "change": 7.470001,
-        "pct_change": 3.895,
-        "date": "2026-07-02"
+        "price": 201.369995,
+        "change": 2.119995,
+        "pct_change": 1.064,
+        "date": "2026-07-06"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 549.01001,
-        "change": 29.059998,
-        "pct_change": 5.589,
-        "date": "2026-07-02"
+        "price": 547.75,
+        "change": -1.26001,
+        "pct_change": -0.23,
+        "date": "2026-07-06"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Jul 2026 17:58:01 GMT",
-      "matched_keywords": [
-        "war",
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 23:17:24 GMT",
+      "title": "Trump confirms he asked Fifa to review Balogun ban",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 19:06:34 GMT",
       "matched_keywords": [
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
-      "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Jul 2026 17:30:45 GMT",
+      "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+      "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 21:02:37 GMT",
       "matched_keywords": [
-        "attack"
+        "war",
+        "attack",
+        "missile",
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
-      "link": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 17:51:04 GMT",
-      "matched_keywords": [
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
-      "link": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 00:57:05 GMT",
+      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+      "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 18:50:44 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Watch: Taylor Swift and Travis Kelce wed in NYC - here's how the day unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cewqpdgqj0ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 04:50:06 GMT",
+      "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+      "link": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 05:04:28 GMT",
       "matched_keywords": [
-        "coup"
+        "earthquake"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "Albanian court frees protesters who rallied against Kushner-linked resort",
-      "link": "https://www.aljazeera.com/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort?traffic_source=rss",
-      "published": "Sun, 05 Jul 2026 20:50:58 +0000",
+      "source": "BBC World",
+      "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+      "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 23:31:04 GMT",
       "matched_keywords": [
+        "election",
         "president"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "How will the rise of right-wing populism affect Latin America?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/5/how-will-the-rise-of-right-wing-populism-affect-latin-america?traffic_source=rss",
-      "published": "Sun, 05 Jul 2026 20:34:04 +0000",
+      "source": "BBC World",
+      "title": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
+      "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 16:44:54 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Thousands of forgotten WW1 soldiers recognised for first time",
+      "link": "https://www.bbc.co.uk/news/articles/cgqjpqjgxzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 05:04:06 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Why an anti-sacrilege law in India's Punjab has sparked controversy",
+      "link": "https://www.bbc.co.uk/news/articles/crlw1xrzd8yo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 08:35:56 GMT",
       "matched_keywords": [
         "election"
       ]
