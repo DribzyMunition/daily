@@ -1,214 +1,216 @@
 {
-  "generated_at": "2026-07-07T21:30:07+00:00",
+  "generated_at": "2026-07-08T21:30:05+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4116.600098,
-        "change": -38.5,
-        "pct_change": -0.927,
-        "date": "2026-07-07"
+        "price": 4086.600098,
+        "change": -58.699707,
+        "pct_change": -1.416,
+        "date": "2026-07-08"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 60.404999,
-        "change": -1.514999,
-        "pct_change": -2.447,
-        "date": "2026-07-07"
+        "price": 58.689999,
+        "change": -2.241001,
+        "pct_change": -3.678,
+        "date": "2026-07-08"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1196.5,
-        "change": 14.25,
-        "pct_change": 1.205,
-        "date": "2026-07-07"
+        "price": 1188.25,
+        "change": -8.5,
+        "pct_change": -0.71,
+        "date": "2026-07-08"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 15.1,
-        "change": -0.12,
-        "pct_change": -0.788,
-        "date": "2026-07-07"
+        "price": 15.12,
+        "change": -0.02,
+        "pct_change": -0.132,
+        "date": "2026-07-08"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.693001,
-        "change": -0.000699,
-        "pct_change": -0.101,
-        "date": "2026-07-07"
+        "price": 0.692905,
+        "change": -0.002625,
+        "pct_change": -0.377,
+        "date": "2026-07-08"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7503.850098,
-        "change": -33.580078,
-        "pct_change": -0.446,
-        "date": "2026-07-07"
+        "price": 7482.709961,
+        "change": -21.140137,
+        "pct_change": -0.282,
+        "date": "2026-07-08"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.529,
-        "change": 0.044,
-        "pct_change": 0.981,
-        "date": "2026-07-07"
+        "price": 4.569,
+        "change": 0.04,
+        "pct_change": 0.883,
+        "date": "2026-07-08"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 23616.320312,
-        "change": 266.291016,
-        "pct_change": 1.14,
-        "date": "2026-07-06"
+        "price": 23496.890625,
+        "change": -119.429688,
+        "pct_change": -0.506,
+        "date": "2026-07-07"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10327.0,
-        "change": -67.0,
-        "pct_change": -0.645,
-        "date": "2026-07-07"
+        "price": 10183.0,
+        "change": -144.0,
+        "pct_change": -1.394,
+        "date": "2026-07-08"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14360.450195,
-        "change": 58.19043,
-        "pct_change": 0.407,
-        "date": "2026-07-07"
+        "price": 14174.349609,
+        "change": -186.100586,
+        "pct_change": -1.296,
+        "date": "2026-07-08"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8831.0,
-        "change": -13.400391,
-        "pct_change": -0.152,
-        "date": "2026-07-06"
+        "price": 8803.900391,
+        "change": -27.099609,
+        "pct_change": -0.307,
+        "date": "2026-07-07"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 134.369995,
-        "change": 1.830002,
-        "pct_change": 1.381,
-        "date": "2026-07-07"
+        "price": 132.220001,
+        "change": -2.149994,
+        "pct_change": -1.6,
+        "date": "2026-07-08"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 282.209991,
-        "change": 2.709991,
-        "pct_change": 0.97,
-        "date": "2026-07-07"
+        "price": 278.25,
+        "change": -3.959991,
+        "pct_change": -1.403,
+        "date": "2026-07-08"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 402.899994,
-        "change": -16.869995,
-        "pct_change": -4.019,
-        "date": "2026-07-07"
+        "price": 394.059998,
+        "change": -8.839996,
+        "pct_change": -2.194,
+        "date": "2026-07-08"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 367.029999,
-        "change": 0.570007,
-        "pct_change": 0.156,
-        "date": "2026-07-07"
+        "price": 361.920013,
+        "change": -5.109985,
+        "pct_change": -1.392,
+        "date": "2026-07-08"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 535.380005,
-        "change": -2.619995,
-        "pct_change": -0.487,
-        "date": "2026-07-07"
+        "price": 527.960022,
+        "change": -7.419983,
+        "pct_change": -1.386,
+        "date": "2026-07-08"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 200.850006,
-        "change": -0.519989,
-        "pct_change": -0.258,
-        "date": "2026-07-07"
+        "price": 194.910004,
+        "change": -5.940002,
+        "pct_change": -2.957,
+        "date": "2026-07-08"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 549.039978,
-        "change": 1.289978,
-        "pct_change": 0.236,
-        "date": "2026-07-07"
+        "price": 545.109985,
+        "change": -3.929993,
+        "pct_change": -0.716,
+        "date": "2026-07-08"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
-      "link": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 18:56:19 GMT",
+      "title": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
+      "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 21:24:59 GMT",
       "matched_keywords": [
-        "president",
+        "explosion"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US strikes target Iranian military boats",
+      "link": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 05:42:37 GMT",
+      "matched_keywords": [
+        "attack",
+        "military",
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
+      "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 17:18:14 GMT",
+      "matched_keywords": [
+        "missile"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
+      "link": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 15:09:08 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Nato allies announce £37bn for new missile project",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 05:57:53 GMT",
+      "matched_keywords": [
+        "missile",
+        "prime minister",
         "nato"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 17:58:48 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Ghana halts visit by South African president amid row over anti-migrant protests",
-      "link": "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 16:25:59 GMT",
+      "title": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
+      "link": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 17:31:47 GMT",
       "matched_keywords": [
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
-      "link": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 18:03:56 GMT",
+      "title": "Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation",
+      "link": "https://www.bbc.co.uk/news/articles/cm2004nx8v9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 01:05:26 GMT",
       "matched_keywords": [
-        "president",
-        "explosion"
+        "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Zimbabwean football star survives gun attack in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 11:12:00 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump confirms he asked Fifa to review Balogun ban",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 19:06:34 GMT",
+      "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+      "link": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 03:22:46 GMT",
       "matched_keywords": [
         "president"
-      ]
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US says strikes launched as explosions heard in southern Iran",
-      "link": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss",
-      "published": "Tue, 07 Jul 2026 21:21:16 +0000",
-      "matched_keywords": [
-        "explosion"
-      ]
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
-      "published": "Tue, 07 Jul 2026 20:30:06 +0000",
-      "matched_keywords": [
-        "earthquake"
       ]
     }
   ]

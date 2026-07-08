@@ -1,5 +1,5 @@
-# Daily Feed — 2026-07-07
-*Generated: 2026-07-07T21:30:07+00:00 UTC*
+# Daily Feed — 2026-07-08
+*Generated: 2026-07-08T21:30:05+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,116.6001 | ▼ 38.5000 | -0.93% |
-| Silver |      60.4050 | ▼ 1.5150 | -2.45% |
-| Soybeans |   1,196.5000 | ▲ 14.2500 | +1.21% |
-| Sugar #11 (Raw) |      15.1000 | ▼ 0.1200 | -0.79% |
+| Gold |   4,086.6001 | ▼ 58.6997 | -1.42% |
+| Silver |      58.6900 | ▼ 2.2410 | -3.68% |
+| Soybeans |   1,188.2500 | ▼ 8.5000 | -0.71% |
+| Sugar #11 (Raw) |      15.1200 | ▼ 0.0200 | -0.13% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6930 | ▼ 0.0007 | -0.10% |
+| AUD/USD |       0.6929 | ▼ 0.0026 | -0.38% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,503.8501 | ▼ 33.5801 | -0.45% |
-| US 10Y Yield (%) |       4.5290 | ▲ 0.0440 | +0.98% |
-| Hang Seng 50 |  23,616.3203 | ▲ 266.2910 | +1.14% |
-| South Africa Top 40 |  10,327.0000 | ▼ 67.0000 | -0.65% |
-| Switzerland SMI |  14,360.4502 | ▲ 58.1904 | +0.41% |
-| ASX 200 (XJO) |   8,831.0000 | ▼ 13.4004 | -0.15% |
+| S&P 500 |   7,482.7100 | ▼ 21.1401 | -0.28% |
+| US 10Y Yield (%) |       4.5690 | ▲ 0.0400 | +0.88% |
+| Hang Seng 50 |  23,496.8906 | ▼ 119.4297 | -0.51% |
+| South Africa Top 40 |  10,183.0000 | ▼ 144.0000 | -1.39% |
+| Switzerland SMI |  14,174.3496 | ▼ 186.1006 | -1.30% |
+| ASX 200 (XJO) |   8,803.9004 | ▼ 27.0996 | -0.31% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     134.3700 | ▲ 1.8300 | +1.38% |
-| McDonald's |     282.2100 | ▲ 2.7100 | +0.97% |
-| Tesla |     402.9000 | ▼ 16.8700 | -4.02% |
-| Alphabet |     367.0300 | ▲ 0.5700 | +0.16% |
-| Lockheed Martin |     535.3800 | ▼ 2.6200 | -0.49% |
-| RTX (Raytheon) |     200.8500 | ▼ 0.5200 | -0.26% |
-| Northrop Grumman |     549.0400 | ▲ 1.2900 | +0.24% |
+| Palantir |     132.2200 | ▼ 2.1500 | -1.60% |
+| McDonald's |     278.2500 | ▼ 3.9600 | -1.40% |
+| Tesla |     394.0600 | ▼ 8.8400 | -2.19% |
+| Alphabet |     361.9200 | ▼ 5.1100 | -1.39% |
+| Lockheed Martin |     527.9600 | ▼ 7.4200 | -1.39% |
+| RTX (Raytheon) |     194.9100 | ▼ 5.9400 | -2.96% |
+| Northrop Grumman |     545.1100 | ▼ 3.9300 | -0.72% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Trump looms large as Nato grapples with challenge of rearming Europe
-*Tags: president, nato*
-https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Woman suspected of Monaco bomb attack found dead in Ukraine
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Ghana halts visit by South African president amid row over anti-migrant protests
-*Tags: president*
-https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Bomb explosions injure 18 in Damascus during Macron's visit
-*Tags: president, explosion*
-https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Zimbabwean football star survives gun attack in South Africa
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump confirms he asked Fifa to review Balogun ban
-*Tags: president*
-https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss
-
-**[Al Jazeera]** US says strikes launched as explosions heard in southern Iran
+**[BBC World]** US launches new wave of strikes against Iran after promising to 'hit them hard'
 *Tags: explosion*
-https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss
+https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss
 
-**[Al Jazeera]** Venezuela buries earthquake victims as death toll reaches 3,535
-*Tags: earthquake*
-https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss
+**[BBC World]** US strikes target Iranian military boats
+*Tags: attack, military, oil*
+https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Ukraine to get licence to produce Patriot missiles, Trump says
+*Tags: missile*
+https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Teenager arrested after two girls, 13, seriously injured in German school attack
+*Tags: attack*
+https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Nato allies announce £37bn for new missile project
+*Tags: missile, prime minister, nato*
+https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Nigeria's president demands to know how fake agency was allegedly set up in his office
+*Tags: president*
+https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation
+*Tags: war*
+https://www.bbc.co.uk/news/articles/cm2004nx8v9o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Will Le Pen rise again? French nationalist leader defiant after court's ruling
+*Tags: president*
+https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
