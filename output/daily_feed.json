@@ -1,151 +1,142 @@
 {
-  "generated_at": "2026-07-10T00:10:21+00:00",
+  "generated_at": "2026-07-10T21:30:05+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4131.100098,
-        "change": 60.200195,
-        "pct_change": 1.479,
-        "date": "2026-07-09"
+        "price": 4128.899902,
+        "change": -1.700195,
+        "pct_change": -0.041,
+        "date": "2026-07-10"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 60.459999,
-        "change": 2.295998,
-        "pct_change": 3.947,
-        "date": "2026-07-09"
+        "price": 60.299999,
+        "change": -0.077999,
+        "pct_change": -0.129,
+        "date": "2026-07-10"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1182.0,
-        "change": -13.0,
-        "pct_change": -1.088,
-        "date": "2026-07-09"
+        "price": 1189.5,
+        "change": 9.75,
+        "pct_change": 0.826,
+        "date": "2026-07-10"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 15.15,
-        "change": 0.04,
-        "pct_change": 0.265,
-        "date": "2026-07-09"
+        "price": 14.86,
+        "change": -0.26,
+        "pct_change": -1.72,
+        "date": "2026-07-10"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.694252,
-        "change": 0.000622,
-        "pct_change": 0.09,
+        "price": 0.695507,
+        "change": 0.001877,
+        "pct_change": 0.271,
         "date": "2026-07-10"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7543.640137,
-        "change": 60.930176,
-        "pct_change": 0.814,
-        "date": "2026-07-09"
+        "price": 7575.390137,
+        "change": 31.75,
+        "pct_change": 0.421,
+        "date": "2026-07-10"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.539,
-        "change": -0.03,
-        "pct_change": -0.657,
-        "date": "2026-07-09"
+        "price": 4.569,
+        "change": 0.03,
+        "pct_change": 0.661,
+        "date": "2026-07-10"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24199.460938,
-        "change": 702.570312,
-        "pct_change": 2.99,
-        "date": "2026-07-08"
+        "price": 24030.179688,
+        "change": -169.28125,
+        "pct_change": -0.7,
+        "date": "2026-07-09"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10183.0,
-        "change": -144.0,
-        "pct_change": -1.394,
-        "date": "2026-07-08"
+        "price": 10307.0,
+        "change": 47.0,
+        "pct_change": 0.458,
+        "date": "2026-07-10"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14174.349609,
-        "change": -186.100586,
-        "pct_change": -1.296,
-        "date": "2026-07-08"
+        "price": 14235.089844,
+        "change": 19.790039,
+        "pct_change": 0.139,
+        "date": "2026-07-10"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8785.099609,
-        "change": -18.800781,
-        "pct_change": -0.214,
-        "date": "2026-07-08"
+        "price": 8762.5,
+        "change": -22.599609,
+        "pct_change": -0.257,
+        "date": "2026-07-09"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 129.039993,
-        "change": -3.180008,
-        "pct_change": -2.405,
-        "date": "2026-07-09"
+        "price": 126.790001,
+        "change": -2.249992,
+        "pct_change": -1.744,
+        "date": "2026-07-10"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 276.48999,
-        "change": -1.76001,
-        "pct_change": -0.633,
-        "date": "2026-07-09"
+        "price": 274.600006,
+        "change": -1.889984,
+        "pct_change": -0.684,
+        "date": "2026-07-10"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 406.549988,
-        "change": 12.48999,
-        "pct_change": 3.17,
-        "date": "2026-07-09"
+        "price": 407.76001,
+        "change": 1.210022,
+        "pct_change": 0.298,
+        "date": "2026-07-10"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 358.890015,
-        "change": -3.029999,
-        "pct_change": -0.837,
-        "date": "2026-07-09"
+        "price": 357.179993,
+        "change": -1.710022,
+        "pct_change": -0.476,
+        "date": "2026-07-10"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 518.26001,
-        "change": -9.700012,
-        "pct_change": -1.837,
-        "date": "2026-07-09"
+        "price": 523.219971,
+        "change": 4.959961,
+        "pct_change": 0.957,
+        "date": "2026-07-10"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 195.199997,
-        "change": 0.289993,
-        "pct_change": 0.149,
-        "date": "2026-07-09"
+        "price": 195.929993,
+        "change": 0.729996,
+        "pct_change": 0.374,
+        "date": "2026-07-10"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 532.22998,
-        "change": -12.880005,
-        "pct_change": -2.363,
-        "date": "2026-07-09"
+        "price": 539.630005,
+        "change": 7.400024,
+        "pct_change": 1.39,
+        "date": "2026-07-10"
       }
     }
   },
   "news": [
-    {
-      "source": "BBC World",
-      "title": "US and Iran trade attacks as Khamenei is buried",
-      "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Jul 2026 23:02:18 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
     {
       "source": "BBC World",
       "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
@@ -157,61 +148,67 @@
     },
     {
       "source": "BBC World",
-      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-      "link": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Jul 2026 21:04:09 GMT",
+      "title": "Watch: Nato chief asked if there really is 'unity' in Nato",
+      "link": "https://www.bbc.co.uk/news/videos/cx2vj284415o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 18:56:36 GMT",
       "matched_keywords": [
-        "war"
+        "nato"
       ]
     },
     {
-      "source": "BBC World",
-      "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Jul 2026 14:41:54 GMT",
+      "source": "Al Jazeera",
+      "title": "Dozens of abducted schoolchildren and teachers rescued in Nigeria",
+      "link": "https://www.aljazeera.com/news/2026/7/10/dozens-of-abducted-schoolchildren-and-teachers-rescued-in-nigeria?traffic_source=rss",
+      "published": "Fri, 10 Jul 2026 21:01:27 +0000",
+      "matched_keywords": [
+        "hostage"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Ukrainian attacks cause chaos at fuel stations across Russia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss",
+      "published": "Fri, 10 Jul 2026 20:23:36 +0000",
       "matched_keywords": [
         "attack",
-        "oil",
-        "gas"
+        "oil"
       ]
     },
     {
-      "source": "BBC World",
-      "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
-      "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 20:40:11 GMT",
+      "source": "Al Jazeera",
+      "title": "Donald Trump removes final members of independent US election commission",
+      "link": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss",
+      "published": "Fri, 10 Jul 2026 20:12:22 +0000",
       "matched_keywords": [
-        "president",
-        "nato"
+        "election"
       ]
     },
     {
-      "source": "BBC World",
-      "title": "Nato allies announce £37bn for new missile project",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 05:57:53 GMT",
+      "source": "Al Jazeera",
+      "title": "Why are politicians and sanctioned states embracing crypto?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss",
+      "published": "Fri, 10 Jul 2026 19:30:00 +0000",
       "matched_keywords": [
-        "missile",
-        "prime minister",
-        "nato"
+        "sanctions"
       ]
     },
     {
-      "source": "BBC World",
-      "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
-      "link": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Jul 2026 08:49:45 GMT",
+      "source": "Al Jazeera",
+      "title": "Can the agreement between Iran and the US be rescued?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss",
+      "published": "Fri, 10 Jul 2026 19:02:01 +0000",
       "matched_keywords": [
-        "war"
+        "attack",
+        "ceasefire"
       ]
     },
     {
-      "source": "BBC World",
-      "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
-      "link": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 15:09:08 GMT",
+      "source": "Al Jazeera",
+      "title": "Peru’s President-elect Fujimori says she wants to restore ties with Mexico",
+      "link": "https://www.aljazeera.com/news/2026/7/10/perus-president-elect-fujimori-says-she-wants-to-restore-ties-with-mexico?traffic_source=rss",
+      "published": "Fri, 10 Jul 2026 18:18:26 +0000",
       "matched_keywords": [
-        "attack"
+        "president"
       ]
     }
   ]

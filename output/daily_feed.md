@@ -1,5 +1,5 @@
 # Daily Feed — 2026-07-10
-*Generated: 2026-07-10T00:10:21+00:00 UTC*
+*Generated: 2026-07-10T21:30:05+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,131.1001 | ▲ 60.2002 | +1.48% |
-| Silver |      60.4600 | ▲ 2.2960 | +3.95% |
-| Soybeans |   1,182.0000 | ▼ 13.0000 | -1.09% |
-| Sugar #11 (Raw) |      15.1500 | ▲ 0.0400 | +0.27% |
+| Gold |   4,128.8999 | ▼ 1.7002 | -0.04% |
+| Silver |      60.3000 | ▼ 0.0780 | -0.13% |
+| Soybeans |   1,189.5000 | ▲ 9.7500 | +0.83% |
+| Sugar #11 (Raw) |      14.8600 | ▼ 0.2600 | -1.72% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6943 | ▲ 0.0006 | +0.09% |
+| AUD/USD |       0.6955 | ▲ 0.0019 | +0.27% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,543.6401 | ▲ 60.9302 | +0.81% |
-| US 10Y Yield (%) |       4.5390 | ▼ 0.0300 | -0.66% |
-| Hang Seng 50 |  24,199.4609 | ▲ 702.5703 | +2.99% |
-| South Africa Top 40 |  10,183.0000 | ▼ 144.0000 | -1.39% |
-| Switzerland SMI |  14,174.3496 | ▼ 186.1006 | -1.30% |
-| ASX 200 (XJO) |   8,785.0996 | ▼ 18.8008 | -0.21% |
+| S&P 500 |   7,575.3901 | ▲ 31.7500 | +0.42% |
+| US 10Y Yield (%) |       4.5690 | ▲ 0.0300 | +0.66% |
+| Hang Seng 50 |  24,030.1797 | ▼ 169.2812 | -0.70% |
+| South Africa Top 40 |  10,307.0000 | ▲ 47.0000 | +0.46% |
+| Switzerland SMI |  14,235.0898 | ▲ 19.7900 | +0.14% |
+| ASX 200 (XJO) |   8,762.5000 | ▼ 22.5996 | -0.26% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     129.0400 | ▼ 3.1800 | -2.40% |
-| McDonald's |     276.4900 | ▼ 1.7600 | -0.63% |
-| Tesla |     406.5500 | ▲ 12.4900 | +3.17% |
-| Alphabet |     358.8900 | ▼ 3.0300 | -0.84% |
-| Lockheed Martin |     518.2600 | ▼ 9.7000 | -1.84% |
-| RTX (Raytheon) |     195.2000 | ▲ 0.2900 | +0.15% |
-| Northrop Grumman |     532.2300 | ▼ 12.8800 | -2.36% |
+| Palantir |     126.7900 | ▼ 2.2500 | -1.74% |
+| McDonald's |     274.6000 | ▼ 1.8900 | -0.68% |
+| Tesla |     407.7600 | ▲ 1.2100 | +0.30% |
+| Alphabet |     357.1800 | ▼ 1.7100 | -0.48% |
+| Lockheed Martin |     523.2200 | ▲ 4.9600 | +0.96% |
+| RTX (Raytheon) |     195.9300 | ▲ 0.7300 | +0.37% |
+| Northrop Grumman |     539.6300 | ▲ 7.4000 | +1.39% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** US and Iran trade attacks as Khamenei is buried
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss
-
 **[BBC World]** Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies
 *Tags: attack*
 https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike
-*Tags: war*
-https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Watch: Nato chief asked if there really is 'unity' in Nato
+*Tags: nato*
+https://www.bbc.co.uk/news/videos/cx2vj284415o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes
-*Tags: attack, oil, gas*
-https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss
+**[Al Jazeera]** Dozens of abducted schoolchildren and teachers rescued in Nigeria
+*Tags: hostage*
+https://www.aljazeera.com/news/2026/7/10/dozens-of-abducted-schoolchildren-and-teachers-rescued-in-nigeria?traffic_source=rss
 
-**[BBC World]** Starmer gifted gun and ammunition by Turkish president at Nato
-*Tags: president, nato*
-https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss
+**[Al Jazeera]** Ukrainian attacks cause chaos at fuel stations across Russia
+*Tags: attack, oil*
+https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss
 
-**[BBC World]** Nato allies announce £37bn for new missile project
-*Tags: missile, prime minister, nato*
-https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss
+**[Al Jazeera]** Donald Trump removes final members of independent US election commission
+*Tags: election*
+https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss
 
-**[BBC World]** International court tells BBC of breakthrough in Sudan war crimes probe
-*Tags: war*
-https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss
+**[Al Jazeera]** Why are politicians and sanctioned states embracing crypto?
+*Tags: sanctions*
+https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss
 
-**[BBC World]** Teenager arrested after two girls, 13, seriously injured in German school attack
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss
+**[Al Jazeera]** Can the agreement between Iran and the US be rescued?
+*Tags: attack, ceasefire*
+https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss
+
+**[Al Jazeera]** Peru’s President-elect Fujimori says she wants to restore ties with Mexico
+*Tags: president*
+https://www.aljazeera.com/news/2026/7/10/perus-president-elect-fujimori-says-she-wants-to-restore-ties-with-mexico?traffic_source=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
