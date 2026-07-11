@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-07-10T21:30:05+00:00",
+  "generated_at": "2026-07-11T21:30:07+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4128.899902,
-        "change": -1.700195,
-        "pct_change": -0.041,
+        "price": 4104.100098,
+        "change": -26.5,
+        "pct_change": -0.642,
         "date": "2026-07-10"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 60.299999,
-        "change": -0.077999,
-        "pct_change": -0.129,
+        "price": 59.808998,
+        "change": -0.569,
+        "pct_change": -0.942,
         "date": "2026-07-10"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1189.5,
-        "change": 9.75,
-        "pct_change": 0.826,
+        "price": 1196.5,
+        "change": 16.75,
+        "pct_change": 1.42,
         "date": "2026-07-10"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.86,
-        "change": -0.26,
-        "pct_change": -1.72,
+        "price": 14.88,
+        "change": -0.24,
+        "pct_change": -1.587,
         "date": "2026-07-10"
       }
     },
@@ -35,9 +35,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.695507,
-        "change": 0.001877,
-        "pct_change": 0.271,
-        "date": "2026-07-10"
+        "change": 0.001067,
+        "pct_change": 0.154,
+        "date": "2026-07-11"
       }
     },
     "indices": {
@@ -57,10 +57,10 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24030.179688,
-        "change": -169.28125,
-        "pct_change": -0.7,
-        "date": "2026-07-09"
+        "price": 24175.119141,
+        "change": 144.939453,
+        "pct_change": 0.603,
+        "date": "2026-07-10"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8762.5,
-        "change": -22.599609,
-        "pct_change": -0.257,
-        "date": "2026-07-09"
+        "price": 8806.0,
+        "change": 43.5,
+        "pct_change": 0.496,
+        "date": "2026-07-10"
       }
     },
     "stocks": {
@@ -139,74 +139,72 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-      "link": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Jul 2026 15:21:17 GMT",
+      "title": "Iran supreme leader calls for revenge for father's killing",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 19:30:36 GMT",
       "matched_keywords": [
-        "attack"
+        "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Watch: Nato chief asked if there really is 'unity' in Nato",
-      "link": "https://www.bbc.co.uk/news/videos/cx2vj284415o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 18:56:36 GMT",
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 16:11:33 GMT",
       "matched_keywords": [
-        "nato"
+        "president"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "Dozens of abducted schoolchildren and teachers rescued in Nigeria",
-      "link": "https://www.aljazeera.com/news/2026/7/10/dozens-of-abducted-schoolchildren-and-teachers-rescued-in-nigeria?traffic_source=rss",
-      "published": "Fri, 10 Jul 2026 21:01:27 +0000",
+      "source": "BBC World",
+      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 19:32:07 GMT",
       "matched_keywords": [
-        "hostage"
+        "war"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "Ukrainian attacks cause chaos at fuel stations across Russia",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss",
-      "published": "Fri, 10 Jul 2026 20:23:36 +0000",
+      "source": "BBC World",
+      "title": "Landmark US housing bill becomes law despite Trump protest",
+      "link": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 13:35:09 GMT",
       "matched_keywords": [
-        "attack",
-        "oil"
+        "president"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "Donald Trump removes final members of independent US election commission",
-      "link": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss",
-      "published": "Fri, 10 Jul 2026 20:12:22 +0000",
+      "source": "BBC World",
+      "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
+      "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 08:23:45 GMT",
       "matched_keywords": [
-        "election"
+        "gas"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "Why are politicians and sanctioned states embracing crypto?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss",
-      "published": "Fri, 10 Jul 2026 19:30:00 +0000",
+      "source": "BBC World",
+      "title": "Small plane crash in Bahamas kills 10 people",
+      "link": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 04:47:37 GMT",
       "matched_keywords": [
-        "sanctions"
+        "prime minister"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "Can the agreement between Iran and the US be rescued?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss",
-      "published": "Fri, 10 Jul 2026 19:02:01 +0000",
+      "source": "BBC World",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 10 Jul 2026 22:54:16 GMT",
       "matched_keywords": [
-        "attack",
-        "ceasefire"
+        "war"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "Peru’s President-elect Fujimori says she wants to restore ties with Mexico",
-      "link": "https://www.aljazeera.com/news/2026/7/10/perus-president-elect-fujimori-says-she-wants-to-restore-ties-with-mexico?traffic_source=rss",
-      "published": "Fri, 10 Jul 2026 18:18:26 +0000",
+      "source": "BBC World",
+      "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
+      "link": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 00:46:15 GMT",
       "matched_keywords": [
         "president"
       ]

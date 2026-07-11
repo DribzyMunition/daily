@@ -1,5 +1,5 @@
-# Daily Feed — 2026-07-10
-*Generated: 2026-07-10T21:30:05+00:00 UTC*
+# Daily Feed — 2026-07-11
+*Generated: 2026-07-11T21:30:07+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,128.8999 | ▼ 1.7002 | -0.04% |
-| Silver |      60.3000 | ▼ 0.0780 | -0.13% |
-| Soybeans |   1,189.5000 | ▲ 9.7500 | +0.83% |
-| Sugar #11 (Raw) |      14.8600 | ▼ 0.2600 | -1.72% |
+| Gold |   4,104.1001 | ▼ 26.5000 | -0.64% |
+| Silver |      59.8090 | ▼ 0.5690 | -0.94% |
+| Soybeans |   1,196.5000 | ▲ 16.7500 | +1.42% |
+| Sugar #11 (Raw) |      14.8800 | ▼ 0.2400 | -1.59% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6955 | ▲ 0.0019 | +0.27% |
+| AUD/USD |       0.6955 | ▲ 0.0011 | +0.15% |
 
 ### Indices
 
@@ -26,10 +26,10 @@
 |:------|------:|------:|---------:|
 | S&P 500 |   7,575.3901 | ▲ 31.7500 | +0.42% |
 | US 10Y Yield (%) |       4.5690 | ▲ 0.0300 | +0.66% |
-| Hang Seng 50 |  24,030.1797 | ▼ 169.2812 | -0.70% |
+| Hang Seng 50 |  24,175.1191 | ▲ 144.9395 | +0.60% |
 | South Africa Top 40 |  10,307.0000 | ▲ 47.0000 | +0.46% |
 | Switzerland SMI |  14,235.0898 | ▲ 19.7900 | +0.14% |
-| ASX 200 (XJO) |   8,762.5000 | ▼ 22.5996 | -0.26% |
+| ASX 200 (XJO) |   8,806.0000 | ▲ 43.5000 | +0.50% |
 
 ### Stocks
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Iran supreme leader calls for revenge for father's killing
+*Tags: war*
+https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Watch: Nato chief asked if there really is 'unity' in Nato
-*Tags: nato*
-https://www.bbc.co.uk/news/videos/cx2vj284415o?at_medium=RSS&at_campaign=rss
-
-**[Al Jazeera]** Dozens of abducted schoolchildren and teachers rescued in Nigeria
-*Tags: hostage*
-https://www.aljazeera.com/news/2026/7/10/dozens-of-abducted-schoolchildren-and-teachers-rescued-in-nigeria?traffic_source=rss
-
-**[Al Jazeera]** Ukrainian attacks cause chaos at fuel stations across Russia
-*Tags: attack, oil*
-https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss
-
-**[Al Jazeera]** Donald Trump removes final members of independent US election commission
-*Tags: election*
-https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss
-
-**[Al Jazeera]** Why are politicians and sanctioned states embracing crypto?
-*Tags: sanctions*
-https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss
-
-**[Al Jazeera]** Can the agreement between Iran and the US be rescued?
-*Tags: attack, ceasefire*
-https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss
-
-**[Al Jazeera]** Peru’s President-elect Fujimori says she wants to restore ties with Mexico
+**[BBC World]** Trump administration subpoenas New York Times journalists over Air Force One reporting
 *Tags: president*
-https://www.aljazeera.com/news/2026/7/10/perus-president-elect-fujimori-says-she-wants-to-restore-ties-with-mexico?traffic_source=rss
+https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'
+*Tags: war*
+https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Landmark US housing bill becomes law despite Trump protest
+*Tags: president*
+https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** New dinosaur species as long as cricket pitch discovered in Thailand
+*Tags: gas*
+https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Small plane crash in Bahamas kills 10 people
+*Tags: prime minister*
+https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Apple sues OpenAI, its employees claiming theft of trade secrets
+*Tags: war*
+https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** How a fake presidential council ended up with a budget of almost $1m in Nigeria
+*Tags: president*
+https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
