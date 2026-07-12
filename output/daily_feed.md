@@ -1,5 +1,5 @@
-# Daily Feed — 2026-07-11
-*Generated: 2026-07-11T21:30:07+00:00 UTC*
+# Daily Feed — 2026-07-12
+*Generated: 2026-07-12T21:30:06+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,104.1001 | ▼ 26.5000 | -0.64% |
-| Silver |      59.8090 | ▼ 0.5690 | -0.94% |
-| Soybeans |   1,196.5000 | ▲ 16.7500 | +1.42% |
-| Sugar #11 (Raw) |      14.8800 | ▼ 0.2400 | -1.59% |
+| Gold |   4,113.7002 | ▼ 16.8999 | -0.41% |
+| Silver |      60.1650 | ▼ 0.2130 | -0.35% |
+| Soybeans |   1,190.7500 | ▲ 11.0000 | +0.93% |
+| Sugar #11 (Raw) |      14.8600 | ▼ 0.2600 | -1.72% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6955 | ▲ 0.0011 | +0.15% |
+| AUD/USD |       0.6949 | ▲ 0.0004 | +0.06% |
 
 ### Indices
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Iran supreme leader calls for revenge for father's killing
-*Tags: war*
+**[BBC World]** US insists Strait of Hormuz is open as it exchanges strikes with Iran
+*Tags: attack*
 https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Trump administration subpoenas New York Times journalists over Air Force One reporting
-*Tags: president*
-https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss
+**[BBC World]** US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'
+*Tags: nato*
+https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era
+*Tags: nato*
+https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Badly burned British couple rescued from ravine during Spain wildfires, reports say
+*Tags: coup*
+https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74
+*Tags: coup, gas*
+https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'
 *Tags: war*
 https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Landmark US housing bill becomes law despite Trump protest
+**[BBC World]** Trump administration subpoenas New York Times journalists over Air Force One reporting
 *Tags: president*
-https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** New dinosaur species as long as cricket pitch discovered in Thailand
-*Tags: gas*
-https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Small plane crash in Bahamas kills 10 people
-*Tags: prime minister*
-https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Apple sues OpenAI, its employees claiming theft of trade secrets
-*Tags: war*
-https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** How a fake presidential council ended up with a budget of almost $1m in Nigeria
-*Tags: president*
-https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss
+**[Al Jazeera]** Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71
+*Tags: war, nato*
+https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
