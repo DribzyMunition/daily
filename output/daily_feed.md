@@ -1,5 +1,5 @@
-# Daily Feed — 2026-07-12
-*Generated: 2026-07-12T21:30:06+00:00 UTC*
+# Daily Feed — 2026-07-13
+*Generated: 2026-07-13T21:30:07+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,113.7002 | ▼ 16.8999 | -0.41% |
-| Silver |      60.1650 | ▼ 0.2130 | -0.35% |
-| Soybeans |   1,190.7500 | ▲ 11.0000 | +0.93% |
-| Sugar #11 (Raw) |      14.8600 | ▼ 0.2600 | -1.72% |
+| Gold |   4,008.7000 | ▼ 95.4001 | -2.33% |
+| Silver |      57.9800 | ▼ 1.8290 | -3.06% |
+| Soybeans |   1,193.5000 | ▼ 3.0000 | -0.25% |
+| Sugar #11 (Raw) |      14.7600 | ▼ 0.1200 | -0.81% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6949 | ▲ 0.0004 | +0.06% |
+| AUD/USD |       0.6919 | ▼ 0.0025 | -0.36% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,575.3901 | ▲ 31.7500 | +0.42% |
-| US 10Y Yield (%) |       4.5690 | ▲ 0.0300 | +0.66% |
+| S&P 500 |   7,515.3398 | ▼ 60.0503 | -0.79% |
+| US 10Y Yield (%) |       4.6090 | ▲ 0.0400 | +0.88% |
 | Hang Seng 50 |  24,175.1191 | ▲ 144.9395 | +0.60% |
-| South Africa Top 40 |  10,307.0000 | ▲ 47.0000 | +0.46% |
-| Switzerland SMI |  14,235.0898 | ▲ 19.7900 | +0.14% |
+| South Africa Top 40 |  10,271.0000 | ▼ 36.0000 | -0.35% |
+| Switzerland SMI |  14,266.1797 | ▲ 31.0898 | +0.22% |
 | ASX 200 (XJO) |   8,806.0000 | ▲ 43.5000 | +0.50% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     126.7900 | ▼ 2.2500 | -1.74% |
-| McDonald's |     274.6000 | ▼ 1.8900 | -0.68% |
-| Tesla |     407.7600 | ▲ 1.2100 | +0.30% |
-| Alphabet |     357.1800 | ▼ 1.7100 | -0.48% |
-| Lockheed Martin |     523.2200 | ▲ 4.9600 | +0.96% |
-| RTX (Raytheon) |     195.9300 | ▲ 0.7300 | +0.37% |
-| Northrop Grumman |     539.6300 | ▲ 7.4000 | +1.39% |
+| Palantir |     130.0400 | ▲ 3.2500 | +2.56% |
+| McDonald's |     272.6100 | ▼ 1.9900 | -0.72% |
+| Tesla |     394.7600 | ▼ 13.0000 | -3.19% |
+| Alphabet |     352.5100 | ▼ 4.6700 | -1.31% |
+| Lockheed Martin |     520.6800 | ▼ 2.5400 | -0.48% |
+| RTX (Raytheon) |     196.3900 | ▲ 0.4600 | +0.23% |
+| Northrop Grumman |     541.8200 | ▲ 2.1900 | +0.41% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** US insists Strait of Hormuz is open as it exchanges strikes with Iran
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'
-*Tags: nato*
-https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era
-*Tags: nato*
-https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Badly burned British couple rescued from ravine during Spain wildfires, reports say
-*Tags: coup*
-https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74
-*Tags: coup, gas*
-https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'
-*Tags: war*
-https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump administration subpoenas New York Times journalists over Air Force One reporting
+**[BBC World]** Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz
 *Tags: president*
-https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss
 
-**[Al Jazeera]** Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71
-*Tags: war, nato*
-https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss
+**[BBC World]** Hungary parliament votes to remove president from office
+*Tags: president, prime minister*
+https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Lindsey Graham's sister chosen as replacement after senator's death
+*Tags: nato*
+https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** German court convicts Iraqi couple of enslaving Yazidi girls
+*Tags: coup*
+https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Sudan's paramilitary RSF chief sentenced to death over war crimes
+*Tags: war, military*
+https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Heavy rains and flash floods in Bangladesh leave 51 dead
+*Tags: flood*
+https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** US Senator Mitch McConnell says absence due to fall and pneumonia
+*Tags: nato*
+https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** 10 years of Pokémon Go and the millions still trying to catch 'em all
+*Tags: president*
+https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

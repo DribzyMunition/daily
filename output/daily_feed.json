@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-07-12T21:30:06+00:00",
+  "generated_at": "2026-07-13T21:30:07+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4113.700195,
-        "change": -16.899902,
-        "pct_change": -0.409,
-        "date": "2026-07-10"
+        "price": 4008.699951,
+        "change": -95.400146,
+        "pct_change": -2.325,
+        "date": "2026-07-13"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 60.165001,
-        "change": -0.212997,
-        "pct_change": -0.353,
-        "date": "2026-07-10"
+        "price": 57.98,
+        "change": -1.828999,
+        "pct_change": -3.058,
+        "date": "2026-07-13"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1190.75,
-        "change": 11.0,
-        "pct_change": 0.932,
-        "date": "2026-07-10"
+        "price": 1193.5,
+        "change": -3.0,
+        "pct_change": -0.251,
+        "date": "2026-07-13"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.86,
-        "change": -0.26,
-        "pct_change": -1.72,
-        "date": "2026-07-10"
+        "price": 14.76,
+        "change": -0.12,
+        "pct_change": -0.806,
+        "date": "2026-07-13"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.694879,
-        "change": 0.000439,
-        "pct_change": 0.063,
-        "date": "2026-07-12"
+        "price": 0.691946,
+        "change": -0.002494,
+        "pct_change": -0.359,
+        "date": "2026-07-13"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7575.390137,
-        "change": 31.75,
-        "pct_change": 0.421,
-        "date": "2026-07-10"
+        "price": 7515.339844,
+        "change": -60.050293,
+        "pct_change": -0.793,
+        "date": "2026-07-13"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.569,
-        "change": 0.03,
-        "pct_change": 0.661,
-        "date": "2026-07-10"
+        "price": 4.609,
+        "change": 0.04,
+        "pct_change": 0.875,
+        "date": "2026-07-13"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
@@ -64,17 +64,17 @@
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10307.0,
-        "change": 47.0,
-        "pct_change": 0.458,
-        "date": "2026-07-10"
+        "price": 10271.0,
+        "change": -36.0,
+        "pct_change": -0.349,
+        "date": "2026-07-13"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14235.089844,
-        "change": 19.790039,
-        "pct_change": 0.139,
-        "date": "2026-07-10"
+        "price": 14266.179688,
+        "change": 31.089844,
+        "pct_change": 0.218,
+        "date": "2026-07-13"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
@@ -87,128 +87,128 @@
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 126.790001,
-        "change": -2.249992,
-        "pct_change": -1.744,
-        "date": "2026-07-10"
+        "price": 130.039993,
+        "change": 3.249992,
+        "pct_change": 2.563,
+        "date": "2026-07-13"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 274.600006,
-        "change": -1.889984,
-        "pct_change": -0.684,
-        "date": "2026-07-10"
+        "price": 272.609985,
+        "change": -1.990021,
+        "pct_change": -0.725,
+        "date": "2026-07-13"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 407.76001,
-        "change": 1.210022,
-        "pct_change": 0.298,
-        "date": "2026-07-10"
+        "price": 394.76001,
+        "change": -13.0,
+        "pct_change": -3.188,
+        "date": "2026-07-13"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 357.179993,
-        "change": -1.710022,
-        "pct_change": -0.476,
-        "date": "2026-07-10"
+        "price": 352.51001,
+        "change": -4.669983,
+        "pct_change": -1.307,
+        "date": "2026-07-13"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 523.219971,
-        "change": 4.959961,
-        "pct_change": 0.957,
-        "date": "2026-07-10"
+        "price": 520.679993,
+        "change": -2.539978,
+        "pct_change": -0.485,
+        "date": "2026-07-13"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 195.929993,
-        "change": 0.729996,
-        "pct_change": 0.374,
-        "date": "2026-07-10"
+        "price": 196.389999,
+        "change": 0.460007,
+        "pct_change": 0.235,
+        "date": "2026-07-13"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 539.630005,
-        "change": 7.400024,
-        "pct_change": 1.39,
-        "date": "2026-07-10"
+        "price": 541.820007,
+        "change": 2.190002,
+        "pct_change": 0.406,
+        "date": "2026-07-13"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 16:46:24 GMT",
+      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 20:57:08 GMT",
       "matched_keywords": [
-        "attack"
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 17:40:34 GMT",
+      "title": "Hungary parliament votes to remove president from office",
+      "link": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 20:39:14 GMT",
+      "matched_keywords": [
+        "president",
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Lindsey Graham's sister chosen as replacement after senator's death",
+      "link": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 20:26:15 GMT",
       "matched_keywords": [
         "nato"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
-      "link": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 19:42:26 GMT",
-      "matched_keywords": [
-        "nato"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 13:35:01 GMT",
+      "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
+      "link": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 11:36:18 GMT",
       "matched_keywords": [
         "coup"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "link": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 16:35:50 GMT",
-      "matched_keywords": [
-        "coup",
-        "gas"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 21:56:52 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 16:11:33 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
-      "published": "Sun, 12 Jul 2026 21:12:54 +0000",
+      "title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
+      "link": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 12:02:19 GMT",
       "matched_keywords": [
         "war",
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Heavy rains and flash floods in Bangladesh leave 51 dead",
+      "link": "https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 06:19:49 GMT",
+      "matched_keywords": [
+        "flood"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+      "link": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 23:41:00 GMT",
+      "matched_keywords": [
         "nato"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
+      "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 00:07:00 GMT",
+      "matched_keywords": [
+        "president"
       ]
     }
   ]
