@@ -1,5 +1,5 @@
-# Daily Feed — 2026-07-13
-*Generated: 2026-07-13T21:30:07+00:00 UTC*
+# Daily Feed — 2026-07-14
+*Generated: 2026-07-14T21:30:07+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,008.7000 | ▼ 95.4001 | -2.33% |
-| Silver |      57.9800 | ▼ 1.8290 | -3.06% |
-| Soybeans |   1,193.5000 | ▼ 3.0000 | -0.25% |
-| Sugar #11 (Raw) |      14.7600 | ▼ 0.1200 | -0.81% |
+| Gold |   4,058.3000 | ▲ 61.3000 | +1.53% |
+| Silver |      59.0400 | ▲ 1.4060 | +2.44% |
+| Soybeans |   1,190.5000 | ▼ 11.5000 | -0.96% |
+| Sugar #11 (Raw) |      14.9200 | ▲ 0.1700 | +1.15% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6919 | ▼ 0.0025 | -0.36% |
+| AUD/USD |       0.6973 | ▲ 0.0031 | +0.44% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,515.3398 | ▼ 60.0503 | -0.79% |
-| US 10Y Yield (%) |       4.6090 | ▲ 0.0400 | +0.88% |
-| Hang Seng 50 |  24,175.1191 | ▲ 144.9395 | +0.60% |
-| South Africa Top 40 |  10,271.0000 | ▼ 36.0000 | -0.35% |
-| Switzerland SMI |  14,266.1797 | ▲ 31.0898 | +0.22% |
-| ASX 200 (XJO) |   8,806.0000 | ▲ 43.5000 | +0.50% |
+| S&P 500 |   7,543.5898 | ▲ 28.2500 | +0.38% |
+| US 10Y Yield (%) |       4.5850 | ▼ 0.0240 | -0.52% |
+| Hang Seng 50 |  24,213.7207 | ▲ 38.6016 | +0.16% |
+| South Africa Top 40 |  10,317.0000 | ▲ 46.0000 | +0.45% |
+| Switzerland SMI |  14,241.7695 | ▼ 24.4102 | -0.17% |
+| ASX 200 (XJO) |   8,808.5000 | ▲ 2.5000 | +0.03% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     130.0400 | ▲ 3.2500 | +2.56% |
-| McDonald's |     272.6100 | ▼ 1.9900 | -0.72% |
-| Tesla |     394.7600 | ▼ 13.0000 | -3.19% |
-| Alphabet |     352.5100 | ▼ 4.6700 | -1.31% |
-| Lockheed Martin |     520.6800 | ▼ 2.5400 | -0.48% |
-| RTX (Raytheon) |     196.3900 | ▲ 0.4600 | +0.23% |
-| Northrop Grumman |     541.8200 | ▲ 2.1900 | +0.41% |
+| Palantir |     133.7200 | ▲ 3.6800 | +2.83% |
+| McDonald's |     268.9400 | ▼ 3.6700 | -1.35% |
+| Tesla |     396.1800 | ▲ 1.4200 | +0.36% |
+| Alphabet |     359.5100 | ▲ 7.0000 | +1.99% |
+| Lockheed Martin |     514.9900 | ▼ 5.6900 | -1.09% |
+| RTX (Raytheon) |     193.3900 | ▼ 3.0000 | -1.53% |
+| Northrop Grumman |     528.6700 | ▼ 13.1500 | -2.43% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz
+**[BBC World]** Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal
+*Tags: ceasefire*
+https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Israeli strike on police post in north Gaza kills seven, officials say
+*Tags: military*
+https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation
 *Tags: president*
-https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** How US commerce secretary's Epstein links were uncovered by British whistleblower
+*Tags: war*
+https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Hungary parliament votes to remove president from office
 *Tags: president, prime minister*
 https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss
 
+**[BBC World]** Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport
+*Tags: attack, missile*
+https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** EU bans gold imports from Sudan to curb money financing the war
+*Tags: war*
+https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss
+
 **[BBC World]** Lindsey Graham's sister chosen as replacement after senator's death
 *Tags: nato*
 https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** German court convicts Iraqi couple of enslaving Yazidi girls
-*Tags: coup*
-https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Sudan's paramilitary RSF chief sentenced to death over war crimes
-*Tags: war, military*
-https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Heavy rains and flash floods in Bangladesh leave 51 dead
-*Tags: flood*
-https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** US Senator Mitch McConnell says absence due to fall and pneumonia
-*Tags: nato*
-https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** 10 years of Pokémon Go and the millions still trying to catch 'em all
-*Tags: president*
-https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

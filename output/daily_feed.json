@@ -1,149 +1,176 @@
 {
-  "generated_at": "2026-07-13T21:30:07+00:00",
+  "generated_at": "2026-07-14T21:30:07+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4008.699951,
-        "change": -95.400146,
-        "pct_change": -2.325,
-        "date": "2026-07-13"
+        "price": 4058.300049,
+        "change": 61.300049,
+        "pct_change": 1.534,
+        "date": "2026-07-14"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 57.98,
-        "change": -1.828999,
-        "pct_change": -3.058,
-        "date": "2026-07-13"
+        "price": 59.040001,
+        "change": 1.406002,
+        "pct_change": 2.44,
+        "date": "2026-07-14"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1193.5,
-        "change": -3.0,
-        "pct_change": -0.251,
-        "date": "2026-07-13"
+        "price": 1190.5,
+        "change": -11.5,
+        "pct_change": -0.957,
+        "date": "2026-07-14"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.76,
-        "change": -0.12,
-        "pct_change": -0.806,
-        "date": "2026-07-13"
+        "price": 14.92,
+        "change": 0.17,
+        "pct_change": 1.153,
+        "date": "2026-07-14"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.691946,
-        "change": -0.002494,
-        "pct_change": -0.359,
-        "date": "2026-07-13"
+        "price": 0.697301,
+        "change": 0.003082,
+        "pct_change": 0.444,
+        "date": "2026-07-14"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7515.339844,
-        "change": -60.050293,
-        "pct_change": -0.793,
-        "date": "2026-07-13"
+        "price": 7543.589844,
+        "change": 28.25,
+        "pct_change": 0.376,
+        "date": "2026-07-14"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.609,
-        "change": 0.04,
-        "pct_change": 0.875,
-        "date": "2026-07-13"
+        "price": 4.585,
+        "change": -0.024,
+        "pct_change": -0.521,
+        "date": "2026-07-14"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24175.119141,
-        "change": 144.939453,
-        "pct_change": 0.603,
-        "date": "2026-07-10"
+        "price": 24213.720703,
+        "change": 38.601562,
+        "pct_change": 0.16,
+        "date": "2026-07-13"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10271.0,
-        "change": -36.0,
-        "pct_change": -0.349,
-        "date": "2026-07-13"
+        "price": 10317.0,
+        "change": 46.0,
+        "pct_change": 0.448,
+        "date": "2026-07-14"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14266.179688,
-        "change": 31.089844,
-        "pct_change": 0.218,
-        "date": "2026-07-13"
+        "price": 14241.769531,
+        "change": -24.410156,
+        "pct_change": -0.171,
+        "date": "2026-07-14"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8806.0,
-        "change": 43.5,
-        "pct_change": 0.496,
-        "date": "2026-07-10"
+        "price": 8808.5,
+        "change": 2.5,
+        "pct_change": 0.028,
+        "date": "2026-07-13"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 130.039993,
-        "change": 3.249992,
-        "pct_change": 2.563,
-        "date": "2026-07-13"
+        "price": 133.720001,
+        "change": 3.680008,
+        "pct_change": 2.83,
+        "date": "2026-07-14"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 272.609985,
-        "change": -1.990021,
-        "pct_change": -0.725,
-        "date": "2026-07-13"
+        "price": 268.940002,
+        "change": -3.669983,
+        "pct_change": -1.346,
+        "date": "2026-07-14"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 394.76001,
-        "change": -13.0,
-        "pct_change": -3.188,
-        "date": "2026-07-13"
+        "price": 396.179993,
+        "change": 1.419983,
+        "pct_change": 0.36,
+        "date": "2026-07-14"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 352.51001,
-        "change": -4.669983,
-        "pct_change": -1.307,
-        "date": "2026-07-13"
+        "price": 359.51001,
+        "change": 7.0,
+        "pct_change": 1.986,
+        "date": "2026-07-14"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 520.679993,
-        "change": -2.539978,
-        "pct_change": -0.485,
-        "date": "2026-07-13"
+        "price": 514.98999,
+        "change": -5.690002,
+        "pct_change": -1.093,
+        "date": "2026-07-14"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 196.389999,
-        "change": 0.460007,
-        "pct_change": 0.235,
-        "date": "2026-07-13"
+        "price": 193.389999,
+        "change": -3.0,
+        "pct_change": -1.528,
+        "date": "2026-07-14"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 541.820007,
-        "change": 2.190002,
-        "pct_change": 0.406,
-        "date": "2026-07-13"
+        "price": 528.669983,
+        "change": -13.150024,
+        "pct_change": -2.427,
+        "date": "2026-07-14"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 20:57:08 GMT",
+      "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+      "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 19:13:49 GMT",
+      "matched_keywords": [
+        "ceasefire"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 17:13:27 GMT",
+      "matched_keywords": [
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+      "link": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 17:07:42 GMT",
       "matched_keywords": [
         "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+      "link": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 05:00:03 GMT",
+      "matched_keywords": [
+        "war"
       ]
     },
     {
@@ -158,57 +185,30 @@
     },
     {
       "source": "BBC World",
+      "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+      "link": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 10:02:43 GMT",
+      "matched_keywords": [
+        "attack",
+        "missile"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "EU bans gold imports from Sudan to curb money financing the war",
+      "link": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 08:32:49 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
       "title": "Lindsey Graham's sister chosen as replacement after senator's death",
       "link": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 20:26:15 GMT",
+      "published": "Mon, 13 Jul 2026 21:37:02 GMT",
       "matched_keywords": [
         "nato"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
-      "link": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 11:36:18 GMT",
-      "matched_keywords": [
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
-      "link": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 12:02:19 GMT",
-      "matched_keywords": [
-        "war",
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Heavy rains and flash floods in Bangladesh leave 51 dead",
-      "link": "https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 06:19:49 GMT",
-      "matched_keywords": [
-        "flood"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
-      "link": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 23:41:00 GMT",
-      "matched_keywords": [
-        "nato"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
-      "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 00:07:00 GMT",
-      "matched_keywords": [
-        "president"
       ]
     }
   ]
