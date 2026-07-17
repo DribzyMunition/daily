@@ -1,151 +1,206 @@
 {
-  "generated_at": "2026-07-16T21:30:05+00:00",
+  "generated_at": "2026-07-17T21:52:28+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 3979.899902,
-        "change": -64.100098,
-        "pct_change": -1.585,
-        "date": "2026-07-16"
+        "price": 4023.0,
+        "change": 37.399902,
+        "pct_change": 0.938,
+        "date": "2026-07-17"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 55.764999,
-        "change": -1.345001,
-        "pct_change": -2.355,
-        "date": "2026-07-16"
+        "price": 56.220001,
+        "change": 0.322002,
+        "pct_change": 0.576,
+        "date": "2026-07-17"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1193.75,
-        "change": -8.5,
-        "pct_change": -0.707,
-        "date": "2026-07-16"
+        "price": 1202.5,
+        "change": 7.5,
+        "pct_change": 0.628,
+        "date": "2026-07-17"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.41,
-        "change": -0.440001,
-        "pct_change": -2.963,
-        "date": "2026-07-16"
+        "price": 14.82,
+        "change": 0.38,
+        "pct_change": 2.632,
+        "date": "2026-07-17"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.700035,
-        "change": 0.002385,
-        "pct_change": 0.342,
-        "date": "2026-07-16"
+        "price": 0.69847,
+        "change": -0.00234,
+        "pct_change": -0.334,
+        "date": "2026-07-17"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7533.77002,
-        "change": -38.629883,
-        "pct_change": -0.51,
-        "date": "2026-07-16"
+        "price": 7457.689941,
+        "change": -76.080078,
+        "pct_change": -1.01,
+        "date": "2026-07-17"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.569,
-        "change": 0.024,
-        "pct_change": 0.528,
-        "date": "2026-07-16"
+        "price": 4.541,
+        "change": -0.028,
+        "pct_change": -0.613,
+        "date": "2026-07-17"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24681.099609,
-        "change": 340.369141,
-        "pct_change": 1.398,
-        "date": "2026-07-15"
+        "price": 25008.599609,
+        "change": 327.5,
+        "pct_change": 1.327,
+        "date": "2026-07-16"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10337.0,
-        "change": -30.0,
-        "pct_change": -0.289,
-        "date": "2026-07-16"
+        "price": 10253.0,
+        "change": -84.0,
+        "pct_change": -0.813,
+        "date": "2026-07-17"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14267.19043,
-        "change": -40.119141,
-        "pct_change": -0.28,
-        "date": "2026-07-16"
+        "price": 14343.700195,
+        "change": 76.509766,
+        "pct_change": 0.536,
+        "date": "2026-07-17"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8841.099609,
-        "change": 32.599609,
-        "pct_change": 0.37,
-        "date": "2026-07-15"
+        "price": 8840.700195,
+        "change": -0.399414,
+        "pct_change": -0.005,
+        "date": "2026-07-16"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 134.440002,
-        "change": 0.680008,
-        "pct_change": 0.508,
-        "date": "2026-07-16"
+        "price": 132.380005,
+        "change": -2.059998,
+        "pct_change": -1.532,
+        "date": "2026-07-17"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 273.459991,
-        "change": 8.509979,
-        "pct_change": 3.212,
-        "date": "2026-07-16"
+        "price": 267.709991,
+        "change": -5.75,
+        "pct_change": -2.103,
+        "date": "2026-07-17"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 391.059998,
-        "change": -3.399994,
-        "pct_change": -0.862,
-        "date": "2026-07-16"
+        "price": 380.839996,
+        "change": -10.220001,
+        "pct_change": -2.613,
+        "date": "2026-07-17"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 354.459991,
-        "change": -16.460022,
-        "pct_change": -4.438,
-        "date": "2026-07-16"
+        "price": 346.769989,
+        "change": -7.690002,
+        "pct_change": -2.169,
+        "date": "2026-07-17"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 513.52002,
-        "change": -0.940002,
-        "pct_change": -0.183,
-        "date": "2026-07-16"
+        "price": 508.769989,
+        "change": -4.750031,
+        "pct_change": -0.925,
+        "date": "2026-07-17"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 194.360001,
-        "change": -1.529999,
-        "pct_change": -0.781,
-        "date": "2026-07-16"
+        "price": 193.509995,
+        "change": -0.850006,
+        "pct_change": -0.437,
+        "date": "2026-07-17"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 518.650024,
-        "change": -6.569946,
-        "pct_change": -1.251,
-        "date": "2026-07-16"
+        "price": 521.570007,
+        "change": 2.919983,
+        "pct_change": 0.563,
+        "date": "2026-07-17"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Iran targets military bases as US launches wave of strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Jul 2026 11:48:49 GMT",
+      "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 17 Jul 2026 18:33:12 GMT",
       "matched_keywords": [
         "attack",
-        "military",
-        "explosion"
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 17 Jul 2026 19:04:09 GMT",
+      "matched_keywords": [
+        "troops"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump threatens to tariff Canada over wildfire smoke choking northern US cities",
+      "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 17 Jul 2026 21:14:02 GMT",
+      "matched_keywords": [
+        "tariff"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 17 Jul 2026 20:00:54 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+      "link": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 17 Jul 2026 18:12:54 GMT",
+      "matched_keywords": [
+        "war",
+        "earthquake",
+        "tsunami"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
+      "link": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 17 Jul 2026 17:01:16 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 17 Jul 2026 11:37:00 GMT",
+      "matched_keywords": [
+        "election"
       ]
     },
     {
@@ -155,61 +210,6 @@
       "published": "Thu, 16 Jul 2026 17:22:31 GMT",
       "matched_keywords": [
         "collapse"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "At least one dead in Texas floods ravaging same area where campers died",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Jul 2026 17:56:47 GMT",
-      "matched_keywords": [
-        "flood"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "'Moment of joy' as Uganda discharges last Ebola patient",
-      "link": "https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Jul 2026 17:15:32 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Volunteer firefighter suspected of starting devastating France forest fire",
-      "link": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Jul 2026 12:44:26 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Children among dead at Algeria foster care home blaze - president",
-      "link": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Jul 2026 16:14:45 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "JD Vance says Welsh castle was 'coolest thing I've ever seen'",
-      "link": "https://www.bbc.co.uk/news/articles/ckg8g5z83glo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Jul 2026 16:08:28 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US military to start screening for testosterone deficiency, Hegseth says",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Jul 2026 09:10:38 GMT",
-      "matched_keywords": [
-        "military",
-        "troops"
       ]
     }
   ]
