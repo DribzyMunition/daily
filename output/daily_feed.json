@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-07-17T21:52:28+00:00",
+  "generated_at": "2026-07-18T22:18:00+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4023.0,
-        "change": 37.399902,
-        "pct_change": 0.938,
+        "price": 4012.699951,
+        "change": 27.099854,
+        "pct_change": 0.68,
         "date": "2026-07-17"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 56.220001,
-        "change": 0.322002,
-        "pct_change": 0.576,
+        "price": 56.037998,
+        "change": 0.139999,
+        "pct_change": 0.25,
         "date": "2026-07-17"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1202.5,
-        "change": 7.5,
-        "pct_change": 0.628,
+        "price": 1204.5,
+        "change": 9.5,
+        "pct_change": 0.795,
         "date": "2026-07-17"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.82,
-        "change": 0.38,
-        "pct_change": 2.632,
+        "price": 14.83,
+        "change": 0.39,
+        "pct_change": 2.701,
         "date": "2026-07-17"
       }
     },
@@ -35,9 +35,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.69847,
-        "change": -0.00234,
-        "pct_change": -0.334,
-        "date": "2026-07-17"
+        "change": -0.00147,
+        "pct_change": -0.21,
+        "date": "2026-07-18"
       }
     },
     "indices": {
@@ -57,10 +57,10 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25008.599609,
-        "change": 327.5,
-        "pct_change": 1.327,
-        "date": "2026-07-16"
+        "price": 24562.240234,
+        "change": -446.359375,
+        "pct_change": -1.785,
+        "date": "2026-07-17"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8840.700195,
-        "change": -0.399414,
-        "pct_change": -0.005,
-        "date": "2026-07-16"
+        "price": 8796.700195,
+        "change": -44.0,
+        "pct_change": -0.498,
+        "date": "2026-07-17"
       }
     },
     "stocks": {
@@ -139,12 +139,31 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 18:33:12 GMT",
+      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+      "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Jul 2026 21:12:28 GMT",
       "matched_keywords": [
         "attack",
-        "military"
+        "military",
+        "troops"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+      "link": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Jul 2026 13:06:25 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Hungary's president agrees to stand down after parliament backs removal",
+      "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Jul 2026 19:34:16 GMT",
+      "matched_keywords": [
+        "president"
       ]
     },
     {
@@ -158,16 +177,16 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump threatens to tariff Canada over wildfire smoke choking northern US cities",
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
       "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 21:14:02 GMT",
+      "published": "Sat, 18 Jul 2026 17:29:50 GMT",
       "matched_keywords": [
         "tariff"
       ]
     },
     {
       "source": "BBC World",
-      "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
+      "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
       "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 17 Jul 2026 20:00:54 GMT",
       "matched_keywords": [
@@ -192,24 +211,6 @@
       "published": "Fri, 17 Jul 2026 17:01:16 GMT",
       "matched_keywords": [
         "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 11:37:00 GMT",
-      "matched_keywords": [
-        "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
-      "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Jul 2026 17:22:31 GMT",
-      "matched_keywords": [
-        "collapse"
       ]
     }
   ]

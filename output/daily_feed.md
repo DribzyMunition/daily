@@ -1,5 +1,5 @@
-# Daily Feed — 2026-07-17
-*Generated: 2026-07-17T21:52:28+00:00 UTC*
+# Daily Feed — 2026-07-18
+*Generated: 2026-07-18T22:18:00+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,023.0000 | ▲ 37.3999 | +0.94% |
-| Silver |      56.2200 | ▲ 0.3220 | +0.58% |
-| Soybeans |   1,202.5000 | ▲ 7.5000 | +0.63% |
-| Sugar #11 (Raw) |      14.8200 | ▲ 0.3800 | +2.63% |
+| Gold |   4,012.7000 | ▲ 27.0999 | +0.68% |
+| Silver |      56.0380 | ▲ 0.1400 | +0.25% |
+| Soybeans |   1,204.5000 | ▲ 9.5000 | +0.80% |
+| Sugar #11 (Raw) |      14.8300 | ▲ 0.3900 | +2.70% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6985 | ▼ 0.0023 | -0.33% |
+| AUD/USD |       0.6985 | ▼ 0.0015 | -0.21% |
 
 ### Indices
 
@@ -26,10 +26,10 @@
 |:------|------:|------:|---------:|
 | S&P 500 |   7,457.6899 | ▼ 76.0801 | -1.01% |
 | US 10Y Yield (%) |       4.5410 | ▼ 0.0280 | -0.61% |
-| Hang Seng 50 |  25,008.5996 | ▲ 327.5000 | +1.33% |
+| Hang Seng 50 |  24,562.2402 | ▼ 446.3594 | -1.78% |
 | South Africa Top 40 |  10,253.0000 | ▼ 84.0000 | -0.81% |
 | Switzerland SMI |  14,343.7002 | ▲ 76.5098 | +0.54% |
-| ASX 200 (XJO) |   8,840.7002 | ▼ 0.3994 | -0.01% |
+| ASX 200 (XJO) |   8,796.7002 | ▼ 44.0000 | -0.50% |
 
 ### Stocks
 
@@ -47,19 +47,27 @@
 
 ## Key Global Headlines
 
-**[BBC World]** US denies Iranian claims it hit civilian infrastructure in latest strikes
-*Tags: attack, military*
-https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Two US troops killed and one missing after Iranian attack in Jordan
+*Tags: attack, military, troops*
+https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Russian online retail warehouses hit by deadly Ukrainian strikes
+*Tags: war*
+https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Hungary's president agrees to stand down after parliament backs removal
+*Tags: president*
+https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC
 *Tags: troops*
 https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Trump threatens to tariff Canada over wildfire smoke choking northern US cities
+**[BBC World]** Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities
 *Tags: tariff*
 https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** One anti-war critic fined, another held as Russia clamps down on opponents
+**[BBC World]** One anti-war critic fined, another held as Russia clamps down on dissent
 *Tags: war*
 https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss
 
@@ -70,14 +78,6 @@ https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss
 **[BBC World]** Second tanker in three months hijacked off Yemen by suspected Somali pirates
 *Tags: attack*
 https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump alleges China meddled in 2020 election and questions voting security ahead of midterms
-*Tags: election*
-https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Italian officials handed jail terms for Genoa bridge disaster that killed 43
-*Tags: collapse*
-https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
