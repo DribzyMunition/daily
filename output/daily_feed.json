@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-07-18T22:18:00+00:00",
+  "generated_at": "2026-07-20T00:22:51+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4012.699951,
-        "change": 27.099854,
-        "pct_change": 0.68,
-        "date": "2026-07-17"
+        "price": 3995.100098,
+        "change": -17.599854,
+        "pct_change": -0.439,
+        "date": "2026-07-19"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 56.037998,
-        "change": 0.139999,
-        "pct_change": 0.25,
-        "date": "2026-07-17"
+        "price": 56.259998,
+        "change": 0.222,
+        "pct_change": 0.396,
+        "date": "2026-07-19"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1204.5,
-        "change": 9.5,
-        "pct_change": 0.795,
-        "date": "2026-07-17"
+        "price": 1212.25,
+        "change": 7.75,
+        "pct_change": 0.643,
+        "date": "2026-07-19"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.83,
-        "change": 0.39,
-        "pct_change": 2.701,
+        "price": 14.82,
+        "change": 0.38,
+        "pct_change": 2.632,
         "date": "2026-07-17"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.69847,
-        "change": -0.00147,
-        "pct_change": -0.21,
-        "date": "2026-07-18"
+        "price": 0.698665,
+        "change": -0.001274,
+        "pct_change": -0.182,
+        "date": "2026-07-20"
       }
     },
     "indices": {
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8796.700195,
-        "change": -44.0,
-        "pct_change": -0.498,
-        "date": "2026-07-17"
+        "price": 8830.700195,
+        "change": 34.0,
+        "pct_change": 0.387,
+        "date": "2026-07-20"
       }
     },
     "stocks": {
@@ -139,22 +139,40 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Jul 2026 21:12:28 GMT",
+      "title": "US soldier killed and one injured after Iranian attack in Iraq",
+      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Jul 2026 19:45:12 GMT",
       "matched_keywords": [
         "attack",
-        "military",
-        "troops"
+        "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-      "link": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Jul 2026 13:06:25 GMT",
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Jul 2026 18:25:40 GMT",
+      "matched_keywords": [
+        "attack",
+        "missile"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "New EU border system tripling time at passport control, airport boss says",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Jul 2026 01:47:59 GMT",
       "matched_keywords": [
         "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Health officials identify source of US explosive diarrhoea outbreak",
+      "link": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Jul 2026 15:17:23 GMT",
+      "matched_keywords": [
+        "outbreak"
       ]
     },
     {
@@ -164,15 +182,6 @@
       "published": "Sat, 18 Jul 2026 19:34:16 GMT",
       "matched_keywords": [
         "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 19:04:09 GMT",
-      "matched_keywords": [
-        "troops"
       ]
     },
     {
@@ -195,22 +204,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
-      "link": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 18:12:54 GMT",
+      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "link": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Jul 2026 23:59:26 GMT",
       "matched_keywords": [
-        "war",
-        "earthquake",
-        "tsunami"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
-      "link": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 17:01:16 GMT",
-      "matched_keywords": [
-        "attack"
+        "war"
       ]
     }
   ]

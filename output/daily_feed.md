@@ -1,5 +1,5 @@
-# Daily Feed — 2026-07-18
-*Generated: 2026-07-18T22:18:00+00:00 UTC*
+# Daily Feed — 2026-07-20
+*Generated: 2026-07-20T00:22:51+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,012.7000 | ▲ 27.0999 | +0.68% |
-| Silver |      56.0380 | ▲ 0.1400 | +0.25% |
-| Soybeans |   1,204.5000 | ▲ 9.5000 | +0.80% |
-| Sugar #11 (Raw) |      14.8300 | ▲ 0.3900 | +2.70% |
+| Gold |   3,995.1001 | ▼ 17.5999 | -0.44% |
+| Silver |      56.2600 | ▲ 0.2220 | +0.40% |
+| Soybeans |   1,212.2500 | ▲ 7.7500 | +0.64% |
+| Sugar #11 (Raw) |      14.8200 | ▲ 0.3800 | +2.63% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6985 | ▼ 0.0015 | -0.21% |
+| AUD/USD |       0.6987 | ▼ 0.0013 | -0.18% |
 
 ### Indices
 
@@ -29,7 +29,7 @@
 | Hang Seng 50 |  24,562.2402 | ▼ 446.3594 | -1.78% |
 | South Africa Top 40 |  10,253.0000 | ▼ 84.0000 | -0.81% |
 | Switzerland SMI |  14,343.7002 | ▲ 76.5098 | +0.54% |
-| ASX 200 (XJO) |   8,796.7002 | ▼ 44.0000 | -0.50% |
+| ASX 200 (XJO) |   8,830.7002 | ▲ 34.0000 | +0.39% |
 
 ### Stocks
 
@@ -47,21 +47,25 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Two US troops killed and one missing after Iranian attack in Jordan
-*Tags: attack, military, troops*
-https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss
+**[BBC World]** US soldier killed and one injured after Iranian attack in Iraq
+*Tags: attack, military*
+https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Russian online retail warehouses hit by deadly Ukrainian strikes
+**[BBC World]** Russia launches major ballistic missile attack on Ukrainian cities
+*Tags: attack, missile*
+https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** New EU border system tripling time at passport control, airport boss says
 *Tags: war*
-https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Health officials identify source of US explosive diarrhoea outbreak
+*Tags: outbreak*
+https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Hungary's president agrees to stand down after parliament backs removal
 *Tags: president*
 https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC
-*Tags: troops*
-https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities
 *Tags: tariff*
@@ -71,13 +75,9 @@ https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss
 *Tags: war*
 https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Magnitude 7.3 earthquake quake strikes off Mexico coast
-*Tags: war, earthquake, tsunami*
-https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Second tanker in three months hijacked off Yemen by suspected Somali pirates
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Russians turn to cash, putting more strain on slowing wartime economy
+*Tags: war*
+https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
