@@ -1,5 +1,5 @@
 # Daily Feed — 2026-07-21
-*Generated: 2026-07-21T00:50:28+00:00 UTC*
+*Generated: 2026-07-21T23:12:52+00:00 UTC*
 
 ---
 
@@ -9,51 +9,59 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,023.0000 | ▲ 10.3000 | +0.26% |
-| Silver |      56.8700 | ▲ 0.8320 | +1.49% |
-| Soybeans |   1,223.7500 | ▲ 19.2500 | +1.60% |
-| Sugar #11 (Raw) |      14.8100 | ▼ 0.0200 | -0.14% |
+| Gold |   4,084.5000 | ▲ 74.2000 | +1.85% |
+| Silver |      59.0550 | ▲ 2.2530 | +3.97% |
+| Soybeans |   1,222.2500 | ▼ 3.7500 | -0.31% |
+| Sugar #11 (Raw) |      14.9000 | ▲ 0.0800 | +0.54% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7008 | ▲ 0.0029 | +0.41% |
+| AUD/USD |       0.7001 | ▲ 0.0000 | +0.00% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,443.2798 | ▼ 14.4102 | -0.19% |
-| US 10Y Yield (%) |       4.5980 | ▲ 0.0570 | +1.25% |
-| Hang Seng 50 |  24,562.2402 | ▼ 446.3594 | -1.78% |
-| South Africa Top 40 |  10,253.0000 | ▼ 84.0000 | -0.81% |
-| Switzerland SMI |  14,343.7002 | ▲ 76.5098 | +0.54% |
-| ASX 200 (XJO) |   8,746.5996 | ▼ 50.1006 | -0.57% |
+| S&P 500 |   7,509.2002 | ▲ 65.9204 | +0.89% |
+| US 10Y Yield (%) |       4.6280 | ▲ 0.0300 | +0.65% |
+| Hang Seng 50 |  25,143.0508 | ▲ 580.8105 | +2.37% |
+| South Africa Top 40 |  10,200.0000 | ▼ 53.0000 | -0.52% |
+| Switzerland SMI |  14,254.3604 | ▼ 89.3398 | -0.62% |
+| ASX 200 (XJO) |   8,791.2998 | ▼ 5.4004 | -0.06% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     134.8500 | ▲ 2.4700 | +1.87% |
-| McDonald's |     267.6400 | ▼ 0.0700 | -0.03% |
-| Tesla |     369.5700 | ▼ 11.2700 | -2.96% |
-| Alphabet |     351.9900 | ▲ 5.2200 | +1.50% |
-| Lockheed Martin |     509.5400 | ▲ 0.7700 | +0.15% |
-| RTX (Raytheon) |     194.4400 | ▲ 0.9300 | +0.48% |
-| Northrop Grumman |     523.9600 | ▲ 2.3900 | +0.46% |
+| Palantir |     132.6600 | ▼ 2.1900 | -1.62% |
+| McDonald's |     263.9100 | ▼ 3.7300 | -1.39% |
+| Tesla |     378.9300 | ▲ 9.3600 | +2.53% |
+| Alphabet |     347.1500 | ▼ 4.8400 | -1.38% |
+| Lockheed Martin |     507.0900 | ▼ 2.4500 | -0.48% |
+| RTX (Raytheon) |     193.6700 | ▼ 0.7700 | -0.40% |
+| Northrop Grumman |     512.2900 | ▼ 11.6700 | -2.23% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks
+**[BBC World]** Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal
+*Tags: conflict, troops*
+https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Carney looking at 'all options' as Trump announces 50% tariffs on Canada
 *Tags: tariff*
 https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers
-*Tags: war, attack*
+*Tags: war*
 https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Israeli strikes in Gaza kill 12, including family of six, medics say
+*Tags: attack, military*
+https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Ten killed as Russian attacks on merchant ships in Black Sea intensify
 *Tags: attack*
@@ -63,21 +71,13 @@ https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss
 *Tags: collapse*
 https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Merger deal between Paramount and Warner Bros paused by judge
+**[BBC World]** Russians turn to cash, putting more strain on slowing wartime economy
 *Tags: war*
-https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Hamas names Khalil al-Hayya as new overall leader
-*Tags: war*
-https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child
-*Tags: coup*
-https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Utah firefighter and four family members killed in flash flooding
+**[BBC World]** Watch: Flooded towns and evacuations as Chile hit by heavy rain
 *Tags: flood*
-https://www.bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

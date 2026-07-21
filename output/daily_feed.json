@@ -1,147 +1,157 @@
 {
-  "generated_at": "2026-07-21T00:50:28+00:00",
+  "generated_at": "2026-07-21T23:12:52+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4023.0,
-        "change": 10.300049,
-        "pct_change": 0.257,
-        "date": "2026-07-20"
+        "price": 4084.5,
+        "change": 74.199951,
+        "pct_change": 1.85,
+        "date": "2026-07-21"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 56.869999,
-        "change": 0.832001,
-        "pct_change": 1.485,
-        "date": "2026-07-20"
+        "price": 59.055,
+        "change": 2.253002,
+        "pct_change": 3.966,
+        "date": "2026-07-21"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1223.75,
-        "change": 19.25,
-        "pct_change": 1.598,
-        "date": "2026-07-20"
+        "price": 1222.25,
+        "change": -3.75,
+        "pct_change": -0.306,
+        "date": "2026-07-21"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.81,
-        "change": -0.02,
-        "pct_change": -0.135,
-        "date": "2026-07-20"
+        "price": 14.9,
+        "change": 0.08,
+        "pct_change": 0.54,
+        "date": "2026-07-21"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.700771,
-        "change": 0.002861,
-        "pct_change": 0.41,
-        "date": "2026-07-21"
+        "price": 0.700084,
+        "change": 5e-06,
+        "pct_change": 0.001,
+        "date": "2026-07-22"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7443.279785,
-        "change": -14.410156,
-        "pct_change": -0.193,
-        "date": "2026-07-20"
+        "price": 7509.200195,
+        "change": 65.92041,
+        "pct_change": 0.886,
+        "date": "2026-07-21"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.598,
-        "change": 0.057,
-        "pct_change": 1.255,
-        "date": "2026-07-20"
+        "price": 4.628,
+        "change": 0.03,
+        "pct_change": 0.652,
+        "date": "2026-07-21"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24562.240234,
-        "change": -446.359375,
-        "pct_change": -1.785,
-        "date": "2026-07-17"
+        "price": 25143.050781,
+        "change": 580.810547,
+        "pct_change": 2.365,
+        "date": "2026-07-20"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10253.0,
-        "change": -84.0,
-        "pct_change": -0.813,
-        "date": "2026-07-17"
+        "price": 10200.0,
+        "change": -53.0,
+        "pct_change": -0.517,
+        "date": "2026-07-20"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14343.700195,
-        "change": 76.509766,
-        "pct_change": 0.536,
-        "date": "2026-07-17"
+        "price": 14254.360352,
+        "change": -89.339844,
+        "pct_change": -0.623,
+        "date": "2026-07-20"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8746.599609,
-        "change": -50.100586,
-        "pct_change": -0.57,
-        "date": "2026-07-21"
+        "price": 8791.299805,
+        "change": -5.400391,
+        "pct_change": -0.061,
+        "date": "2026-07-20"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 134.850006,
-        "change": 2.470001,
-        "pct_change": 1.866,
-        "date": "2026-07-20"
+        "price": 132.660004,
+        "change": -2.190002,
+        "pct_change": -1.624,
+        "date": "2026-07-21"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 267.640015,
-        "change": -0.069977,
-        "pct_change": -0.026,
-        "date": "2026-07-20"
+        "price": 263.910004,
+        "change": -3.730011,
+        "pct_change": -1.394,
+        "date": "2026-07-21"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 369.570007,
-        "change": -11.269989,
-        "pct_change": -2.959,
-        "date": "2026-07-20"
+        "price": 378.929993,
+        "change": 9.359985,
+        "pct_change": 2.533,
+        "date": "2026-07-21"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 351.98999,
-        "change": 5.220001,
-        "pct_change": 1.505,
-        "date": "2026-07-20"
+        "price": 347.149994,
+        "change": -4.839996,
+        "pct_change": -1.375,
+        "date": "2026-07-21"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 509.540009,
-        "change": 0.77002,
-        "pct_change": 0.151,
-        "date": "2026-07-20"
+        "price": 507.089996,
+        "change": -2.450012,
+        "pct_change": -0.481,
+        "date": "2026-07-21"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 194.440002,
-        "change": 0.930008,
-        "pct_change": 0.481,
-        "date": "2026-07-20"
+        "price": 193.669998,
+        "change": -0.770004,
+        "pct_change": -0.396,
+        "date": "2026-07-21"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 523.960022,
-        "change": 2.390015,
-        "pct_change": 0.458,
-        "date": "2026-07-20"
+        "price": 512.289978,
+        "change": -11.670044,
+        "pct_change": -2.227,
+        "date": "2026-07-21"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 18:07:34 GMT",
+      "matched_keywords": [
+        "conflict",
+        "troops"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
       "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 00:34:47 GMT",
+      "published": "Tue, 21 Jul 2026 17:33:22 GMT",
       "matched_keywords": [
         "tariff"
       ]
@@ -150,10 +160,19 @@
       "source": "BBC World",
       "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
       "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 00:14:27 GMT",
+      "published": "Tue, 21 Jul 2026 16:10:56 GMT",
       "matched_keywords": [
-        "war",
-        "attack"
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
+      "link": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 15:54:11 GMT",
+      "matched_keywords": [
+        "attack",
+        "military"
       ]
     },
     {
@@ -176,36 +195,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Merger deal between Paramount and Warner Bros paused by judge",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 19:48:13 GMT",
+      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "link": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Jul 2026 23:59:26 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Hamas names Khalil al-Hayya as new overall leader",
-      "link": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 14:02:31 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
-      "link": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 11:28:30 GMT",
-      "matched_keywords": [
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Utah firefighter and four family members killed in flash flooding",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 12:13:58 GMT",
+      "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
+      "link": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 11:21:47 GMT",
       "matched_keywords": [
         "flood"
       ]
