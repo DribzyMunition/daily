@@ -1,5 +1,5 @@
-# Daily Feed — 2026-07-21
-*Generated: 2026-07-21T23:12:52+00:00 UTC*
+# Daily Feed — 2026-07-23
+*Generated: 2026-07-23T03:08:58+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,084.5000 | ▲ 74.2000 | +1.85% |
-| Silver |      59.0550 | ▲ 2.2530 | +3.97% |
-| Soybeans |   1,222.2500 | ▼ 3.7500 | -0.31% |
-| Sugar #11 (Raw) |      14.9000 | ▲ 0.0800 | +0.54% |
+| Gold |   4,130.7002 | ▲ 59.6001 | +1.46% |
+| Silver |      60.1250 | ▲ 1.2900 | +2.19% |
+| Soybeans |   1,240.2500 | ▲ 20.7500 | +1.70% |
+| Sugar #11 (Raw) |      14.7500 | ▼ 0.1300 | -0.87% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7001 | ▲ 0.0000 | +0.00% |
+| AUD/USD |       0.7015 | ▲ 0.0014 | +0.20% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,509.2002 | ▲ 65.9204 | +0.89% |
-| US 10Y Yield (%) |       4.6280 | ▲ 0.0300 | +0.65% |
-| Hang Seng 50 |  25,143.0508 | ▲ 580.8105 | +2.37% |
-| South Africa Top 40 |  10,200.0000 | ▼ 53.0000 | -0.52% |
-| Switzerland SMI |  14,254.3604 | ▼ 89.3398 | -0.62% |
-| ASX 200 (XJO) |   8,791.2998 | ▼ 5.4004 | -0.06% |
+| S&P 500 |   7,498.9600 | ▼ 10.2402 | -0.14% |
+| US 10Y Yield (%) |       4.6570 | ▲ 0.0290 | +0.63% |
+| Hang Seng 50 |  25,216.6797 | ▲ 324.0195 | +1.30% |
+| South Africa Top 40 |  10,198.9863 | ▼ 1.0000 | -0.01% |
+| Switzerland SMI |  14,315.8799 | ▲ 17.6201 | +0.12% |
+| ASX 200 (XJO) |   8,880.5996 | ▲ 57.5996 | +0.65% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     132.6600 | ▼ 2.1900 | -1.62% |
-| McDonald's |     263.9100 | ▼ 3.7300 | -1.39% |
-| Tesla |     378.9300 | ▲ 9.3600 | +2.53% |
-| Alphabet |     347.1500 | ▼ 4.8400 | -1.38% |
-| Lockheed Martin |     507.0900 | ▼ 2.4500 | -0.48% |
-| RTX (Raytheon) |     193.6700 | ▼ 0.7700 | -0.40% |
-| Northrop Grumman |     512.2900 | ▼ 11.6700 | -2.23% |
+| Palantir |     124.5700 | ▼ 8.0900 | -6.10% |
+| McDonald's |     263.5700 | ▼ 0.3400 | -0.13% |
+| Tesla |     374.0100 | ▼ 4.9200 | -1.30% |
+| Alphabet |     342.0900 | ▼ 5.0600 | -1.46% |
+| Lockheed Martin |     514.3600 | ▲ 7.2700 | +1.43% |
+| RTX (Raytheon) |     194.8800 | ▲ 1.2100 | +0.62% |
+| Northrop Grumman |     525.2800 | ▲ 12.9901 | +2.54% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal
-*Tags: conflict, troops*
-https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss
+**[BBC World]** US signs landmark nuclear deal with Saudi Arabia
+*Tags: nuclear*
+https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Carney looking at 'all options' as Trump announces 50% tariffs on Canada
-*Tags: tariff*
-https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers
-*Tags: war*
-https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Israeli strikes in Gaza kill 12, including family of six, medics say
-*Tags: attack, military*
-https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Ten killed as Russian attacks on merchant ships in Black Sea intensify
+**[BBC World]** Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist
 *Tags: attack*
-https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Boy, 13, dies during World Cup celebrations in Spain
-*Tags: collapse*
-https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Russia's businesses under strain from Ukraine's attacks on Wildberries
+*Tags: war, attack*
+https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Russians turn to cash, putting more strain on slowing wartime economy
+**[BBC World]** Canada's 'powerful' dairy sector is in Trump's trade crosshairs
+*Tags: president, tariff*
+https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Mamdani backs off pledge to arrest Netanyahu citing lack of authority
+*Tags: war, prime minister*
+https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Mysterious white foam draws crowds on  Nigerian highway
 *Tags: war*
-https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cm2g14lzy17o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Watch: Flooded towns and evacuations as Chile hit by heavy rain
-*Tags: flood*
-https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more
+*Tags: war*
+https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** A year after deadly jet crash at Bangladesh school, families demand answers
+*Tags: military*
+https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
