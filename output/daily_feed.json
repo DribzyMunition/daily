@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-07-23T03:08:58+00:00",
+  "generated_at": "2026-07-24T00:51:52+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4130.700195,
-        "change": 59.600098,
-        "pct_change": 1.464,
-        "date": "2026-07-22"
+        "price": 4050.600098,
+        "change": -96.299805,
+        "pct_change": -2.322,
+        "date": "2026-07-23"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 60.125,
-        "change": 1.290001,
-        "pct_change": 2.193,
-        "date": "2026-07-22"
+        "price": 57.955002,
+        "change": -2.063999,
+        "pct_change": -3.439,
+        "date": "2026-07-23"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1240.25,
-        "change": 20.75,
-        "pct_change": 1.702,
-        "date": "2026-07-22"
+        "price": 1246.5,
+        "change": 13.5,
+        "pct_change": 1.095,
+        "date": "2026-07-23"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.75,
-        "change": -0.13,
-        "pct_change": -0.874,
-        "date": "2026-07-22"
+        "price": 14.68,
+        "change": -0.059999,
+        "pct_change": -0.407,
+        "date": "2026-07-23"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.701508,
-        "change": 0.001428,
-        "pct_change": 0.204,
-        "date": "2026-07-23"
+        "price": 0.697545,
+        "change": -0.001425,
+        "pct_change": -0.204,
+        "date": "2026-07-24"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7498.959961,
-        "change": -10.240234,
-        "pct_change": -0.136,
-        "date": "2026-07-22"
+        "price": 7408.299805,
+        "change": -90.660156,
+        "pct_change": -1.209,
+        "date": "2026-07-23"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.657,
-        "change": 0.029,
-        "pct_change": 0.627,
-        "date": "2026-07-22"
+        "price": 4.703,
+        "change": 0.046,
+        "pct_change": 0.988,
+        "date": "2026-07-23"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25216.679688,
-        "change": 324.019531,
-        "pct_change": 1.302,
-        "date": "2026-07-23"
+        "price": 24892.660156,
+        "change": -239.628906,
+        "pct_change": -0.953,
+        "date": "2026-07-22"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10198.986328,
-        "change": -1.0,
-        "pct_change": -0.01,
-        "date": "2026-07-21"
+        "price": 10177.0,
+        "change": -21.986328,
+        "pct_change": -0.216,
+        "date": "2026-07-22"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
@@ -78,88 +78,118 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8880.599609,
-        "change": 57.599609,
-        "pct_change": 0.653,
-        "date": "2026-07-23"
+        "price": 8790.900391,
+        "change": -32.099609,
+        "pct_change": -0.364,
+        "date": "2026-07-24"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 124.57,
-        "change": -8.090004,
-        "pct_change": -6.098,
-        "date": "2026-07-22"
+        "price": 123.370003,
+        "change": -1.199997,
+        "pct_change": -0.963,
+        "date": "2026-07-23"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 263.570007,
-        "change": -0.339996,
-        "pct_change": -0.129,
-        "date": "2026-07-22"
+        "price": 262.799988,
+        "change": -0.77002,
+        "pct_change": -0.292,
+        "date": "2026-07-23"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 374.01001,
-        "change": -4.919983,
-        "pct_change": -1.298,
-        "date": "2026-07-22"
+        "price": 319.690002,
+        "change": -54.320007,
+        "pct_change": -14.524,
+        "date": "2026-07-23"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 342.089996,
-        "change": -5.059998,
-        "pct_change": -1.458,
-        "date": "2026-07-22"
+        "price": 317.690002,
+        "change": -24.399994,
+        "pct_change": -7.133,
+        "date": "2026-07-23"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 514.359985,
-        "change": 7.269989,
-        "pct_change": 1.434,
-        "date": "2026-07-22"
+        "price": 568.590027,
+        "change": 54.230042,
+        "pct_change": 10.543,
+        "date": "2026-07-23"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 194.880005,
-        "change": 1.210007,
-        "pct_change": 0.625,
-        "date": "2026-07-22"
+        "price": 209.160004,
+        "change": 14.279999,
+        "pct_change": 7.328,
+        "date": "2026-07-23"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 525.280029,
-        "change": 12.990051,
-        "pct_change": 2.536,
-        "date": "2026-07-22"
+        "price": 533.47998,
+        "change": 8.199951,
+        "pct_change": 1.561,
+        "date": "2026-07-23"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "US signs landmark nuclear deal with Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Jul 2026 00:21:53 GMT",
+      "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Jul 2026 00:40:26 GMT",
       "matched_keywords": [
-        "nuclear"
+        "tariff"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-      "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 22:17:54 GMT",
+      "title": "Oil prices hit $100 for the first time since May",
+      "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Jul 2026 15:31:00 GMT",
       "matched_keywords": [
-        "attack"
+        "war",
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Jul 2026 17:58:02 GMT",
+      "matched_keywords": [
+        "nuclear",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine's ousted defence minister insists on being reinstated",
+      "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Jul 2026 17:37:59 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Nicaragua's legislature debates barring opposition from elections",
+      "link": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Jul 2026 15:54:41 GMT",
+      "matched_keywords": [
+        "election",
+        "president"
       ]
     },
     {
       "source": "BBC World",
       "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
       "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 23:06:08 GMT",
+      "published": "Thu, 23 Jul 2026 06:15:35 GMT",
       "matched_keywords": [
         "war",
         "attack"
@@ -177,39 +207,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
-      "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 17:54:57 GMT",
+      "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Jul 2026 13:44:19 GMT",
       "matched_keywords": [
-        "war",
-        "prime minister"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Mysterious white foam draws crowds on  Nigerian highway",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g14lzy17o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 14:47:32 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-      "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 02:15:05 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "A year after deadly jet crash at Bangladesh school, families demand answers",
-      "link": "https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 22:04:07 GMT",
-      "matched_keywords": [
-        "military"
+        "attack"
       ]
     }
   ]
