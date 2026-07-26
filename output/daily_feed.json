@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-07-25T00:16:50+00:00",
+  "generated_at": "2026-07-26T03:10:20+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4055.699951,
-        "change": 9.099854,
-        "pct_change": 0.225,
+        "price": 4067.600098,
+        "change": 21.0,
+        "pct_change": 0.519,
         "date": "2026-07-24"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 58.490002,
-        "change": 0.692001,
-        "pct_change": 1.197,
+        "price": 58.655998,
+        "change": 0.857998,
+        "pct_change": 1.484,
         "date": "2026-07-24"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1252.5,
-        "change": 15.0,
-        "pct_change": 1.212,
+        "price": 1248.0,
+        "change": 10.5,
+        "pct_change": 0.848,
         "date": "2026-07-24"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.76,
-        "change": 0.070001,
-        "pct_change": 0.477,
+        "price": 14.77,
+        "change": 0.080001,
+        "pct_change": 0.545,
         "date": "2026-07-24"
       }
     },
@@ -35,9 +35,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.698324,
-        "change": -0.000646,
-        "pct_change": -0.092,
-        "date": "2026-07-24"
+        "change": 0.001604,
+        "pct_change": 0.23,
+        "date": "2026-07-25"
       }
     },
     "indices": {
@@ -57,31 +57,31 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25210.810547,
-        "change": 318.150391,
-        "pct_change": 1.278,
-        "date": "2026-07-23"
+        "price": 24963.230469,
+        "change": -247.580078,
+        "pct_change": -0.982,
+        "date": "2026-07-24"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10094.0,
-        "change": -83.0,
-        "pct_change": -0.816,
-        "date": "2026-07-23"
+        "price": 10171.0,
+        "change": 77.0,
+        "pct_change": 0.763,
+        "date": "2026-07-24"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14214.950195,
-        "change": -100.929688,
-        "pct_change": -0.705,
-        "date": "2026-07-23"
+        "price": 14327.200195,
+        "change": 112.25,
+        "pct_change": 0.79,
+        "date": "2026-07-24"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8839.0,
-        "change": 16.0,
-        "pct_change": 0.181,
-        "date": "2026-07-23"
+        "price": 8772.299805,
+        "change": -66.700195,
+        "pct_change": -0.755,
+        "date": "2026-07-24"
       }
     },
     "stocks": {
@@ -139,11 +139,22 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-      "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 21:47:16 GMT",
+      "title": "More than 300,000 flee wildfires in France and Spain",
+      "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 26 Jul 2026 00:54:06 GMT",
       "matched_keywords": [
         "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 25 Jul 2026 06:34:40 GMT",
+      "matched_keywords": [
+        "attack",
+        "military",
+        "missile"
       ]
     },
     {
@@ -167,6 +178,16 @@
     },
     {
       "source": "BBC World",
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Jul 2026 22:49:59 GMT",
+      "matched_keywords": [
+        "attack",
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
       "title": "Trump vows to investigate EU over fining of US tech companies",
       "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 24 Jul 2026 20:23:58 GMT",
@@ -176,9 +197,9 @@
     },
     {
       "source": "BBC World",
-      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 18:13:02 GMT",
+      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+      "link": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 25 Jul 2026 02:23:09 GMT",
       "matched_keywords": [
         "war"
       ]
@@ -190,27 +211,6 @@
       "published": "Fri, 24 Jul 2026 12:40:44 GMT",
       "matched_keywords": [
         "tariff"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 22:49:59 GMT",
-      "matched_keywords": [
-        "attack",
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Nigeria's president approves largest military expansion in recent times",
-      "link": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 15:22:56 GMT",
-      "matched_keywords": [
-        "attack",
-        "military",
-        "president"
       ]
     }
   ]
