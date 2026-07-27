@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-07-26T03:10:20+00:00",
+  "generated_at": "2026-07-27T02:10:30+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4067.600098,
-        "change": 21.0,
-        "pct_change": 0.519,
-        "date": "2026-07-24"
+        "price": 4112.200195,
+        "change": 44.600098,
+        "pct_change": 1.096,
+        "date": "2026-07-27"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 58.655998,
-        "change": 0.857998,
-        "pct_change": 1.484,
-        "date": "2026-07-24"
+        "price": 60.110001,
+        "change": 1.454002,
+        "pct_change": 2.479,
+        "date": "2026-07-27"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1248.0,
-        "change": 10.5,
-        "pct_change": 0.848,
-        "date": "2026-07-24"
+        "price": 1241.25,
+        "change": -6.75,
+        "pct_change": -0.541,
+        "date": "2026-07-27"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.77,
-        "change": 0.080001,
-        "pct_change": 0.545,
+        "price": 14.76,
+        "change": 0.070001,
+        "pct_change": 0.477,
         "date": "2026-07-24"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.698324,
-        "change": 0.001604,
-        "pct_change": 0.23,
-        "date": "2026-07-25"
+        "price": 0.700476,
+        "change": 0.003756,
+        "pct_change": 0.539,
+        "date": "2026-07-27"
       }
     },
     "indices": {
@@ -57,10 +57,10 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24963.230469,
-        "change": -247.580078,
-        "pct_change": -0.982,
-        "date": "2026-07-24"
+        "price": 25040.300781,
+        "change": 77.070312,
+        "pct_change": 0.309,
+        "date": "2026-07-27"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8772.299805,
-        "change": -66.700195,
-        "pct_change": -0.755,
-        "date": "2026-07-24"
+        "price": 8854.200195,
+        "change": 81.900391,
+        "pct_change": 0.934,
+        "date": "2026-07-27"
       }
     },
     "stocks": {
@@ -139,22 +139,56 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "More than 300,000 flee wildfires in France and Spain",
-      "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 26 Jul 2026 00:54:06 GMT",
+      "title": "Berlin Pride attack suspect shot and killed during police operation",
+      "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 26 Jul 2026 19:21:26 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 26 Jul 2026 20:34:23 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+      "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Jul 2026 00:27:58 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 25 Jul 2026 06:34:40 GMT",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 26 Jul 2026 21:23:53 GMT",
       "matched_keywords": [
-        "attack",
-        "military",
-        "missile"
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
+      "link": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Jul 2026 01:35:51 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 26 Jul 2026 21:30:20 GMT",
+      "matched_keywords": [
+        "president"
       ]
     },
     {
@@ -174,43 +208,6 @@
       "published": "Fri, 24 Jul 2026 23:01:06 GMT",
       "matched_keywords": [
         "crisis"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 22:49:59 GMT",
-      "matched_keywords": [
-        "attack",
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 20:23:58 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-      "link": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 25 Jul 2026 02:23:09 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US hits dozens of countries with new wave of tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 12:40:44 GMT",
-      "matched_keywords": [
-        "tariff"
       ]
     }
   ]
