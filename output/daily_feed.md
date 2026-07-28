@@ -1,5 +1,5 @@
-# Daily Feed — 2026-07-27
-*Generated: 2026-07-27T02:10:30+00:00 UTC*
+# Daily Feed — 2026-07-28
+*Generated: 2026-07-28T08:19:10+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,112.2002 | ▲ 44.6001 | +1.10% |
-| Silver |      60.1100 | ▲ 1.4540 | +2.48% |
-| Soybeans |   1,241.2500 | ▼ 6.7500 | -0.54% |
-| Sugar #11 (Raw) |      14.7600 | ▲ 0.0700 | +0.48% |
+| Gold |   4,051.3000 | ▼ 23.2000 | -0.57% |
+| Silver |      57.7900 | ▼ 0.6820 | -1.17% |
+| Soybeans |   1,207.2500 | ▼ 1.2500 | -0.10% |
+| Sugar #11 (Raw) |      14.5700 | ▼ 0.0100 | -0.07% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7005 | ▲ 0.0038 | +0.54% |
+| AUD/USD |       0.6972 | ▼ 0.0022 | -0.32% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,411.9800 | ▲ 3.6802 | +0.05% |
-| US 10Y Yield (%) |       4.6790 | ▼ 0.0240 | -0.51% |
-| Hang Seng 50 |  25,040.3008 | ▲ 77.0703 | +0.31% |
-| South Africa Top 40 |  10,171.0000 | ▲ 77.0000 | +0.76% |
-| Switzerland SMI |  14,327.2002 | ▲ 112.2500 | +0.79% |
-| ASX 200 (XJO) |   8,854.2002 | ▲ 81.9004 | +0.93% |
+| S&P 500 |   7,413.1802 | ▲ 1.2002 | +0.02% |
+| US 10Y Yield (%) |       4.6410 | ▼ 0.0380 | -0.81% |
+| Hang Seng 50 |  25,298.3398 | ▲ 91.1602 | +0.36% |
+| South Africa Top 40 |  10,214.0000 | ▼ 16.0000 | -0.16% |
+| Switzerland SMI |  14,445.7598 | ▲ 23.7900 | +0.17% |
+| ASX 200 (XJO) |   8,947.7998 | ▲ 53.7998 | +0.60% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     122.9200 | ▼ 0.4500 | -0.36% |
-| McDonald's |     264.7600 | ▲ 1.9600 | +0.75% |
-| Tesla |     313.0300 | ▼ 6.6600 | -2.08% |
-| Alphabet |     319.7400 | ▲ 2.0500 | +0.65% |
-| Lockheed Martin |     582.6000 | ▲ 14.0099 | +2.46% |
-| RTX (Raytheon) |     212.7900 | ▲ 3.6300 | +1.74% |
-| Northrop Grumman |     542.2400 | ▲ 8.7600 | +1.64% |
+| Palantir |     131.5300 | ▲ 8.6100 | +7.00% |
+| McDonald's |     270.6700 | ▲ 5.9100 | +2.23% |
+| Tesla |     309.2200 | ▼ 3.8100 | -1.22% |
+| Alphabet |     326.5600 | ▲ 6.8200 | +2.13% |
+| Lockheed Martin |     580.0000 | ▼ 2.6000 | -0.45% |
+| RTX (Raytheon) |     218.4200 | ▲ 5.6300 | +2.65% |
+| Northrop Grumman |     547.5800 | ▲ 5.3400 | +0.98% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Berlin Pride attack suspect shot and killed during police operation
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** What we know so far about the Berlin Pride ramming attack
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat
+**[BBC World]** On the front line of Ecuador's drugs war, police fight gangs, guns and corruption
 *Tags: war*
-https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say
+**[BBC World]** Trump says Iran war talks taking place during lull in strikes
+*Tags: war, president*
+https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** China's new challenge as natural disasters strike - fake AI videos
+*Tags: flood*
+https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars
+*Tags: war*
+https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Shots fired at US consulate in Toronto for a second time this year
 *Tags: attack*
-https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Argentinian leader calls Brazilian president a 'thief' and a 'convict'
-*Tags: president*
-https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss
+**[BBC World]** Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet
+*Tags: military, coup*
+https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** PM pledges continued support for Ukraine ahead of Zelensky visit
-*Tags: president*
-https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Anger as Berlin Pride attacker revealed to have been freed weeks earlier
+*Tags: attack*
+https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ten killed in Russian attack on drone exhibition near Kyiv
-*Tags: attack, missile*
-https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Zelensky tries to fix crisis over removal of defence minister and counts the cost
-*Tags: crisis*
-https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss
+**[BBC World]** South Africa investigates death of Nigerian who collapsed during arrest
+*Tags: collapse*
+https://www.bbc.co.uk/news/articles/cn7nx3rz16jo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
