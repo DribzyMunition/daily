@@ -1,5 +1,5 @@
-# Daily Feed — 2026-07-28
-*Generated: 2026-07-28T08:19:10+00:00 UTC*
+# Daily Feed — 2026-08-05
+*Generated: 2026-08-05T12:54:53+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,051.3000 | ▼ 23.2000 | -0.57% |
-| Silver |      57.7900 | ▼ 0.6820 | -1.17% |
-| Soybeans |   1,207.2500 | ▼ 1.2500 | -0.10% |
-| Sugar #11 (Raw) |      14.5700 | ▼ 0.0100 | -0.07% |
+| Gold |   4,254.2998 | ▲ 158.8999 | +3.88% |
+| Silver |      62.0600 | ▲ 2.0040 | +3.34% |
+| Soybeans |   1,170.0000 | ▲ 15.0000 | +1.30% |
+| Sugar #11 (Raw) |      15.1700 | ▲ 0.1300 | +0.86% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6972 | ▼ 0.0022 | -0.32% |
+| AUD/USD |       0.7051 | ▲ 0.0054 | +0.77% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,413.1802 | ▲ 1.2002 | +0.02% |
-| US 10Y Yield (%) |       4.6410 | ▼ 0.0380 | -0.81% |
-| Hang Seng 50 |  25,298.3398 | ▲ 91.1602 | +0.36% |
-| South Africa Top 40 |  10,214.0000 | ▼ 16.0000 | -0.16% |
-| Switzerland SMI |  14,445.7598 | ▲ 23.7900 | +0.17% |
-| ASX 200 (XJO) |   8,947.7998 | ▲ 53.7998 | +0.60% |
+| S&P 500 |   7,736.5200 | ▲ 136.0200 | +1.79% |
+| US 10Y Yield (%) |       4.6190 | ▼ 0.0080 | -0.17% |
+| Hang Seng 50 |  25,915.8203 | ▲ 62.9004 | +0.24% |
+| South Africa Top 40 |  10,805.0000 | ▲ 349.0000 | +3.34% |
+| Switzerland SMI |  14,504.2305 | ▲ 41.0000 | +0.28% |
+| ASX 200 (XJO) |   9,227.7998 | ▲ 82.0000 | +0.90% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     131.5300 | ▲ 8.6100 | +7.00% |
-| McDonald's |     270.6700 | ▲ 5.9100 | +2.23% |
-| Tesla |     309.2200 | ▼ 3.8100 | -1.22% |
-| Alphabet |     326.5600 | ▲ 6.8200 | +2.13% |
-| Lockheed Martin |     580.0000 | ▼ 2.6000 | -0.45% |
-| RTX (Raytheon) |     218.4200 | ▲ 5.6300 | +2.65% |
-| Northrop Grumman |     547.5800 | ▲ 5.3400 | +0.98% |
+| Palantir |     162.6600 | ▲ 37.0100 | +29.45% |
+| McDonald's |     268.3400 | ▲ 3.1100 | +1.17% |
+| Tesla |     327.3500 | ▲ 5.2700 | +1.64% |
+| Alphabet |     377.6500 | ▲ 4.1400 | +1.11% |
+| Lockheed Martin |     589.3300 | ▲ 3.0400 | +0.52% |
+| RTX (Raytheon) |     217.9300 | ▲ 1.2800 | +0.59% |
+| Northrop Grumman |     551.5500 | ▲ 3.0800 | +0.56% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** On the front line of Ecuador's drugs war, police fight gangs, guns and corruption
-*Tags: war*
-https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss
+**[BBC World]** Russia strike kills 21 as Ukraine says it needs more missile interceptors
+*Tags: missile*
+https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Trump says Iran war talks taking place during lull in strikes
-*Tags: war, president*
-https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Mexican influencer shot dead during livestream
+*Tags: gas*
+https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** China's new challenge as natural disasters strike - fake AI videos
-*Tags: flood*
-https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall
+*Tags: oil*
+https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars
-*Tags: war*
-https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Armed man arrested near Trump's golf course ahead of president's visit
+*Tags: president*
+https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Shots fired at US consulate in Toronto for a second time this year
+**[BBC World]** Ukrainian vegetable seller targeted in 'human safari' drone attack
 *Tags: attack*
-https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet
-*Tags: military, coup*
-https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss
+**[Al Jazeera]** In Bandar Abbas, the ceasefire never came
+*Tags: attack, ceasefire*
+https://www.aljazeera.com/features/2026/8/5/in-bandar-abbas-the-ceasefire-never-came?traffic_source=rss
 
-**[BBC World]** Anger as Berlin Pride attacker revealed to have been freed weeks earlier
+**[Al Jazeera]** Turkish cargo ship catches fire after Black Sea drone attack
 *Tags: attack*
-https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss
+https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss
 
-**[BBC World]** South Africa investigates death of Nigerian who collapsed during arrest
-*Tags: collapse*
-https://www.bbc.co.uk/news/articles/cn7nx3rz16jo?at_medium=RSS&at_campaign=rss
+**[Al Jazeera]** Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor
+*Tags: war*
+https://www.aljazeera.com/sports/2026/8/5/ex-liverpool-star-salah-arrives-in-turkiye-ahead-of-move-to-trabzonspor?traffic_source=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

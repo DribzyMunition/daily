@@ -1,214 +1,213 @@
 {
-  "generated_at": "2026-07-28T08:19:10+00:00",
+  "generated_at": "2026-08-05T12:54:53+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4051.300049,
-        "change": -23.199951,
-        "pct_change": -0.569,
-        "date": "2026-07-28"
+        "price": 4254.299805,
+        "change": 158.899902,
+        "pct_change": 3.88,
+        "date": "2026-08-05"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 57.790001,
-        "change": -0.681999,
-        "pct_change": -1.166,
-        "date": "2026-07-28"
+        "price": 62.060001,
+        "change": 2.004002,
+        "pct_change": 3.337,
+        "date": "2026-08-05"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1207.25,
-        "change": -1.25,
-        "pct_change": -0.103,
-        "date": "2026-07-28"
+        "price": 1170.0,
+        "change": 15.0,
+        "pct_change": 1.299,
+        "date": "2026-08-05"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 14.57,
-        "change": -0.01,
-        "pct_change": -0.069,
-        "date": "2026-07-28"
+        "price": 15.17,
+        "change": 0.13,
+        "pct_change": 0.864,
+        "date": "2026-08-05"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.697204,
-        "change": -0.002236,
-        "pct_change": -0.32,
-        "date": "2026-07-28"
+        "price": 0.705119,
+        "change": 0.005359,
+        "pct_change": 0.766,
+        "date": "2026-08-05"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7413.180176,
-        "change": 1.200195,
-        "pct_change": 0.016,
-        "date": "2026-07-27"
+        "price": 7736.52002,
+        "change": 136.02002,
+        "pct_change": 1.79,
+        "date": "2026-08-04"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.641,
-        "change": -0.038,
-        "pct_change": -0.812,
-        "date": "2026-07-27"
+        "price": 4.619,
+        "change": -0.008,
+        "pct_change": -0.173,
+        "date": "2026-08-05"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25298.339844,
-        "change": 91.160156,
-        "pct_change": 0.362,
-        "date": "2026-07-28"
+        "price": 25915.820312,
+        "change": 62.900391,
+        "pct_change": 0.243,
+        "date": "2026-08-05"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10214.0,
-        "change": -16.0,
-        "pct_change": -0.156,
-        "date": "2026-07-28"
+        "price": 10805.0,
+        "change": 349.0,
+        "pct_change": 3.338,
+        "date": "2026-08-05"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14445.759766,
-        "change": 23.790039,
-        "pct_change": 0.165,
-        "date": "2026-07-28"
+        "price": 14504.230469,
+        "change": 41.0,
+        "pct_change": 0.283,
+        "date": "2026-08-05"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8947.799805,
-        "change": 53.799805,
-        "pct_change": 0.605,
-        "date": "2026-07-28"
+        "price": 9227.799805,
+        "change": 82.0,
+        "pct_change": 0.897,
+        "date": "2026-08-05"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 131.529999,
-        "change": 8.610001,
-        "pct_change": 7.005,
-        "date": "2026-07-27"
+        "price": 162.660004,
+        "change": 37.010002,
+        "pct_change": 29.455,
+        "date": "2026-08-04"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 270.670013,
-        "change": 5.910004,
-        "pct_change": 2.232,
-        "date": "2026-07-27"
+        "price": 268.339996,
+        "change": 3.109985,
+        "pct_change": 1.173,
+        "date": "2026-08-04"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 309.220001,
-        "change": -3.809998,
-        "pct_change": -1.217,
-        "date": "2026-07-27"
+        "price": 327.350006,
+        "change": 5.27002,
+        "pct_change": 1.636,
+        "date": "2026-08-04"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 326.559998,
-        "change": 6.820007,
-        "pct_change": 2.133,
-        "date": "2026-07-27"
+        "price": 377.649994,
+        "change": 4.139984,
+        "pct_change": 1.108,
+        "date": "2026-08-04"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 580.0,
-        "change": -2.599976,
-        "pct_change": -0.446,
-        "date": "2026-07-27"
+        "price": 589.330017,
+        "change": 3.040039,
+        "pct_change": 0.519,
+        "date": "2026-08-04"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 218.419998,
-        "change": 5.630005,
-        "pct_change": 2.646,
-        "date": "2026-07-27"
+        "price": 217.929993,
+        "change": 1.279999,
+        "pct_change": 0.591,
+        "date": "2026-08-04"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 547.580017,
-        "change": 5.340027,
-        "pct_change": 0.985,
-        "date": "2026-07-27"
+        "price": 551.549988,
+        "change": 3.080017,
+        "pct_change": 0.562,
+        "date": "2026-08-04"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
-      "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 05:01:19 GMT",
+      "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 12:26:26 GMT",
       "matched_keywords": [
-        "war"
+        "missile"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Trump says Iran war talks taking place during lull in strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 21:10:56 GMT",
+      "title": "Mexican influencer shot dead during livestream",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 11:00:47 GMT",
       "matched_keywords": [
-        "war",
+        "gas"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 03:44:30 GMT",
+      "matched_keywords": [
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+      "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 00:19:04 GMT",
+      "matched_keywords": [
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "China's new challenge as natural disasters strike - fake AI videos",
-      "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 22:07:23 GMT",
+      "title": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
+      "link": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 19:07:19 GMT",
       "matched_keywords": [
-        "flood"
+        "attack"
       ]
     },
     {
-      "source": "BBC World",
-      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-      "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 16:33:05 GMT",
+      "source": "Al Jazeera",
+      "title": "In Bandar Abbas, the ceasefire never came",
+      "link": "https://www.aljazeera.com/features/2026/8/5/in-bandar-abbas-the-ceasefire-never-came?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 12:14:16 +0000",
+      "matched_keywords": [
+        "attack",
+        "ceasefire"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Turkish cargo ship catches fire after Black Sea drone attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 11:49:25 +0000",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor",
+      "link": "https://www.aljazeera.com/sports/2026/8/5/ex-liverpool-star-salah-arrives-in-turkiye-ahead-of-move-to-trabzonspor?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 11:38:51 +0000",
       "matched_keywords": [
         "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Shots fired at US consulate in Toronto for a second time this year",
-      "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 00:36:16 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
-      "link": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 15:49:45 GMT",
-      "matched_keywords": [
-        "military",
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 12:33:31 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "South Africa investigates death of Nigerian who collapsed during arrest",
-      "link": "https://www.bbc.co.uk/news/articles/cn7nx3rz16jo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 14:26:50 GMT",
-      "matched_keywords": [
-        "collapse"
       ]
     }
   ]
