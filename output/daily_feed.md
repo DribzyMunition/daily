@@ -1,5 +1,5 @@
-# Daily Feed — 2026-08-05
-*Generated: 2026-08-05T12:54:53+00:00 UTC*
+# Daily Feed — 2026-08-06
+*Generated: 2026-08-06T15:24:03+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,254.2998 | ▲ 158.8999 | +3.88% |
-| Silver |      62.0600 | ▲ 2.0040 | +3.34% |
-| Soybeans |   1,170.0000 | ▲ 15.0000 | +1.30% |
-| Sugar #11 (Raw) |      15.1700 | ▲ 0.1300 | +0.86% |
+| Gold |   4,322.2998 | ▲ 76.5000 | +1.80% |
+| Silver |      61.7800 | ▼ 0.3190 | -0.51% |
+| Soybeans |   1,176.7500 | ▲ 25.2500 | +2.19% |
+| Sugar #11 (Raw) |      15.3700 | ▲ 0.2200 | +1.45% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7051 | ▲ 0.0054 | +0.77% |
+| AUD/USD |       0.7037 | ▼ 0.0010 | -0.14% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,736.5200 | ▲ 136.0200 | +1.79% |
-| US 10Y Yield (%) |       4.6190 | ▼ 0.0080 | -0.17% |
-| Hang Seng 50 |  25,915.8203 | ▲ 62.9004 | +0.24% |
-| South Africa Top 40 |  10,805.0000 | ▲ 349.0000 | +3.34% |
-| Switzerland SMI |  14,504.2305 | ▲ 41.0000 | +0.28% |
+| S&P 500 |   7,714.6201 | ▼ 8.9297 | -0.12% |
+| US 10Y Yield (%) |       4.6490 | ▲ 0.0320 | +0.69% |
+| Hang Seng 50 |  25,530.2793 | ▼ 385.5410 | -1.49% |
+| South Africa Top 40 |  10,760.0000 | ▲ 2.0000 | +0.02% |
+| Switzerland SMI |  14,541.8701 | ▼ 9.6895 | -0.07% |
 | ASX 200 (XJO) |   9,227.7998 | ▲ 82.0000 | +0.90% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     162.6600 | ▲ 37.0100 | +29.45% |
-| McDonald's |     268.3400 | ▲ 3.1100 | +1.17% |
-| Tesla |     327.3500 | ▲ 5.2700 | +1.64% |
-| Alphabet |     377.6500 | ▲ 4.1400 | +1.11% |
-| Lockheed Martin |     589.3300 | ▲ 3.0400 | +0.52% |
-| RTX (Raytheon) |     217.9300 | ▲ 1.2800 | +0.59% |
-| Northrop Grumman |     551.5500 | ▲ 3.0800 | +0.56% |
+| Palantir |     155.6150 | ▼ 2.8150 | -1.78% |
+| McDonald's |     273.7000 | ▼ 0.3000 | -0.11% |
+| Tesla |     321.5070 | ▼ 0.0430 | -0.01% |
+| Alphabet |     359.5100 | ▼ 2.9200 | -0.81% |
+| Lockheed Martin |     579.3650 | ▲ 1.7650 | +0.31% |
+| RTX (Raytheon) |     221.1800 | ▼ 1.1300 | -0.51% |
+| Northrop Grumman |     560.7300 | ▲ 3.2600 | +0.58% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Russia strike kills 21 as Ukraine says it needs more missile interceptors
-*Tags: missile*
-https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Ukraine hits two oil refineries deep in Russian territory
+*Tags: war, president, oil*
+https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Mexican influencer shot dead during livestream
-*Tags: gas*
-https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss
+**[BBC World]** US Senate committee votes to hold Fauci in contempt over Covid hearing
+*Tags: pandemic*
+https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall
-*Tags: oil*
-https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Livestreamer's murder raises questions over relations between Mexico's creators and cartels
+*Tags: attack, gas*
+https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Armed man arrested near Trump's golf course ahead of president's visit
-*Tags: president*
-https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Houthi attacks reportedly kill at least 30 Yemeni government forces
+*Tags: attack, military, missile*
+https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ukrainian vegetable seller targeted in 'human safari' drone attack
+**[BBC World]** Outrage as Ugandan football captain beaten to death in street gang attack
 *Tags: attack*
-https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss
 
-**[Al Jazeera]** In Bandar Abbas, the ceasefire never came
-*Tags: attack, ceasefire*
-https://www.aljazeera.com/features/2026/8/5/in-bandar-abbas-the-ceasefire-never-came?traffic_source=rss
+**[BBC World]** After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives
+*Tags: war, missile*
+https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss
 
-**[Al Jazeera]** Turkish cargo ship catches fire after Black Sea drone attack
-*Tags: attack*
-https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss
+**[BBC World]** Israel strikes south Lebanon after two soldiers killed by explosion
+*Tags: military, explosion*
+https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss
 
-**[Al Jazeera]** Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor
-*Tags: war*
-https://www.aljazeera.com/sports/2026/8/5/ex-liverpool-star-salah-arrives-in-turkiye-ahead-of-move-to-trabzonspor?traffic_source=rss
+**[BBC World]** Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC
+*Tags: prime minister*
+https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

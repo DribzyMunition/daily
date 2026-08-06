@@ -1,80 +1,80 @@
 {
-  "generated_at": "2026-08-05T12:54:53+00:00",
+  "generated_at": "2026-08-06T15:24:03+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4254.299805,
-        "change": 158.899902,
-        "pct_change": 3.88,
-        "date": "2026-08-05"
+        "price": 4322.299805,
+        "change": 76.5,
+        "pct_change": 1.802,
+        "date": "2026-08-06"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 62.060001,
-        "change": 2.004002,
-        "pct_change": 3.337,
-        "date": "2026-08-05"
+        "price": 61.779999,
+        "change": -0.319,
+        "pct_change": -0.514,
+        "date": "2026-08-06"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1170.0,
-        "change": 15.0,
-        "pct_change": 1.299,
-        "date": "2026-08-05"
+        "price": 1176.75,
+        "change": 25.25,
+        "pct_change": 2.193,
+        "date": "2026-08-06"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 15.17,
-        "change": 0.13,
-        "pct_change": 0.864,
-        "date": "2026-08-05"
+        "price": 15.37,
+        "change": 0.22,
+        "pct_change": 1.452,
+        "date": "2026-08-06"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.705119,
-        "change": 0.005359,
-        "pct_change": 0.766,
-        "date": "2026-08-05"
+        "price": 0.70368,
+        "change": -0.00099,
+        "pct_change": -0.14,
+        "date": "2026-08-06"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7736.52002,
-        "change": 136.02002,
-        "pct_change": 1.79,
-        "date": "2026-08-04"
+        "price": 7714.620117,
+        "change": -8.929688,
+        "pct_change": -0.116,
+        "date": "2026-08-06"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.619,
-        "change": -0.008,
-        "pct_change": -0.173,
-        "date": "2026-08-05"
+        "price": 4.649,
+        "change": 0.032,
+        "pct_change": 0.693,
+        "date": "2026-08-06"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25915.820312,
-        "change": 62.900391,
-        "pct_change": 0.243,
-        "date": "2026-08-05"
+        "price": 25530.279297,
+        "change": -385.541016,
+        "pct_change": -1.488,
+        "date": "2026-08-06"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10805.0,
-        "change": 349.0,
-        "pct_change": 3.338,
-        "date": "2026-08-05"
+        "price": 10760.0,
+        "change": 2.0,
+        "pct_change": 0.019,
+        "date": "2026-08-06"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14504.230469,
-        "change": 41.0,
-        "pct_change": 0.283,
-        "date": "2026-08-05"
+        "price": 14541.870117,
+        "change": -9.689453,
+        "pct_change": -0.067,
+        "date": "2026-08-06"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
@@ -87,127 +87,133 @@
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 162.660004,
-        "change": 37.010002,
-        "pct_change": 29.455,
-        "date": "2026-08-04"
+        "price": 155.615005,
+        "change": -2.814987,
+        "pct_change": -1.777,
+        "date": "2026-08-06"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 268.339996,
-        "change": 3.109985,
-        "pct_change": 1.173,
-        "date": "2026-08-04"
+        "price": 273.700012,
+        "change": -0.299988,
+        "pct_change": -0.109,
+        "date": "2026-08-06"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 327.350006,
-        "change": 5.27002,
-        "pct_change": 1.636,
-        "date": "2026-08-04"
+        "price": 321.506989,
+        "change": -0.042999,
+        "pct_change": -0.013,
+        "date": "2026-08-06"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 377.649994,
-        "change": 4.139984,
-        "pct_change": 1.108,
-        "date": "2026-08-04"
+        "price": 359.51001,
+        "change": -2.919983,
+        "pct_change": -0.806,
+        "date": "2026-08-06"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 589.330017,
-        "change": 3.040039,
-        "pct_change": 0.519,
-        "date": "2026-08-04"
+        "price": 579.36499,
+        "change": 1.765015,
+        "pct_change": 0.306,
+        "date": "2026-08-06"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 217.929993,
-        "change": 1.279999,
-        "pct_change": 0.591,
-        "date": "2026-08-04"
+        "price": 221.179993,
+        "change": -1.130005,
+        "pct_change": -0.508,
+        "date": "2026-08-06"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 551.549988,
-        "change": 3.080017,
-        "pct_change": 0.562,
-        "date": "2026-08-04"
+        "price": 560.72998,
+        "change": 3.26001,
+        "pct_change": 0.585,
+        "date": "2026-08-06"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
-      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 12:26:26 GMT",
+      "title": "Ukraine hits two oil refineries deep in Russian territory",
+      "link": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 12:18:48 GMT",
       "matched_keywords": [
-        "missile"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Mexican influencer shot dead during livestream",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 11:00:47 GMT",
-      "matched_keywords": [
-        "gas"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 03:44:30 GMT",
-      "matched_keywords": [
+        "war",
+        "president",
         "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-      "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 00:19:04 GMT",
+      "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
+      "link": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 14:47:45 GMT",
       "matched_keywords": [
-        "president"
+        "pandemic"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
-      "link": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 19:07:19 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "In Bandar Abbas, the ceasefire never came",
-      "link": "https://www.aljazeera.com/features/2026/8/5/in-bandar-abbas-the-ceasefire-never-came?traffic_source=rss",
-      "published": "Wed, 05 Aug 2026 12:14:16 +0000",
+      "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 13:46:27 GMT",
       "matched_keywords": [
         "attack",
-        "ceasefire"
+        "gas"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "Turkish cargo ship catches fire after Black Sea drone attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
-      "published": "Wed, 05 Aug 2026 11:49:25 +0000",
+      "source": "BBC World",
+      "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 14:49:52 GMT",
+      "matched_keywords": [
+        "attack",
+        "military",
+        "missile"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 06:04:28 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor",
-      "link": "https://www.aljazeera.com/sports/2026/8/5/ex-liverpool-star-salah-arrives-in-turkiye-ahead-of-move-to-trabzonspor?traffic_source=rss",
-      "published": "Wed, 05 Aug 2026 11:38:51 +0000",
+      "source": "BBC World",
+      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 18:19:51 GMT",
       "matched_keywords": [
-        "war"
+        "war",
+        "missile"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
+      "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 14:51:47 GMT",
+      "matched_keywords": [
+        "military",
+        "explosion"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 18:38:46 GMT",
+      "matched_keywords": [
+        "prime minister"
       ]
     }
   ]
