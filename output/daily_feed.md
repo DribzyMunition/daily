@@ -1,5 +1,5 @@
-# Daily Feed — 2026-08-06
-*Generated: 2026-08-06T15:24:03+00:00 UTC*
+# Daily Feed — 2026-08-07
+*Generated: 2026-08-07T10:36:21+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,322.2998 | ▲ 76.5000 | +1.80% |
-| Silver |      61.7800 | ▼ 0.3190 | -0.51% |
-| Soybeans |   1,176.7500 | ▲ 25.2500 | +2.19% |
-| Sugar #11 (Raw) |      15.3700 | ▲ 0.2200 | +1.45% |
+| Gold |   4,372.7002 | ▲ 130.7002 | +3.08% |
+| Silver |      64.6900 | ▲ 3.2510 | +5.29% |
+| Soybeans |   1,182.5000 | ▲ 25.2500 | +2.18% |
+| Sugar #11 (Raw) |      15.7800 | ▲ 0.2100 | +1.35% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7037 | ▼ 0.0010 | -0.14% |
+| AUD/USD |       0.7040 | ▼ 0.0018 | -0.25% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,714.6201 | ▼ 8.9297 | -0.12% |
-| US 10Y Yield (%) |       4.6490 | ▲ 0.0320 | +0.69% |
-| Hang Seng 50 |  25,530.2793 | ▼ 385.5410 | -1.49% |
-| South Africa Top 40 |  10,760.0000 | ▲ 2.0000 | +0.02% |
-| Switzerland SMI |  14,541.8701 | ▼ 9.6895 | -0.07% |
-| ASX 200 (XJO) |   9,227.7998 | ▲ 82.0000 | +0.90% |
+| S&P 500 |   7,709.9600 | ▼ 13.5898 | -0.18% |
+| US 10Y Yield (%) |       4.6700 | ▲ 0.0530 | +1.15% |
+| Hang Seng 50 |  25,668.0293 | ▲ 137.7500 | +0.54% |
+| South Africa Top 40 |  10,930.0000 | ▲ 170.0000 | +1.58% |
+| Switzerland SMI |  14,598.8096 | ▲ 80.0596 | +0.55% |
+| ASX 200 (XJO) |   9,263.5996 | ▼ 8.0000 | -0.09% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     155.6150 | ▼ 2.8150 | -1.78% |
-| McDonald's |     273.7000 | ▼ 0.3000 | -0.11% |
-| Tesla |     321.5070 | ▼ 0.0430 | -0.01% |
-| Alphabet |     359.5100 | ▼ 2.9200 | -0.81% |
-| Lockheed Martin |     579.3650 | ▲ 1.7650 | +0.31% |
-| RTX (Raytheon) |     221.1800 | ▼ 1.1300 | -0.51% |
-| Northrop Grumman |     560.7300 | ▲ 3.2600 | +0.58% |
+| Palantir |     155.9200 | ▼ 2.5100 | -1.58% |
+| McDonald's |     276.2600 | ▲ 2.2600 | +0.82% |
+| Tesla |     319.5300 | ▼ 2.0200 | -0.63% |
+| Alphabet |     357.7500 | ▼ 4.6800 | -1.29% |
+| Lockheed Martin |     582.8500 | ▲ 5.2500 | +0.91% |
+| RTX (Raytheon) |     223.2500 | ▲ 0.9400 | +0.42% |
+| Northrop Grumman |     567.7400 | ▲ 10.2700 | +1.84% |
 
 ---
 
 ## Key Global Headlines
 
+**[BBC World]** Uefa says boycott may still go ahead as FA withdraws Infantino support
+*Tags: president*
+https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Thousands of migrants still in Ceuta after border crisis, local leader says
+*Tags: president, crisis*
+https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump imposes 15% tariff on key chip material to counter China
+*Tags: tariff*
+https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss
+
 **[BBC World]** Ukraine hits two oil refineries deep in Russian territory
 *Tags: war, president, oil*
 https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** US Senate committee votes to hold Fauci in contempt over Covid hearing
-*Tags: pandemic*
-https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime
+*Tags: war, attack*
+https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Sudan's invisible children - born in war with no legal identity
+*Tags: war*
+https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Does Africa still back Infantino as Fifa president?
+*Tags: president*
+https://www.bbc.co.uk/news/articles/c78g3glpl8wo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Livestreamer's murder raises questions over relations between Mexico's creators and cartels
 *Tags: attack, gas*
 https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Houthi attacks reportedly kill at least 30 Yemeni government forces
-*Tags: attack, military, missile*
-https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Outrage as Ugandan football captain beaten to death in street gang attack
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives
-*Tags: war, missile*
-https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Israel strikes south Lebanon after two soldiers killed by explosion
-*Tags: military, explosion*
-https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC
-*Tags: prime minister*
-https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
