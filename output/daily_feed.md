@@ -1,5 +1,5 @@
 # Daily Feed — 2026-08-07
-*Generated: 2026-08-07T10:36:21+00:00 UTC*
+*Generated: 2026-08-07T21:30:05+00:00 UTC*
 
 ---
 
@@ -9,63 +9,63 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,372.7002 | ▲ 130.7002 | +3.08% |
-| Silver |      64.6900 | ▲ 3.2510 | +5.29% |
-| Soybeans |   1,182.5000 | ▲ 25.2500 | +2.18% |
-| Sugar #11 (Raw) |      15.7800 | ▲ 0.2100 | +1.35% |
+| Gold |   4,401.2998 | ▲ 159.2998 | +3.75% |
+| Silver |      63.8000 | ▲ 2.3610 | +3.84% |
+| Soybeans |   1,176.0000 | ▲ 18.7500 | +1.62% |
+| Sugar #11 (Raw) |      16.4900 | ▲ 0.9200 | +5.91% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7040 | ▼ 0.0018 | -0.25% |
+| AUD/USD |       0.7071 | ▲ 0.0013 | +0.19% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,709.9600 | ▼ 13.5898 | -0.18% |
-| US 10Y Yield (%) |       4.6700 | ▲ 0.0530 | +1.15% |
-| Hang Seng 50 |  25,668.0293 | ▲ 137.7500 | +0.54% |
-| South Africa Top 40 |  10,930.0000 | ▲ 170.0000 | +1.58% |
-| Switzerland SMI |  14,598.8096 | ▲ 80.0596 | +0.55% |
-| ASX 200 (XJO) |   9,263.5996 | ▼ 8.0000 | -0.09% |
+| S&P 500 |   7,757.6401 | ▲ 47.6802 | +0.62% |
+| US 10Y Yield (%) |       4.6600 | ▼ 0.0100 | -0.21% |
+| Hang Seng 50 |  25,530.2793 | ▼ 385.5410 | -1.49% |
+| South Africa Top 40 |  10,977.0000 | ▲ 217.0000 | +2.02% |
+| Switzerland SMI |  14,544.9102 | ▲ 26.1602 | +0.18% |
+| ASX 200 (XJO) |   9,271.5996 | ▲ 43.7998 | +0.47% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     155.9200 | ▼ 2.5100 | -1.58% |
-| McDonald's |     276.2600 | ▲ 2.2600 | +0.82% |
-| Tesla |     319.5300 | ▼ 2.0200 | -0.63% |
-| Alphabet |     357.7500 | ▼ 4.6800 | -1.29% |
-| Lockheed Martin |     582.8500 | ▲ 5.2500 | +0.91% |
-| RTX (Raytheon) |     223.2500 | ▲ 0.9400 | +0.42% |
-| Northrop Grumman |     567.7400 | ▲ 10.2700 | +1.84% |
+| Palantir |     172.0100 | ▲ 16.0900 | +10.32% |
+| McDonald's |     274.4800 | ▼ 1.7800 | -0.64% |
+| Tesla |     328.5800 | ▲ 9.0500 | +2.83% |
+| Alphabet |     354.3000 | ▼ 3.4500 | -0.96% |
+| Lockheed Martin |     587.9500 | ▲ 5.1000 | +0.88% |
+| RTX (Raytheon) |     223.0300 | ▼ 0.2200 | -0.10% |
+| Northrop Grumman |     571.5800 | ▲ 3.8400 | +0.68% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Uefa says boycott may still go ahead as FA withdraws Infantino support
+**[BBC World]** I was standing in front of my teacher when she was shot, Thai pupil says
+*Tags: attack*
+https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Saudi Arabia, Turkey and Pakistan sign defence pact
+*Tags: conflict, attack*
+https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Mexico and Peru restore diplomatic relations after asylum row
+*Tags: prime minister*
+https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy
 *Tags: president*
-https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Thousands of migrants still in Ceuta after border crisis, local leader says
 *Tags: president, crisis*
 https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump imposes 15% tariff on key chip material to counter China
-*Tags: tariff*
-https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Ukraine hits two oil refineries deep in Russian territory
-*Tags: war, president, oil*
-https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime
-*Tags: war, attack*
-https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Sudan's invisible children - born in war with no legal identity
 *Tags: war*

@@ -1,147 +1,175 @@
 {
-  "generated_at": "2026-08-07T10:36:21+00:00",
+  "generated_at": "2026-08-07T21:30:05+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4372.700195,
-        "change": 130.700195,
-        "pct_change": 3.081,
+        "price": 4401.299805,
+        "change": 159.299805,
+        "pct_change": 3.755,
         "date": "2026-08-07"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 64.690002,
-        "change": 3.251003,
-        "pct_change": 5.291,
+        "price": 63.799999,
+        "change": 2.361,
+        "pct_change": 3.843,
         "date": "2026-08-07"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1182.5,
-        "change": 25.25,
-        "pct_change": 2.182,
+        "price": 1176.0,
+        "change": 18.75,
+        "pct_change": 1.62,
         "date": "2026-08-07"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 15.78,
-        "change": 0.21,
-        "pct_change": 1.349,
+        "price": 16.49,
+        "change": 0.92,
+        "pct_change": 5.909,
         "date": "2026-08-07"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.703977,
-        "change": -0.001753,
-        "pct_change": -0.248,
+        "price": 0.707064,
+        "change": 0.001333,
+        "pct_change": 0.189,
         "date": "2026-08-07"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7709.959961,
-        "change": -13.589844,
-        "pct_change": -0.176,
-        "date": "2026-08-06"
+        "price": 7757.640137,
+        "change": 47.680176,
+        "pct_change": 0.618,
+        "date": "2026-08-07"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.67,
-        "change": 0.053,
-        "pct_change": 1.148,
-        "date": "2026-08-06"
+        "price": 4.66,
+        "change": -0.01,
+        "pct_change": -0.214,
+        "date": "2026-08-07"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25668.029297,
-        "change": 137.75,
-        "pct_change": 0.54,
-        "date": "2026-08-07"
+        "price": 25530.279297,
+        "change": -385.541016,
+        "pct_change": -1.488,
+        "date": "2026-08-06"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10930.0,
-        "change": 170.0,
-        "pct_change": 1.58,
+        "price": 10977.0,
+        "change": 217.0,
+        "pct_change": 2.017,
         "date": "2026-08-07"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14598.80957,
-        "change": 80.05957,
-        "pct_change": 0.551,
+        "price": 14544.910156,
+        "change": 26.160156,
+        "pct_change": 0.18,
         "date": "2026-08-07"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 9263.599609,
-        "change": -8.0,
-        "pct_change": -0.086,
-        "date": "2026-08-07"
+        "price": 9271.599609,
+        "change": 43.799805,
+        "pct_change": 0.475,
+        "date": "2026-08-06"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 155.919998,
-        "change": -2.509995,
-        "pct_change": -1.584,
-        "date": "2026-08-06"
+        "price": 172.009995,
+        "change": 16.089996,
+        "pct_change": 10.319,
+        "date": "2026-08-07"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 276.26001,
-        "change": 2.26001,
-        "pct_change": 0.825,
-        "date": "2026-08-06"
+        "price": 274.480011,
+        "change": -1.779999,
+        "pct_change": -0.644,
+        "date": "2026-08-07"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 319.529999,
-        "change": -2.019989,
-        "pct_change": -0.628,
-        "date": "2026-08-06"
+        "price": 328.579987,
+        "change": 9.049988,
+        "pct_change": 2.832,
+        "date": "2026-08-07"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 357.75,
-        "change": -4.679993,
-        "pct_change": -1.291,
-        "date": "2026-08-06"
+        "price": 354.299988,
+        "change": -3.450012,
+        "pct_change": -0.964,
+        "date": "2026-08-07"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 582.849976,
-        "change": 5.25,
-        "pct_change": 0.909,
-        "date": "2026-08-06"
+        "price": 587.950012,
+        "change": 5.100037,
+        "pct_change": 0.875,
+        "date": "2026-08-07"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 223.25,
-        "change": 0.940002,
-        "pct_change": 0.423,
-        "date": "2026-08-06"
+        "price": 223.029999,
+        "change": -0.220001,
+        "pct_change": -0.099,
+        "date": "2026-08-07"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 567.73999,
-        "change": 10.27002,
-        "pct_change": 1.842,
-        "date": "2026-08-06"
+        "price": 571.580017,
+        "change": 3.840027,
+        "pct_change": 0.676,
+        "date": "2026-08-07"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 01:57:02 GMT",
+      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 14:20:27 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 17:42:54 GMT",
+      "matched_keywords": [
+        "conflict",
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Mexico and Peru restore diplomatic relations after asylum row",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 15:38:28 GMT",
+      "matched_keywords": [
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 21:16:52 GMT",
       "matched_keywords": [
         "president"
       ]
@@ -154,36 +182,6 @@
       "matched_keywords": [
         "president",
         "crisis"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 01:03:35 GMT",
-      "matched_keywords": [
-        "tariff"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Ukraine hits two oil refineries deep in Russian territory",
-      "link": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 15:41:05 GMT",
-      "matched_keywords": [
-        "war",
-        "president",
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
-      "link": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 14:20:15 GMT",
-      "matched_keywords": [
-        "war",
-        "attack"
       ]
     },
     {
