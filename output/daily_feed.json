@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-08-07T21:30:05+00:00",
+  "generated_at": "2026-08-08T21:30:06+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4401.299805,
-        "change": 159.299805,
-        "pct_change": 3.755,
+        "price": 4340.700195,
+        "change": 98.700195,
+        "pct_change": 2.327,
         "date": "2026-08-07"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 63.799999,
-        "change": 2.361,
-        "pct_change": 3.843,
+        "price": 63.332001,
+        "change": 1.893002,
+        "pct_change": 3.081,
         "date": "2026-08-07"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1176.0,
-        "change": 18.75,
-        "pct_change": 1.62,
+        "price": 1156.5,
+        "change": -0.75,
+        "pct_change": -0.065,
         "date": "2026-08-07"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 16.49,
-        "change": 0.92,
-        "pct_change": 5.909,
+        "price": 16.450001,
+        "change": 0.880001,
+        "pct_change": 5.652,
         "date": "2026-08-07"
       }
     },
@@ -35,9 +35,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.707064,
-        "change": 0.001333,
-        "pct_change": 0.189,
-        "date": "2026-08-07"
+        "change": 0.003723,
+        "pct_change": 0.529,
+        "date": "2026-08-08"
       }
     },
     "indices": {
@@ -57,10 +57,10 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25530.279297,
-        "change": -385.541016,
-        "pct_change": -1.488,
-        "date": "2026-08-06"
+        "price": 25668.029297,
+        "change": 137.75,
+        "pct_change": 0.54,
+        "date": "2026-08-07"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 9271.599609,
-        "change": 43.799805,
-        "pct_change": 0.475,
-        "date": "2026-08-06"
+        "price": 9263.599609,
+        "change": -8.0,
+        "pct_change": -0.086,
+        "date": "2026-08-07"
       }
     },
     "stocks": {
@@ -139,11 +139,52 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 14:20:27 GMT",
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 08 Aug 2026 19:18:57 GMT",
       "matched_keywords": [
-        "attack"
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 08 Aug 2026 17:58:42 GMT",
+      "matched_keywords": [
+        "war",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 08 Aug 2026 17:23:31 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 08 Aug 2026 15:59:37 GMT",
+      "matched_keywords": [
+        "war",
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 08 Aug 2026 18:06:25 GMT",
+      "matched_keywords": [
+        "war",
+        "attack",
+        "missile",
+        "president"
       ]
     },
     {
@@ -158,58 +199,20 @@
     },
     {
       "source": "BBC World",
-      "title": "Mexico and Peru restore diplomatic relations after asylum row",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 15:38:28 GMT",
-      "matched_keywords": [
-        "prime minister"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 21:16:52 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
-      "link": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 17:36:07 GMT",
-      "matched_keywords": [
-        "president",
-        "crisis"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Sudan's invisible children - born in war with no legal identity",
-      "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 00:26:52 GMT",
+      "title": "NBA forward Clarke's death due to effects of drugs",
+      "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 08 Aug 2026 12:05:04 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Does Africa still back Infantino as Fifa president?",
-      "link": "https://www.bbc.co.uk/news/articles/c78g3glpl8wo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 19:55:58 GMT",
+      "title": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 22:07:00 GMT",
       "matched_keywords": [
         "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 13:46:27 GMT",
-      "matched_keywords": [
-        "attack",
-        "gas"
       ]
     }
   ]
