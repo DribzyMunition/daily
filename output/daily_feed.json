@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-08-10T04:47:46+00:00",
+  "generated_at": "2026-08-11T03:57:42+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4395.899902,
-        "change": 55.199707,
-        "pct_change": 1.272,
+        "price": 4476.100098,
+        "change": 135.399902,
+        "pct_change": 3.119,
         "date": "2026-08-10"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 64.035004,
-        "change": 0.703003,
-        "pct_change": 1.11,
+        "price": 66.010002,
+        "change": 2.678001,
+        "pct_change": 4.229,
         "date": "2026-08-10"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1183.0,
-        "change": 26.5,
-        "pct_change": 2.291,
+        "price": 1180.0,
+        "change": 23.5,
+        "pct_change": 2.032,
         "date": "2026-08-10"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 16.450001,
-        "change": 0.880001,
-        "pct_change": 5.652,
-        "date": "2026-08-07"
+        "price": 16.459999,
+        "change": 0.009998,
+        "pct_change": 0.061,
+        "date": "2026-08-10"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.706314,
-        "change": 0.002974,
-        "pct_change": 0.423,
-        "date": "2026-08-10"
+        "price": 0.706065,
+        "change": -0.000284,
+        "pct_change": -0.04,
+        "date": "2026-08-11"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7757.640137,
-        "change": 47.680176,
-        "pct_change": 0.618,
-        "date": "2026-08-07"
+        "price": 7753.109863,
+        "change": -4.530273,
+        "pct_change": -0.058,
+        "date": "2026-08-10"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.66,
-        "change": -0.01,
-        "pct_change": -0.214,
-        "date": "2026-08-07"
+        "price": 4.699,
+        "change": 0.039001,
+        "pct_change": 0.837,
+        "date": "2026-08-10"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25853.689453,
-        "change": 185.660156,
-        "pct_change": 0.723,
-        "date": "2026-08-10"
+        "price": 25778.289062,
+        "change": -159.201172,
+        "pct_change": -0.614,
+        "date": "2026-08-11"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -71,145 +71,144 @@
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14544.910156,
-        "change": 26.160156,
-        "pct_change": 0.18,
-        "date": "2026-08-07"
+        "price": 14633.700195,
+        "change": 88.790039,
+        "pct_change": 0.61,
+        "date": "2026-08-10"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 9223.0,
-        "change": -40.599609,
-        "pct_change": -0.438,
-        "date": "2026-08-10"
+        "price": 9260.299805,
+        "change": 27.700195,
+        "pct_change": 0.3,
+        "date": "2026-08-11"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 172.009995,
-        "change": 16.089996,
-        "pct_change": 10.319,
-        "date": "2026-08-07"
+        "price": 175.229996,
+        "change": 3.220001,
+        "pct_change": 1.872,
+        "date": "2026-08-10"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 274.480011,
-        "change": -1.779999,
-        "pct_change": -0.644,
-        "date": "2026-08-07"
+        "price": 273.720001,
+        "change": -0.76001,
+        "pct_change": -0.277,
+        "date": "2026-08-10"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 328.579987,
-        "change": 9.049988,
-        "pct_change": 2.832,
-        "date": "2026-08-07"
+        "price": 330.880005,
+        "change": 2.300018,
+        "pct_change": 0.7,
+        "date": "2026-08-10"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 354.299988,
-        "change": -3.450012,
-        "pct_change": -0.964,
-        "date": "2026-08-07"
+        "price": 357.519989,
+        "change": 3.220001,
+        "pct_change": 0.909,
+        "date": "2026-08-10"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 587.950012,
-        "change": 5.100037,
-        "pct_change": 0.875,
-        "date": "2026-08-07"
+        "price": 603.159973,
+        "change": 15.209961,
+        "pct_change": 2.587,
+        "date": "2026-08-10"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 223.029999,
-        "change": -0.220001,
-        "pct_change": -0.099,
-        "date": "2026-08-07"
+        "price": 224.119995,
+        "change": 1.089996,
+        "pct_change": 0.489,
+        "date": "2026-08-10"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 571.580017,
-        "change": 3.840027,
-        "pct_change": 0.676,
-        "date": "2026-08-07"
+        "price": 577.890015,
+        "change": 6.309998,
+        "pct_change": 1.104,
+        "date": "2026-08-10"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 09 Aug 2026 21:25:04 GMT",
+      "title": "At least 132 killed in Colombia's largest  earthquake in years",
+      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 11 Aug 2026 01:59:40 GMT",
       "matched_keywords": [
-        "military"
+        "earthquake"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 09 Aug 2026 16:18:10 GMT",
+      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 14:34:25 GMT",
       "matched_keywords": [
-        "missile"
+        "attack",
+        "invasion"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 03:33:51 GMT",
+      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 14:43:08 GMT",
       "matched_keywords": [
-        "war"
+        "election",
+        "prime minister"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Ecuador charges ex-minister over presidential candidate assassination case",
-      "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 09 Aug 2026 15:34:04 GMT",
+      "title": "The lonely Chinese men being conned by fake brides",
+      "link": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 22:02:21 GMT",
       "matched_keywords": [
-        "president",
-        "assassination"
+        "crisis"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Puerto Rico rations water supplies due to intense drought",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 09 Aug 2026 16:43:23 GMT",
+      "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
+      "link": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 20:55:34 GMT",
       "matched_keywords": [
-        "drought"
+        "earthquake"
       ]
     },
     {
-      "source": "BBC World",
-      "title": "An unbearable rotting stench is plaguing an LA neighbourhood",
-      "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 09 Aug 2026 00:15:28 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-      "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 08 Aug 2026 19:18:57 GMT",
+      "source": "Al Jazeera",
+      "title": "Where did all the money go if the US is running out of weapons?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss",
+      "published": "Tue, 11 Aug 2026 03:32:57 +0000",
       "matched_keywords": [
         "war"
       ]
     },
     {
-      "source": "BBC World",
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 08 Aug 2026 18:06:25 GMT",
+      "source": "Al Jazeera",
+      "title": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
+      "link": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss",
+      "published": "Tue, 11 Aug 2026 02:32:47 +0000",
       "matched_keywords": [
         "war",
-        "attack",
-        "missile",
+        "president"
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump orders fewer childhood vaccinations including splitting up MMR",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss",
+      "published": "Tue, 11 Aug 2026 02:08:55 +0000",
+      "matched_keywords": [
         "president"
       ]
     }

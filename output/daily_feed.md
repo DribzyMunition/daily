@@ -1,5 +1,5 @@
-# Daily Feed — 2026-08-10
-*Generated: 2026-08-10T04:47:46+00:00 UTC*
+# Daily Feed — 2026-08-11
+*Generated: 2026-08-11T03:57:42+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,395.8999 | ▲ 55.1997 | +1.27% |
-| Silver |      64.0350 | ▲ 0.7030 | +1.11% |
-| Soybeans |   1,183.0000 | ▲ 26.5000 | +2.29% |
-| Sugar #11 (Raw) |      16.4500 | ▲ 0.8800 | +5.65% |
+| Gold |   4,476.1001 | ▲ 135.3999 | +3.12% |
+| Silver |      66.0100 | ▲ 2.6780 | +4.23% |
+| Soybeans |   1,180.0000 | ▲ 23.5000 | +2.03% |
+| Sugar #11 (Raw) |      16.4600 | ▲ 0.0100 | +0.06% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7063 | ▲ 0.0030 | +0.42% |
+| AUD/USD |       0.7061 | ▼ 0.0003 | -0.04% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,757.6401 | ▲ 47.6802 | +0.62% |
-| US 10Y Yield (%) |       4.6600 | ▼ 0.0100 | -0.21% |
-| Hang Seng 50 |  25,853.6895 | ▲ 185.6602 | +0.72% |
+| S&P 500 |   7,753.1099 | ▼ 4.5303 | -0.06% |
+| US 10Y Yield (%) |       4.6990 | ▲ 0.0390 | +0.84% |
+| Hang Seng 50 |  25,778.2891 | ▼ 159.2012 | -0.61% |
 | South Africa Top 40 |  10,977.0000 | ▲ 217.0000 | +2.02% |
-| Switzerland SMI |  14,544.9102 | ▲ 26.1602 | +0.18% |
-| ASX 200 (XJO) |   9,223.0000 | ▼ 40.5996 | -0.44% |
+| Switzerland SMI |  14,633.7002 | ▲ 88.7900 | +0.61% |
+| ASX 200 (XJO) |   9,260.2998 | ▲ 27.7002 | +0.30% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     172.0100 | ▲ 16.0900 | +10.32% |
-| McDonald's |     274.4800 | ▼ 1.7800 | -0.64% |
-| Tesla |     328.5800 | ▲ 9.0500 | +2.83% |
-| Alphabet |     354.3000 | ▼ 3.4500 | -0.96% |
-| Lockheed Martin |     587.9500 | ▲ 5.1000 | +0.88% |
-| RTX (Raytheon) |     223.0300 | ▼ 0.2200 | -0.10% |
-| Northrop Grumman |     571.5800 | ▲ 3.8400 | +0.68% |
+| Palantir |     175.2300 | ▲ 3.2200 | +1.87% |
+| McDonald's |     273.7200 | ▼ 0.7600 | -0.28% |
+| Tesla |     330.8800 | ▲ 2.3000 | +0.70% |
+| Alphabet |     357.5200 | ▲ 3.2200 | +0.91% |
+| Lockheed Martin |     603.1600 | ▲ 15.2100 | +2.59% |
+| RTX (Raytheon) |     224.1200 | ▲ 1.0900 | +0.49% |
+| Northrop Grumman |     577.8900 | ▲ 6.3100 | +1.10% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-*Tags: military*
-https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss
+**[BBC World]** At least 132 killed in Colombia's largest  earthquake in years
+*Tags: earthquake*
+https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Drones spotted over German base days after Leipzig bomb incident
-*Tags: missile*
-https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss
+**[BBC World]** At least 13 killed in Ukrainian drone strike deep into Russia
+*Tags: attack, invasion*
+https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Residents warned to brace for the worst as Canada wildfire rages out of control
+**[BBC World]** Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word
+*Tags: election, prime minister*
+https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** The lonely Chinese men being conned by fake brides
+*Tags: crisis*
+https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Watch: Moment powerful earthquake shakes Colombia and crumbles buildings
+*Tags: earthquake*
+https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss
+
+**[Al Jazeera]** Where did all the money go if the US is running out of weapons?
 *Tags: war*
-https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss
+https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss
 
-**[BBC World]** Ecuador charges ex-minister over presidential candidate assassination case
-*Tags: president, assassination*
-https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss
+**[Al Jazeera]** Trump demands compensation from Iran as talks on Strait of Hormuz continue
+*Tags: war, president*
+https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss
 
-**[BBC World]** Puerto Rico rations water supplies due to intense drought
-*Tags: drought*
-https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** An unbearable rotting stench is plaguing an LA neighbourhood
-*Tags: war*
-https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-*Tags: war*
-https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Child among three killed in Russian missile attacks near Kyiv
-*Tags: war, attack, missile, president*
-https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss
+**[Al Jazeera]** Trump orders fewer childhood vaccinations including splitting up MMR
+*Tags: president*
+https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
