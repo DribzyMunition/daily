@@ -1,214 +1,215 @@
 {
-  "generated_at": "2026-08-11T03:57:42+00:00",
+  "generated_at": "2026-08-12T04:00:36+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4476.100098,
-        "change": 135.399902,
-        "pct_change": 3.119,
+        "price": 4361.799805,
+        "change": 21.099609,
+        "pct_change": 0.486,
         "date": "2026-08-10"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 66.010002,
-        "change": 2.678001,
-        "pct_change": 4.229,
+        "price": 65.106003,
+        "change": 1.774002,
+        "pct_change": 2.801,
         "date": "2026-08-10"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1180.0,
-        "change": 23.5,
-        "pct_change": 2.032,
+        "price": 1157.75,
+        "change": 1.25,
+        "pct_change": 0.108,
         "date": "2026-08-10"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 16.459999,
-        "change": 0.009998,
-        "pct_change": 0.061,
+        "price": 16.469999,
+        "change": 0.019999,
+        "pct_change": 0.122,
         "date": "2026-08-10"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.706065,
-        "change": -0.000284,
-        "pct_change": -0.04,
-        "date": "2026-08-11"
+        "price": 0.705916,
+        "change": 0.000385,
+        "pct_change": 0.055,
+        "date": "2026-08-12"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7753.109863,
-        "change": -4.530273,
-        "pct_change": -0.058,
-        "date": "2026-08-10"
+        "price": 7728.200195,
+        "change": -24.909668,
+        "pct_change": -0.321,
+        "date": "2026-08-11"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.699,
-        "change": 0.039001,
-        "pct_change": 0.837,
-        "date": "2026-08-10"
+        "price": 4.684,
+        "change": -0.015,
+        "pct_change": -0.319,
+        "date": "2026-08-11"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25778.289062,
-        "change": -159.201172,
-        "pct_change": -0.614,
-        "date": "2026-08-11"
+        "price": 25350.009766,
+        "change": -302.810547,
+        "pct_change": -1.18,
+        "date": "2026-08-12"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10977.0,
-        "change": 217.0,
-        "pct_change": 2.017,
-        "date": "2026-08-07"
+        "price": 10857.0,
+        "change": -120.0,
+        "pct_change": -1.093,
+        "date": "2026-08-11"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14633.700195,
-        "change": 88.790039,
-        "pct_change": 0.61,
-        "date": "2026-08-10"
+        "price": 14575.25,
+        "change": -58.450195,
+        "pct_change": -0.399,
+        "date": "2026-08-11"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 9260.299805,
-        "change": 27.700195,
-        "pct_change": 0.3,
-        "date": "2026-08-11"
+        "price": 9188.700195,
+        "change": -61.899414,
+        "pct_change": -0.669,
+        "date": "2026-08-12"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 175.229996,
-        "change": 3.220001,
-        "pct_change": 1.872,
-        "date": "2026-08-10"
+        "price": 174.940002,
+        "change": -0.289993,
+        "pct_change": -0.165,
+        "date": "2026-08-11"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 273.720001,
-        "change": -0.76001,
-        "pct_change": -0.277,
-        "date": "2026-08-10"
+        "price": 274.149994,
+        "change": 0.429993,
+        "pct_change": 0.157,
+        "date": "2026-08-11"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 330.880005,
-        "change": 2.300018,
-        "pct_change": 0.7,
-        "date": "2026-08-10"
+        "price": 332.809998,
+        "change": 1.929993,
+        "pct_change": 0.583,
+        "date": "2026-08-11"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 357.519989,
-        "change": 3.220001,
-        "pct_change": 0.909,
-        "date": "2026-08-10"
+        "price": 343.799988,
+        "change": -13.720001,
+        "pct_change": -3.838,
+        "date": "2026-08-11"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 603.159973,
-        "change": 15.209961,
-        "pct_change": 2.587,
-        "date": "2026-08-10"
+        "price": 597.77002,
+        "change": -5.389954,
+        "pct_change": -0.894,
+        "date": "2026-08-11"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 224.119995,
-        "change": 1.089996,
-        "pct_change": 0.489,
-        "date": "2026-08-10"
+        "price": 223.860001,
+        "change": -0.259995,
+        "pct_change": -0.116,
+        "date": "2026-08-11"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 577.890015,
-        "change": 6.309998,
-        "pct_change": 1.104,
-        "date": "2026-08-10"
+        "price": 575.690002,
+        "change": -2.200012,
+        "pct_change": -0.381,
+        "date": "2026-08-11"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "At least 132 killed in Colombia's largest  earthquake in years",
-      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 11 Aug 2026 01:59:40 GMT",
+      "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+      "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 11 Aug 2026 19:09:52 GMT",
       "matched_keywords": [
         "earthquake"
       ]
     },
     {
       "source": "BBC World",
-      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 14:34:25 GMT",
-      "matched_keywords": [
-        "attack",
-        "invasion"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-      "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 14:43:08 GMT",
-      "matched_keywords": [
-        "election",
-        "prime minister"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "The lonely Chinese men being conned by fake brides",
-      "link": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 22:02:21 GMT",
-      "matched_keywords": [
-        "crisis"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
-      "link": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 20:55:34 GMT",
-      "matched_keywords": [
-        "earthquake"
-      ]
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Where did all the money go if the US is running out of weapons?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss",
-      "published": "Tue, 11 Aug 2026 03:32:57 +0000",
+      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 12 Aug 2026 00:14:42 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
-      "link": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss",
-      "published": "Tue, 11 Aug 2026 02:32:47 +0000",
+      "source": "BBC World",
+      "title": "Trump says he switched planes after Nato summit because of possible threat",
+      "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 12 Aug 2026 03:44:55 GMT",
       "matched_keywords": [
-        "war",
+        "president",
+        "summit",
+        "nato"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+      "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 11 Aug 2026 21:14:56 GMT",
+      "matched_keywords": [
+        "missile"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "New Zealand PM survives second leadership challenge ahead of election",
+      "link": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 12 Aug 2026 02:51:02 GMT",
+      "matched_keywords": [
+        "election"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Former judge removed by Orbán elected Hungarian president",
+      "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 11 Aug 2026 18:34:39 GMT",
+      "matched_keywords": [
         "president"
       ]
     },
     {
-      "source": "Al Jazeera",
-      "title": "Trump orders fewer childhood vaccinations including splitting up MMR",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss",
-      "published": "Tue, 11 Aug 2026 02:08:55 +0000",
+      "source": "BBC World",
+      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 11 Aug 2026 16:19:44 GMT",
       "matched_keywords": [
+        "missile",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 11 Aug 2026 14:50:10 GMT",
+      "matched_keywords": [
+        "war",
         "president"
       ]
     }

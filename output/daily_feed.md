@@ -1,5 +1,5 @@
-# Daily Feed — 2026-08-11
-*Generated: 2026-08-11T03:57:42+00:00 UTC*
+# Daily Feed — 2026-08-12
+*Generated: 2026-08-12T04:00:36+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,476.1001 | ▲ 135.3999 | +3.12% |
-| Silver |      66.0100 | ▲ 2.6780 | +4.23% |
-| Soybeans |   1,180.0000 | ▲ 23.5000 | +2.03% |
-| Sugar #11 (Raw) |      16.4600 | ▲ 0.0100 | +0.06% |
+| Gold |   4,361.7998 | ▲ 21.0996 | +0.49% |
+| Silver |      65.1060 | ▲ 1.7740 | +2.80% |
+| Soybeans |   1,157.7500 | ▲ 1.2500 | +0.11% |
+| Sugar #11 (Raw) |      16.4700 | ▲ 0.0200 | +0.12% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7061 | ▼ 0.0003 | -0.04% |
+| AUD/USD |       0.7059 | ▲ 0.0004 | +0.06% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,753.1099 | ▼ 4.5303 | -0.06% |
-| US 10Y Yield (%) |       4.6990 | ▲ 0.0390 | +0.84% |
-| Hang Seng 50 |  25,778.2891 | ▼ 159.2012 | -0.61% |
-| South Africa Top 40 |  10,977.0000 | ▲ 217.0000 | +2.02% |
-| Switzerland SMI |  14,633.7002 | ▲ 88.7900 | +0.61% |
-| ASX 200 (XJO) |   9,260.2998 | ▲ 27.7002 | +0.30% |
+| S&P 500 |   7,728.2002 | ▼ 24.9097 | -0.32% |
+| US 10Y Yield (%) |       4.6840 | ▼ 0.0150 | -0.32% |
+| Hang Seng 50 |  25,350.0098 | ▼ 302.8105 | -1.18% |
+| South Africa Top 40 |  10,857.0000 | ▼ 120.0000 | -1.09% |
+| Switzerland SMI |  14,575.2500 | ▼ 58.4502 | -0.40% |
+| ASX 200 (XJO) |   9,188.7002 | ▼ 61.8994 | -0.67% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     175.2300 | ▲ 3.2200 | +1.87% |
-| McDonald's |     273.7200 | ▼ 0.7600 | -0.28% |
-| Tesla |     330.8800 | ▲ 2.3000 | +0.70% |
-| Alphabet |     357.5200 | ▲ 3.2200 | +0.91% |
-| Lockheed Martin |     603.1600 | ▲ 15.2100 | +2.59% |
-| RTX (Raytheon) |     224.1200 | ▲ 1.0900 | +0.49% |
-| Northrop Grumman |     577.8900 | ▲ 6.3100 | +1.10% |
+| Palantir |     174.9400 | ▼ 0.2900 | -0.17% |
+| McDonald's |     274.1500 | ▲ 0.4300 | +0.16% |
+| Tesla |     332.8100 | ▲ 1.9300 | +0.58% |
+| Alphabet |     343.8000 | ▼ 13.7200 | -3.84% |
+| Lockheed Martin |     597.7700 | ▼ 5.3900 | -0.89% |
+| RTX (Raytheon) |     223.8600 | ▼ 0.2600 | -0.12% |
+| Northrop Grumman |     575.6900 | ▼ 2.2000 | -0.38% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** At least 132 killed in Colombia's largest  earthquake in years
+**[BBC World]** Rescuers scramble for survivors with 180 dead in Colombia earthquake
 *Tags: earthquake*
-https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** At least 13 killed in Ukrainian drone strike deep into Russia
-*Tags: attack, invasion*
-https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word
-*Tags: election, prime minister*
-https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** The lonely Chinese men being conned by fake brides
-*Tags: crisis*
-https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Watch: Moment powerful earthquake shakes Colombia and crumbles buildings
-*Tags: earthquake*
-https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss
-
-**[Al Jazeera]** Where did all the money go if the US is running out of weapons?
+**[BBC World]** Trump's dramatic plane swap hints at personal stakes of Iran war
 *Tags: war*
-https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss
+https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss
 
-**[Al Jazeera]** Trump demands compensation from Iran as talks on Strait of Hormuz continue
-*Tags: war, president*
-https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss
+**[BBC World]** Trump says he switched planes after Nato summit because of possible threat
+*Tags: president, summit, nato*
+https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss
 
-**[Al Jazeera]** Trump orders fewer childhood vaccinations including splitting up MMR
+**[BBC World]** US says helicopter fired missiles to disable ship breaking Iran blockade
+*Tags: missile*
+https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** New Zealand PM survives second leadership challenge ahead of election
+*Tags: election*
+https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Former judge removed by Orbán elected Hungarian president
 *Tags: president*
-https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss
+https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Russia using North Korean missiles to strike Ukraine, Zelensky says
+*Tags: missile, president*
+https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia
+*Tags: war, president*
+https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
