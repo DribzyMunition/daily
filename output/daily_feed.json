@@ -1,169 +1,196 @@
 {
-  "generated_at": "2026-08-12T04:00:36+00:00",
+  "generated_at": "2026-08-12T21:30:07+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4361.799805,
-        "change": 21.099609,
-        "pct_change": 0.486,
-        "date": "2026-08-10"
+        "price": 4469.0,
+        "change": 86.0,
+        "pct_change": 1.962,
+        "date": "2026-08-12"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 65.106003,
-        "change": 1.774002,
-        "pct_change": 2.801,
-        "date": "2026-08-10"
+        "price": 65.529999,
+        "change": 0.761002,
+        "pct_change": 1.175,
+        "date": "2026-08-12"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1157.75,
-        "change": 1.25,
-        "pct_change": 0.108,
-        "date": "2026-08-10"
+        "price": 1183.25,
+        "change": 35.75,
+        "pct_change": 3.115,
+        "date": "2026-08-12"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 16.469999,
-        "change": 0.019999,
-        "pct_change": 0.122,
-        "date": "2026-08-10"
+        "price": 16.43,
+        "change": -0.299999,
+        "pct_change": -1.793,
+        "date": "2026-08-12"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.705916,
-        "change": 0.000385,
-        "pct_change": 0.055,
+        "price": 0.706314,
+        "change": 0.000784,
+        "pct_change": 0.111,
         "date": "2026-08-12"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7728.200195,
-        "change": -24.909668,
-        "pct_change": -0.321,
-        "date": "2026-08-11"
+        "price": 7748.5,
+        "change": 20.299805,
+        "pct_change": 0.263,
+        "date": "2026-08-12"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.684,
-        "change": -0.015,
-        "pct_change": -0.319,
-        "date": "2026-08-11"
+        "price": 4.682,
+        "change": -0.002,
+        "pct_change": -0.043,
+        "date": "2026-08-12"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25350.009766,
-        "change": -302.810547,
-        "pct_change": -1.18,
-        "date": "2026-08-12"
+        "price": 25652.820312,
+        "change": -284.669922,
+        "pct_change": -1.098,
+        "date": "2026-08-11"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10857.0,
-        "change": -120.0,
-        "pct_change": -1.093,
-        "date": "2026-08-11"
+        "price": 10770.0,
+        "change": -207.0,
+        "pct_change": -1.886,
+        "date": "2026-08-12"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14575.25,
-        "change": -58.450195,
-        "pct_change": -0.399,
-        "date": "2026-08-11"
+        "price": 14449.469727,
+        "change": -125.780273,
+        "pct_change": -0.863,
+        "date": "2026-08-12"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 9188.700195,
-        "change": -61.899414,
-        "pct_change": -0.669,
-        "date": "2026-08-12"
+        "price": 9250.599609,
+        "change": 18.0,
+        "pct_change": 0.195,
+        "date": "2026-08-11"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 174.940002,
-        "change": -0.289993,
-        "pct_change": -0.165,
-        "date": "2026-08-11"
+        "price": 171.039993,
+        "change": -3.900009,
+        "pct_change": -2.229,
+        "date": "2026-08-12"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 274.149994,
-        "change": 0.429993,
-        "pct_change": 0.157,
-        "date": "2026-08-11"
+        "price": 275.700012,
+        "change": 1.550018,
+        "pct_change": 0.565,
+        "date": "2026-08-12"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 332.809998,
-        "change": 1.929993,
-        "pct_change": 0.583,
-        "date": "2026-08-11"
+        "price": 327.51001,
+        "change": -5.299988,
+        "pct_change": -1.592,
+        "date": "2026-08-12"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 343.799988,
-        "change": -13.720001,
-        "pct_change": -3.838,
-        "date": "2026-08-11"
+        "price": 343.540009,
+        "change": -0.259979,
+        "pct_change": -0.076,
+        "date": "2026-08-12"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 597.77002,
-        "change": -5.389954,
-        "pct_change": -0.894,
-        "date": "2026-08-11"
+        "price": 606.719971,
+        "change": 8.949951,
+        "pct_change": 1.497,
+        "date": "2026-08-12"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 223.860001,
-        "change": -0.259995,
-        "pct_change": -0.116,
-        "date": "2026-08-11"
+        "price": 222.759995,
+        "change": -1.100006,
+        "pct_change": -0.491,
+        "date": "2026-08-12"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 575.690002,
-        "change": -2.200012,
-        "pct_change": -0.381,
-        "date": "2026-08-11"
+        "price": 577.320007,
+        "change": 1.630005,
+        "pct_change": 0.283,
+        "date": "2026-08-12"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-      "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 11 Aug 2026 19:09:52 GMT",
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 12 Aug 2026 17:47:01 GMT",
       "matched_keywords": [
-        "earthquake"
+        "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 00:14:42 GMT",
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 12 Aug 2026 16:14:08 GMT",
       "matched_keywords": [
-        "war"
+        "siege"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Trump says he switched planes after Nato summit because of possible threat",
-      "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 03:44:55 GMT",
+      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 12 Aug 2026 20:57:47 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 12 Aug 2026 20:58:39 GMT",
       "matched_keywords": [
         "president",
         "summit",
         "nato"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US inflation eases as food and fuel costs cool",
+      "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 12 Aug 2026 17:03:05 GMT",
+      "matched_keywords": [
+        "inflation"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
+      "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 12 Aug 2026 04:29:02 GMT",
+      "matched_keywords": [
+        "coup"
       ]
     },
     {
@@ -182,35 +209,6 @@
       "published": "Wed, 12 Aug 2026 02:51:02 GMT",
       "matched_keywords": [
         "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Former judge removed by Orbán elected Hungarian president",
-      "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 11 Aug 2026 18:34:39 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 11 Aug 2026 16:19:44 GMT",
-      "matched_keywords": [
-        "missile",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 11 Aug 2026 14:50:10 GMT",
-      "matched_keywords": [
-        "war",
-        "president"
       ]
     }
   ]
