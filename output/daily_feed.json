@@ -1,214 +1,214 @@
 {
-  "generated_at": "2026-08-12T21:30:07+00:00",
+  "generated_at": "2026-08-14T05:11:23+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4469.0,
-        "change": 86.0,
-        "pct_change": 1.962,
-        "date": "2026-08-12"
+        "price": 4380.100098,
+        "change": 16.5,
+        "pct_change": 0.378,
+        "date": "2026-08-14"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 65.529999,
-        "change": 0.761002,
-        "pct_change": 1.175,
-        "date": "2026-08-12"
+        "price": 64.105003,
+        "change": -0.767998,
+        "pct_change": -1.184,
+        "date": "2026-08-14"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1183.25,
-        "change": 35.75,
-        "pct_change": 3.115,
-        "date": "2026-08-12"
+        "price": 1188.75,
+        "change": 20.5,
+        "pct_change": 1.755,
+        "date": "2026-08-14"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 16.43,
-        "change": -0.299999,
-        "pct_change": -1.793,
-        "date": "2026-08-12"
+        "price": 16.82,
+        "change": 0.4,
+        "pct_change": 2.436,
+        "date": "2026-08-13"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.706314,
-        "change": 0.000784,
-        "pct_change": 0.111,
-        "date": "2026-08-12"
+        "price": 0.706464,
+        "change": 7.4e-05,
+        "pct_change": 0.01,
+        "date": "2026-08-14"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7748.5,
-        "change": 20.299805,
-        "pct_change": 0.263,
-        "date": "2026-08-12"
+        "price": 7798.990234,
+        "change": 50.490234,
+        "pct_change": 0.652,
+        "date": "2026-08-13"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.682,
-        "change": -0.002,
-        "pct_change": -0.043,
-        "date": "2026-08-12"
+        "price": 4.641,
+        "change": -0.041,
+        "pct_change": -0.876,
+        "date": "2026-08-13"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25652.820312,
-        "change": -284.669922,
-        "pct_change": -1.098,
-        "date": "2026-08-11"
+        "price": 25160.25,
+        "change": -236.259766,
+        "pct_change": -0.93,
+        "date": "2026-08-14"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
         "price": 10770.0,
-        "change": -207.0,
-        "pct_change": -1.886,
+        "change": -87.0,
+        "pct_change": -0.801,
         "date": "2026-08-12"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14449.469727,
-        "change": -125.780273,
-        "pct_change": -0.863,
-        "date": "2026-08-12"
+        "price": 14475.129883,
+        "change": 25.660156,
+        "pct_change": 0.178,
+        "date": "2026-08-13"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 9250.599609,
-        "change": 18.0,
-        "pct_change": 0.195,
-        "date": "2026-08-11"
+        "price": 9094.700195,
+        "change": -93.799805,
+        "pct_change": -1.021,
+        "date": "2026-08-14"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 171.039993,
-        "change": -3.900009,
-        "pct_change": -2.229,
-        "date": "2026-08-12"
+        "price": 179.009995,
+        "change": 7.970001,
+        "pct_change": 4.66,
+        "date": "2026-08-13"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 275.700012,
-        "change": 1.550018,
-        "pct_change": 0.565,
-        "date": "2026-08-12"
+        "price": 272.25,
+        "change": -3.450012,
+        "pct_change": -1.251,
+        "date": "2026-08-13"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 327.51001,
-        "change": -5.299988,
-        "pct_change": -1.592,
-        "date": "2026-08-12"
+        "price": 339.959991,
+        "change": 12.449982,
+        "pct_change": 3.801,
+        "date": "2026-08-13"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 343.540009,
-        "change": -0.259979,
-        "pct_change": -0.076,
-        "date": "2026-08-12"
+        "price": 346.359985,
+        "change": 2.819977,
+        "pct_change": 0.821,
+        "date": "2026-08-13"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 606.719971,
-        "change": 8.949951,
-        "pct_change": 1.497,
-        "date": "2026-08-12"
+        "price": 598.01001,
+        "change": -8.709961,
+        "pct_change": -1.436,
+        "date": "2026-08-13"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 222.759995,
-        "change": -1.100006,
-        "pct_change": -0.491,
-        "date": "2026-08-12"
+        "price": 220.479996,
+        "change": -2.279999,
+        "pct_change": -1.024,
+        "date": "2026-08-13"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 577.320007,
-        "change": 1.630005,
-        "pct_change": 0.283,
-        "date": "2026-08-12"
+        "price": 574.73999,
+        "change": -2.580017,
+        "pct_change": -0.447,
+        "date": "2026-08-13"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 17:47:01 GMT",
+      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 20:12:17 GMT",
       "matched_keywords": [
-        "attack"
+        "siege",
+        "troops"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 16:14:08 GMT",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 03:09:48 GMT",
       "matched_keywords": [
-        "siege"
+        "tariff"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-      "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 20:57:47 GMT",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 19:46:27 GMT",
       "matched_keywords": [
+        "nuclear"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Family of Irish plane crash victim awarded $29m in damages",
+      "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 19:08:49 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 11:10:31 GMT",
+      "matched_keywords": [
+        "gas"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
+      "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 15:50:49 GMT",
+      "matched_keywords": [
+        "coup",
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 20:58:39 GMT",
+      "title": "Australian army whistleblower released on parole after more than two years in jail",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 02:23:39 GMT",
       "matched_keywords": [
-        "president",
-        "summit",
-        "nato"
+        "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "US inflation eases as food and fuel costs cool",
-      "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 17:03:05 GMT",
+      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 04:55:58 GMT",
       "matched_keywords": [
-        "inflation"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-      "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 04:29:02 GMT",
-      "matched_keywords": [
-        "coup"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-      "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 11 Aug 2026 21:14:56 GMT",
-      "matched_keywords": [
-        "missile"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "New Zealand PM survives second leadership challenge ahead of election",
-      "link": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 02:51:02 GMT",
-      "matched_keywords": [
-        "election"
+        "war"
       ]
     }
   ]
