@@ -1,142 +1,196 @@
 {
-  "generated_at": "2026-08-14T05:11:23+00:00",
+  "generated_at": "2026-08-15T02:56:59+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4380.100098,
-        "change": 16.5,
-        "pct_change": 0.378,
+        "price": 4432.0,
+        "change": 68.399902,
+        "pct_change": 1.568,
         "date": "2026-08-14"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 64.105003,
-        "change": -0.767998,
-        "pct_change": -1.184,
+        "price": 64.824997,
+        "change": -0.048004,
+        "pct_change": -0.074,
         "date": "2026-08-14"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1188.75,
-        "change": 20.5,
-        "pct_change": 1.755,
+        "price": 1191.25,
+        "change": 23.0,
+        "pct_change": 1.969,
         "date": "2026-08-14"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 16.82,
-        "change": 0.4,
-        "pct_change": 2.436,
-        "date": "2026-08-13"
+        "price": 16.6,
+        "change": -0.219999,
+        "pct_change": -1.308,
+        "date": "2026-08-14"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.706464,
-        "change": 7.4e-05,
-        "pct_change": 0.01,
+        "price": 0.708667,
+        "change": 0.002277,
+        "pct_change": 0.322,
         "date": "2026-08-14"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7798.990234,
-        "change": 50.490234,
-        "pct_change": 0.652,
-        "date": "2026-08-13"
+        "price": 7785.759766,
+        "change": -13.230469,
+        "pct_change": -0.17,
+        "date": "2026-08-14"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.641,
-        "change": -0.041,
-        "pct_change": -0.876,
-        "date": "2026-08-13"
+        "price": 4.696,
+        "change": 0.055,
+        "pct_change": 1.185,
+        "date": "2026-08-14"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25160.25,
-        "change": -236.259766,
-        "pct_change": -0.93,
+        "price": 25116.849609,
+        "change": -279.660156,
+        "pct_change": -1.101,
         "date": "2026-08-14"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10770.0,
-        "change": -87.0,
-        "pct_change": -0.801,
-        "date": "2026-08-12"
+        "price": 10674.0,
+        "change": -96.0,
+        "pct_change": -0.891,
+        "date": "2026-08-13"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14475.129883,
-        "change": 25.660156,
-        "pct_change": 0.178,
-        "date": "2026-08-13"
+        "price": 14390.669922,
+        "change": -84.459961,
+        "pct_change": -0.583,
+        "date": "2026-08-14"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 9094.700195,
-        "change": -93.799805,
-        "pct_change": -1.021,
+        "price": 9115.200195,
+        "change": -73.299805,
+        "pct_change": -0.798,
         "date": "2026-08-14"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 179.009995,
-        "change": 7.970001,
-        "pct_change": 4.66,
-        "date": "2026-08-13"
+        "price": 174.039993,
+        "change": -4.970001,
+        "pct_change": -2.776,
+        "date": "2026-08-14"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 272.25,
-        "change": -3.450012,
-        "pct_change": -1.251,
-        "date": "2026-08-13"
+        "price": 272.829987,
+        "change": 0.579987,
+        "pct_change": 0.213,
+        "date": "2026-08-14"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 339.959991,
-        "change": 12.449982,
-        "pct_change": 3.801,
-        "date": "2026-08-13"
+        "price": 342.269989,
+        "change": 2.309998,
+        "pct_change": 0.679,
+        "date": "2026-08-14"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 346.359985,
-        "change": 2.819977,
-        "pct_change": 0.821,
-        "date": "2026-08-13"
+        "price": 345.899994,
+        "change": -0.459991,
+        "pct_change": -0.133,
+        "date": "2026-08-14"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 598.01001,
-        "change": -8.709961,
-        "pct_change": -1.436,
-        "date": "2026-08-13"
+        "price": 608.679993,
+        "change": 10.669983,
+        "pct_change": 1.784,
+        "date": "2026-08-14"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 220.479996,
-        "change": -2.279999,
-        "pct_change": -1.024,
-        "date": "2026-08-13"
+        "price": 222.970001,
+        "change": 3.220016,
+        "pct_change": 1.465,
+        "date": "2026-08-14"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 574.73999,
-        "change": -2.580017,
-        "pct_change": -0.447,
-        "date": "2026-08-13"
+        "price": 585.869995,
+        "change": 11.130005,
+        "pct_change": 1.937,
+        "date": "2026-08-14"
       }
     }
   },
   "news": [
+    {
+      "source": "BBC World",
+      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 12:19:21 GMT",
+      "matched_keywords": [
+        "crisis"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 17:03:17 GMT",
+      "matched_keywords": [
+        "siege"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "France's top court blocks social media ban for under-15s",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 16:35:06 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump asks Supreme Court to allow ballroom work to continue",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 19:05:22 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
+      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 16:28:59 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 08:39:46 GMT",
+      "matched_keywords": [
+        "tariff"
+      ]
+    },
     {
       "source": "BBC World",
       "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
@@ -149,66 +203,11 @@
     },
     {
       "source": "BBC World",
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 03:09:48 GMT",
-      "matched_keywords": [
-        "tariff"
-      ]
-    },
-    {
-      "source": "BBC World",
       "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
       "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 13 Aug 2026 19:46:27 GMT",
       "matched_keywords": [
         "nuclear"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Family of Irish plane crash victim awarded $29m in damages",
-      "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 19:08:49 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 11:10:31 GMT",
-      "matched_keywords": [
-        "gas"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
-      "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 15:50:49 GMT",
-      "matched_keywords": [
-        "coup",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Australian army whistleblower released on parole after more than two years in jail",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 02:23:39 GMT",
-      "matched_keywords": [
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 04:55:58 GMT",
-      "matched_keywords": [
-        "war"
       ]
     }
   ]
