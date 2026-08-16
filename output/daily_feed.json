@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-08-15T02:56:59+00:00",
+  "generated_at": "2026-08-16T06:08:40+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4432.0,
-        "change": 68.399902,
-        "pct_change": 1.568,
+        "price": 4437.299805,
+        "change": 73.699707,
+        "pct_change": 1.689,
         "date": "2026-08-14"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 64.824997,
-        "change": -0.048004,
-        "pct_change": -0.074,
+        "price": 65.108002,
+        "change": 0.235001,
+        "pct_change": 0.362,
         "date": "2026-08-14"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1191.25,
-        "change": 23.0,
-        "pct_change": 1.969,
+        "price": 1192.5,
+        "change": 24.25,
+        "pct_change": 2.076,
         "date": "2026-08-14"
       },
       "Sugar #11 (Raw)": {
@@ -35,9 +35,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.708667,
-        "change": 0.002277,
-        "pct_change": 0.322,
-        "date": "2026-08-14"
+        "change": 0.002297,
+        "pct_change": 0.325,
+        "date": "2026-08-16"
       }
     },
     "indices": {
@@ -64,10 +64,10 @@
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10674.0,
-        "change": -96.0,
-        "pct_change": -0.891,
-        "date": "2026-08-13"
+        "price": 10660.0,
+        "change": -14.0,
+        "pct_change": -0.131,
+        "date": "2026-08-14"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
@@ -139,20 +139,66 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-      "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 12:19:21 GMT",
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 04:13:32 GMT",
       "matched_keywords": [
-        "crisis"
+        "earthquake"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 17:03:17 GMT",
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 15 Aug 2026 20:21:14 GMT",
       "matched_keywords": [
-        "siege"
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 15 Aug 2026 21:03:57 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 03:54:11 GMT",
+      "matched_keywords": [
+        "hurricane"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Australian state to launch gun buyback after Bondi Beach attack",
+      "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 15 Aug 2026 21:41:43 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "BBC seeks to subpoena family members in Panorama lawsuit",
+      "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 00:11:03 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "South Korea proposes talks to officially end war with North",
+      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 15 Aug 2026 14:40:15 GMT",
+      "matched_keywords": [
+        "war",
+        "conflict"
       ]
     },
     {
@@ -162,52 +208,6 @@
       "published": "Fri, 14 Aug 2026 16:35:06 GMT",
       "matched_keywords": [
         "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump asks Supreme Court to allow ballroom work to continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 19:05:22 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
-      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 16:28:59 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 08:39:46 GMT",
-      "matched_keywords": [
-        "tariff"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 20:12:17 GMT",
-      "matched_keywords": [
-        "siege",
-        "troops"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 19:46:27 GMT",
-      "matched_keywords": [
-        "nuclear"
       ]
     }
   ]

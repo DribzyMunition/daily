@@ -1,5 +1,5 @@
-# Daily Feed — 2026-08-15
-*Generated: 2026-08-15T02:56:59+00:00 UTC*
+# Daily Feed — 2026-08-16
+*Generated: 2026-08-16T06:08:40+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,432.0000 | ▲ 68.3999 | +1.57% |
-| Silver |      64.8250 | ▼ 0.0480 | -0.07% |
-| Soybeans |   1,191.2500 | ▲ 23.0000 | +1.97% |
+| Gold |   4,437.2998 | ▲ 73.6997 | +1.69% |
+| Silver |      65.1080 | ▲ 0.2350 | +0.36% |
+| Soybeans |   1,192.5000 | ▲ 24.2500 | +2.08% |
 | Sugar #11 (Raw) |      16.6000 | ▼ 0.2200 | -1.31% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7087 | ▲ 0.0023 | +0.32% |
+| AUD/USD |       0.7087 | ▲ 0.0023 | +0.33% |
 
 ### Indices
 
@@ -27,7 +27,7 @@
 | S&P 500 |   7,785.7598 | ▼ 13.2305 | -0.17% |
 | US 10Y Yield (%) |       4.6960 | ▲ 0.0550 | +1.19% |
 | Hang Seng 50 |  25,116.8496 | ▼ 279.6602 | -1.10% |
-| South Africa Top 40 |  10,674.0000 | ▼ 96.0000 | -0.89% |
+| South Africa Top 40 |  10,660.0000 | ▼ 14.0000 | -0.13% |
 | Switzerland SMI |  14,390.6699 | ▼ 84.4600 | -0.58% |
 | ASX 200 (XJO) |   9,115.2002 | ▼ 73.2998 | -0.80% |
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Instagram accounts fuelling Ceuta crisis with paid advice for help to cross
-*Tags: crisis*
-https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss
+**[BBC World]** Rescuers search for survivors of powerful Indonesia earthquake
+*Tags: earthquake*
+https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers
-*Tags: siege*
-https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss
+**[BBC World]** Eleven killed in Israeli strikes on southern Lebanon, authorities say
+*Tags: military*
+https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Qatar denies capturing three Iranian pilots after downing fighter jets
+*Tags: war*
+https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Hawaii braces for potential first direct hit by a hurricane in 34 years
+*Tags: hurricane*
+https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Australian state to launch gun buyback after Bondi Beach attack
+*Tags: attack*
+https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** BBC seeks to subpoena family members in Panorama lawsuit
+*Tags: president*
+https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** South Korea proposes talks to officially end war with North
+*Tags: war, conflict*
+https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** France's top court blocks social media ban for under-15s
 *Tags: president*
 https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump asks Supreme Court to allow ballroom work to continue
-*Tags: president*
-https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Zambia vote counting resumes after pause over alleged attacks on polling staff
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** US says dozens of countries helped China dodge Trump's tariffs
-*Tags: tariff*
-https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Palestinians told to leave homes in village where Israeli settlers besieged houses
-*Tags: siege, troops*
-https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Romania shuts only nuclear plant as heat causes huge drop in Danube River level
-*Tags: nuclear*
-https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
