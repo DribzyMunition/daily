@@ -1,142 +1,189 @@
 {
-  "generated_at": "2026-08-18T06:52:23+00:00",
+  "generated_at": "2026-08-18T21:30:04+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4453.0,
-        "change": 35.200195,
-        "pct_change": 0.797,
+        "price": 4389.5,
+        "change": -28.299805,
+        "pct_change": -0.641,
         "date": "2026-08-18"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 65.364998,
-        "change": -0.756004,
-        "pct_change": -1.143,
+        "price": 63.419998,
+        "change": -2.701004,
+        "pct_change": -4.085,
         "date": "2026-08-18"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1224.75,
-        "change": 23.75,
-        "pct_change": 1.978,
+        "price": 1215.25,
+        "change": 14.25,
+        "pct_change": 1.187,
         "date": "2026-08-18"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 16.870001,
-        "change": 0.27,
-        "pct_change": 1.627,
-        "date": "2026-08-17"
+        "price": 17.48,
+        "change": 0.609999,
+        "pct_change": 3.616,
+        "date": "2026-08-18"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.709975,
-        "change": 0.001455,
-        "pct_change": 0.205,
+        "price": 0.708717,
+        "change": 0.000197,
+        "pct_change": 0.028,
         "date": "2026-08-18"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7785.759766,
-        "change": -13.230469,
-        "pct_change": -0.17,
-        "date": "2026-08-14"
+        "price": 7691.759766,
+        "change": -53.300293,
+        "pct_change": -0.688,
+        "date": "2026-08-18"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.696,
-        "change": 0.055,
-        "pct_change": 1.185,
-        "date": "2026-08-14"
+        "price": 4.706,
+        "change": -0.018,
+        "pct_change": -0.381,
+        "date": "2026-08-18"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25449.429688,
-        "change": 332.580078,
-        "pct_change": 1.324,
-        "date": "2026-08-18"
+        "price": 25453.230469,
+        "change": 336.380859,
+        "pct_change": 1.339,
+        "date": "2026-08-17"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10660.0,
+        "price": 10646.0,
         "change": -14.0,
         "pct_change": -0.131,
-        "date": "2026-08-14"
+        "date": "2026-08-18"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14390.669922,
-        "change": -84.459961,
-        "pct_change": -0.583,
-        "date": "2026-08-14"
+        "price": 14320.900391,
+        "change": 18.510742,
+        "pct_change": 0.129,
+        "date": "2026-08-18"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 9070.0,
-        "change": -45.200195,
-        "pct_change": -0.496,
-        "date": "2026-08-18"
+        "price": 9073.200195,
+        "change": -42.0,
+        "pct_change": -0.461,
+        "date": "2026-08-17"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 174.039993,
-        "change": -4.970001,
-        "pct_change": -2.776,
-        "date": "2026-08-14"
+        "price": 171.539993,
+        "change": -1.01001,
+        "pct_change": -0.585,
+        "date": "2026-08-18"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 272.829987,
-        "change": 0.579987,
-        "pct_change": 0.213,
-        "date": "2026-08-14"
+        "price": 266.98999,
+        "change": 1.459991,
+        "pct_change": 0.55,
+        "date": "2026-08-18"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 342.269989,
-        "change": 2.309998,
-        "pct_change": 0.679,
-        "date": "2026-08-14"
+        "price": 336.869995,
+        "change": -2.429993,
+        "pct_change": -0.716,
+        "date": "2026-08-18"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 345.899994,
-        "change": -0.459991,
-        "pct_change": -0.133,
-        "date": "2026-08-14"
+        "price": 344.200012,
+        "change": 0.200012,
+        "pct_change": 0.058,
+        "date": "2026-08-18"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 608.679993,
-        "change": 10.669983,
-        "pct_change": 1.784,
-        "date": "2026-08-14"
+        "price": 607.169983,
+        "change": 13.429993,
+        "pct_change": 2.262,
+        "date": "2026-08-18"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 222.970001,
-        "change": 3.220016,
-        "pct_change": 1.465,
-        "date": "2026-08-14"
+        "price": 225.490005,
+        "change": 3.850006,
+        "pct_change": 1.737,
+        "date": "2026-08-18"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 585.869995,
-        "change": 11.130005,
-        "pct_change": 1.937,
-        "date": "2026-08-14"
+        "price": 589.140015,
+        "change": 18.940002,
+        "pct_change": 3.322,
+        "date": "2026-08-18"
       }
     }
   },
   "news": [
+    {
+      "source": "BBC World",
+      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+      "matched_keywords": [
+        "war",
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Earthquake rocks Spain's historic Granada, injuring three",
+      "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 17:15:39 GMT",
+      "matched_keywords": [
+        "earthquake"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 13:13:54 GMT",
+      "matched_keywords": [
+        "president",
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Judge swapped in Trump's defamation case against BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 19:52:32 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US announces new sanctions on top ICC figures",
+      "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 20:21:49 GMT",
+      "matched_keywords": [
+        "sanctions"
+      ]
+    },
     {
       "source": "BBC World",
       "title": "Inside secret police warehouse as Germany targets small boats gangs",
@@ -148,66 +195,20 @@
     },
     {
       "source": "BBC World",
-      "title": "Watch: Why has Trump shifted on North Korea?",
-      "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 23:42:38 GMT",
-      "matched_keywords": [
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia's prominent anti-war politician jailed for 11 years",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 16:17:34 GMT",
+      "title": "China censors public mourning as it holds former premier's funeral",
+      "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 07:17:07 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "French PM heckled over wildfire response as blazes continue across Europe",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 18:00:55 GMT",
-      "matched_keywords": [
-        "prime minister"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 18:39:39 GMT",
-      "matched_keywords": [
-        "war",
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-      "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 10:39:24 GMT",
-      "matched_keywords": [
-        "earthquake"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
-      "link": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 18:45:59 GMT",
+      "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
+      "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 17:00:29 GMT",
       "matched_keywords": [
         "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
-      "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 04:41:31 GMT",
-      "matched_keywords": [
-        "outbreak"
       ]
     }
   ]
