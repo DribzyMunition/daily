@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-08-17T06:15:57+00:00",
+  "generated_at": "2026-08-18T06:52:23+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4453.200195,
-        "change": 72.800293,
-        "pct_change": 1.662,
-        "date": "2026-08-17"
+        "price": 4453.0,
+        "change": 35.200195,
+        "pct_change": 0.797,
+        "date": "2026-08-18"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 66.080002,
-        "change": 1.092003,
-        "pct_change": 1.68,
-        "date": "2026-08-17"
+        "price": 65.364998,
+        "change": -0.756004,
+        "pct_change": -1.143,
+        "date": "2026-08-18"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1194.0,
-        "change": 20.25,
-        "pct_change": 1.725,
-        "date": "2026-08-17"
+        "price": 1224.75,
+        "change": 23.75,
+        "pct_change": 1.978,
+        "date": "2026-08-18"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 16.6,
-        "change": -0.219999,
-        "pct_change": -1.308,
-        "date": "2026-08-14"
+        "price": 16.870001,
+        "change": 0.27,
+        "pct_change": 1.627,
+        "date": "2026-08-17"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.711288,
-        "change": 0.004918,
-        "pct_change": 0.696,
-        "date": "2026-08-17"
+        "price": 0.709975,
+        "change": 0.001455,
+        "pct_change": 0.205,
+        "date": "2026-08-18"
       }
     },
     "indices": {
@@ -57,10 +57,10 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25560.179688,
-        "change": 443.330078,
-        "pct_change": 1.765,
-        "date": "2026-08-17"
+        "price": 25449.429688,
+        "change": 332.580078,
+        "pct_change": 1.324,
+        "date": "2026-08-18"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 9065.700195,
-        "change": -49.5,
-        "pct_change": -0.543,
-        "date": "2026-08-17"
+        "price": 9070.0,
+        "change": -45.200195,
+        "pct_change": -0.496,
+        "date": "2026-08-18"
       }
     },
     "stocks": {
@@ -139,11 +139,37 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 04:50:56 GMT",
+      "title": "Inside secret police warehouse as Germany targets small boats gangs",
+      "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 05:02:58 GMT",
       "matched_keywords": [
-        "president",
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Why has Trump shifted on North Korea?",
+      "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 23:42:38 GMT",
+      "matched_keywords": [
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia's prominent anti-war politician jailed for 11 years",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 16:17:34 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "French PM heckled over wildfire response as blazes continue across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 18:00:55 GMT",
+      "matched_keywords": [
         "prime minister"
       ]
     },
@@ -151,10 +177,28 @@
       "source": "BBC World",
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 05:06:47 GMT",
+      "published": "Mon, 17 Aug 2026 18:39:39 GMT",
       "matched_keywords": [
         "war",
         "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+      "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 10:39:24 GMT",
+      "matched_keywords": [
+        "earthquake"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
+      "link": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 18:45:59 GMT",
+      "matched_keywords": [
+        "president"
       ]
     },
     {
@@ -164,51 +208,6 @@
       "published": "Mon, 17 Aug 2026 04:41:31 GMT",
       "matched_keywords": [
         "outbreak"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 19:00:23 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 12:37:21 GMT",
-      "matched_keywords": [
-        "earthquake"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 00:20:51 GMT",
-      "matched_keywords": [
-        "hurricane"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US commander says mental health a 'priority' on USS Lincoln",
-      "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 21:04:27 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 09:27:58 GMT",
-      "matched_keywords": [
-        "war"
       ]
     }
   ]

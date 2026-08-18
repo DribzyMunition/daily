@@ -1,5 +1,5 @@
-# Daily Feed — 2026-08-17
-*Generated: 2026-08-17T06:15:57+00:00 UTC*
+# Daily Feed — 2026-08-18
+*Generated: 2026-08-18T06:52:23+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,453.2002 | ▲ 72.8003 | +1.66% |
-| Silver |      66.0800 | ▲ 1.0920 | +1.68% |
-| Soybeans |   1,194.0000 | ▲ 20.2500 | +1.73% |
-| Sugar #11 (Raw) |      16.6000 | ▼ 0.2200 | -1.31% |
+| Gold |   4,453.0000 | ▲ 35.2002 | +0.80% |
+| Silver |      65.3650 | ▼ 0.7560 | -1.14% |
+| Soybeans |   1,224.7500 | ▲ 23.7500 | +1.98% |
+| Sugar #11 (Raw) |      16.8700 | ▲ 0.2700 | +1.63% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7113 | ▲ 0.0049 | +0.70% |
+| AUD/USD |       0.7100 | ▲ 0.0015 | +0.20% |
 
 ### Indices
 
@@ -26,10 +26,10 @@
 |:------|------:|------:|---------:|
 | S&P 500 |   7,785.7598 | ▼ 13.2305 | -0.17% |
 | US 10Y Yield (%) |       4.6960 | ▲ 0.0550 | +1.19% |
-| Hang Seng 50 |  25,560.1797 | ▲ 443.3301 | +1.76% |
+| Hang Seng 50 |  25,449.4297 | ▲ 332.5801 | +1.32% |
 | South Africa Top 40 |  10,660.0000 | ▼ 14.0000 | -0.13% |
 | Switzerland SMI |  14,390.6699 | ▼ 84.4600 | -0.58% |
-| ASX 200 (XJO) |   9,065.7002 | ▼ 49.5000 | -0.54% |
+| ASX 200 (XJO) |   9,070.0000 | ▼ 45.2002 | -0.50% |
 
 ### Stocks
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan
-*Tags: president, prime minister*
-https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Inside secret police warehouse as Germany targets small boats gangs
+*Tags: war*
+https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Watch: Why has Trump shifted on North Korea?
+*Tags: military*
+https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Russia's prominent anti-war politician jailed for 11 years
+*Tags: war*
+https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** French PM heckled over wildfire response as blazes continue across Europe
+*Tags: prime minister*
+https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Trump says US to reduce military drills with South Korea after it stayed out of Iran war
 *Tags: war, military*
 https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss
 
+**[BBC World]** Aid shortages and fears of starvation as Indonesia reels from deadly earthquake
+*Tags: earthquake*
+https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case
+*Tags: president*
+https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss
+
 **[BBC World]** Ebola outbreak in DR Congo becomes deadliest in its history
 *Tags: outbreak*
 https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Teen suspect in Virginia campus shooting found hiding in closet
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Thousands displaced by deadly Indonesia earthquake as rescue efforts continue
-*Tags: earthquake*
-https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** About 100 homes swept away after Hurricane Lala lashes Hawaii
-*Tags: hurricane*
-https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** US commander says mental health a 'priority' on USS Lincoln
-*Tags: war*
-https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Qatar denies capturing three Iranian pilots after downing fighter jets
-*Tags: war*
-https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
