@@ -1,214 +1,215 @@
 {
-  "generated_at": "2026-08-18T21:30:04+00:00",
+  "generated_at": "2026-08-19T21:30:07+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4389.5,
-        "change": -28.299805,
-        "pct_change": -0.641,
-        "date": "2026-08-18"
+        "price": 4580.700195,
+        "change": 214.700195,
+        "pct_change": 4.918,
+        "date": "2026-08-19"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 63.419998,
-        "change": -2.701004,
-        "pct_change": -4.085,
-        "date": "2026-08-18"
+        "price": 67.129997,
+        "change": 3.188995,
+        "pct_change": 4.987,
+        "date": "2026-08-19"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1215.25,
-        "change": 14.25,
-        "pct_change": 1.187,
-        "date": "2026-08-18"
+        "price": 1236.0,
+        "change": 35.25,
+        "pct_change": 2.936,
+        "date": "2026-08-19"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 17.48,
-        "change": 0.609999,
-        "pct_change": 3.616,
-        "date": "2026-08-18"
+        "price": 17.559999,
+        "change": 0.09,
+        "pct_change": 0.515,
+        "date": "2026-08-19"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.708717,
-        "change": 0.000197,
-        "pct_change": 0.028,
-        "date": "2026-08-18"
+        "price": 0.712504,
+        "change": 0.001684,
+        "pct_change": 0.237,
+        "date": "2026-08-19"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7691.759766,
-        "change": -53.300293,
-        "pct_change": -0.688,
-        "date": "2026-08-18"
+        "price": 7707.97998,
+        "change": 16.220215,
+        "pct_change": 0.211,
+        "date": "2026-08-19"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.706,
-        "change": -0.018,
-        "pct_change": -0.381,
-        "date": "2026-08-18"
+        "price": 4.653,
+        "change": -0.053,
+        "pct_change": -1.126,
+        "date": "2026-08-19"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25453.230469,
-        "change": 336.380859,
-        "pct_change": 1.339,
-        "date": "2026-08-17"
+        "price": 25471.150391,
+        "change": 17.919922,
+        "pct_change": 0.07,
+        "date": "2026-08-18"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10646.0,
-        "change": -14.0,
-        "pct_change": -0.131,
-        "date": "2026-08-18"
+        "price": 10899.0,
+        "change": 156.0,
+        "pct_change": 1.452,
+        "date": "2026-08-19"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14320.900391,
-        "change": 18.510742,
-        "pct_change": 0.129,
-        "date": "2026-08-18"
+        "price": 14386.580078,
+        "change": 65.679688,
+        "pct_change": 0.459,
+        "date": "2026-08-19"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 9073.200195,
-        "change": -42.0,
-        "pct_change": -0.461,
-        "date": "2026-08-17"
+        "price": 9070.0,
+        "change": -3.200195,
+        "pct_change": -0.035,
+        "date": "2026-08-18"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 171.539993,
-        "change": -1.01001,
-        "pct_change": -0.585,
-        "date": "2026-08-18"
+        "price": 175.190002,
+        "change": 3.650009,
+        "pct_change": 2.128,
+        "date": "2026-08-19"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 266.98999,
-        "change": 1.459991,
-        "pct_change": 0.55,
-        "date": "2026-08-18"
+        "price": 267.450012,
+        "change": 0.460022,
+        "pct_change": 0.172,
+        "date": "2026-08-19"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 336.869995,
-        "change": -2.429993,
-        "pct_change": -0.716,
-        "date": "2026-08-18"
+        "price": 351.119995,
+        "change": 14.25,
+        "pct_change": 4.23,
+        "date": "2026-08-19"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 344.200012,
-        "change": 0.200012,
-        "pct_change": 0.058,
-        "date": "2026-08-18"
+        "price": 344.720001,
+        "change": 0.519989,
+        "pct_change": 0.151,
+        "date": "2026-08-19"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 607.169983,
-        "change": 13.429993,
-        "pct_change": 2.262,
-        "date": "2026-08-18"
+        "price": 589.150024,
+        "change": -18.019958,
+        "pct_change": -2.968,
+        "date": "2026-08-19"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 225.490005,
-        "change": 3.850006,
-        "pct_change": 1.737,
-        "date": "2026-08-18"
+        "price": 220.350006,
+        "change": -5.139999,
+        "pct_change": -2.279,
+        "date": "2026-08-19"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 589.140015,
-        "change": 18.940002,
-        "pct_change": 3.322,
-        "date": "2026-08-18"
+        "price": 582.840027,
+        "change": -6.299988,
+        "pct_change": -1.069,
+        "date": "2026-08-19"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 15:33:32 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 20:34:39 GMT",
+      "matched_keywords": [
+        "election",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "South Korea shortens war games with US, citing Washington request",
+      "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 17:39:49 GMT",
       "matched_keywords": [
         "war",
-        "prime minister"
+        "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Earthquake rocks Spain's historic Granada, injuring three",
-      "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 17:15:39 GMT",
+      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 19:59:14 GMT",
       "matched_keywords": [
-        "earthquake"
+        "prime minister",
+        "tariff"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Brazil's President Lula hails oil discovery near Amazon river",
-      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 13:13:54 GMT",
+      "title": "Retail giant Target receives $1bn boost from tariff refunds",
+      "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 17:07:49 GMT",
       "matched_keywords": [
-        "president",
-        "oil"
+        "tariff"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Judge swapped in Trump's defamation case against BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 19:52:32 GMT",
+      "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
+      "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 09:48:16 GMT",
       "matched_keywords": [
-        "president"
+        "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "US announces new sanctions on top ICC figures",
-      "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 20:21:49 GMT",
-      "matched_keywords": [
-        "sanctions"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Inside secret police warehouse as Germany targets small boats gangs",
-      "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 05:02:58 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "China censors public mourning as it holds former premier's funeral",
-      "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 07:17:07 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 17:00:29 GMT",
+      "title": "Who is Natalie Harp, Trump's right-hand woman?",
+      "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 19:02:41 GMT",
       "matched_keywords": [
         "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Families' agonising search for answers as thousands still missing in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 05:04:00 GMT",
+      "matched_keywords": [
+        "ceasefire"
       ]
     }
   ]
