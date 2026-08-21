@@ -1,215 +1,212 @@
 {
-  "generated_at": "2026-08-20T21:30:04+00:00",
+  "generated_at": "2026-08-21T21:30:04+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4575.100098,
-        "change": 85.700195,
-        "pct_change": 1.909,
-        "date": "2026-08-20"
+        "price": 4661.600098,
+        "change": 145.300293,
+        "pct_change": 3.217,
+        "date": "2026-08-21"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 68.129997,
-        "change": 2.395996,
-        "pct_change": 3.645,
-        "date": "2026-08-20"
+        "price": 69.010002,
+        "change": 0.984001,
+        "pct_change": 1.447,
+        "date": "2026-08-21"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1236.0,
-        "change": 13.75,
-        "pct_change": 1.125,
-        "date": "2026-08-20"
+        "price": 1240.25,
+        "change": 19.5,
+        "pct_change": 1.597,
+        "date": "2026-08-21"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 17.5,
-        "change": -0.049999,
-        "pct_change": -0.285,
-        "date": "2026-08-20"
+        "price": 17.6,
+        "change": 0.08,
+        "pct_change": 0.457,
+        "date": "2026-08-21"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.71144,
-        "change": 0.00329,
-        "pct_change": 0.465,
-        "date": "2026-08-20"
+        "price": 0.717463,
+        "change": 0.004959,
+        "pct_change": 0.696,
+        "date": "2026-08-21"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7641.160156,
-        "change": -66.819824,
-        "pct_change": -0.867,
-        "date": "2026-08-20"
+        "price": 7674.370117,
+        "change": 33.209961,
+        "pct_change": 0.435,
+        "date": "2026-08-21"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.696,
-        "change": 0.043,
-        "pct_change": 0.924,
-        "date": "2026-08-20"
+        "price": 4.738,
+        "change": 0.042,
+        "pct_change": 0.894,
+        "date": "2026-08-21"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25495.070312,
-        "change": 23.919922,
-        "pct_change": 0.094,
-        "date": "2026-08-19"
+        "price": 25698.490234,
+        "change": 203.419922,
+        "pct_change": 0.798,
+        "date": "2026-08-20"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10864.0,
-        "change": 218.0,
-        "pct_change": 2.048,
-        "date": "2026-08-20"
+        "price": 11112.0,
+        "change": 213.0,
+        "pct_change": 1.954,
+        "date": "2026-08-21"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14368.160156,
-        "change": -18.419922,
-        "pct_change": -0.128,
-        "date": "2026-08-20"
+        "price": 14456.980469,
+        "change": 88.820312,
+        "pct_change": 0.618,
+        "date": "2026-08-21"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 9053.799805,
-        "change": -16.200195,
-        "pct_change": -0.179,
-        "date": "2026-08-19"
+        "price": 9083.799805,
+        "change": 30.0,
+        "pct_change": 0.331,
+        "date": "2026-08-20"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 173.960007,
-        "change": -1.229996,
-        "pct_change": -0.702,
-        "date": "2026-08-20"
+        "price": 179.940002,
+        "change": 5.979996,
+        "pct_change": 3.438,
+        "date": "2026-08-21"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 269.130005,
-        "change": 1.679993,
-        "pct_change": 0.628,
-        "date": "2026-08-20"
+        "price": 270.950012,
+        "change": 1.820007,
+        "pct_change": 0.676,
+        "date": "2026-08-21"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 345.130005,
-        "change": -5.98999,
-        "pct_change": -1.706,
-        "date": "2026-08-20"
+        "price": 362.859985,
+        "change": 17.72998,
+        "pct_change": 5.137,
+        "date": "2026-08-21"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 340.670013,
-        "change": -4.049988,
-        "pct_change": -1.175,
-        "date": "2026-08-20"
+        "price": 344.820007,
+        "change": 4.149994,
+        "pct_change": 1.218,
+        "date": "2026-08-21"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 571.47998,
-        "change": -17.670044,
-        "pct_change": -2.999,
-        "date": "2026-08-20"
+        "price": 563.570007,
+        "change": -7.909973,
+        "pct_change": -1.384,
+        "date": "2026-08-21"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 212.289993,
-        "change": -8.060013,
-        "pct_change": -3.658,
-        "date": "2026-08-20"
+        "price": 209.910004,
+        "change": -2.37999,
+        "pct_change": -1.121,
+        "date": "2026-08-21"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 563.859985,
-        "change": -18.980042,
-        "pct_change": -3.256,
-        "date": "2026-08-20"
+        "price": 551.030029,
+        "change": -12.829956,
+        "pct_change": -2.275,
+        "date": "2026-08-21"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 19:52:48 GMT",
+      "title": "One killed in sword attack at Swedish school",
+      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 21:03:24 GMT",
       "matched_keywords": [
-        "sanctions",
-        "collapse"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 17:14:55 GMT",
-      "matched_keywords": [
-        "war",
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Assad officer extradited to Syria on war crimes charges for first time",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 12:38:35 GMT",
+      "title": "Two injured in stabbing attack at Canada Sikh temple",
+      "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 18:27:15 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 13:44:43 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-      "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 06:08:02 GMT",
+      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 16:26:53 GMT",
       "matched_keywords": [
-        "collapse"
+        "assassination"
       ]
     },
     {
       "source": "BBC World",
-      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-      "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 13:04:15 GMT",
+      "title": "Peru earthquake damages buildings and causes power cuts",
+      "link": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 11:14:38 GMT",
       "matched_keywords": [
-        "attack"
+        "earthquake"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 04:17:53 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Former Liberian vice-president charged in drug-trafficking probe",
-      "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 11:08:19 GMT",
-      "matched_keywords": [
-        "war",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 05:01:24 GMT",
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 13:07:00 GMT",
       "matched_keywords": [
         "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 23:16:45 GMT",
+      "matched_keywords": [
+        "sanctions"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 00:04:10 GMT",
+      "matched_keywords": [
+        "oil"
       ]
     }
   ]

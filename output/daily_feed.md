@@ -1,5 +1,5 @@
-# Daily Feed — 2026-08-20
-*Generated: 2026-08-20T21:30:04+00:00 UTC*
+# Daily Feed — 2026-08-21
+*Generated: 2026-08-21T21:30:04+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,575.1001 | ▲ 85.7002 | +1.91% |
-| Silver |      68.1300 | ▲ 2.3960 | +3.65% |
-| Soybeans |   1,236.0000 | ▲ 13.7500 | +1.12% |
-| Sugar #11 (Raw) |      17.5000 | ▼ 0.0500 | -0.28% |
+| Gold |   4,661.6001 | ▲ 145.3003 | +3.22% |
+| Silver |      69.0100 | ▲ 0.9840 | +1.45% |
+| Soybeans |   1,240.2500 | ▲ 19.5000 | +1.60% |
+| Sugar #11 (Raw) |      17.6000 | ▲ 0.0800 | +0.46% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7114 | ▲ 0.0033 | +0.47% |
+| AUD/USD |       0.7175 | ▲ 0.0050 | +0.70% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,641.1602 | ▼ 66.8198 | -0.87% |
-| US 10Y Yield (%) |       4.6960 | ▲ 0.0430 | +0.92% |
-| Hang Seng 50 |  25,495.0703 | ▲ 23.9199 | +0.09% |
-| South Africa Top 40 |  10,864.0000 | ▲ 218.0000 | +2.05% |
-| Switzerland SMI |  14,368.1602 | ▼ 18.4199 | -0.13% |
-| ASX 200 (XJO) |   9,053.7998 | ▼ 16.2002 | -0.18% |
+| S&P 500 |   7,674.3701 | ▲ 33.2100 | +0.43% |
+| US 10Y Yield (%) |       4.7380 | ▲ 0.0420 | +0.89% |
+| Hang Seng 50 |  25,698.4902 | ▲ 203.4199 | +0.80% |
+| South Africa Top 40 |  11,112.0000 | ▲ 213.0000 | +1.95% |
+| Switzerland SMI |  14,456.9805 | ▲ 88.8203 | +0.62% |
+| ASX 200 (XJO) |   9,083.7998 | ▲ 30.0000 | +0.33% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     173.9600 | ▼ 1.2300 | -0.70% |
-| McDonald's |     269.1300 | ▲ 1.6800 | +0.63% |
-| Tesla |     345.1300 | ▼ 5.9900 | -1.71% |
-| Alphabet |     340.6700 | ▼ 4.0500 | -1.18% |
-| Lockheed Martin |     571.4800 | ▼ 17.6700 | -3.00% |
-| RTX (Raytheon) |     212.2900 | ▼ 8.0600 | -3.66% |
-| Northrop Grumman |     563.8600 | ▼ 18.9800 | -3.26% |
+| Palantir |     179.9400 | ▲ 5.9800 | +3.44% |
+| McDonald's |     270.9500 | ▲ 1.8200 | +0.68% |
+| Tesla |     362.8600 | ▲ 17.7300 | +5.14% |
+| Alphabet |     344.8200 | ▲ 4.1500 | +1.22% |
+| Lockheed Martin |     563.5700 | ▼ 7.9100 | -1.38% |
+| RTX (Raytheon) |     209.9100 | ▼ 2.3800 | -1.12% |
+| Northrop Grumman |     551.0300 | ▼ 12.8300 | -2.27% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** US says sanctions will 'squash' Iran's economy and 'collapse' its regime
-*Tags: sanctions, collapse*
-https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says
-*Tags: war, attack*
-https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Assad officer extradited to Syria on war crimes charges for first time
-*Tags: war*
-https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Founder of collapsed Chinese property giant Evergrande sentenced to life in prison
-*Tags: collapse*
-https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home
+**[BBC World]** One killed in sword attack at Swedish school
 *Tags: attack*
-https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation
+**[BBC World]** Two injured in stabbing attack at Canada Sikh temple
 *Tags: attack*
-https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Former Liberian vice-president charged in drug-trafficking probe
-*Tags: war, president*
-https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Captured Ukrainian-born soldiers tell BBC why they fought for Russia
+**[BBC World]** Ebola vaccine trial to start in DR Congo as warning issued over speed of infections
 *Tags: war*
-https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Germany investigates Russia links to weapons cache discovered in woods, reports say
+*Tags: assassination*
+https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Peru earthquake damages buildings and causes power cuts
+*Tags: earthquake*
+https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war
+*Tags: war*
+https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** How much could Trump's 'economic D-Day' hurt Iran?
+*Tags: sanctions*
+https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools
+*Tags: oil*
+https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
