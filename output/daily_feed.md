@@ -1,5 +1,5 @@
-# Daily Feed — 2026-08-21
-*Generated: 2026-08-21T21:30:04+00:00 UTC*
+# Daily Feed — 2026-08-22
+*Generated: 2026-08-22T21:30:05+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,661.6001 | ▲ 145.3003 | +3.22% |
-| Silver |      69.0100 | ▲ 0.9840 | +1.45% |
-| Soybeans |   1,240.2500 | ▲ 19.5000 | +1.60% |
-| Sugar #11 (Raw) |      17.6000 | ▲ 0.0800 | +0.46% |
+| Gold |   4,624.1001 | ▲ 107.8003 | +2.39% |
+| Silver |      69.4660 | ▲ 1.4400 | +2.12% |
+| Soybeans |   1,225.0000 | ▲ 4.2500 | +0.35% |
+| Sugar #11 (Raw) |      17.6100 | ▲ 0.0900 | +0.51% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7175 | ▲ 0.0050 | +0.70% |
+| AUD/USD |       0.7175 | ▲ 0.0055 | +0.78% |
 
 ### Indices
 
@@ -26,10 +26,10 @@
 |:------|------:|------:|---------:|
 | S&P 500 |   7,674.3701 | ▲ 33.2100 | +0.43% |
 | US 10Y Yield (%) |       4.7380 | ▲ 0.0420 | +0.89% |
-| Hang Seng 50 |  25,698.4902 | ▲ 203.4199 | +0.80% |
-| South Africa Top 40 |  11,112.0000 | ▲ 213.0000 | +1.95% |
+| Hang Seng 50 |  26,009.4609 | ▲ 310.9707 | +1.21% |
+| South Africa Top 40 |  10,864.0000 | ▼ 35.0000 | -0.32% |
 | Switzerland SMI |  14,456.9805 | ▲ 88.8203 | +0.62% |
-| ASX 200 (XJO) |   9,083.7998 | ▲ 30.0000 | +0.33% |
+| ASX 200 (XJO) |   9,058.9004 | ▼ 24.8994 | -0.27% |
 
 ### Stocks
 
@@ -47,6 +47,22 @@
 
 ## Key Global Headlines
 
+**[BBC World]** Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse
+*Tags: war, prime minister, trade war, tariff*
+https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Carney faces crucial test after walking away from Trump's deal
+*Tags: prime minister*
+https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike
+*Tags: attack*
+https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** US military newspaper editor voices censorship fears after being fired
+*Tags: military*
+https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss
+
 **[BBC World]** One killed in sword attack at Swedish school
 *Tags: attack*
 https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss
@@ -55,29 +71,13 @@ https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss
 *Tags: attack*
 https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ebola vaccine trial to start in DR Congo as warning issued over speed of infections
-*Tags: war*
-https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss
-
 **[BBC World]** Germany investigates Russia links to weapons cache discovered in woods, reports say
 *Tags: assassination*
 https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Peru earthquake damages buildings and causes power cuts
-*Tags: earthquake*
-https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war
+**[BBC World]** Ebola vaccine trial to start in DR Congo as warning issued over speed of infections
 *Tags: war*
-https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** How much could Trump's 'economic D-Day' hurt Iran?
-*Tags: sanctions*
-https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools
-*Tags: oil*
-https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-08-21T21:30:04+00:00",
+  "generated_at": "2026-08-22T21:30:05+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4661.600098,
-        "change": 145.300293,
-        "pct_change": 3.217,
+        "price": 4624.100098,
+        "change": 107.800293,
+        "pct_change": 2.387,
         "date": "2026-08-21"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 69.010002,
-        "change": 0.984001,
-        "pct_change": 1.447,
+        "price": 69.466003,
+        "change": 1.440002,
+        "pct_change": 2.117,
         "date": "2026-08-21"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1240.25,
-        "change": 19.5,
-        "pct_change": 1.597,
+        "price": 1225.0,
+        "change": 4.25,
+        "pct_change": 0.348,
         "date": "2026-08-21"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 17.6,
-        "change": 0.08,
-        "pct_change": 0.457,
+        "price": 17.610001,
+        "change": 0.09,
+        "pct_change": 0.514,
         "date": "2026-08-21"
       }
     },
@@ -35,9 +35,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.717463,
-        "change": 0.004959,
-        "pct_change": 0.696,
-        "date": "2026-08-21"
+        "change": 0.005523,
+        "pct_change": 0.776,
+        "date": "2026-08-22"
       }
     },
     "indices": {
@@ -57,17 +57,17 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25698.490234,
-        "change": 203.419922,
-        "pct_change": 0.798,
-        "date": "2026-08-20"
+        "price": 26009.460938,
+        "change": 310.970703,
+        "pct_change": 1.21,
+        "date": "2026-08-21"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 11112.0,
-        "change": 213.0,
-        "pct_change": 1.954,
-        "date": "2026-08-21"
+        "price": 10864.0,
+        "change": -35.0,
+        "pct_change": -0.321,
+        "date": "2026-08-20"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 9083.799805,
-        "change": 30.0,
-        "pct_change": 0.331,
-        "date": "2026-08-20"
+        "price": 9058.900391,
+        "change": -24.899414,
+        "pct_change": -0.274,
+        "date": "2026-08-21"
       }
     },
     "stocks": {
@@ -139,6 +139,45 @@
   "news": [
     {
       "source": "BBC World",
+      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 20:10:00 GMT",
+      "matched_keywords": [
+        "war",
+        "prime minister",
+        "trade war",
+        "tariff"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 20:02:46 GMT",
+      "matched_keywords": [
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 13:13:16 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US military newspaper editor voices censorship fears after being fired",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 16:57:19 GMT",
+      "matched_keywords": [
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
       "title": "One killed in sword attack at Swedish school",
       "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 21 Aug 2026 21:03:24 GMT",
@@ -150,18 +189,9 @@
       "source": "BBC World",
       "title": "Two injured in stabbing attack at Canada Sikh temple",
       "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 18:27:15 GMT",
+      "published": "Fri, 21 Aug 2026 22:45:01 GMT",
       "matched_keywords": [
         "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
-      "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 13:44:43 GMT",
-      "matched_keywords": [
-        "war"
       ]
     },
     {
@@ -175,38 +205,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Peru earthquake damages buildings and causes power cuts",
-      "link": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 11:14:38 GMT",
-      "matched_keywords": [
-        "earthquake"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 13:07:00 GMT",
+      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 13:44:43 GMT",
       "matched_keywords": [
         "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 23:16:45 GMT",
-      "matched_keywords": [
-        "sanctions"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 00:04:10 GMT",
-      "matched_keywords": [
-        "oil"
       ]
     }
   ]
