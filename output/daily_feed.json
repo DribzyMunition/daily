@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-08-22T21:30:05+00:00",
+  "generated_at": "2026-08-23T21:30:05+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4624.100098,
-        "change": 107.800293,
-        "pct_change": 2.387,
+        "price": 4680.600098,
+        "change": 164.300293,
+        "pct_change": 3.638,
         "date": "2026-08-21"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 69.466003,
-        "change": 1.440002,
-        "pct_change": 2.117,
+        "price": 69.529999,
+        "change": 1.503998,
+        "pct_change": 2.211,
         "date": "2026-08-21"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1225.0,
-        "change": 4.25,
-        "pct_change": 0.348,
+        "price": 1239.5,
+        "change": 18.75,
+        "pct_change": 1.536,
         "date": "2026-08-21"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 17.610001,
-        "change": 0.09,
-        "pct_change": 0.514,
+        "price": 17.6,
+        "change": 0.08,
+        "pct_change": 0.457,
         "date": "2026-08-21"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.717463,
-        "change": 0.005523,
-        "pct_change": 0.776,
-        "date": "2026-08-22"
+        "price": 0.716692,
+        "change": 0.004752,
+        "pct_change": 0.667,
+        "date": "2026-08-23"
       }
     },
     "indices": {
@@ -64,10 +64,10 @@
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10864.0,
-        "change": -35.0,
-        "pct_change": -0.321,
-        "date": "2026-08-20"
+        "price": 11112.0,
+        "change": 248.0,
+        "pct_change": 2.283,
+        "date": "2026-08-21"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
@@ -139,77 +139,79 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 20:10:00 GMT",
+      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 12:56:43 GMT",
       "matched_keywords": [
         "war",
-        "prime minister",
+        "election"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 19:11:30 GMT",
+      "matched_keywords": [
+        "war",
         "trade war",
-        "tariff"
+        "tariff",
+        "collapse"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 20:02:46 GMT",
+      "title": "Guinea rubbish landfill collapse kills 30",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 18:17:37 GMT",
       "matched_keywords": [
-        "prime minister"
+        "collapse"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 13:13:16 GMT",
+      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+      "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 12:52:08 GMT",
       "matched_keywords": [
-        "attack"
+        "conflict"
       ]
     },
     {
       "source": "BBC World",
-      "title": "US military newspaper editor voices censorship fears after being fired",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 16:57:19 GMT",
+      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+      "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 11:50:59 GMT",
       "matched_keywords": [
+        "attack",
         "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "One killed in sword attack at Swedish school",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 21:03:24 GMT",
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 20:19:36 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Girl, 17, killed in Swedish sword attack, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 01:34:15 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Two injured in stabbing attack at Canada Sikh temple",
-      "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 22:45:01 GMT",
+      "title": "Syria says Israeli strike near Damascus violation of international law",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 21:42:42 GMT",
       "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 16:26:53 GMT",
-      "matched_keywords": [
-        "assassination"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
-      "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 13:44:43 GMT",
-      "matched_keywords": [
-        "war"
+        "military"
       ]
     }
   ]

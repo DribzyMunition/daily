@@ -1,5 +1,5 @@
-# Daily Feed — 2026-08-22
-*Generated: 2026-08-22T21:30:05+00:00 UTC*
+# Daily Feed — 2026-08-23
+*Generated: 2026-08-23T21:30:05+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,624.1001 | ▲ 107.8003 | +2.39% |
-| Silver |      69.4660 | ▲ 1.4400 | +2.12% |
-| Soybeans |   1,225.0000 | ▲ 4.2500 | +0.35% |
-| Sugar #11 (Raw) |      17.6100 | ▲ 0.0900 | +0.51% |
+| Gold |   4,680.6001 | ▲ 164.3003 | +3.64% |
+| Silver |      69.5300 | ▲ 1.5040 | +2.21% |
+| Soybeans |   1,239.5000 | ▲ 18.7500 | +1.54% |
+| Sugar #11 (Raw) |      17.6000 | ▲ 0.0800 | +0.46% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7175 | ▲ 0.0055 | +0.78% |
+| AUD/USD |       0.7167 | ▲ 0.0048 | +0.67% |
 
 ### Indices
 
@@ -27,7 +27,7 @@
 | S&P 500 |   7,674.3701 | ▲ 33.2100 | +0.43% |
 | US 10Y Yield (%) |       4.7380 | ▲ 0.0420 | +0.89% |
 | Hang Seng 50 |  26,009.4609 | ▲ 310.9707 | +1.21% |
-| South Africa Top 40 |  10,864.0000 | ▼ 35.0000 | -0.32% |
+| South Africa Top 40 |  11,112.0000 | ▲ 248.0000 | +2.28% |
 | Switzerland SMI |  14,456.9805 | ▲ 88.8203 | +0.62% |
 | ASX 200 (XJO) |   9,058.9004 | ▼ 24.8994 | -0.27% |
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse
-*Tags: war, prime minister, trade war, tariff*
+**[BBC World]** Zelensky should be asked what he knew about government corruption, sacked minister tells BBC
+*Tags: war, election*
+https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump says Canada wants 'benefits' of being US state after trade talks collapse
+*Tags: war, trade war, tariff, collapse*
 https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Carney faces crucial test after walking away from Trump's deal
-*Tags: prime minister*
-https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Guinea rubbish landfill collapse kills 30
+*Tags: collapse*
+https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike
+**[BBC World]** DR Congo and M23 rebels agree roadmap for peace talks
+*Tags: conflict*
+https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Dozens of co-ordinated arson attacks hit southern Thailand
+*Tags: attack, military*
+https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump waves green flag to start IndyCar race through Washington streets
+*Tags: president*
+https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Girl, 17, killed in Swedish sword attack, police say
 *Tags: attack*
-https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** US military newspaper editor voices censorship fears after being fired
+**[BBC World]** Syria says Israeli strike near Damascus violation of international law
 *Tags: military*
-https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** One killed in sword attack at Swedish school
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Two injured in stabbing attack at Canada Sikh temple
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Germany investigates Russia links to weapons cache discovered in woods, reports say
-*Tags: assassination*
-https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Ebola vaccine trial to start in DR Congo as warning issued over speed of infections
-*Tags: war*
-https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
