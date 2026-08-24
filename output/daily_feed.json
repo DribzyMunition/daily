@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-08-23T21:30:05+00:00",
+  "generated_at": "2026-08-24T21:30:05+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4680.600098,
-        "change": 164.300293,
-        "pct_change": 3.638,
-        "date": "2026-08-21"
+        "price": 4710.0,
+        "change": 85.899902,
+        "pct_change": 1.858,
+        "date": "2026-08-24"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 69.529999,
-        "change": 1.503998,
-        "pct_change": 2.211,
-        "date": "2026-08-21"
+        "price": 68.964996,
+        "change": -0.501007,
+        "pct_change": -0.721,
+        "date": "2026-08-24"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1239.5,
-        "change": 18.75,
-        "pct_change": 1.536,
-        "date": "2026-08-21"
+        "price": 1225.5,
+        "change": 0.5,
+        "pct_change": 0.041,
+        "date": "2026-08-24"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 17.6,
-        "change": 0.08,
-        "pct_change": 0.457,
-        "date": "2026-08-21"
+        "price": 17.66,
+        "change": 0.049999,
+        "pct_change": 0.284,
+        "date": "2026-08-24"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.716692,
-        "change": 0.004752,
-        "pct_change": 0.667,
-        "date": "2026-08-23"
+        "price": 0.715359,
+        "change": 0.003419,
+        "pct_change": 0.48,
+        "date": "2026-08-24"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7674.370117,
-        "change": 33.209961,
-        "pct_change": 0.435,
-        "date": "2026-08-21"
+        "price": 7652.859863,
+        "change": -21.510254,
+        "pct_change": -0.28,
+        "date": "2026-08-24"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.738,
-        "change": 0.042,
-        "pct_change": 0.894,
-        "date": "2026-08-21"
+        "price": 4.704,
+        "change": -0.034,
+        "pct_change": -0.718,
+        "date": "2026-08-24"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
@@ -64,17 +64,17 @@
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 11112.0,
-        "change": 248.0,
-        "pct_change": 2.283,
-        "date": "2026-08-21"
+        "price": 11017.0,
+        "change": -95.0,
+        "pct_change": -0.855,
+        "date": "2026-08-24"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14456.980469,
-        "change": 88.820312,
-        "pct_change": 0.618,
-        "date": "2026-08-21"
+        "price": 14447.19043,
+        "change": -9.790039,
+        "pct_change": -0.068,
+        "date": "2026-08-24"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
@@ -87,64 +87,100 @@
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 179.940002,
-        "change": 5.979996,
-        "pct_change": 3.438,
-        "date": "2026-08-21"
+        "price": 175.889999,
+        "change": -4.050003,
+        "pct_change": -2.251,
+        "date": "2026-08-24"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 270.950012,
-        "change": 1.820007,
-        "pct_change": 0.676,
-        "date": "2026-08-21"
+        "price": 272.540009,
+        "change": 1.589996,
+        "pct_change": 0.587,
+        "date": "2026-08-24"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 362.859985,
-        "change": 17.72998,
-        "pct_change": 5.137,
-        "date": "2026-08-21"
+        "price": 348.950012,
+        "change": -13.909973,
+        "pct_change": -3.833,
+        "date": "2026-08-24"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 344.820007,
-        "change": 4.149994,
-        "pct_change": 1.218,
-        "date": "2026-08-21"
+        "price": 348.059998,
+        "change": 3.23999,
+        "pct_change": 0.94,
+        "date": "2026-08-24"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 563.570007,
-        "change": -7.909973,
-        "pct_change": -1.384,
-        "date": "2026-08-21"
+        "price": 564.140015,
+        "change": 0.570007,
+        "pct_change": 0.101,
+        "date": "2026-08-24"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 209.910004,
-        "change": -2.37999,
-        "pct_change": -1.121,
-        "date": "2026-08-21"
+        "price": 209.220001,
+        "change": -0.690002,
+        "pct_change": -0.329,
+        "date": "2026-08-24"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 551.030029,
-        "change": -12.829956,
-        "pct_change": -2.275,
-        "date": "2026-08-21"
+        "price": 549.280029,
+        "change": -1.75,
+        "pct_change": -0.318,
+        "date": "2026-08-24"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 12:56:43 GMT",
+      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 17:29:59 GMT",
       "matched_keywords": [
-        "war",
-        "election"
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 10:40:22 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 13:56:22 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 14:02:17 GMT",
+      "matched_keywords": [
+        "election",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Guinea rubbish landfill collapse kills 31",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 11:26:19 GMT",
+      "matched_keywords": [
+        "collapse"
       ]
     },
     {
@@ -161,57 +197,22 @@
     },
     {
       "source": "BBC World",
-      "title": "Guinea rubbish landfill collapse kills 30",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 18:17:37 GMT",
+      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+      "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 09:47:22 GMT",
       "matched_keywords": [
-        "collapse"
+        "war",
+        "trade war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
-      "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 12:52:08 GMT",
+      "title": "Australian shark attack victim grateful for 'second chance at life'",
+      "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 05:31:53 GMT",
       "matched_keywords": [
-        "conflict"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 11:50:59 GMT",
-      "matched_keywords": [
-        "attack",
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump waves green flag to start IndyCar race through Washington streets",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 20:19:36 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Girl, 17, killed in Swedish sword attack, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 01:34:15 GMT",
-      "matched_keywords": [
+        "war",
         "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Syria says Israeli strike near Damascus violation of international law",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 21:42:42 GMT",
-      "matched_keywords": [
-        "military"
       ]
     }
   ]
