@@ -1,142 +1,151 @@
 {
-  "generated_at": "2026-08-25T21:30:05+00:00",
+  "generated_at": "2026-08-26T21:30:07+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4715.899902,
-        "change": 75.100098,
-        "pct_change": 1.618,
-        "date": "2026-08-25"
+        "price": 4647.799805,
+        "change": 9.699707,
+        "pct_change": 0.209,
+        "date": "2026-08-26"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 68.629997,
-        "change": 0.088997,
-        "pct_change": 0.13,
-        "date": "2026-08-25"
+        "price": 68.084999,
+        "change": -0.551003,
+        "pct_change": -0.803,
+        "date": "2026-08-26"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1238.75,
-        "change": 22.75,
-        "pct_change": 1.871,
-        "date": "2026-08-25"
+        "price": 1261.5,
+        "change": 33.5,
+        "pct_change": 2.728,
+        "date": "2026-08-26"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 17.25,
-        "change": -0.4,
-        "pct_change": -2.266,
-        "date": "2026-08-25"
+        "price": 17.620001,
+        "change": 0.35,
+        "pct_change": 2.027,
+        "date": "2026-08-26"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.716486,
-        "change": -0.000654,
-        "pct_change": -0.091,
-        "date": "2026-08-25"
+        "price": 0.717463,
+        "change": 0.001981,
+        "pct_change": 0.277,
+        "date": "2026-08-26"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7677.279785,
-        "change": 24.419922,
-        "pct_change": 0.319,
-        "date": "2026-08-25"
+        "price": 7675.700195,
+        "change": -1.57959,
+        "pct_change": -0.021,
+        "date": "2026-08-26"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.639,
-        "change": -0.065,
-        "pct_change": -1.382,
-        "date": "2026-08-25"
+        "price": 4.664,
+        "change": 0.025,
+        "pct_change": 0.539,
+        "date": "2026-08-26"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25517.330078,
-        "change": -492.130859,
-        "pct_change": -1.892,
-        "date": "2026-08-24"
+        "price": 25511.099609,
+        "change": -6.230469,
+        "pct_change": -0.024,
+        "date": "2026-08-25"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 11016.0,
-        "change": -96.0,
-        "pct_change": -0.864,
-        "date": "2026-08-25"
+        "price": 11036.0,
+        "change": 19.0,
+        "pct_change": 0.172,
+        "date": "2026-08-26"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14525.290039,
-        "change": 78.099609,
-        "pct_change": 0.541,
-        "date": "2026-08-25"
+        "price": 14542.900391,
+        "change": 17.610352,
+        "pct_change": 0.121,
+        "date": "2026-08-26"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 9103.099609,
-        "change": 44.199219,
-        "pct_change": 0.488,
-        "date": "2026-08-24"
+        "price": 9164.599609,
+        "change": 61.5,
+        "pct_change": 0.676,
+        "date": "2026-08-25"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 172.729996,
-        "change": -3.160004,
-        "pct_change": -1.797,
-        "date": "2026-08-25"
+        "price": 177.5,
+        "change": 4.770004,
+        "pct_change": 2.762,
+        "date": "2026-08-26"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 268.100006,
-        "change": -4.440002,
-        "pct_change": -1.629,
-        "date": "2026-08-25"
+        "price": 266.929993,
+        "change": -1.170013,
+        "pct_change": -0.436,
+        "date": "2026-08-26"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 350.25,
-        "change": 1.299988,
-        "pct_change": 0.373,
-        "date": "2026-08-25"
+        "price": 345.820007,
+        "change": -4.429993,
+        "pct_change": -1.265,
+        "date": "2026-08-26"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 346.959991,
-        "change": -1.100006,
-        "pct_change": -0.316,
-        "date": "2026-08-25"
+        "price": 342.0,
+        "change": -4.959991,
+        "pct_change": -1.43,
+        "date": "2026-08-26"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 556.52002,
-        "change": -7.619995,
-        "pct_change": -1.351,
-        "date": "2026-08-25"
+        "price": 565.619995,
+        "change": 9.099976,
+        "pct_change": 1.635,
+        "date": "2026-08-26"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 210.279999,
-        "change": 1.059998,
-        "pct_change": 0.507,
-        "date": "2026-08-25"
+        "price": 211.990005,
+        "change": 1.710007,
+        "pct_change": 0.813,
+        "date": "2026-08-26"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 542.52002,
-        "change": -6.76001,
-        "pct_change": -1.231,
-        "date": "2026-08-25"
+        "price": 549.950012,
+        "change": 7.429993,
+        "pct_change": 1.37,
+        "date": "2026-08-26"
       }
     }
   },
   "news": [
+    {
+      "source": "BBC World",
+      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 14:42:03 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
     {
       "source": "BBC World",
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -150,11 +159,49 @@
     },
     {
       "source": "BBC World",
-      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 11:53:36 GMT",
+      "title": "Radiation link in flight attendant's breast cancer, French court finds",
+      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 10:29:36 GMT",
       "matched_keywords": [
-        "sanctions",
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+      "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 08:17:45 GMT",
+      "matched_keywords": [
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 13:49:55 GMT",
+      "matched_keywords": [
+        "coup",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
+      "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 17:12:21 GMT",
+      "matched_keywords": [
+        "war",
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says all mines cleared from Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 21:23:41 GMT",
+      "matched_keywords": [
+        "conflict",
         "oil"
       ]
     },
@@ -165,52 +212,6 @@
       "published": "Tue, 25 Aug 2026 19:48:14 GMT",
       "matched_keywords": [
         "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
-      "link": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 16:40:11 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Swedish military seeks to take over Russian-owned estate near naval base",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 15:18:50 GMT",
-      "matched_keywords": [
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 00:17:25 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 24 Aug 2026 13:56:22 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 24 Aug 2026 09:47:22 GMT",
-      "matched_keywords": [
-        "war",
-        "trade war"
       ]
     }
   ]
