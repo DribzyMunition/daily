@@ -1,5 +1,5 @@
-# Daily Feed — 2026-08-26
-*Generated: 2026-08-26T21:30:07+00:00 UTC*
+# Daily Feed — 2026-08-27
+*Generated: 2026-08-27T21:30:05+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,647.7998 | ▲ 9.6997 | +0.21% |
-| Silver |      68.0850 | ▼ 0.5510 | -0.80% |
-| Soybeans |   1,261.5000 | ▲ 33.5000 | +2.73% |
-| Sugar #11 (Raw) |      17.6200 | ▲ 0.3500 | +2.03% |
+| Gold |   4,654.7998 | ▲ 56.5996 | +1.23% |
+| Silver |      70.0650 | ▲ 2.0750 | +3.05% |
+| Soybeans |   1,263.5000 | ▲ 9.2500 | +0.74% |
+| Sugar #11 (Raw) |      18.2200 | ▲ 0.6300 | +3.58% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7175 | ▲ 0.0020 | +0.28% |
+| AUD/USD |       0.7197 | ▲ 0.0032 | +0.45% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,675.7002 | ▼ 1.5796 | -0.02% |
-| US 10Y Yield (%) |       4.6640 | ▲ 0.0250 | +0.54% |
-| Hang Seng 50 |  25,511.0996 | ▼ 6.2305 | -0.02% |
-| South Africa Top 40 |  11,036.0000 | ▲ 19.0000 | +0.17% |
-| Switzerland SMI |  14,542.9004 | ▲ 17.6104 | +0.12% |
-| ASX 200 (XJO) |   9,164.5996 | ▲ 61.5000 | +0.68% |
+| S&P 500 |   7,730.9902 | ▲ 55.2900 | +0.72% |
+| US 10Y Yield (%) |       4.6720 | ▲ 0.0080 | +0.17% |
+| Hang Seng 50 |  25,652.9707 | ▲ 141.8711 | +0.56% |
+| South Africa Top 40 |  10,997.0000 | ▼ 19.0000 | -0.17% |
+| Switzerland SMI |  14,384.3701 | ▼ 158.5303 | -1.09% |
+| ASX 200 (XJO) |   9,127.7998 | ▼ 36.7998 | -0.40% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     177.5000 | ▲ 4.7700 | +2.76% |
-| McDonald's |     266.9300 | ▼ 1.1700 | -0.44% |
-| Tesla |     345.8200 | ▼ 4.4300 | -1.26% |
-| Alphabet |     342.0000 | ▼ 4.9600 | -1.43% |
-| Lockheed Martin |     565.6200 | ▲ 9.1000 | +1.64% |
-| RTX (Raytheon) |     211.9900 | ▲ 1.7100 | +0.81% |
-| Northrop Grumman |     549.9500 | ▲ 7.4300 | +1.37% |
+| Palantir |     185.9300 | ▲ 8.4300 | +4.75% |
+| McDonald's |     260.0600 | ▼ 6.8700 | -2.57% |
+| Tesla |     354.8100 | ▲ 8.9900 | +2.60% |
+| Alphabet |     340.6500 | ▼ 1.3500 | -0.40% |
+| Lockheed Martin |     565.8900 | ▲ 0.2700 | +0.05% |
+| RTX (Raytheon) |     212.0800 | ▲ 0.0900 | +0.04% |
+| Northrop Grumman |     545.1300 | ▼ 4.8200 | -0.88% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say
+**[BBC World]** Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say
+*Tags: flood, collapse*
+https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** What we know about deadly Nepal-Tibet floods
+*Tags: flood*
+https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Convicted Bosnian Serb war criminal Mladić dies aged 84
 *Tags: war*
-https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%
-*Tags: war, trade war, tariff*
-https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions
+*Tags: war, ceasefire, collapse*
+https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Radiation link in flight attendant's breast cancer, French court finds
+**[BBC World]** Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health
+*Tags: attack*
+https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump signs order to rename Lake Ontario as Lake America
+*Tags: collapse*
+https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Jellyfish force partial shutdown of French nuclear plant
+*Tags: nuclear*
+https://www.bbc.co.uk/news/articles/cy8znx3g4e2o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Allan Little: I met dangerously fanatical Mladić early in Bosnian war
 *Tags: war*
-https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer
-*Tags: prime minister*
-https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Guinea's president dismisses 173 soldiers, including coup ally, for desertion
-*Tags: coup, president*
-https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Germany's Merz warns attackers will 'pay price' after drone incident
-*Tags: war, attack*
-https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump says all mines cleared from Strait of Hormuz
-*Tags: conflict, oil*
-https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** CIA chief travels to Moscow for unannounced talks, US media reports
-*Tags: military*
-https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
