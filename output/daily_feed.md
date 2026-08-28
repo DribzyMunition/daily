@@ -1,5 +1,5 @@
-# Daily Feed — 2026-08-27
-*Generated: 2026-08-27T21:30:05+00:00 UTC*
+# Daily Feed — 2026-08-28
+*Generated: 2026-08-28T21:30:05+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,654.7998 | ▲ 56.5996 | +1.23% |
-| Silver |      70.0650 | ▲ 2.0750 | +3.05% |
-| Soybeans |   1,263.5000 | ▲ 9.2500 | +0.74% |
-| Sugar #11 (Raw) |      18.2200 | ▲ 0.6300 | +3.58% |
+| Gold |   4,504.1001 | ▼ 105.6001 | -2.29% |
+| Silver |      67.0900 | ▼ 2.3390 | -3.37% |
+| Soybeans |   1,287.7500 | ▲ 31.2500 | +2.49% |
+| Sugar #11 (Raw) |      17.5600 | ▼ 0.6300 | -3.46% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7197 | ▲ 0.0032 | +0.45% |
+| AUD/USD |       0.7164 | ▼ 0.0017 | -0.24% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,730.9902 | ▲ 55.2900 | +0.72% |
-| US 10Y Yield (%) |       4.6720 | ▲ 0.0080 | +0.17% |
-| Hang Seng 50 |  25,652.9707 | ▲ 141.8711 | +0.56% |
-| South Africa Top 40 |  10,997.0000 | ▼ 19.0000 | -0.17% |
-| Switzerland SMI |  14,384.3701 | ▼ 158.5303 | -1.09% |
-| ASX 200 (XJO) |   9,127.7998 | ▼ 36.7998 | -0.40% |
+| S&P 500 |   7,711.7598 | ▼ 19.2305 | -0.25% |
+| US 10Y Yield (%) |       4.7200 | ▲ 0.0480 | +1.03% |
+| Hang Seng 50 |  25,565.7402 | ▼ 87.2305 | -0.34% |
+| South Africa Top 40 |  11,068.0000 | ▲ 32.0000 | +0.29% |
+| Switzerland SMI |  14,399.7695 | ▲ 15.3994 | +0.11% |
+| ASX 200 (XJO) |   9,038.2002 | ▼ 89.5996 | -0.98% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     185.9300 | ▲ 8.4300 | +4.75% |
-| McDonald's |     260.0600 | ▼ 6.8700 | -2.57% |
-| Tesla |     354.8100 | ▲ 8.9900 | +2.60% |
-| Alphabet |     340.6500 | ▼ 1.3500 | -0.40% |
-| Lockheed Martin |     565.8900 | ▲ 0.2700 | +0.05% |
-| RTX (Raytheon) |     212.0800 | ▲ 0.0900 | +0.04% |
-| Northrop Grumman |     545.1300 | ▼ 4.8200 | -0.88% |
+| Palantir |     186.2900 | ▲ 0.3600 | +0.19% |
+| McDonald's |     265.0000 | ▲ 4.9400 | +1.90% |
+| Tesla |     348.7500 | ▼ 6.0600 | -1.71% |
+| Alphabet |     346.5900 | ▲ 5.9400 | +1.74% |
+| Lockheed Martin |     563.8500 | ▼ 2.0400 | -0.36% |
+| RTX (Raytheon) |     211.7100 | ▼ 0.3700 | -0.17% |
+| Northrop Grumman |     545.5700 | ▲ 0.4400 | +0.08% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say
-*Tags: flood, collapse*
-https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say
+*Tags: war, military, nato*
+https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** What we know about deadly Nepal-Tibet floods
+**[BBC World]** Violence breaks out in Ceuta as migrant crisis continues
+*Tags: military, crisis*
+https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** US plans to cut off military aid to key Middle East ally, BBC told
+*Tags: attack, military*
+https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Two-year curfew lifted in Sudan's capital
+*Tags: conflict, military*
+https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Dutch court sentences man to life over Rwanda genocide
+*Tags: war*
+https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump administration illegally retaliated against Anthropic, judge rules
+*Tags: military*
+https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Fed has 'work to do' if price rises don't ease for Americans, Warsh says
+*Tags: war, inflation, interest rate*
+https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Satellite images reveal scale of flood devastation in Nepal villages
 *Tags: flood*
-https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Convicted Bosnian Serb war criminal Mladić dies aged 84
-*Tags: war*
-https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions
-*Tags: war, ceasefire, collapse*
-https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump signs order to rename Lake Ontario as Lake America
-*Tags: collapse*
-https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Jellyfish force partial shutdown of French nuclear plant
-*Tags: nuclear*
-https://www.bbc.co.uk/news/articles/cy8znx3g4e2o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Allan Little: I met dangerously fanatical Mladić early in Bosnian war
-*Tags: war*
-https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
