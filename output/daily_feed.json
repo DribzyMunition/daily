@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-08-29T23:01:10+00:00",
+  "generated_at": "2026-08-30T21:48:45+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4478.100098,
-        "change": -131.600098,
-        "pct_change": -2.855,
+        "price": 4529.899902,
+        "change": -79.800293,
+        "pct_change": -1.731,
         "date": "2026-08-28"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 66.995003,
-        "change": -2.433998,
-        "pct_change": -3.506,
+        "price": 67.786003,
+        "change": -1.642998,
+        "pct_change": -2.366,
         "date": "2026-08-28"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1276.25,
-        "change": 19.75,
-        "pct_change": 1.572,
+        "price": 1288.0,
+        "change": 31.5,
+        "pct_change": 2.507,
         "date": "2026-08-28"
       },
       "Sugar #11 (Raw)": {
@@ -34,10 +34,10 @@
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.716435,
-        "change": -0.003075,
-        "pct_change": -0.427,
-        "date": "2026-08-29"
+        "price": 0.716127,
+        "change": -0.003383,
+        "pct_change": -0.47,
+        "date": "2026-08-30"
       }
     },
     "indices": {
@@ -139,11 +139,32 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 03:54:11 GMT",
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 21:15:42 GMT",
       "matched_keywords": [
-        "flood"
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 18:53:53 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia says it helped to repel Niger attempted coup",
+      "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 16:33:17 GMT",
+      "matched_keywords": [
+        "war",
+        "attack",
+        "military",
+        "coup"
       ]
     },
     {
@@ -166,18 +187,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-      "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 00:56:19 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 22:40:51 GMT",
+      "published": "Sun, 30 Aug 2026 04:01:02 GMT",
       "matched_keywords": [
         "president",
         "oil"
@@ -194,22 +206,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 19:05:23 GMT",
+      "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+      "link": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 16:48:13 GMT",
       "matched_keywords": [
         "war",
-        "military",
-        "nato"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Berlin is being blackmailed by hackers, mayor says",
-      "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 21:29:01 GMT",
-      "matched_keywords": [
-        "attack"
+        "flood"
       ]
     }
   ]

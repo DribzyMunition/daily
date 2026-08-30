@@ -1,5 +1,5 @@
-# Daily Feed — 2026-08-29
-*Generated: 2026-08-29T23:01:10+00:00 UTC*
+# Daily Feed — 2026-08-30
+*Generated: 2026-08-30T21:48:45+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,478.1001 | ▼ 131.6001 | -2.85% |
-| Silver |      66.9950 | ▼ 2.4340 | -3.51% |
-| Soybeans |   1,276.2500 | ▲ 19.7500 | +1.57% |
+| Gold |   4,529.8999 | ▼ 79.8003 | -1.73% |
+| Silver |      67.7860 | ▼ 1.6430 | -2.37% |
+| Soybeans |   1,288.0000 | ▲ 31.5000 | +2.51% |
 | Sugar #11 (Raw) |      17.5600 | ▼ 0.6300 | -3.46% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7164 | ▼ 0.0031 | -0.43% |
+| AUD/USD |       0.7161 | ▼ 0.0034 | -0.47% |
 
 ### Indices
 
@@ -47,9 +47,17 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Footage of Tibet floods isn't being shown in China - and we know little about victims there
-*Tags: flood*
-https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss
+**[BBC World]** US strikes Iranian launchers on Larak Island in first known attack in weeks
+*Tags: attack*
+https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** 'A giant leap forward': Nasa launches powerful new space telescope
+*Tags: war*
+https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Russia says it helped to repel Niger attempted coup
+*Tags: war, attack, military, coup*
+https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
 *Tags: military*
@@ -59,10 +67,6 @@ https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss
 *Tags: president*
 https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Close race as Iceland votes on whether to restart talks on joining EU
-*Tags: war*
-https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss
-
 **[BBC World]** Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil
 *Tags: president, oil*
 https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss
@@ -71,13 +75,9 @@ https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss
 *Tags: president*
 https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say
-*Tags: war, military, nato*
-https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Berlin is being blackmailed by hackers, mayor says
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Head teacher evacuated 900 children minutes before Nepal floods hit school
+*Tags: war, flood*
+https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
