@@ -1,5 +1,5 @@
-# Daily Feed — 2026-08-30
-*Generated: 2026-08-30T21:48:45+00:00 UTC*
+# Daily Feed — 2026-08-31
+*Generated: 2026-08-31T23:36:20+00:00 UTC*
 
 ---
 
@@ -9,25 +9,25 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,529.8999 | ▼ 79.8003 | -1.73% |
-| Silver |      67.7860 | ▼ 1.6430 | -2.37% |
-| Soybeans |   1,288.0000 | ▲ 31.5000 | +2.51% |
-| Sugar #11 (Raw) |      17.5600 | ▼ 0.6300 | -3.46% |
+| Gold |   4,492.7998 | ▲ 14.6997 | +0.33% |
+| Silver |      67.1550 | ▲ 0.1600 | +0.24% |
+| Soybeans |   1,287.7500 | ▲ 11.5000 | +0.90% |
+| Sugar #11 (Raw) |      17.7900 | ▲ 0.2300 | +1.31% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7161 | ▼ 0.0034 | -0.47% |
+| AUD/USD |       0.7171 | ▲ 0.0008 | +0.11% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,730.9902 | ▲ 55.2900 | +0.72% |
-| US 10Y Yield (%) |       4.6720 | ▲ 0.0080 | +0.17% |
+| S&P 500 |   7,686.1401 | ▼ 44.8501 | -0.58% |
+| US 10Y Yield (%) |       4.7580 | ▲ 0.0860 | +1.84% |
 | Hang Seng 50 |  25,565.7402 | ▼ 87.2305 | -0.34% |
-| South Africa Top 40 |  10,997.0000 | ▼ 39.0000 | -0.35% |
+| South Africa Top 40 |  11,068.0000 | ▲ 71.0000 | +0.65% |
 | Switzerland SMI |  14,384.3701 | ▼ 158.5303 | -1.09% |
 | ASX 200 (XJO) |   9,038.2002 | ▼ 89.5996 | -0.98% |
 
@@ -35,49 +35,49 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     185.9300 | ▲ 8.4300 | +4.75% |
-| McDonald's |     260.0600 | ▼ 6.8700 | -2.57% |
-| Tesla |     354.8100 | ▲ 8.9900 | +2.60% |
-| Alphabet |     340.6500 | ▼ 1.3500 | -0.40% |
-| Lockheed Martin |     565.8900 | ▲ 0.2700 | +0.05% |
-| RTX (Raytheon) |     212.0800 | ▲ 0.0900 | +0.04% |
-| Northrop Grumman |     545.1300 | ▼ 4.8200 | -0.88% |
+| Palantir |     186.3800 | ▲ 0.4500 | +0.24% |
+| McDonald's |     263.5400 | ▲ 3.4800 | +1.34% |
+| Tesla |     367.9500 | ▲ 13.1400 | +3.70% |
+| Alphabet |     339.3500 | ▼ 1.3000 | -0.38% |
+| Lockheed Martin |     561.2300 | ▼ 4.6600 | -0.82% |
+| RTX (Raytheon) |     207.7300 | ▼ 4.3500 | -2.05% |
+| Northrop Grumman |     539.7000 | ▼ 5.4300 | -1.00% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** US strikes Iranian launchers on Larak Island in first known attack in weeks
+**[BBC World]** Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously
+*Tags: flood*
+https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** US and Iran trade strikes for first time in weeks
 *Tags: attack*
 https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** 'A giant leap forward': Nasa launches powerful new space telescope
+**[BBC World]** Company offering reward for safe return of truckload of beer
 *Tags: war*
-https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Russia says it helped to repel Niger attempted coup
-*Tags: war, attack, military, coup*
-https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon
+*Tags: flood*
+https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
-*Tags: military*
-https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Former Ecuadorian president imprisoned for corruption
+**[BBC World]** Algeria president seeks death penalty for arsonists after deadly forest fires
 *Tags: president*
-https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil
-*Tags: president, oil*
-https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss
+**[BBC World]** How the US-Canada trade war is being felt on both sides of the border
+*Tags: war, trade war*
+https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets
-*Tags: president*
-https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Monza memories - Italian GP in pictures through the years
+*Tags: election*
+https://www.bbc.co.uk/sport/formula1/articles/ckg8w8qj5z9o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Head teacher evacuated 900 children minutes before Nepal floods hit school
-*Tags: war, flood*
-https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss
+**[BBC World]** 'I haven't lost my hope' - the search for missing loved ones
+*Tags: flood*
+https://www.bbc.co.uk/news/videos/c4g79v842xjo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
