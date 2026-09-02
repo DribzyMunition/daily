@@ -1,211 +1,211 @@
 {
-  "generated_at": "2026-08-31T23:36:20+00:00",
+  "generated_at": "2026-09-02T00:35:48+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4492.799805,
-        "change": 14.699707,
-        "pct_change": 0.328,
-        "date": "2026-08-31"
+        "price": 4376.200195,
+        "change": -54.899902,
+        "pct_change": -1.239,
+        "date": "2026-09-01"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 67.154999,
-        "change": 0.159996,
-        "pct_change": 0.239,
-        "date": "2026-08-31"
+        "price": 64.845001,
+        "change": -1.375999,
+        "pct_change": -2.078,
+        "date": "2026-09-01"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1287.75,
-        "change": 11.5,
-        "pct_change": 0.901,
-        "date": "2026-08-31"
+        "price": 1313.75,
+        "change": 38.5,
+        "pct_change": 3.019,
+        "date": "2026-09-01"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 17.790001,
-        "change": 0.230001,
-        "pct_change": 1.31,
-        "date": "2026-08-31"
+        "price": 18.379999,
+        "change": 0.57,
+        "pct_change": 3.2,
+        "date": "2026-09-01"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.717103,
-        "change": 0.000803,
-        "pct_change": 0.112,
-        "date": "2026-09-01"
+        "price": 0.71449,
+        "change": -0.00281,
+        "pct_change": -0.392,
+        "date": "2026-09-02"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7686.140137,
-        "change": -44.850098,
-        "pct_change": -0.58,
-        "date": "2026-08-31"
+        "price": 7631.470215,
+        "change": -54.669922,
+        "pct_change": -0.711,
+        "date": "2026-09-01"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.758,
-        "change": 0.086,
-        "pct_change": 1.841,
-        "date": "2026-08-31"
+        "price": 4.796,
+        "change": 0.038,
+        "pct_change": 0.799,
+        "date": "2026-09-01"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25565.740234,
-        "change": -87.230469,
-        "pct_change": -0.34,
-        "date": "2026-08-27"
+        "price": 25566.990234,
+        "change": 1.25,
+        "pct_change": 0.005,
+        "date": "2026-08-31"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 11068.0,
-        "change": 71.0,
-        "pct_change": 0.646,
-        "date": "2026-08-28"
+        "price": 10969.0,
+        "change": -99.0,
+        "pct_change": -0.894,
+        "date": "2026-08-31"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14384.370117,
-        "change": -158.530273,
-        "pct_change": -1.09,
-        "date": "2026-08-27"
+        "price": 14286.429688,
+        "change": -97.94043,
+        "pct_change": -0.681,
+        "date": "2026-08-31"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 9038.200195,
-        "change": -89.599609,
-        "pct_change": -0.982,
-        "date": "2026-08-27"
+        "price": 8965.299805,
+        "change": -110.700195,
+        "pct_change": -1.22,
+        "date": "2026-09-02"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 186.380005,
-        "change": 0.450012,
-        "pct_change": 0.242,
-        "date": "2026-08-31"
+        "price": 179.919998,
+        "change": -6.460007,
+        "pct_change": -3.466,
+        "date": "2026-09-01"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 263.540009,
-        "change": 3.480011,
-        "pct_change": 1.338,
-        "date": "2026-08-31"
+        "price": 261.109985,
+        "change": -2.430023,
+        "pct_change": -0.922,
+        "date": "2026-09-01"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 367.950012,
-        "change": 13.140015,
-        "pct_change": 3.703,
-        "date": "2026-08-31"
+        "price": 356.089996,
+        "change": -11.860016,
+        "pct_change": -3.223,
+        "date": "2026-09-01"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 339.350006,
-        "change": -1.299988,
-        "pct_change": -0.382,
-        "date": "2026-08-31"
+        "price": 335.019989,
+        "change": -4.330017,
+        "pct_change": -1.276,
+        "date": "2026-09-01"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 561.22998,
-        "change": -4.660034,
-        "pct_change": -0.823,
-        "date": "2026-08-31"
+        "price": 544.5,
+        "change": -16.72998,
+        "pct_change": -2.981,
+        "date": "2026-09-01"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 207.729996,
-        "change": -4.350006,
-        "pct_change": -2.051,
-        "date": "2026-08-31"
+        "price": 205.160004,
+        "change": -2.569992,
+        "pct_change": -1.237,
+        "date": "2026-09-01"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 539.700012,
-        "change": -5.429993,
-        "pct_change": -0.996,
-        "date": "2026-08-31"
+        "price": 532.909973,
+        "change": -6.790039,
+        "pct_change": -1.258,
+        "date": "2026-09-01"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 17:30:47 GMT",
-      "matched_keywords": [
-        "flood"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US and Iran trade strikes for first time in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 13:47:30 GMT",
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 21:05:22 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Company offering reward for safe return of truckload of beer",
-      "link": "https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 16:32:59 GMT",
+      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 00:13:26 GMT",
       "matched_keywords": [
-        "war"
+        "attack",
+        "missile"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 20:47:38 GMT",
+      "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
+      "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 18:06:58 GMT",
       "matched_keywords": [
-        "flood"
+        "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Algeria president seeks death penalty for arsonists after deadly forest fires",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 08:13:40 GMT",
+      "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 20:24:28 GMT",
+      "matched_keywords": [
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 10:30:55 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Teen girl charged with murder over recording of San Diego mosque attack",
+      "link": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 10:26:50 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Zambia's president sworn in for second term while opponent detained",
+      "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 12:37:36 GMT",
       "matched_keywords": [
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "How the US-Canada trade war is being felt on both sides of the border",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 00:05:22 GMT",
-      "matched_keywords": [
-        "war",
-        "trade war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Monza memories - Italian GP in pictures through the years",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/ckg8w8qj5z9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 07:06:17 GMT",
-      "matched_keywords": [
-        "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "'I haven't lost my hope' - the search for missing loved ones",
-      "link": "https://www.bbc.co.uk/news/videos/c4g79v842xjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 16:42:17 GMT",
+      "title": "The final minutes before floodwater crashed through Nepal-China border",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 06:02:27 GMT",
       "matched_keywords": [
         "flood"
       ]
