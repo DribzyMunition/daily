@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-09-02T00:35:48+00:00",
+  "generated_at": "2026-09-03T00:37:40+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4376.200195,
-        "change": -54.899902,
-        "pct_change": -1.239,
-        "date": "2026-09-01"
+        "price": 4434.600098,
+        "change": 86.600098,
+        "pct_change": 1.992,
+        "date": "2026-09-02"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 64.845001,
-        "change": -1.375999,
-        "pct_change": -2.078,
-        "date": "2026-09-01"
+        "price": 65.949997,
+        "change": 1.332001,
+        "pct_change": 2.061,
+        "date": "2026-09-02"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1313.75,
-        "change": 38.5,
-        "pct_change": 3.019,
-        "date": "2026-09-01"
+        "price": 1312.5,
+        "change": 5.75,
+        "pct_change": 0.44,
+        "date": "2026-09-02"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 18.379999,
-        "change": 0.57,
-        "pct_change": 3.2,
-        "date": "2026-09-01"
+        "price": 18.709999,
+        "change": 0.349998,
+        "pct_change": 1.906,
+        "date": "2026-09-02"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.71449,
-        "change": -0.00281,
-        "pct_change": -0.392,
-        "date": "2026-09-02"
+        "price": 0.716692,
+        "change": 0.001982,
+        "pct_change": 0.277,
+        "date": "2026-09-03"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7631.470215,
-        "change": -54.669922,
-        "pct_change": -0.711,
-        "date": "2026-09-01"
+        "price": 7666.600098,
+        "change": 35.129883,
+        "pct_change": 0.46,
+        "date": "2026-09-02"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
         "price": 4.796,
-        "change": 0.038,
-        "pct_change": 0.799,
-        "date": "2026-09-01"
+        "change": 0.0,
+        "pct_change": 0.0,
+        "date": "2026-09-02"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25566.990234,
-        "change": 1.25,
-        "pct_change": 0.005,
-        "date": "2026-08-31"
+        "price": 25329.730469,
+        "change": -237.259766,
+        "pct_change": -0.928,
+        "date": "2026-09-01"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10969.0,
-        "change": -99.0,
-        "pct_change": -0.894,
-        "date": "2026-08-31"
+        "price": 10892.0,
+        "change": -77.0,
+        "pct_change": -0.702,
+        "date": "2026-09-01"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14286.429688,
-        "change": -97.94043,
-        "pct_change": -0.681,
-        "date": "2026-08-31"
+        "price": 14334.790039,
+        "change": 48.360352,
+        "pct_change": 0.339,
+        "date": "2026-09-01"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8965.299805,
-        "change": -110.700195,
-        "pct_change": -1.22,
-        "date": "2026-09-02"
+        "price": 8984.5,
+        "change": -82.200195,
+        "pct_change": -0.907,
+        "date": "2026-09-03"
       }
     },
     "stocks": {
@@ -95,8 +95,8 @@
       "McDonald's": {
         "ticker": "MCD",
         "price": 261.109985,
-        "change": -2.430023,
-        "pct_change": -0.922,
+        "change": -0.570038,
+        "pct_change": -0.218,
         "date": "2026-09-01"
       },
       "Tesla": {
@@ -116,8 +116,8 @@
       "Lockheed Martin": {
         "ticker": "LMT",
         "price": 544.5,
-        "change": -16.72998,
-        "pct_change": -2.981,
+        "change": -13.279968,
+        "pct_change": -2.381,
         "date": "2026-09-01"
       },
       "RTX (Raytheon)": {
@@ -139,75 +139,77 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 21:05:22 GMT",
+      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 17:33:45 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 00:13:26 GMT",
+      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 21:34:27 GMT",
+      "matched_keywords": [
+        "prime minister",
+        "crisis"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 16:49:00 GMT",
       "matched_keywords": [
         "attack",
-        "missile"
+        "nato"
       ]
     },
     {
       "source": "BBC World",
-      "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
-      "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 18:06:58 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 20:24:28 GMT",
-      "matched_keywords": [
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 10:30:55 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Teen girl charged with murder over recording of San Diego mosque attack",
-      "link": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 10:26:50 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Zambia's president sworn in for second term while opponent detained",
-      "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 12:37:36 GMT",
+      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+      "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 11:47:11 GMT",
       "matched_keywords": [
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "The final minutes before floodwater crashed through Nepal-China border",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 06:02:27 GMT",
+      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 17:21:00 GMT",
       "matched_keywords": [
-        "flood"
+        "crisis"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 15:33:19 GMT",
+      "matched_keywords": [
+        "war",
+        "missile"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 16:12:43 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 11:51:46 GMT",
+      "matched_keywords": [
+        "ceasefire"
       ]
     }
   ]
