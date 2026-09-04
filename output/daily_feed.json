@@ -1,215 +1,216 @@
 {
-  "generated_at": "2026-09-03T00:37:40+00:00",
+  "generated_at": "2026-09-04T03:18:58+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4434.600098,
-        "change": 86.600098,
-        "pct_change": 1.992,
-        "date": "2026-09-02"
+        "price": 4520.200195,
+        "change": 153.900391,
+        "pct_change": 3.525,
+        "date": "2026-09-03"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 65.949997,
-        "change": 1.332001,
-        "pct_change": 2.061,
-        "date": "2026-09-02"
+        "price": 67.300003,
+        "change": 2.577003,
+        "pct_change": 3.982,
+        "date": "2026-09-03"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1312.5,
-        "change": 5.75,
-        "pct_change": 0.44,
-        "date": "2026-09-02"
+        "price": 1315.0,
+        "change": 13.25,
+        "pct_change": 1.018,
+        "date": "2026-09-03"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 18.709999,
-        "change": 0.349998,
-        "pct_change": 1.906,
-        "date": "2026-09-02"
+        "price": 17.99,
+        "change": -0.710001,
+        "pct_change": -3.797,
+        "date": "2026-09-03"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.716692,
-        "change": 0.001982,
-        "pct_change": 0.277,
-        "date": "2026-09-03"
+        "price": 0.721084,
+        "change": 0.004724,
+        "pct_change": 0.659,
+        "date": "2026-09-04"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7666.600098,
-        "change": 35.129883,
-        "pct_change": 0.46,
-        "date": "2026-09-02"
+        "price": 7747.709961,
+        "change": 81.109863,
+        "pct_change": 1.058,
+        "date": "2026-09-03"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.796,
-        "change": 0.0,
-        "pct_change": 0.0,
-        "date": "2026-09-02"
+        "price": 4.762,
+        "change": -0.034,
+        "pct_change": -0.709,
+        "date": "2026-09-03"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25329.730469,
-        "change": -237.259766,
-        "pct_change": -0.928,
-        "date": "2026-09-01"
+        "price": 25771.480469,
+        "change": 558.169922,
+        "pct_change": 2.214,
+        "date": "2026-09-04"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10892.0,
-        "change": -77.0,
-        "pct_change": -0.702,
-        "date": "2026-09-01"
+        "price": 10870.0,
+        "change": -22.0,
+        "pct_change": -0.202,
+        "date": "2026-09-02"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14334.790039,
-        "change": 48.360352,
-        "pct_change": 0.339,
-        "date": "2026-09-01"
+        "price": 14394.769531,
+        "change": 31.799805,
+        "pct_change": 0.221,
+        "date": "2026-09-03"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8984.5,
-        "change": -82.200195,
-        "pct_change": -0.907,
-        "date": "2026-09-03"
+        "price": 9011.599609,
+        "change": -8.5,
+        "pct_change": -0.094,
+        "date": "2026-09-04"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 179.919998,
-        "change": -6.460007,
-        "pct_change": -3.466,
-        "date": "2026-09-01"
+        "price": 182.529999,
+        "change": 13.069992,
+        "pct_change": 7.713,
+        "date": "2026-09-03"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 261.109985,
-        "change": -0.570038,
-        "pct_change": -0.218,
-        "date": "2026-09-01"
+        "price": 259.630005,
+        "change": -1.320007,
+        "pct_change": -0.506,
+        "date": "2026-09-03"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 356.089996,
-        "change": -11.860016,
-        "pct_change": -3.223,
-        "date": "2026-09-01"
+        "price": 376.369995,
+        "change": 19.359985,
+        "pct_change": 5.423,
+        "date": "2026-09-03"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 335.019989,
-        "change": -4.330017,
-        "pct_change": -1.276,
-        "date": "2026-09-01"
+        "price": 342.480011,
+        "change": 5.360016,
+        "pct_change": 1.59,
+        "date": "2026-09-03"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 544.5,
-        "change": -13.279968,
-        "pct_change": -2.381,
-        "date": "2026-09-01"
+        "price": 532.950012,
+        "change": 1.400024,
+        "pct_change": 0.263,
+        "date": "2026-09-03"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 205.160004,
-        "change": -2.569992,
-        "pct_change": -1.237,
-        "date": "2026-09-01"
+        "price": 202.130005,
+        "change": 1.350006,
+        "pct_change": 0.672,
+        "date": "2026-09-03"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 532.909973,
-        "change": -6.790039,
-        "pct_change": -1.258,
-        "date": "2026-09-01"
+        "price": 528.23999,
+        "change": 4.419983,
+        "pct_change": 0.844,
+        "date": "2026-09-03"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 17:33:45 GMT",
+      "title": "Argentine leader says oil firms working off Falklands face sanctions",
+      "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 02:53:07 GMT",
       "matched_keywords": [
-        "attack"
+        "sanctions",
+        "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 21:34:27 GMT",
+      "title": "US investigating if missile hit Iran wedding, Vance says",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 22:19:59 GMT",
       "matched_keywords": [
-        "prime minister",
+        "missile"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 06:01:54 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Around 2,000 fall ill in Indonesia after eating free school meals",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 15:48:06 GMT",
+      "matched_keywords": [
+        "outbreak"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 15:05:57 GMT",
+      "matched_keywords": [
+        "attack",
+        "military",
+        "troops"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 12:18:07 GMT",
+      "matched_keywords": [
+        "war",
         "crisis"
       ]
     },
     {
       "source": "BBC World",
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 16:49:00 GMT",
-      "matched_keywords": [
-        "attack",
-        "nato"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-      "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 11:47:11 GMT",
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 15:35:47 GMT",
       "matched_keywords": [
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 17:21:00 GMT",
+      "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 13:07:02 GMT",
       "matched_keywords": [
-        "crisis"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 15:33:19 GMT",
-      "matched_keywords": [
-        "war",
-        "missile"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 16:12:43 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 11:51:46 GMT",
-      "matched_keywords": [
-        "ceasefire"
+        "president"
       ]
     }
   ]
