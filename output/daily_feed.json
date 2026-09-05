@@ -1,216 +1,214 @@
 {
-  "generated_at": "2026-09-04T03:18:58+00:00",
+  "generated_at": "2026-09-05T02:50:44+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4520.200195,
-        "change": 153.900391,
-        "pct_change": 3.525,
-        "date": "2026-09-03"
+        "price": 4477.200195,
+        "change": -14.5,
+        "pct_change": -0.323,
+        "date": "2026-09-04"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 67.300003,
-        "change": 2.577003,
-        "pct_change": 3.982,
-        "date": "2026-09-03"
+        "price": 66.82,
+        "change": -0.153,
+        "pct_change": -0.228,
+        "date": "2026-09-04"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1315.0,
-        "change": 13.25,
-        "pct_change": 1.018,
-        "date": "2026-09-03"
+        "price": 1310.25,
+        "change": 4.0,
+        "pct_change": 0.306,
+        "date": "2026-09-04"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 17.99,
-        "change": -0.710001,
-        "pct_change": -3.797,
-        "date": "2026-09-03"
+        "price": 18.02,
+        "change": -0.049999,
+        "pct_change": -0.277,
+        "date": "2026-09-04"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.721084,
-        "change": 0.004724,
-        "pct_change": 0.659,
+        "price": 0.720513,
+        "change": 0.004153,
+        "pct_change": 0.58,
         "date": "2026-09-04"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7747.709961,
-        "change": 81.109863,
-        "pct_change": 1.058,
-        "date": "2026-09-03"
+        "price": 7718.600098,
+        "change": -29.109863,
+        "pct_change": -0.376,
+        "date": "2026-09-04"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.762,
-        "change": -0.034,
-        "pct_change": -0.709,
-        "date": "2026-09-03"
+        "price": 4.784,
+        "change": 0.022,
+        "pct_change": 0.462,
+        "date": "2026-09-04"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25771.480469,
-        "change": 558.169922,
-        "pct_change": 2.214,
+        "price": 25650.869141,
+        "change": 437.558594,
+        "pct_change": 1.735,
         "date": "2026-09-04"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10870.0,
-        "change": -22.0,
-        "pct_change": -0.202,
-        "date": "2026-09-02"
+        "price": 11010.0,
+        "change": 140.0,
+        "pct_change": 1.288,
+        "date": "2026-09-03"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14394.769531,
-        "change": 31.799805,
-        "pct_change": 0.221,
-        "date": "2026-09-03"
+        "price": 14395.94043,
+        "change": 1.170898,
+        "pct_change": 0.008,
+        "date": "2026-09-04"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 9011.599609,
-        "change": -8.5,
-        "pct_change": -0.094,
+        "price": 9005.900391,
+        "change": -14.199219,
+        "pct_change": -0.157,
         "date": "2026-09-04"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 182.529999,
-        "change": 13.069992,
-        "pct_change": 7.713,
-        "date": "2026-09-03"
+        "price": 174.330002,
+        "change": -8.199997,
+        "pct_change": -4.492,
+        "date": "2026-09-04"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 259.630005,
-        "change": -1.320007,
-        "pct_change": -0.506,
-        "date": "2026-09-03"
+        "price": 255.690002,
+        "change": -3.940002,
+        "pct_change": -1.518,
+        "date": "2026-09-04"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 376.369995,
-        "change": 19.359985,
-        "pct_change": 5.423,
-        "date": "2026-09-03"
+        "price": 354.079987,
+        "change": -22.290009,
+        "pct_change": -5.922,
+        "date": "2026-09-04"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 342.480011,
-        "change": 5.360016,
-        "pct_change": 1.59,
-        "date": "2026-09-03"
+        "price": 338.459991,
+        "change": -3.800018,
+        "pct_change": -1.11,
+        "date": "2026-09-04"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 532.950012,
-        "change": 1.400024,
-        "pct_change": 0.263,
-        "date": "2026-09-03"
+        "price": 525.280029,
+        "change": -7.669983,
+        "pct_change": -1.439,
+        "date": "2026-09-04"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 202.130005,
-        "change": 1.350006,
-        "pct_change": 0.672,
-        "date": "2026-09-03"
+        "price": 200.789993,
+        "change": -1.340012,
+        "pct_change": -0.663,
+        "date": "2026-09-04"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 528.23999,
-        "change": 4.419983,
-        "pct_change": 0.844,
-        "date": "2026-09-03"
+        "price": 514.97998,
+        "change": -13.26001,
+        "pct_change": -2.51,
+        "date": "2026-09-04"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Argentine leader says oil firms working off Falklands face sanctions",
-      "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 02:53:07 GMT",
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 20:03:52 GMT",
       "matched_keywords": [
-        "sanctions",
-        "oil"
+        "war",
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "US investigating if missile hit Iran wedding, Vance says",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 22:19:59 GMT",
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 16:49:15 GMT",
       "matched_keywords": [
-        "missile"
+        "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 06:01:54 GMT",
+      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 23:07:23 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Around 2,000 fall ill in Indonesia after eating free school meals",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 15:48:06 GMT",
-      "matched_keywords": [
-        "outbreak"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 15:05:57 GMT",
-      "matched_keywords": [
-        "attack",
-        "military",
-        "troops"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 12:18:07 GMT",
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 16:02:32 GMT",
       "matched_keywords": [
         "war",
-        "crisis"
+        "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 15:35:47 GMT",
+      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 14:40:00 GMT",
+      "matched_keywords": [
+        "flood"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 11:54:51 GMT",
       "matched_keywords": [
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 13:07:02 GMT",
+      "title": "Argentine couple to return Nazi-looted painting to rightful owner",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 17:14:21 GMT",
       "matched_keywords": [
-        "president"
+        "coup"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 22:02:52 GMT",
+      "matched_keywords": [
+        "flood"
       ]
     }
   ]
