@@ -1,5 +1,5 @@
 # Daily Feed — 2026-09-06
-*Generated: 2026-09-06T04:33:12+00:00 UTC*
+*Generated: 2026-09-06T21:30:05+00:00 UTC*
 
 ---
 
@@ -18,7 +18,7 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7205 | ▲ 0.0004 | +0.05% |
+| AUD/USD |       0.7201 | ▲ 0.0000 | +0.00% |
 
 ### Indices
 
@@ -47,9 +47,17 @@
 
 ## Key Global Headlines
 
-**[BBC World]** US and Iran trade retaliatory attacks on ships as conflict flares
-*Tags: conflict, attack, oil*
-https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Zelensky says he expects war to continue into winter after talks with US envoys
+*Tags: war*
+https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Dozens feared trapped in collapsed building in Delhi
+*Tags: collapse*
+https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Iran warns of 'faster, heavier, more painful response' to US attacks
+*Tags: war, attack, oil*
+https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Trump signs order to remove endangered species protection for grey wolves
 *Tags: president*
@@ -70,14 +78,6 @@ https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss
 **[BBC World]** Russia hits Ukrainian security headquarters in drone attack, Zelensky says
 *Tags: war, attack*
 https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Nepal bet nearly everything on hydropower - the floods show why that's a problem
-*Tags: flood*
-https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Is Russia proving better at protecting friends than fighting enemies in West Africa?
-*Tags: military*
-https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
