@@ -1,5 +1,5 @@
-# Daily Feed — 2026-09-06
-*Generated: 2026-09-06T21:30:05+00:00 UTC*
+# Daily Feed — 2026-09-08
+*Generated: 2026-09-08T04:19:54+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,476.6001 | ▼ 15.1001 | -0.34% |
-| Silver |      66.7480 | ▼ 0.2250 | -0.34% |
-| Soybeans |   1,309.7500 | ▲ 3.5000 | +0.27% |
-| Sugar #11 (Raw) |      18.0200 | ▼ 0.0500 | -0.28% |
+| Gold |   4,485.8999 | ▲ 56.1001 | +1.27% |
+| Silver |      67.7150 | ▲ 1.6680 | +2.52% |
+| Soybeans |   1,316.7500 | ▲ 23.0000 | +1.78% |
+| Sugar #11 (Raw) |      18.0700 | ▲ 0.0000 | +0.00% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7201 | ▲ 0.0000 | +0.00% |
+| AUD/USD |       0.7217 | ▲ 0.0010 | +0.14% |
 
 ### Indices
 
@@ -26,10 +26,10 @@
 |:------|------:|------:|---------:|
 | S&P 500 |   7,718.6001 | ▼ 29.1099 | -0.38% |
 | US 10Y Yield (%) |       4.7840 | ▲ 0.0220 | +0.46% |
-| Hang Seng 50 |  25,650.8691 | ▲ 437.5586 | +1.74% |
+| Hang Seng 50 |  25,345.5703 | ▼ 67.5488 | -0.27% |
 | South Africa Top 40 |  10,998.0000 | ▼ 12.0000 | -0.11% |
-| Switzerland SMI |  14,395.9404 | ▲ 1.1709 | +0.01% |
-| ASX 200 (XJO) |   9,005.9004 | ▼ 14.1992 | -0.16% |
+| Switzerland SMI |  14,279.3799 | ▼ 116.5605 | -0.81% |
+| ASX 200 (XJO) |   8,945.2002 | ▼ 65.7002 | -0.73% |
 
 ### Stocks
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Zelensky says he expects war to continue into winter after talks with US envoys
-*Tags: war*
-https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Dozens feared trapped in collapsed building in Delhi
-*Tags: collapse*
-https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Iran warns of 'faster, heavier, more painful response' to US attacks
-*Tags: war, attack, oil*
-https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump signs order to remove endangered species protection for grey wolves
-*Tags: president*
-https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** At least two dead in blast at Bolivia military barracks
-*Tags: war, military, explosion*
-https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect
+**[BBC World]** Palestinian parents fear for children's lives at school as settler attacks grow
 *Tags: attack*
-https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Germany's far-right AfD bids for first taste of power in eastern vote
+**[BBC World]** Germany's far-right AfD says 'democracy demands' parties work with them after state election win
+*Tags: election*
+https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump threatens to stop sale of Canadian Bombardier jets in US
+*Tags: war, trade war*
+https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić
 *Tags: war*
-https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Russia hits Ukrainian security headquarters in drone attack, Zelensky says
-*Tags: war, attack*
-https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Israeli strikes in southern Lebanese village kill 12
+*Tags: conflict, ceasefire*
+https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Nepal observes national day of mourning for victims of flash flood disaster
+*Tags: flood*
+https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Kyiv air raid alerts at record high as Russia launches round-the-clock strikes
+*Tags: attack*
+https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Germany's far-right AfD celebrate projected win in state election
+*Tags: election*
+https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
