@@ -1,214 +1,218 @@
 {
-  "generated_at": "2026-09-08T04:19:54+00:00",
+  "generated_at": "2026-09-09T04:19:36+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4485.899902,
-        "change": 56.100098,
-        "pct_change": 1.266,
-        "date": "2026-09-08"
+        "price": 4415.899902,
+        "change": 22.0,
+        "pct_change": 0.501,
+        "date": "2026-09-09"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 67.714996,
-        "change": 1.667999,
-        "pct_change": 2.525,
-        "date": "2026-09-08"
+        "price": 66.815002,
+        "change": 0.518005,
+        "pct_change": 0.781,
+        "date": "2026-09-09"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1316.75,
-        "change": 23.0,
-        "pct_change": 1.778,
-        "date": "2026-09-08"
+        "price": 1310.25,
+        "change": 7.75,
+        "pct_change": 0.595,
+        "date": "2026-09-09"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 18.07,
-        "change": 0.0,
-        "pct_change": 0.0,
-        "date": "2026-09-04"
+        "price": 18.1,
+        "change": 0.030001,
+        "pct_change": 0.166,
+        "date": "2026-09-08"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.721657,
-        "change": 0.001019,
-        "pct_change": 0.141,
-        "date": "2026-09-08"
+        "price": 0.722648,
+        "change": 0.000558,
+        "pct_change": 0.077,
+        "date": "2026-09-09"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7718.600098,
-        "change": -29.109863,
-        "pct_change": -0.376,
-        "date": "2026-09-04"
+        "price": 7673.52002,
+        "change": -45.080078,
+        "pct_change": -0.584,
+        "date": "2026-09-08"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.784,
+        "price": 4.806,
         "change": 0.022,
-        "pct_change": 0.462,
-        "date": "2026-09-04"
+        "pct_change": 0.46,
+        "date": "2026-09-08"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25345.570312,
-        "change": -67.548828,
-        "pct_change": -0.266,
-        "date": "2026-09-08"
+        "price": 25316.869141,
+        "change": -0.310547,
+        "pct_change": -0.001,
+        "date": "2026-09-09"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10998.0,
-        "change": -12.0,
-        "pct_change": -0.109,
-        "date": "2026-09-04"
+        "price": 11031.0,
+        "change": 33.0,
+        "pct_change": 0.3,
+        "date": "2026-09-07"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 14279.379883,
-        "change": -116.560547,
-        "pct_change": -0.81,
-        "date": "2026-09-07"
+        "price": 14057.610352,
+        "change": -221.769531,
+        "pct_change": -1.553,
+        "date": "2026-09-08"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8945.200195,
-        "change": -65.700195,
-        "pct_change": -0.729,
-        "date": "2026-09-08"
+        "price": 8903.400391,
+        "change": -17.399414,
+        "pct_change": -0.195,
+        "date": "2026-09-09"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 174.330002,
-        "change": -8.199997,
-        "pct_change": -4.492,
-        "date": "2026-09-04"
+        "price": 170.300003,
+        "change": -4.029999,
+        "pct_change": -2.312,
+        "date": "2026-09-08"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 255.690002,
-        "change": -3.940002,
-        "pct_change": -1.518,
-        "date": "2026-09-04"
+        "price": 255.809998,
+        "change": 0.119995,
+        "pct_change": 0.047,
+        "date": "2026-09-08"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 354.079987,
-        "change": -22.290009,
-        "pct_change": -5.922,
-        "date": "2026-09-04"
+        "price": 368.160004,
+        "change": 14.080017,
+        "pct_change": 3.977,
+        "date": "2026-09-08"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 338.459991,
-        "change": -3.800018,
-        "pct_change": -1.11,
-        "date": "2026-09-04"
+        "price": 338.359985,
+        "change": -0.100006,
+        "pct_change": -0.03,
+        "date": "2026-09-08"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 525.280029,
-        "change": -7.669983,
-        "pct_change": -1.439,
-        "date": "2026-09-04"
+        "price": 536.150024,
+        "change": 10.869995,
+        "pct_change": 2.069,
+        "date": "2026-09-08"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 200.789993,
-        "change": -1.340012,
-        "pct_change": -0.663,
-        "date": "2026-09-04"
+        "price": 198.809998,
+        "change": -1.979996,
+        "pct_change": -0.986,
+        "date": "2026-09-08"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 514.97998,
-        "change": -13.26001,
-        "pct_change": -2.51,
-        "date": "2026-09-04"
+        "price": 518.580017,
+        "change": 3.600037,
+        "pct_change": 0.699,
+        "date": "2026-09-08"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-      "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 21:12:37 GMT",
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 01:45:15 GMT",
       "matched_keywords": [
-        "attack"
+        "sanctions"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 14:04:01 GMT",
-      "matched_keywords": [
-        "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 00:48:43 GMT",
+      "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 03:03:32 GMT",
       "matched_keywords": [
         "war",
-        "trade war"
+        "trade war",
+        "tariff"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
-      "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 14:50:50 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Israeli strikes in southern Lebanese village kill 12",
-      "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 13:39:23 GMT",
-      "matched_keywords": [
-        "conflict",
-        "ceasefire"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Nepal observes national day of mourning for victims of flash flood disaster",
-      "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 09:31:26 GMT",
-      "matched_keywords": [
-        "flood"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 07:03:44 GMT",
+      "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 23:11:32 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Germany's far-right AfD celebrate projected win in state election",
-      "link": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 18:32:53 GMT",
+      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 17:10:54 GMT",
       "matched_keywords": [
-        "election"
+        "attack",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Argentina to file criminal case against oil company operating in Falklands",
+      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 11:09:54 GMT",
+      "matched_keywords": [
+        "president",
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+      "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 13:58:32 GMT",
+      "matched_keywords": [
+        "attack",
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
+      "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 18:21:40 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
+      "link": "https://www.bbc.co.uk/news/articles/c62m8247yleo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 15:06:56 GMT",
+      "matched_keywords": [
+        "war",
+        "collapse"
       ]
     }
   ]
