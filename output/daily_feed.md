@@ -1,5 +1,5 @@
-# Daily Feed — 2026-09-09
-*Generated: 2026-09-09T04:19:36+00:00 UTC*
+# Daily Feed — 2026-09-10
+*Generated: 2026-09-10T05:34:03+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,415.8999 | ▲ 22.0000 | +0.50% |
-| Silver |      66.8150 | ▲ 0.5180 | +0.78% |
-| Soybeans |   1,310.2500 | ▲ 7.7500 | +0.59% |
-| Sugar #11 (Raw) |      18.1000 | ▲ 0.0300 | +0.17% |
+| Gold |   4,461.6001 | ▲ 45.6001 | +1.03% |
+| Silver |      68.3050 | ▲ 0.3630 | +0.53% |
+| Soybeans |   1,307.7500 | ▲ 12.5000 | +0.96% |
+| Sugar #11 (Raw) |      18.4000 | ▲ 0.3000 | +1.66% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7226 | ▲ 0.0006 | +0.08% |
+| AUD/USD |       0.7222 | ▲ 0.0001 | +0.02% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,673.5200 | ▼ 45.0801 | -0.58% |
-| US 10Y Yield (%) |       4.8060 | ▲ 0.0220 | +0.46% |
-| Hang Seng 50 |  25,316.8691 | ▼ 0.3105 | -0.00% |
-| South Africa Top 40 |  11,031.0000 | ▲ 33.0000 | +0.30% |
-| Switzerland SMI |  14,057.6104 | ▼ 221.7695 | -1.55% |
-| ASX 200 (XJO) |   8,903.4004 | ▼ 17.3994 | -0.20% |
+| S&P 500 |   7,636.3599 | ▼ 37.1602 | -0.48% |
+| US 10Y Yield (%) |       4.8370 | ▲ 0.0310 | +0.65% |
+| Hang Seng 50 |  24,946.1992 | ▼ 328.7617 | -1.30% |
+| South Africa Top 40 |  11,051.0000 | ▲ 20.0000 | +0.18% |
+| Switzerland SMI |  13,804.7002 | ▼ 252.9102 | -1.80% |
+| ASX 200 (XJO) |   8,787.0000 | ▼ 124.4004 | -1.40% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     170.3000 | ▼ 4.0300 | -2.31% |
-| McDonald's |     255.8100 | ▲ 0.1200 | +0.05% |
-| Tesla |     368.1600 | ▲ 14.0800 | +3.98% |
-| Alphabet |     338.3600 | ▼ 0.1000 | -0.03% |
-| Lockheed Martin |     536.1500 | ▲ 10.8700 | +2.07% |
-| RTX (Raytheon) |     198.8100 | ▼ 1.9800 | -0.99% |
-| Northrop Grumman |     518.5800 | ▲ 3.6000 | +0.70% |
+| Palantir |     169.5300 | ▼ 0.7700 | -0.45% |
+| McDonald's |     253.4800 | ▼ 2.3300 | -0.91% |
+| Tesla |     367.8100 | ▼ 0.3500 | -0.10% |
+| Alphabet |     330.6500 | ▼ 7.7100 | -2.28% |
+| Lockheed Martin |     524.4600 | ▼ 11.6900 | -2.18% |
+| RTX (Raytheon) |     197.5500 | ▼ 1.2600 | -0.63% |
+| Northrop Grumman |     515.5700 | ▼ 3.0100 | -0.58% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** UK announces sanctions on West Bank settlements prompting furious Israeli response
-*Tags: sanctions*
-https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Iran war won't end until after crucial November elections, says Trump
+*Tags: war, election, president, oil*
+https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** US slaps import ban on Canadian alcohol, motorbikes and other goods
+**[BBC World]** Spanish intelligence warned of Ceuta mass crossing plans before surge
+*Tags: war*
+https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Oil hits $100 a barrel for first time since July after US and Houthi strikes
+*Tags: oil*
+https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Germany's Merz attacks AfD in stormy debate after far-right election win
+*Tags: attack, election*
+https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Uganda pulling out of Prince Harry's Invictus Games, says military chief
+*Tags: military*
+https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** US to ban imports of some Canadian alcohol, dairy goods and motorbikes
 *Tags: war, trade war, tariff*
 https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** 'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Two die at Moldovan border as Russia-Ukraine drone war rages
+*Tags: war*
+https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ukrainian TV channel building hit by Russian drone as five killed in Kyiv
-*Tags: attack, president*
-https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Argentina to file criminal case against oil company operating in Falklands
-*Tags: president, oil*
-https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Saudi Arabia vows to respond after Houthis attack cities and energy facilities
-*Tags: attack, oil*
-https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Sudan's healthcare system on brink of collapse after cuts, medical charity warns
-*Tags: war, collapse*
-https://www.bbc.co.uk/news/articles/c62m8247yleo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Colombia's new president loosens gun control rules
+*Tags: president*
+https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
