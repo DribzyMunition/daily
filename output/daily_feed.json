@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-09-10T05:34:03+00:00",
+  "generated_at": "2026-09-11T01:08:04+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4461.600098,
-        "change": 45.600098,
-        "pct_change": 1.033,
+        "price": 4370.700195,
+        "change": -45.299805,
+        "pct_change": -1.026,
         "date": "2026-09-10"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 68.305,
-        "change": 0.362999,
-        "pct_change": 0.534,
+        "price": 64.160004,
+        "change": -3.781998,
+        "pct_change": -5.567,
         "date": "2026-09-10"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1307.75,
-        "change": 12.5,
-        "pct_change": 0.965,
+        "price": 1332.5,
+        "change": 37.25,
+        "pct_change": 2.876,
         "date": "2026-09-10"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 18.4,
-        "change": 0.299999,
-        "pct_change": 1.657,
-        "date": "2026-09-09"
+        "price": 19.780001,
+        "change": 1.380001,
+        "pct_change": 7.5,
+        "date": "2026-09-10"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.722178,
-        "change": 0.000138,
-        "pct_change": 0.019,
-        "date": "2026-09-10"
+        "price": 0.716794,
+        "change": -0.005295,
+        "pct_change": -0.733,
+        "date": "2026-09-11"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7636.359863,
-        "change": -37.160156,
-        "pct_change": -0.484,
-        "date": "2026-09-09"
+        "price": 7591.700195,
+        "change": -44.659668,
+        "pct_change": -0.585,
+        "date": "2026-09-10"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.837,
-        "change": 0.031,
-        "pct_change": 0.645,
-        "date": "2026-09-09"
+        "price": 4.944,
+        "change": 0.107,
+        "pct_change": 2.212,
+        "date": "2026-09-10"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24946.199219,
-        "change": -328.761719,
-        "pct_change": -1.301,
-        "date": "2026-09-10"
+        "price": 25274.960938,
+        "change": -42.21875,
+        "pct_change": -0.167,
+        "date": "2026-09-09"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 11051.0,
-        "change": 20.0,
-        "pct_change": 0.181,
-        "date": "2026-09-08"
+        "price": 11009.0,
+        "change": -42.0,
+        "pct_change": -0.38,
+        "date": "2026-09-09"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8787.0,
-        "change": -124.400391,
-        "pct_change": -1.396,
-        "date": "2026-09-10"
+        "price": 8735.599609,
+        "change": -175.800781,
+        "pct_change": -1.973,
+        "date": "2026-09-11"
       }
     },
     "stocks": {
@@ -139,9 +139,38 @@
   "news": [
     {
       "source": "BBC World",
+      "title": "Can Trump really pay $5,000 to every American adult?",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 16:48:37 GMT",
+      "matched_keywords": [
+        "election",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 16:31:30 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+      "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 15:54:17 GMT",
+      "matched_keywords": [
+        "war",
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
       "title": "Iran war won't end until after crucial November elections, says Trump",
       "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 04:21:00 GMT",
+      "published": "Thu, 10 Sep 2026 10:43:53 GMT",
       "matched_keywords": [
         "war",
         "election",
@@ -160,58 +189,29 @@
     },
     {
       "source": "BBC World",
-      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 16:46:53 GMT",
+      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
+      "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 17:13:53 GMT",
       "matched_keywords": [
-        "oil"
+        "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 13:29:33 GMT",
+      "title": "Four key takeaways from  Republican midterms convention",
+      "link": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 04:07:44 GMT",
       "matched_keywords": [
-        "attack",
-        "election"
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
-      "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 15:01:58 GMT",
+      "title": "Watch: Is Trump's $5,000 election pledge legal?",
+      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 07:12:32 GMT",
       "matched_keywords": [
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 10:20:40 GMT",
-      "matched_keywords": [
-        "war",
-        "trade war",
-        "tariff"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 20:28:04 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Colombia's new president loosens gun control rules",
-      "link": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 11:01:41 GMT",
-      "matched_keywords": [
+        "election",
         "president"
       ]
     }
