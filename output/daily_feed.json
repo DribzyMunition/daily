@@ -1,142 +1,189 @@
 {
-  "generated_at": "2026-09-11T01:08:04+00:00",
+  "generated_at": "2026-09-12T02:09:16+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4370.700195,
-        "change": -45.299805,
-        "pct_change": -1.026,
-        "date": "2026-09-10"
+        "price": 4390.0,
+        "change": 25.5,
+        "pct_change": 0.584,
+        "date": "2026-09-11"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 64.160004,
-        "change": -3.781998,
-        "pct_change": -5.567,
-        "date": "2026-09-10"
+        "price": 65.019997,
+        "change": 0.736,
+        "pct_change": 1.145,
+        "date": "2026-09-11"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1332.5,
-        "change": 37.25,
-        "pct_change": 2.876,
-        "date": "2026-09-10"
+        "price": 1299.0,
+        "change": -17.0,
+        "pct_change": -1.292,
+        "date": "2026-09-11"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 19.780001,
-        "change": 1.380001,
-        "pct_change": 7.5,
-        "date": "2026-09-10"
+        "price": 19.15,
+        "change": 0.42,
+        "pct_change": 2.242,
+        "date": "2026-09-11"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.716794,
-        "change": -0.005295,
-        "pct_change": -0.733,
-        "date": "2026-09-11"
+        "price": 0.717257,
+        "change": 0.001657,
+        "pct_change": 0.232,
+        "date": "2026-09-12"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7591.700195,
-        "change": -44.659668,
-        "pct_change": -0.585,
-        "date": "2026-09-10"
+        "price": 7656.97998,
+        "change": 65.279785,
+        "pct_change": 0.86,
+        "date": "2026-09-11"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.944,
-        "change": 0.107,
-        "pct_change": 2.212,
-        "date": "2026-09-10"
+        "price": 4.975,
+        "change": 0.031,
+        "pct_change": 0.627,
+        "date": "2026-09-11"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25274.960938,
-        "change": -42.21875,
-        "pct_change": -0.167,
-        "date": "2026-09-09"
+        "price": 24805.630859,
+        "change": -148.839844,
+        "pct_change": -0.596,
+        "date": "2026-09-11"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 11009.0,
-        "change": -42.0,
-        "pct_change": -0.38,
-        "date": "2026-09-09"
+        "price": 10831.0,
+        "change": -178.0,
+        "pct_change": -1.617,
+        "date": "2026-09-10"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13804.700195,
-        "change": -252.910156,
-        "pct_change": -1.799,
-        "date": "2026-09-09"
+        "price": 13775.269531,
+        "change": 35.169922,
+        "pct_change": 0.256,
+        "date": "2026-09-11"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8735.599609,
-        "change": -175.800781,
-        "pct_change": -1.973,
+        "price": 8741.200195,
+        "change": -78.200195,
+        "pct_change": -0.887,
         "date": "2026-09-11"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 169.529999,
-        "change": -0.770004,
-        "pct_change": -0.452,
-        "date": "2026-09-09"
+        "price": 167.229996,
+        "change": 1.369995,
+        "pct_change": 0.826,
+        "date": "2026-09-11"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 253.479996,
-        "change": -2.330002,
-        "pct_change": -0.911,
-        "date": "2026-09-09"
+        "price": 252.529999,
+        "change": -0.520004,
+        "pct_change": -0.205,
+        "date": "2026-09-11"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 367.809998,
-        "change": -0.350006,
-        "pct_change": -0.095,
-        "date": "2026-09-09"
+        "price": 365.440002,
+        "change": 1.880005,
+        "pct_change": 0.517,
+        "date": "2026-09-11"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 330.649994,
-        "change": -7.709991,
-        "pct_change": -2.279,
-        "date": "2026-09-09"
+        "price": 338.5,
+        "change": 5.899994,
+        "pct_change": 1.774,
+        "date": "2026-09-11"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 524.460022,
-        "change": -11.690002,
-        "pct_change": -2.18,
-        "date": "2026-09-09"
+        "price": 524.190002,
+        "change": -5.929993,
+        "pct_change": -1.119,
+        "date": "2026-09-11"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 197.550003,
-        "change": -1.259995,
-        "pct_change": -0.634,
-        "date": "2026-09-09"
+        "price": 197.679993,
+        "change": -0.440002,
+        "pct_change": -0.222,
+        "date": "2026-09-11"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 515.570007,
-        "change": -3.01001,
-        "pct_change": -0.58,
-        "date": "2026-09-09"
+        "price": 518.969971,
+        "change": 0.019958,
+        "pct_change": 0.004,
+        "date": "2026-09-11"
       }
     }
   },
   "news": [
+    {
+      "source": "BBC World",
+      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 16:00:59 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 15:50:23 GMT",
+      "matched_keywords": [
+        "earthquake"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 08:15:25 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 19:44:58 GMT",
+      "matched_keywords": [
+        "war",
+        "military",
+        "coup"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 05:53:06 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
     {
       "source": "BBC World",
       "title": "Can Trump really pay $5,000 to every American adult?",
@@ -145,55 +192,6 @@
       "matched_keywords": [
         "election",
         "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 16:31:30 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-      "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 15:54:17 GMT",
-      "matched_keywords": [
-        "war",
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 10:43:53 GMT",
-      "matched_keywords": [
-        "war",
-        "election",
-        "president",
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 21:23:45 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-      "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 17:13:53 GMT",
-      "matched_keywords": [
-        "attack"
       ]
     },
     {
@@ -207,12 +205,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
-      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 07:12:32 GMT",
+      "title": "How global trade and oil prices could be hit by Houthi advance",
+      "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 16:13:39 GMT",
       "matched_keywords": [
-        "election",
-        "president"
+        "oil"
       ]
     }
   ]
