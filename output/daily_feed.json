@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-09-12T02:09:16+00:00",
+  "generated_at": "2026-09-13T01:53:32+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4390.0,
-        "change": 25.5,
-        "pct_change": 0.584,
+        "price": 4366.200195,
+        "change": 1.700195,
+        "pct_change": 0.039,
         "date": "2026-09-11"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 65.019997,
-        "change": 0.736,
-        "pct_change": 1.145,
+        "price": 64.554001,
+        "change": 0.270004,
+        "pct_change": 0.42,
         "date": "2026-09-11"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1299.0,
-        "change": -17.0,
-        "pct_change": -1.292,
+        "price": 1280.25,
+        "change": -35.75,
+        "pct_change": -2.717,
         "date": "2026-09-11"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 19.15,
-        "change": 0.42,
-        "pct_change": 2.242,
+        "price": 18.15,
+        "change": -0.58,
+        "pct_change": -3.097,
         "date": "2026-09-11"
       }
     },
@@ -37,7 +37,7 @@
         "price": 0.717257,
         "change": 0.001657,
         "pct_change": 0.232,
-        "date": "2026-09-12"
+        "date": "2026-09-13"
       }
     },
     "indices": {
@@ -64,10 +64,10 @@
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10831.0,
-        "change": -178.0,
-        "pct_change": -1.617,
-        "date": "2026-09-10"
+        "price": 10904.0,
+        "change": 73.0,
+        "pct_change": 0.674,
+        "date": "2026-09-11"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
@@ -139,29 +139,40 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-      "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 16:00:59 GMT",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 12:15:50 GMT",
       "matched_keywords": [
-        "war"
+        "attack",
+        "military",
+        "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Israel says it has destroyed major underground Hezbollah base",
-      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 15:50:23 GMT",
+      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 00:49:08 GMT",
       "matched_keywords": [
-        "earthquake"
+        "assassination"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 08:15:25 GMT",
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 05:55:15 GMT",
       "matched_keywords": [
-        "war"
+        "invasion"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+      "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 20:27:25 GMT",
+      "matched_keywords": [
+        "missile"
       ]
     },
     {
@@ -177,39 +188,29 @@
     },
     {
       "source": "BBC World",
-      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
-      "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 05:53:06 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Can Trump really pay $5,000 to every American adult?",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 16:48:37 GMT",
-      "matched_keywords": [
-        "election",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Four key takeaways from  Republican midterms convention",
-      "link": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 04:07:44 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
       "title": "How global trade and oil prices could be hit by Houthi advance",
       "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 16:13:39 GMT",
       "matched_keywords": [
         "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Has Trump won over voters with his midterm convention?",
+      "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 06:16:54 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Drone display recreates the Twin Towers over New York City",
+      "link": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 14:19:26 GMT",
+      "matched_keywords": [
+        "attack"
       ]
     }
   ]

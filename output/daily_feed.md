@@ -1,5 +1,5 @@
-# Daily Feed — 2026-09-12
-*Generated: 2026-09-12T02:09:16+00:00 UTC*
+# Daily Feed — 2026-09-13
+*Generated: 2026-09-13T01:53:32+00:00 UTC*
 
 ---
 
@@ -9,10 +9,10 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,390.0000 | ▲ 25.5000 | +0.58% |
-| Silver |      65.0200 | ▲ 0.7360 | +1.15% |
-| Soybeans |   1,299.0000 | ▼ 17.0000 | -1.29% |
-| Sugar #11 (Raw) |      19.1500 | ▲ 0.4200 | +2.24% |
+| Gold |   4,366.2002 | ▲ 1.7002 | +0.04% |
+| Silver |      64.5540 | ▲ 0.2700 | +0.42% |
+| Soybeans |   1,280.2500 | ▼ 35.7500 | -2.72% |
+| Sugar #11 (Raw) |      18.1500 | ▼ 0.5800 | -3.10% |
 
 ### FX
 
@@ -27,7 +27,7 @@
 | S&P 500 |   7,656.9800 | ▲ 65.2798 | +0.86% |
 | US 10Y Yield (%) |       4.9750 | ▲ 0.0310 | +0.63% |
 | Hang Seng 50 |  24,805.6309 | ▼ 148.8398 | -0.60% |
-| South Africa Top 40 |  10,831.0000 | ▼ 178.0000 | -1.62% |
+| South Africa Top 40 |  10,904.0000 | ▲ 73.0000 | +0.67% |
 | Switzerland SMI |  13,775.2695 | ▲ 35.1699 | +0.26% |
 | ASX 200 (XJO) |   8,741.2002 | ▼ 78.2002 | -0.89% |
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Norway's Princess Astrid dies two days after attending brother King Harald's funeral
-*Tags: war*
-https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
+*Tags: attack, military, oil*
+https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Israel says it has destroyed major underground Hezbollah base
-*Tags: earthquake*
-https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss
+**[BBC World]** They lost their jobs after posting about Charlie Kirk, but some have no regrets
+*Tags: assassination*
+https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Anthropic blocks possible attempt to use AI to make biological weapons
-*Tags: war*
-https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC
+*Tags: invasion*
+https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat
+*Tags: missile*
+https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
 *Tags: war, military, coup*
 https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Can Trump really pay $5,000 to every American adult?
-*Tags: election, president*
-https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Four key takeaways from  Republican midterms convention
-*Tags: president*
-https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss
-
 **[BBC World]** How global trade and oil prices could be hit by Houthi advance
 *Tags: oil*
 https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Has Trump won over voters with his midterm convention?
+*Tags: president*
+https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Drone display recreates the Twin Towers over New York City
+*Tags: attack*
+https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
