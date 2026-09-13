@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-13T01:53:32+00:00",
+  "generated_at": "2026-09-13T21:30:03+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4366.200195,
-        "change": 1.700195,
-        "pct_change": 0.039,
+        "price": 4408.899902,
+        "change": 44.399902,
+        "pct_change": 1.017,
         "date": "2026-09-11"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 64.554001,
-        "change": 0.270004,
-        "pct_change": 0.42,
+        "price": 65.188004,
+        "change": 0.904007,
+        "pct_change": 1.406,
         "date": "2026-09-11"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1280.25,
-        "change": -35.75,
-        "pct_change": -2.717,
+        "price": 1299.0,
+        "change": -17.0,
+        "pct_change": -1.292,
         "date": "2026-09-11"
       },
       "Sugar #11 (Raw)": {
@@ -34,9 +34,9 @@
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.717257,
-        "change": 0.001657,
-        "pct_change": 0.232,
+        "price": 0.716692,
+        "change": 0.001092,
+        "pct_change": 0.153,
         "date": "2026-09-13"
       }
     },
@@ -139,13 +139,39 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 12:15:50 GMT",
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 19:14:21 GMT",
       "matched_keywords": [
-        "attack",
-        "military",
-        "oil"
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 18:49:37 GMT",
+      "matched_keywords": [
+        "war",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran war reshapes Brics ties but also exposes divisions",
+      "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 11:23:42 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 19:34:36 GMT",
+      "matched_keywords": [
+        "tariff"
       ]
     },
     {
@@ -159,31 +185,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 05:55:15 GMT",
+      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 09:05:10 GMT",
       "matched_keywords": [
-        "invasion"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-      "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 20:27:25 GMT",
-      "matched_keywords": [
-        "missile"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 19:44:58 GMT",
-      "matched_keywords": [
-        "war",
-        "military",
-        "coup"
+        "war"
       ]
     },
     {
@@ -202,15 +208,6 @@
       "published": "Fri, 11 Sep 2026 06:16:54 GMT",
       "matched_keywords": [
         "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Drone display recreates the Twin Towers over New York City",
-      "link": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 14:19:26 GMT",
-      "matched_keywords": [
-        "attack"
       ]
     }
   ]

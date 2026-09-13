@@ -1,5 +1,5 @@
 # Daily Feed — 2026-09-13
-*Generated: 2026-09-13T01:53:32+00:00 UTC*
+*Generated: 2026-09-13T21:30:03+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,366.2002 | ▲ 1.7002 | +0.04% |
-| Silver |      64.5540 | ▲ 0.2700 | +0.42% |
-| Soybeans |   1,280.2500 | ▼ 35.7500 | -2.72% |
+| Gold |   4,408.8999 | ▲ 44.3999 | +1.02% |
+| Silver |      65.1880 | ▲ 0.9040 | +1.41% |
+| Soybeans |   1,299.0000 | ▼ 17.0000 | -1.29% |
 | Sugar #11 (Raw) |      18.1500 | ▼ 0.5800 | -3.10% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7173 | ▲ 0.0017 | +0.23% |
+| AUD/USD |       0.7167 | ▲ 0.0011 | +0.15% |
 
 ### Indices
 
@@ -47,25 +47,29 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
-*Tags: attack, military, oil*
-https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
+*Tags: war*
+https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump downplays warnings of AI risks, citing rivalry with China
+*Tags: war, president*
+https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Iran war reshapes Brics ties but also exposes divisions
+*Tags: war*
+https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump says he will remove all Irish whiskey tariffs as he ends two-day visit
+*Tags: tariff*
+https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** They lost their jobs after posting about Charlie Kirk, but some have no regrets
 *Tags: assassination*
 https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC
-*Tags: invasion*
-https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat
-*Tags: missile*
-https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
-*Tags: war, military, coup*
-https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Dramatic insider warnings over AI fall flat with some in Silicon Valley
+*Tags: war*
+https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** How global trade and oil prices could be hit by Houthi advance
 *Tags: oil*
@@ -74,10 +78,6 @@ https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss
 **[BBC World]** Has Trump won over voters with his midterm convention?
 *Tags: president*
 https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Drone display recreates the Twin Towers over New York City
-*Tags: attack*
-https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
