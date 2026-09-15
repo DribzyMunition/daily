@@ -1,212 +1,220 @@
 {
-  "generated_at": "2026-09-14T21:30:06+00:00",
+  "generated_at": "2026-09-15T21:30:05+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4340.0,
-        "change": -68.899902,
-        "pct_change": -1.563,
-        "date": "2026-09-14"
+        "price": 4333.399902,
+        "change": -18.5,
+        "pct_change": -0.425,
+        "date": "2026-09-15"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 63.755001,
-        "change": -0.799,
-        "pct_change": -1.238,
-        "date": "2026-09-14"
+        "price": 64.184998,
+        "change": 0.671997,
+        "pct_change": 1.058,
+        "date": "2026-09-15"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1305.0,
-        "change": 24.75,
-        "pct_change": 1.933,
-        "date": "2026-09-14"
+        "price": 1319.25,
+        "change": 34.0,
+        "pct_change": 2.645,
+        "date": "2026-09-15"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 19.059999,
-        "change": 0.91,
-        "pct_change": 5.014,
-        "date": "2026-09-14"
+        "price": 18.9,
+        "change": 0.74,
+        "pct_change": 4.075,
+        "date": "2026-09-15"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.71398,
-        "change": -0.00162,
-        "pct_change": -0.226,
-        "date": "2026-09-14"
+        "price": 0.713165,
+        "change": -0.002035,
+        "pct_change": -0.285,
+        "date": "2026-09-15"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7619.97998,
-        "change": -37.0,
-        "pct_change": -0.483,
-        "date": "2026-09-14"
+        "price": 7585.72998,
+        "change": -34.25,
+        "pct_change": -0.449,
+        "date": "2026-09-15"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.961,
-        "change": -0.014,
-        "pct_change": -0.281,
-        "date": "2026-09-14"
+        "price": 4.996,
+        "change": 0.035,
+        "pct_change": 0.706,
+        "date": "2026-09-15"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24805.630859,
-        "change": -148.839844,
-        "pct_change": -0.596,
-        "date": "2026-09-11"
+        "price": 24917.599609,
+        "change": 111.96875,
+        "pct_change": 0.451,
+        "date": "2026-09-14"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10718.0,
-        "change": -186.0,
-        "pct_change": -1.706,
-        "date": "2026-09-14"
+        "price": 10743.0,
+        "change": -161.0,
+        "pct_change": -1.477,
+        "date": "2026-09-15"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13878.540039,
-        "change": 103.270508,
-        "pct_change": 0.75,
-        "date": "2026-09-14"
+        "price": 13808.870117,
+        "change": -69.669922,
+        "pct_change": -0.502,
+        "date": "2026-09-15"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8741.200195,
-        "change": -78.200195,
-        "pct_change": -0.887,
-        "date": "2026-09-11"
+        "price": 8749.900391,
+        "change": 8.700195,
+        "pct_change": 0.1,
+        "date": "2026-09-14"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 173.309998,
-        "change": 6.080002,
-        "pct_change": 3.636,
-        "date": "2026-09-14"
+        "price": 172.559998,
+        "change": -0.75,
+        "pct_change": -0.433,
+        "date": "2026-09-15"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 257.48999,
-        "change": 4.959991,
-        "pct_change": 1.964,
-        "date": "2026-09-14"
+        "price": 252.779999,
+        "change": -4.709991,
+        "pct_change": -1.829,
+        "date": "2026-09-15"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 358.970001,
-        "change": -6.470001,
-        "pct_change": -1.77,
-        "date": "2026-09-14"
+        "price": 356.579987,
+        "change": -2.390015,
+        "pct_change": -0.666,
+        "date": "2026-09-15"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 349.390015,
-        "change": 10.890015,
-        "pct_change": 3.217,
-        "date": "2026-09-14"
+        "price": 344.980011,
+        "change": -4.410004,
+        "pct_change": -1.262,
+        "date": "2026-09-15"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 529.380005,
-        "change": 5.190002,
-        "pct_change": 0.99,
-        "date": "2026-09-14"
+        "price": 533.460022,
+        "change": 4.080017,
+        "pct_change": 0.771,
+        "date": "2026-09-15"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 195.339996,
-        "change": -2.339996,
-        "pct_change": -1.184,
-        "date": "2026-09-14"
+        "price": 195.5,
+        "change": 0.160004,
+        "pct_change": 0.082,
+        "date": "2026-09-15"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 527.390015,
-        "change": 8.420044,
-        "pct_change": 1.622,
-        "date": "2026-09-14"
+        "price": 531.25,
+        "change": 3.859985,
+        "pct_change": 0.732,
+        "date": "2026-09-15"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 12:18:13 GMT",
+      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 11:40:00 GMT",
+      "matched_keywords": [
+        "war",
+        "military",
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "What weapon could the US have put into space?",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 14:23:14 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 08:36:09 GMT",
+      "title": "South African president vows justice as more women's bodies found near Johannesburg",
+      "link": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 18:01:51 GMT",
       "matched_keywords": [
-        "election"
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Africa's richest man launches continent's biggest share sale",
-      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 16:23:42 GMT",
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 16:13:41 GMT",
       "matched_keywords": [
+        "attack",
+        "missile",
         "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
-      "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 11:35:08 GMT",
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 20:34:12 GMT",
+      "matched_keywords": [
+        "war",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Canada is a 'safe harbour' for global finance, Carney says",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 17:54:46 GMT",
+      "matched_keywords": [
+        "war",
+        "prime minister",
+        "summit",
+        "trade war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 03:50:06 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 11:20:07 GMT",
+      "title": "Nato jets down drone that entered Lithuanian airspace",
+      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 09:07:35 GMT",
       "matched_keywords": [
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 19:34:36 GMT",
-      "matched_keywords": [
-        "tariff"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran war reshapes Brics ties but also exposes divisions",
-      "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 11:23:42 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 00:49:08 GMT",
-      "matched_keywords": [
-        "assassination"
+        "nato"
       ]
     }
   ]

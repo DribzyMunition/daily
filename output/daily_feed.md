@@ -1,5 +1,5 @@
-# Daily Feed — 2026-09-14
-*Generated: 2026-09-14T21:30:06+00:00 UTC*
+# Daily Feed — 2026-09-15
+*Generated: 2026-09-15T21:30:05+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,340.0000 | ▼ 68.8999 | -1.56% |
-| Silver |      63.7550 | ▼ 0.7990 | -1.24% |
-| Soybeans |   1,305.0000 | ▲ 24.7500 | +1.93% |
-| Sugar #11 (Raw) |      19.0600 | ▲ 0.9100 | +5.01% |
+| Gold |   4,333.3999 | ▼ 18.5000 | -0.42% |
+| Silver |      64.1850 | ▲ 0.6720 | +1.06% |
+| Soybeans |   1,319.2500 | ▲ 34.0000 | +2.65% |
+| Sugar #11 (Raw) |      18.9000 | ▲ 0.7400 | +4.08% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7140 | ▼ 0.0016 | -0.23% |
+| AUD/USD |       0.7132 | ▼ 0.0020 | -0.28% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,619.9800 | ▼ 37.0000 | -0.48% |
-| US 10Y Yield (%) |       4.9610 | ▼ 0.0140 | -0.28% |
-| Hang Seng 50 |  24,805.6309 | ▼ 148.8398 | -0.60% |
-| South Africa Top 40 |  10,718.0000 | ▼ 186.0000 | -1.71% |
-| Switzerland SMI |  13,878.5400 | ▲ 103.2705 | +0.75% |
-| ASX 200 (XJO) |   8,741.2002 | ▼ 78.2002 | -0.89% |
+| S&P 500 |   7,585.7300 | ▼ 34.2500 | -0.45% |
+| US 10Y Yield (%) |       4.9960 | ▲ 0.0350 | +0.71% |
+| Hang Seng 50 |  24,917.5996 | ▲ 111.9688 | +0.45% |
+| South Africa Top 40 |  10,743.0000 | ▼ 161.0000 | -1.48% |
+| Switzerland SMI |  13,808.8701 | ▼ 69.6699 | -0.50% |
+| ASX 200 (XJO) |   8,749.9004 | ▲ 8.7002 | +0.10% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     173.3100 | ▲ 6.0800 | +3.64% |
-| McDonald's |     257.4900 | ▲ 4.9600 | +1.96% |
-| Tesla |     358.9700 | ▼ 6.4700 | -1.77% |
-| Alphabet |     349.3900 | ▲ 10.8900 | +3.22% |
-| Lockheed Martin |     529.3800 | ▲ 5.1900 | +0.99% |
-| RTX (Raytheon) |     195.3400 | ▼ 2.3400 | -1.18% |
-| Northrop Grumman |     527.3900 | ▲ 8.4200 | +1.62% |
+| Palantir |     172.5600 | ▼ 0.7500 | -0.43% |
+| McDonald's |     252.7800 | ▼ 4.7100 | -1.83% |
+| Tesla |     356.5800 | ▼ 2.3900 | -0.67% |
+| Alphabet |     344.9800 | ▼ 4.4100 | -1.26% |
+| Lockheed Martin |     533.4600 | ▲ 4.0800 | +0.77% |
+| RTX (Raytheon) |     195.5000 | ▲ 0.1600 | +0.08% |
+| Northrop Grumman |     531.2500 | ▲ 3.8600 | +0.73% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
+**[BBC World]** Denmark says Russian warship fired flares at military helicopter
+*Tags: war, military, prime minister*
+https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** What weapon could the US have put into space?
 *Tags: war*
-https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Swedish left-wing bloc narrowly ahead with election too close to call
-*Tags: election*
-https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss
+**[BBC World]** South African president vows justice as more women's bodies found near Johannesburg
+*Tags: president*
+https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Africa's richest man launches continent's biggest share sale
-*Tags: oil*
-https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Two sailors missing after tanker attacked in Strait of Hormuz, Oman says
+*Tags: attack, missile, oil*
+https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Zambians warned not to eat dead wildlife after anthrax kills dozens of animals
+**[BBC World]** Iran war has led to US munitions shortfalls, Pentagon inspector confirms
+*Tags: war, president*
+https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Canada is a 'safe harbour' for global finance, Carney says
+*Tags: war, prime minister, summit, trade war*
+https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Welsh actor Matthew Rhys makes Emmy Awards history with double win
 *Tags: war*
-https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Hyrox apologises for allowing race to continue after athlete soils herself
-*Tags: oil*
-https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump says he will remove all Irish whiskey tariffs as he ends two-day visit
-*Tags: tariff*
-https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Iran war reshapes Brics ties but also exposes divisions
-*Tags: war*
-https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** They lost their jobs after posting about Charlie Kirk, but some have no regrets
-*Tags: assassination*
-https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Nato jets down drone that entered Lithuanian airspace
+*Tags: nato*
+https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
