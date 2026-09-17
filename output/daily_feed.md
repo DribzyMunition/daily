@@ -1,5 +1,5 @@
-# Daily Feed — 2026-09-16
-*Generated: 2026-09-16T21:30:05+00:00 UTC*
+# Daily Feed — 2026-09-17
+*Generated: 2026-09-17T21:30:04+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,302.5000 | ▼ 30.2998 | -0.70% |
-| Silver |      63.4200 | ▲ 0.1840 | +0.29% |
-| Soybeans |   1,321.5000 | ▲ 2.7500 | +0.21% |
-| Sugar #11 (Raw) |      18.9200 | ▲ 0.9800 | +5.46% |
+| Gold |   4,380.6001 | ▼ 6.8999 | -0.16% |
+| Silver |      65.7150 | ▲ 1.4270 | +2.22% |
+| Soybeans |   1,319.5000 | ▼ 1.0000 | -0.08% |
+| Sugar #11 (Raw) |      18.3200 | ▲ 0.3500 | +1.95% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7092 | ▼ 0.0046 | -0.65% |
+| AUD/USD |       0.7113 | ▼ 0.0012 | -0.17% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,551.8101 | ▼ 33.9199 | -0.45% |
-| US 10Y Yield (%) |       5.0060 | ▲ 0.0100 | +0.20% |
-| Hang Seng 50 |  24,667.2402 | ▼ 250.3594 | -1.00% |
-| South Africa Top 40 |  10,723.0000 | ▲ 5.0000 | +0.05% |
-| Switzerland SMI |  13,868.6602 | ▲ 59.7900 | +0.43% |
-| ASX 200 (XJO) |   8,672.5000 | ▼ 77.4004 | -0.89% |
+| S&P 500 |   7,637.7598 | ▲ 85.9497 | +1.14% |
+| US 10Y Yield (%) |       4.9470 | ▼ 0.0590 | -1.18% |
+| Hang Seng 50 |  24,713.7793 | ▲ 46.5391 | +0.19% |
+| South Africa Top 40 |  10,795.0000 | ▲ 52.0000 | +0.48% |
+| Switzerland SMI |  13,947.3096 | ▲ 78.6494 | +0.57% |
+| ASX 200 (XJO) |   8,696.5000 | ▲ 24.0000 | +0.28% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     174.3400 | ▲ 1.7800 | +1.03% |
-| McDonald's |     248.5600 | ▼ 4.2200 | -1.67% |
-| Tesla |     358.0800 | ▲ 1.5000 | +0.42% |
-| Alphabet |     342.8700 | ▼ 2.1100 | -0.61% |
-| Lockheed Martin |     537.2500 | ▲ 3.7900 | +0.71% |
-| RTX (Raytheon) |     196.8300 | ▲ 1.3300 | +0.68% |
-| Northrop Grumman |     530.7800 | ▼ 0.4700 | -0.09% |
+| Palantir |     176.2400 | ▲ 1.9000 | +1.09% |
+| McDonald's |     248.4800 | ▼ 0.0800 | -0.03% |
+| Tesla |     366.2000 | ▲ 8.1200 | +2.27% |
+| Alphabet |     347.3300 | ▲ 4.4600 | +1.30% |
+| Lockheed Martin |     538.0900 | ▲ 0.8400 | +0.16% |
+| RTX (Raytheon) |     193.5400 | ▼ 3.2900 | -1.67% |
+| Northrop Grumman |     524.0000 | ▼ 6.7800 | -1.28% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** US interest rates raised for first time in three years
-*Tags: interest rate, federal reserve*
-https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Canada welcomes EU proposal to become 'associate member'
+*Tags: prime minister*
+https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Photos show widespread damage at US sites from Iranian attacks
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** EU chief backs plan for Canada to become 'associate member'
-*Tags: president*
-https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say
-*Tags: war, collapse*
-https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Eight German state premiers back Merz amid speculation over future
-*Tags: election*
-https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Trump chief of staff Susie Wiles announces she's cancer-free
-*Tags: president*
-https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** US accuses Russia of trying to kill Ukrainian allies overseas
-*Tags: oil*
-https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Philippines' Duterte seen in person at International Criminal Court for first time
+**[BBC World]** UN experts say grounds to believe US committed war crimes in Iran strikes
 *Tags: war*
-https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Hyrox athlete apologises for continuing race after soiling herself
+*Tags: oil*
+https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark
+*Tags: war, president*
+https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft
+*Tags: war*
+https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Swedish PM Kristersson resigns after election loss
+*Tags: election*
+https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Klopp wants to 'reclaim' flag amid German elections
+*Tags: election*
+https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** US interest rates raised for first time in three years
+*Tags: president, interest rate*
+https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
