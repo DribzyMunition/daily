@@ -1,214 +1,214 @@
 {
-  "generated_at": "2026-09-17T21:30:04+00:00",
+  "generated_at": "2026-09-18T21:30:04+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4380.600098,
-        "change": -6.899902,
-        "pct_change": -0.157,
-        "date": "2026-09-17"
+        "price": 4415.899902,
+        "change": 16.199707,
+        "pct_change": 0.368,
+        "date": "2026-09-18"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 65.714996,
-        "change": 1.426994,
-        "pct_change": 2.22,
-        "date": "2026-09-17"
+        "price": 66.785004,
+        "change": 1.315002,
+        "pct_change": 2.009,
+        "date": "2026-09-18"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1319.5,
-        "change": -1.0,
-        "pct_change": -0.076,
-        "date": "2026-09-17"
+        "price": 1303.0,
+        "change": -16.75,
+        "pct_change": -1.269,
+        "date": "2026-09-18"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 18.32,
-        "change": 0.35,
-        "pct_change": 1.948,
-        "date": "2026-09-17"
+        "price": 18.280001,
+        "change": 0.860001,
+        "pct_change": 4.937,
+        "date": "2026-09-18"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.711339,
-        "change": -0.001211,
-        "pct_change": -0.17,
-        "date": "2026-09-17"
+        "price": 0.712149,
+        "change": 0.003339,
+        "pct_change": 0.471,
+        "date": "2026-09-18"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7637.759766,
-        "change": 85.949707,
-        "pct_change": 1.138,
-        "date": "2026-09-17"
+        "price": 7650.5,
+        "change": 12.740234,
+        "pct_change": 0.167,
+        "date": "2026-09-18"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.947,
-        "change": -0.059,
-        "pct_change": -1.179,
-        "date": "2026-09-17"
+        "price": 4.998,
+        "change": 0.051,
+        "pct_change": 1.031,
+        "date": "2026-09-18"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24713.779297,
-        "change": 46.539062,
-        "pct_change": 0.189,
-        "date": "2026-09-16"
+        "price": 24604.289062,
+        "change": -109.490234,
+        "pct_change": -0.443,
+        "date": "2026-09-17"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10795.0,
-        "change": 52.0,
-        "pct_change": 0.484,
-        "date": "2026-09-17"
+        "price": 10698.0,
+        "change": -25.0,
+        "pct_change": -0.233,
+        "date": "2026-09-18"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13947.30957,
-        "change": 78.649414,
-        "pct_change": 0.567,
-        "date": "2026-09-17"
+        "price": 13786.719727,
+        "change": -160.589844,
+        "pct_change": -1.151,
+        "date": "2026-09-18"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8696.5,
-        "change": 24.0,
-        "pct_change": 0.277,
-        "date": "2026-09-16"
+        "price": 8732.400391,
+        "change": 35.900391,
+        "pct_change": 0.413,
+        "date": "2026-09-17"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 176.240005,
-        "change": 1.900009,
-        "pct_change": 1.09,
-        "date": "2026-09-17"
+        "price": 177.639999,
+        "change": 1.399994,
+        "pct_change": 0.794,
+        "date": "2026-09-18"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 248.479996,
-        "change": -0.080002,
-        "pct_change": -0.032,
-        "date": "2026-09-17"
+        "price": 248.240005,
+        "change": -0.23999,
+        "pct_change": -0.097,
+        "date": "2026-09-18"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 366.200012,
-        "change": 8.120026,
-        "pct_change": 2.268,
-        "date": "2026-09-17"
+        "price": 364.269989,
+        "change": -1.930023,
+        "pct_change": -0.527,
+        "date": "2026-09-18"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 347.329987,
-        "change": 4.459991,
-        "pct_change": 1.301,
-        "date": "2026-09-17"
+        "price": 349.540009,
+        "change": 2.210022,
+        "pct_change": 0.636,
+        "date": "2026-09-18"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 538.090027,
-        "change": 0.840027,
-        "pct_change": 0.156,
-        "date": "2026-09-17"
+        "price": 533.380005,
+        "change": -4.710022,
+        "pct_change": -0.875,
+        "date": "2026-09-18"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 193.539993,
-        "change": -3.290009,
-        "pct_change": -1.671,
-        "date": "2026-09-17"
+        "price": 194.0,
+        "change": 0.460007,
+        "pct_change": 0.238,
+        "date": "2026-09-18"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 524.0,
-        "change": -6.780029,
-        "pct_change": -1.277,
-        "date": "2026-09-17"
+        "price": 527.390015,
+        "change": 3.390015,
+        "pct_change": 0.647,
+        "date": "2026-09-18"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Canada welcomes EU proposal to become 'associate member'",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 12:27:18 GMT",
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 18:04:38 GMT",
       "matched_keywords": [
-        "prime minister"
+        "attack",
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 20:34:30 GMT",
+      "title": "Trump says he is banning CNN and Politico from White House",
+      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 21:25:07 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 20:17:50 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+      "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 17:15:02 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Hyrox athlete apologises for continuing race after soiling herself",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 15:05:13 GMT",
+      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+      "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 17:57:30 GMT",
+      "matched_keywords": [
+        "war",
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
+      "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 23:24:07 GMT",
       "matched_keywords": [
         "oil"
       ]
     },
     {
       "source": "BBC World",
-      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 20:44:53 GMT",
-      "matched_keywords": [
-        "war",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 08:22:12 GMT",
+      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 01:31:43 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Swedish PM Kristersson resigns after election loss",
-      "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 12:41:05 GMT",
+      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
+      "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 05:00:36 GMT",
       "matched_keywords": [
         "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Klopp wants to 'reclaim' flag amid German elections",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 13:02:40 GMT",
-      "matched_keywords": [
-        "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US interest rates raised for first time in three years",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 00:40:17 GMT",
-      "matched_keywords": [
-        "president",
-        "interest rate"
       ]
     }
   ]

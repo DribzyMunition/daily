@@ -1,5 +1,5 @@
-# Daily Feed — 2026-09-17
-*Generated: 2026-09-17T21:30:04+00:00 UTC*
+# Daily Feed — 2026-09-18
+*Generated: 2026-09-18T21:30:04+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,380.6001 | ▼ 6.8999 | -0.16% |
-| Silver |      65.7150 | ▲ 1.4270 | +2.22% |
-| Soybeans |   1,319.5000 | ▼ 1.0000 | -0.08% |
-| Sugar #11 (Raw) |      18.3200 | ▲ 0.3500 | +1.95% |
+| Gold |   4,415.8999 | ▲ 16.1997 | +0.37% |
+| Silver |      66.7850 | ▲ 1.3150 | +2.01% |
+| Soybeans |   1,303.0000 | ▼ 16.7500 | -1.27% |
+| Sugar #11 (Raw) |      18.2800 | ▲ 0.8600 | +4.94% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7113 | ▼ 0.0012 | -0.17% |
+| AUD/USD |       0.7121 | ▲ 0.0033 | +0.47% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,637.7598 | ▲ 85.9497 | +1.14% |
-| US 10Y Yield (%) |       4.9470 | ▼ 0.0590 | -1.18% |
-| Hang Seng 50 |  24,713.7793 | ▲ 46.5391 | +0.19% |
-| South Africa Top 40 |  10,795.0000 | ▲ 52.0000 | +0.48% |
-| Switzerland SMI |  13,947.3096 | ▲ 78.6494 | +0.57% |
-| ASX 200 (XJO) |   8,696.5000 | ▲ 24.0000 | +0.28% |
+| S&P 500 |   7,650.5000 | ▲ 12.7402 | +0.17% |
+| US 10Y Yield (%) |       4.9980 | ▲ 0.0510 | +1.03% |
+| Hang Seng 50 |  24,604.2891 | ▼ 109.4902 | -0.44% |
+| South Africa Top 40 |  10,698.0000 | ▼ 25.0000 | -0.23% |
+| Switzerland SMI |  13,786.7197 | ▼ 160.5898 | -1.15% |
+| ASX 200 (XJO) |   8,732.4004 | ▲ 35.9004 | +0.41% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     176.2400 | ▲ 1.9000 | +1.09% |
-| McDonald's |     248.4800 | ▼ 0.0800 | -0.03% |
-| Tesla |     366.2000 | ▲ 8.1200 | +2.27% |
-| Alphabet |     347.3300 | ▲ 4.4600 | +1.30% |
-| Lockheed Martin |     538.0900 | ▲ 0.8400 | +0.16% |
-| RTX (Raytheon) |     193.5400 | ▼ 3.2900 | -1.67% |
-| Northrop Grumman |     524.0000 | ▼ 6.7800 | -1.28% |
+| Palantir |     177.6400 | ▲ 1.4000 | +0.79% |
+| McDonald's |     248.2400 | ▼ 0.2400 | -0.10% |
+| Tesla |     364.2700 | ▼ 1.9300 | -0.53% |
+| Alphabet |     349.5400 | ▲ 2.2100 | +0.64% |
+| Lockheed Martin |     533.3800 | ▼ 4.7100 | -0.88% |
+| RTX (Raytheon) |     194.0000 | ▲ 0.4600 | +0.24% |
+| Northrop Grumman |     527.3900 | ▲ 3.3900 | +0.65% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Canada welcomes EU proposal to become 'associate member'
-*Tags: prime minister*
-https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Russian hybrid attacks against Europe intensifying, says Macron
+*Tags: attack, president*
+https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** UN experts say grounds to believe US committed war crimes in Iran strikes
+**[BBC World]** Trump says he is banning CNN and Politico from White House
+*Tags: president*
+https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** At least 21 killed after vehicle loaded with explosives rams Pakistan mosque
+*Tags: attack*
+https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'
 *Tags: war*
-https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Hyrox athlete apologises for continuing race after soiling herself
+**[BBC World]** 'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran
+*Tags: war, oil*
+https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** 'This is our company': Nigerians show off oil wealth after share-buying frenzy
 *Tags: oil*
-https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark
-*Tags: war, president*
-https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft
+**[BBC World]** Why US plan to sell F-35 warplanes to Saudi Arabia is controversial
 *Tags: war*
-https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Swedish PM Kristersson resigns after election loss
+**[BBC World]** Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter
 *Tags: election*
-https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Klopp wants to 'reclaim' flag amid German elections
-*Tags: election*
-https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** US interest rates raised for first time in three years
-*Tags: president, interest rate*
-https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
