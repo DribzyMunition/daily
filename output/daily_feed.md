@@ -1,5 +1,5 @@
-# Daily Feed — 2026-09-18
-*Generated: 2026-09-18T21:30:04+00:00 UTC*
+# Daily Feed — 2026-09-19
+*Generated: 2026-09-19T21:30:04+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,415.8999 | ▲ 16.1997 | +0.37% |
-| Silver |      66.7850 | ▲ 1.3150 | +2.01% |
-| Soybeans |   1,303.0000 | ▼ 16.7500 | -1.27% |
-| Sugar #11 (Raw) |      18.2800 | ▲ 0.8600 | +4.94% |
+| Gold |   4,424.8999 | ▲ 25.1997 | +0.57% |
+| Silver |      66.5560 | ▲ 1.0860 | +1.66% |
+| Soybeans |   1,303.5000 | ▼ 16.2500 | -1.23% |
+| Sugar #11 (Raw) |      17.3600 | ▼ 0.0600 | -0.34% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7121 | ▲ 0.0033 | +0.47% |
+| AUD/USD |       0.7121 | ▲ 0.0006 | +0.08% |
 
 ### Indices
 
@@ -26,10 +26,10 @@
 |:------|------:|------:|---------:|
 | S&P 500 |   7,650.5000 | ▲ 12.7402 | +0.17% |
 | US 10Y Yield (%) |       4.9980 | ▲ 0.0510 | +1.03% |
-| Hang Seng 50 |  24,604.2891 | ▼ 109.4902 | -0.44% |
-| South Africa Top 40 |  10,698.0000 | ▼ 25.0000 | -0.23% |
+| Hang Seng 50 |  24,750.7793 | ▲ 146.4902 | +0.59% |
+| South Africa Top 40 |  10,795.0000 | ▲ 72.0000 | +0.67% |
 | Switzerland SMI |  13,786.7197 | ▼ 160.5898 | -1.15% |
-| ASX 200 (XJO) |   8,732.4004 | ▲ 35.9004 | +0.41% |
+| ASX 200 (XJO) |   8,731.2002 | ▼ 1.2002 | -0.01% |
 
 ### Stocks
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Russian hybrid attacks against Europe intensifying, says Macron
-*Tags: attack, president*
-https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
+*Tags: nato*
+https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Trump says he is banning CNN and Politico from White House
-*Tags: president*
-https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Houthis say they targeted Saudi capital with ballistic missiles
+*Tags: conflict, missile*
+https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump signs sweeping Russia sanctions bill
+*Tags: sanctions, nato*
+https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Shark attack prompts rare kill order in Western Australia as victim named
+*Tags: attack*
+https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Millions without power as Cuba hit by latest major blackout
+*Tags: blackout*
+https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** At least 21 killed after vehicle loaded with explosives rams Pakistan mosque
 *Tags: attack*
 https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'
-*Tags: war*
-https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss
+**[BBC World]** Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks
+*Tags: attack, explosion*
+https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** 'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran
-*Tags: war, oil*
-https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** 'This is our company': Nigerians show off oil wealth after share-buying frenzy
-*Tags: oil*
-https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Why US plan to sell F-35 warplanes to Saudi Arabia is controversial
-*Tags: war*
-https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter
-*Tags: election*
-https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished
+*Tags: president*
+https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

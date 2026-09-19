@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-09-18T21:30:04+00:00",
+  "generated_at": "2026-09-19T21:30:04+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4415.899902,
-        "change": 16.199707,
-        "pct_change": 0.368,
+        "price": 4424.899902,
+        "change": 25.199707,
+        "pct_change": 0.573,
         "date": "2026-09-18"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 66.785004,
-        "change": 1.315002,
-        "pct_change": 2.009,
+        "price": 66.556,
+        "change": 1.085999,
+        "pct_change": 1.659,
         "date": "2026-09-18"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1303.0,
-        "change": -16.75,
-        "pct_change": -1.269,
+        "price": 1303.5,
+        "change": -16.25,
+        "pct_change": -1.231,
         "date": "2026-09-18"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 18.280001,
-        "change": 0.860001,
-        "pct_change": 4.937,
+        "price": 17.360001,
+        "change": -0.059999,
+        "pct_change": -0.344,
         "date": "2026-09-18"
       }
     },
@@ -35,9 +35,9 @@
       "AUD/USD": {
         "ticker": "AUDUSD=X",
         "price": 0.712149,
-        "change": 0.003339,
-        "pct_change": 0.471,
-        "date": "2026-09-18"
+        "change": 0.000599,
+        "pct_change": 0.084,
+        "date": "2026-09-19"
       }
     },
     "indices": {
@@ -57,17 +57,17 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24604.289062,
-        "change": -109.490234,
-        "pct_change": -0.443,
-        "date": "2026-09-17"
+        "price": 24750.779297,
+        "change": 146.490234,
+        "pct_change": 0.595,
+        "date": "2026-09-18"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10698.0,
-        "change": -25.0,
-        "pct_change": -0.233,
-        "date": "2026-09-18"
+        "price": 10795.0,
+        "change": 72.0,
+        "pct_change": 0.671,
+        "date": "2026-09-17"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8732.400391,
-        "change": 35.900391,
-        "pct_change": 0.413,
-        "date": "2026-09-17"
+        "price": 8731.200195,
+        "change": -1.200195,
+        "pct_change": -0.014,
+        "date": "2026-09-18"
       }
     },
     "stocks": {
@@ -139,21 +139,49 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 18:04:38 GMT",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 11:36:55 GMT",
       "matched_keywords": [
-        "attack",
-        "president"
+        "nato"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 21:25:07 GMT",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 20:16:07 GMT",
       "matched_keywords": [
-        "president"
+        "conflict",
+        "missile"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 22:05:47 GMT",
+      "matched_keywords": [
+        "sanctions",
+        "nato"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 11:50:22 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Millions without power as Cuba hit by latest major blackout",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 10:27:37 GMT",
+      "matched_keywords": [
+        "blackout"
       ]
     },
     {
@@ -167,48 +195,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 17:15:02 GMT",
+      "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+      "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 04:20:47 GMT",
       "matched_keywords": [
-        "war"
+        "attack",
+        "explosion"
       ]
     },
     {
       "source": "BBC World",
-      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-      "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 17:57:30 GMT",
+      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+      "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 00:03:53 GMT",
       "matched_keywords": [
-        "war",
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 23:24:07 GMT",
-      "matched_keywords": [
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 01:31:43 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-      "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 05:00:36 GMT",
-      "matched_keywords": [
-        "election"
+        "president"
       ]
     }
   ]
