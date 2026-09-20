@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T21:30:04+00:00",
+  "generated_at": "2026-09-20T21:30:04+00:00",
   "prices": {
     "commodities": {
       "Gold": {
@@ -11,9 +11,9 @@
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 66.556,
-        "change": 1.085999,
-        "pct_change": 1.659,
+        "price": 67.149002,
+        "change": 1.679001,
+        "pct_change": 2.565,
         "date": "2026-09-18"
       },
       "Soybeans": {
@@ -25,9 +25,9 @@
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 17.360001,
-        "change": -0.059999,
-        "pct_change": -0.344,
+        "price": 17.4,
+        "change": -0.02,
+        "pct_change": -0.115,
         "date": "2026-09-18"
       }
     },
@@ -37,7 +37,7 @@
         "price": 0.712149,
         "change": 0.000599,
         "pct_change": 0.084,
-        "date": "2026-09-19"
+        "date": "2026-09-20"
       }
     },
     "indices": {
@@ -64,10 +64,10 @@
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10795.0,
-        "change": 72.0,
-        "pct_change": 0.671,
-        "date": "2026-09-17"
+        "price": 10698.0,
+        "change": -97.0,
+        "pct_change": -0.899,
+        "date": "2026-09-18"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
@@ -139,31 +139,57 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 11:36:55 GMT",
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 20:21:40 GMT",
       "matched_keywords": [
-        "nato"
+        "election"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 10:45:39 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says triumphal arch will be military complex with drones and snipers",
+      "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 16:36:43 GMT",
+      "matched_keywords": [
+        "military"
       ]
     },
     {
       "source": "BBC World",
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 20:16:07 GMT",
+      "published": "Sat, 19 Sep 2026 23:49:26 GMT",
       "matched_keywords": [
-        "conflict",
         "missile"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Trump signs sweeping Russia sanctions bill",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 22:05:47 GMT",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 23:00:27 GMT",
       "matched_keywords": [
-        "sanctions",
         "nato"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 21:01:56 GMT",
+      "matched_keywords": [
+        "war",
+        "president"
       ]
     },
     {
@@ -177,39 +203,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Millions without power as Cuba hit by latest major blackout",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 10:27:37 GMT",
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 22:05:47 GMT",
       "matched_keywords": [
-        "blackout"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 20:17:50 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-      "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 04:20:47 GMT",
-      "matched_keywords": [
-        "attack",
-        "explosion"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
-      "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 00:03:53 GMT",
-      "matched_keywords": [
-        "president"
+        "sanctions",
+        "nato"
       ]
     }
   ]
