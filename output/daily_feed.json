@@ -1,213 +1,213 @@
 {
-  "generated_at": "2026-09-21T21:30:03+00:00",
+  "generated_at": "2026-09-22T21:30:03+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4381.0,
-        "change": -43.899902,
-        "pct_change": -0.992,
-        "date": "2026-09-21"
+        "price": 4396.200195,
+        "change": 12.300293,
+        "pct_change": 0.281,
+        "date": "2026-09-22"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 66.529999,
-        "change": -0.026001,
-        "pct_change": -0.039,
-        "date": "2026-09-21"
+        "price": 67.610001,
+        "change": 1.785004,
+        "pct_change": 2.712,
+        "date": "2026-09-22"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1327.0,
-        "change": 23.5,
-        "pct_change": 1.803,
-        "date": "2026-09-21"
+        "price": 1325.0,
+        "change": -3.0,
+        "pct_change": -0.226,
+        "date": "2026-09-22"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 18.379999,
-        "change": 1.019999,
-        "pct_change": 5.876,
-        "date": "2026-09-21"
+        "price": 18.57,
+        "change": 1.09,
+        "pct_change": 6.236,
+        "date": "2026-09-22"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.712352,
-        "change": 0.000802,
-        "pct_change": 0.113,
-        "date": "2026-09-21"
+        "price": 0.71144,
+        "change": -0.00072,
+        "pct_change": -0.101,
+        "date": "2026-09-22"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7764.700195,
-        "change": 114.200195,
-        "pct_change": 1.493,
-        "date": "2026-09-21"
+        "price": 7764.640137,
+        "change": -0.060059,
+        "pct_change": -0.001,
+        "date": "2026-09-22"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.963,
-        "change": -0.035,
-        "pct_change": -0.7,
-        "date": "2026-09-21"
+        "price": 4.968,
+        "change": 0.005,
+        "pct_change": 0.101,
+        "date": "2026-09-22"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24750.779297,
-        "change": 146.490234,
-        "pct_change": 0.595,
-        "date": "2026-09-18"
+        "price": 25042.710938,
+        "change": 291.931641,
+        "pct_change": 1.179,
+        "date": "2026-09-21"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10687.0,
-        "change": -11.0,
-        "pct_change": -0.103,
-        "date": "2026-09-21"
+        "price": 10736.0,
+        "change": 38.0,
+        "pct_change": 0.355,
+        "date": "2026-09-22"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13956.580078,
-        "change": 169.860352,
-        "pct_change": 1.232,
-        "date": "2026-09-21"
+        "price": 13953.389648,
+        "change": -3.19043,
+        "pct_change": -0.023,
+        "date": "2026-09-22"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8731.200195,
-        "change": -1.200195,
-        "pct_change": -0.014,
-        "date": "2026-09-18"
+        "price": 8731.900391,
+        "change": 0.700195,
+        "pct_change": 0.008,
+        "date": "2026-09-21"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 183.089996,
-        "change": 5.449997,
-        "pct_change": 3.068,
-        "date": "2026-09-21"
+        "price": 184.990005,
+        "change": 1.900009,
+        "pct_change": 1.038,
+        "date": "2026-09-22"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 247.880005,
-        "change": -0.360001,
-        "pct_change": -0.145,
-        "date": "2026-09-21"
+        "price": 250.350006,
+        "change": 2.470001,
+        "pct_change": 0.996,
+        "date": "2026-09-22"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 375.299988,
-        "change": 11.029999,
-        "pct_change": 3.028,
-        "date": "2026-09-21"
+        "price": 378.899994,
+        "change": 3.600006,
+        "pct_change": 0.959,
+        "date": "2026-09-22"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 354.970001,
-        "change": 5.429993,
-        "pct_change": 1.553,
-        "date": "2026-09-21"
+        "price": 351.160004,
+        "change": -3.809998,
+        "pct_change": -1.073,
+        "date": "2026-09-22"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 535.400024,
-        "change": 2.02002,
-        "pct_change": 0.379,
-        "date": "2026-09-21"
+        "price": 522.340027,
+        "change": -13.059998,
+        "pct_change": -2.439,
+        "date": "2026-09-22"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 194.339996,
-        "change": 0.339996,
-        "pct_change": 0.175,
-        "date": "2026-09-21"
+        "price": 190.990005,
+        "change": -3.349991,
+        "pct_change": -1.724,
+        "date": "2026-09-22"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 526.659973,
-        "change": -0.730042,
-        "pct_change": -0.138,
-        "date": "2026-09-21"
+        "price": 509.859985,
+        "change": -16.799988,
+        "pct_change": -3.19,
+        "date": "2026-09-22"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 14:14:16 GMT",
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 18:43:29 GMT",
       "matched_keywords": [
-        "war"
+        "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 15:58:53 GMT",
-      "matched_keywords": [
-        "summit"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-      "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 16:54:56 GMT",
+      "title": "How Ceuta, football and Israel are shaping Morocco's election",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 20:59:00 GMT",
       "matched_keywords": [
         "election"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 20:26:41 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-      "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 00:05:11 GMT",
-      "matched_keywords": [
-        "military",
-        "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 12:08:56 GMT",
+      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 19:47:44 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
-      "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 20:21:18 GMT",
+      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 19:06:06 GMT",
       "matched_keywords": [
-        "prime minister"
+        "sanctions",
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
-      "link": "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 12:30:54 GMT",
+      "title": "Eleven injured in shooting outside Turkish school",
+      "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 10:42:47 GMT",
       "matched_keywords": [
-        "gdp"
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
+      "link": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 14:16:42 GMT",
+      "matched_keywords": [
+        "conflict"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 13:39:09 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 13:49:22 GMT",
+      "matched_keywords": [
+        "attack"
       ]
     }
   ]
