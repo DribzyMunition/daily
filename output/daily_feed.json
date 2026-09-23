@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-09-22T21:30:03+00:00",
+  "generated_at": "2026-09-23T21:30:04+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4396.200195,
-        "change": 12.300293,
-        "pct_change": 0.281,
-        "date": "2026-09-22"
+        "price": 4322.700195,
+        "change": -53.699707,
+        "pct_change": -1.227,
+        "date": "2026-09-23"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 67.610001,
-        "change": 1.785004,
-        "pct_change": 2.712,
-        "date": "2026-09-22"
+        "price": 64.93,
+        "change": -1.001999,
+        "pct_change": -1.52,
+        "date": "2026-09-23"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1325.0,
-        "change": -3.0,
-        "pct_change": -0.226,
-        "date": "2026-09-22"
+        "price": 1317.5,
+        "change": -8.0,
+        "pct_change": -0.604,
+        "date": "2026-09-23"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 18.57,
-        "change": 1.09,
-        "pct_change": 6.236,
-        "date": "2026-09-22"
+        "price": 18.83,
+        "change": 1.24,
+        "pct_change": 7.049,
+        "date": "2026-09-23"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.71144,
-        "change": -0.00072,
-        "pct_change": -0.101,
-        "date": "2026-09-22"
+        "price": 0.704473,
+        "change": -0.007426,
+        "pct_change": -1.043,
+        "date": "2026-09-23"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7764.640137,
-        "change": -0.060059,
-        "pct_change": -0.001,
-        "date": "2026-09-22"
+        "price": 7706.029785,
+        "change": -58.67041,
+        "pct_change": -0.756,
+        "date": "2026-09-23"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 4.968,
-        "change": 0.005,
-        "pct_change": 0.101,
-        "date": "2026-09-22"
+        "price": 5.114,
+        "change": 0.151,
+        "pct_change": 3.043,
+        "date": "2026-09-23"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
@@ -64,17 +64,17 @@
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10736.0,
-        "change": 38.0,
-        "pct_change": 0.355,
-        "date": "2026-09-22"
+        "price": 10559.0,
+        "change": -128.0,
+        "pct_change": -1.198,
+        "date": "2026-09-23"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13953.389648,
-        "change": -3.19043,
-        "pct_change": -0.023,
-        "date": "2026-09-22"
+        "price": 13921.719727,
+        "change": -34.860352,
+        "pct_change": -0.25,
+        "date": "2026-09-23"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
@@ -87,63 +87,91 @@
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 184.990005,
-        "change": 1.900009,
-        "pct_change": 1.038,
-        "date": "2026-09-22"
+        "price": 191.789993,
+        "change": 6.799988,
+        "pct_change": 3.676,
+        "date": "2026-09-23"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 250.350006,
-        "change": 2.470001,
-        "pct_change": 0.996,
-        "date": "2026-09-22"
+        "price": 238.320007,
+        "change": -12.029999,
+        "pct_change": -4.805,
+        "date": "2026-09-23"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 378.899994,
-        "change": 3.600006,
-        "pct_change": 0.959,
-        "date": "2026-09-22"
+        "price": 380.119995,
+        "change": 1.220001,
+        "pct_change": 0.322,
+        "date": "2026-09-23"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 351.160004,
-        "change": -3.809998,
-        "pct_change": -1.073,
-        "date": "2026-09-22"
+        "price": 337.829987,
+        "change": -13.330017,
+        "pct_change": -3.796,
+        "date": "2026-09-23"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 522.340027,
-        "change": -13.059998,
-        "pct_change": -2.439,
-        "date": "2026-09-22"
+        "price": 524.679993,
+        "change": -10.720032,
+        "pct_change": -2.002,
+        "date": "2026-09-23"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 190.990005,
-        "change": -3.349991,
-        "pct_change": -1.724,
-        "date": "2026-09-22"
+        "price": 192.190002,
+        "change": -2.149994,
+        "pct_change": -1.106,
+        "date": "2026-09-23"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 509.859985,
-        "change": -16.799988,
-        "pct_change": -3.19,
-        "date": "2026-09-22"
+        "price": 514.419983,
+        "change": -12.23999,
+        "pct_change": -2.324,
+        "date": "2026-09-23"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 18:43:29 GMT",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 18:15:31 GMT",
       "matched_keywords": [
-        "military"
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 16:53:37 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Poland accuses Russian military helicopter of violating its airspace",
+      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 15:37:20 GMT",
+      "matched_keywords": [
+        "military",
+        "nato"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+      "link": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 14:32:42 GMT",
+      "matched_keywords": [
+        "sanctions"
       ]
     },
     {
@@ -157,57 +185,29 @@
     },
     {
       "source": "BBC World",
-      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 19:47:44 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 19:06:06 GMT",
-      "matched_keywords": [
-        "sanctions",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Eleven injured in shooting outside Turkish school",
-      "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 10:42:47 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
-      "link": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 14:16:42 GMT",
-      "matched_keywords": [
-        "conflict"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 13:39:09 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
       "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 13:49:22 GMT",
       "matched_keywords": [
         "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
+      "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 11:00:09 GMT",
+      "matched_keywords": [
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Key moments from Andy Burnham's first UN speech",
+      "link": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 01:25:47 GMT",
+      "matched_keywords": [
+        "prime minister"
       ]
     }
   ]
