@@ -1,142 +1,199 @@
 {
-  "generated_at": "2026-09-23T21:30:04+00:00",
+  "generated_at": "2026-09-24T21:30:04+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4322.700195,
-        "change": -53.699707,
-        "pct_change": -1.227,
-        "date": "2026-09-23"
+        "price": 4310.100098,
+        "change": -8.299805,
+        "pct_change": -0.192,
+        "date": "2026-09-24"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 64.93,
-        "change": -1.001999,
-        "pct_change": -1.52,
-        "date": "2026-09-23"
+        "price": 64.275002,
+        "change": -0.107002,
+        "pct_change": -0.166,
+        "date": "2026-09-24"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1317.5,
-        "change": -8.0,
-        "pct_change": -0.604,
-        "date": "2026-09-23"
+        "price": 1316.5,
+        "change": -1.5,
+        "pct_change": -0.114,
+        "date": "2026-09-24"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 18.83,
-        "change": 1.24,
-        "pct_change": 7.049,
-        "date": "2026-09-23"
+        "price": 18.629999,
+        "change": 0.879999,
+        "pct_change": 4.958,
+        "date": "2026-09-24"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.704473,
-        "change": -0.007426,
-        "pct_change": -1.043,
-        "date": "2026-09-23"
+        "price": 0.701607,
+        "change": -0.009604,
+        "pct_change": -1.35,
+        "date": "2026-09-24"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7706.029785,
-        "change": -58.67041,
-        "pct_change": -0.756,
-        "date": "2026-09-23"
+        "price": 7704.129883,
+        "change": -1.899902,
+        "pct_change": -0.025,
+        "date": "2026-09-24"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 5.114,
-        "change": 0.151,
-        "pct_change": 3.043,
-        "date": "2026-09-23"
+        "price": 5.162,
+        "change": 0.048,
+        "pct_change": 0.939,
+        "date": "2026-09-24"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 25042.710938,
-        "change": 291.931641,
-        "pct_change": 1.179,
-        "date": "2026-09-21"
+        "price": 24834.119141,
+        "change": -208.591797,
+        "pct_change": -0.833,
+        "date": "2026-09-23"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10559.0,
-        "change": -128.0,
-        "pct_change": -1.198,
-        "date": "2026-09-23"
+        "price": 10736.0,
+        "change": 49.0,
+        "pct_change": 0.459,
+        "date": "2026-09-22"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13921.719727,
-        "change": -34.860352,
-        "pct_change": -0.25,
-        "date": "2026-09-23"
+        "price": 13905.820312,
+        "change": -15.899414,
+        "pct_change": -0.114,
+        "date": "2026-09-24"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8731.900391,
-        "change": 0.700195,
-        "pct_change": 0.008,
-        "date": "2026-09-21"
+        "price": 8765.299805,
+        "change": 33.399414,
+        "pct_change": 0.382,
+        "date": "2026-09-23"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 191.789993,
-        "change": 6.799988,
-        "pct_change": 3.676,
-        "date": "2026-09-23"
+        "price": 192.589996,
+        "change": 0.800003,
+        "pct_change": 0.417,
+        "date": "2026-09-24"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 238.320007,
-        "change": -12.029999,
-        "pct_change": -4.805,
-        "date": "2026-09-23"
+        "price": 237.020004,
+        "change": -1.300003,
+        "pct_change": -0.545,
+        "date": "2026-09-24"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 380.119995,
-        "change": 1.220001,
-        "pct_change": 0.322,
-        "date": "2026-09-23"
+        "price": 377.940002,
+        "change": -2.179993,
+        "pct_change": -0.574,
+        "date": "2026-09-24"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 337.829987,
-        "change": -13.330017,
-        "pct_change": -3.796,
-        "date": "2026-09-23"
+        "price": 342.359985,
+        "change": 4.529999,
+        "pct_change": 1.341,
+        "date": "2026-09-24"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 524.679993,
-        "change": -10.720032,
-        "pct_change": -2.002,
-        "date": "2026-09-23"
+        "price": 523.700012,
+        "change": -0.97998,
+        "pct_change": -0.187,
+        "date": "2026-09-24"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 192.190002,
-        "change": -2.149994,
-        "pct_change": -1.106,
-        "date": "2026-09-23"
+        "price": 188.610001,
+        "change": -3.580002,
+        "pct_change": -1.863,
+        "date": "2026-09-24"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 514.419983,
-        "change": -12.23999,
-        "pct_change": -2.324,
-        "date": "2026-09-23"
+        "price": 508.980011,
+        "change": -5.439972,
+        "pct_change": -1.057,
+        "date": "2026-09-24"
       }
     }
   },
   "news": [
+    {
+      "source": "BBC World",
+      "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 21:21:47 GMT",
+      "matched_keywords": [
+        "war",
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 19:02:36 GMT",
+      "matched_keywords": [
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 19:18:12 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 19:32:59 GMT",
+      "matched_keywords": [
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 15:37:45 GMT",
+      "matched_keywords": [
+        "war",
+        "attack",
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 16:00:29 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
     {
       "source": "BBC World",
       "title": "Iran's president tells Trump it will never 'bend the knee'",
@@ -148,66 +205,12 @@
     },
     {
       "source": "BBC World",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 16:53:37 GMT",
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 08:26:19 GMT",
       "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Poland accuses Russian military helicopter of violating its airspace",
-      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 15:37:20 GMT",
-      "matched_keywords": [
-        "military",
-        "nato"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
-      "link": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 14:32:42 GMT",
-      "matched_keywords": [
-        "sanctions"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "How Ceuta, football and Israel are shaping Morocco's election",
-      "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 20:59:00 GMT",
-      "matched_keywords": [
-        "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 13:49:22 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
-      "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 11:00:09 GMT",
-      "matched_keywords": [
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Key moments from Andy Burnham's first UN speech",
-      "link": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 01:25:47 GMT",
-      "matched_keywords": [
-        "prime minister"
+        "election",
+        "crisis"
       ]
     }
   ]
