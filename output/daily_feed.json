@@ -1,216 +1,213 @@
 {
-  "generated_at": "2026-09-24T21:30:04+00:00",
+  "generated_at": "2026-09-25T21:30:05+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4310.100098,
-        "change": -8.299805,
-        "pct_change": -0.192,
-        "date": "2026-09-24"
+        "price": 4320.5,
+        "change": 22.5,
+        "pct_change": 0.523,
+        "date": "2026-09-25"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 64.275002,
-        "change": -0.107002,
-        "pct_change": -0.166,
-        "date": "2026-09-24"
+        "price": 64.709999,
+        "change": 1.252998,
+        "pct_change": 1.975,
+        "date": "2026-09-25"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1316.5,
-        "change": -1.5,
-        "pct_change": -0.114,
-        "date": "2026-09-24"
+        "price": 1320.0,
+        "change": 2.5,
+        "pct_change": 0.19,
+        "date": "2026-09-25"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 18.629999,
-        "change": 0.879999,
-        "pct_change": 4.958,
-        "date": "2026-09-24"
+        "price": 18.540001,
+        "change": 0.960001,
+        "pct_change": 5.461,
+        "date": "2026-09-25"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.701607,
-        "change": -0.009604,
-        "pct_change": -1.35,
-        "date": "2026-09-24"
+        "price": 0.702593,
+        "change": -0.000815,
+        "pct_change": -0.116,
+        "date": "2026-09-25"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7704.129883,
-        "change": -1.899902,
-        "pct_change": -0.025,
-        "date": "2026-09-24"
+        "price": 7743.410156,
+        "change": 39.280273,
+        "pct_change": 0.51,
+        "date": "2026-09-25"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 5.162,
-        "change": 0.048,
-        "pct_change": 0.939,
-        "date": "2026-09-24"
+        "price": 5.184,
+        "change": 0.022,
+        "pct_change": 0.426,
+        "date": "2026-09-25"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24834.119141,
-        "change": -208.591797,
-        "pct_change": -0.833,
-        "date": "2026-09-23"
+        "price": 24761.130859,
+        "change": -72.988281,
+        "pct_change": -0.294,
+        "date": "2026-09-24"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10736.0,
-        "change": 49.0,
-        "pct_change": 0.459,
-        "date": "2026-09-22"
+        "price": 10513.0,
+        "change": -46.0,
+        "pct_change": -0.436,
+        "date": "2026-09-25"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13905.820312,
-        "change": -15.899414,
-        "pct_change": -0.114,
-        "date": "2026-09-24"
+        "price": 13945.709961,
+        "change": 39.889648,
+        "pct_change": 0.287,
+        "date": "2026-09-25"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8765.299805,
-        "change": 33.399414,
-        "pct_change": 0.382,
-        "date": "2026-09-23"
+        "price": 8702.0,
+        "change": -63.299805,
+        "pct_change": -0.722,
+        "date": "2026-09-24"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 192.589996,
-        "change": 0.800003,
-        "pct_change": 0.417,
-        "date": "2026-09-24"
+        "price": 189.669998,
+        "change": -2.919998,
+        "pct_change": -1.516,
+        "date": "2026-09-25"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 237.020004,
-        "change": -1.300003,
-        "pct_change": -0.545,
-        "date": "2026-09-24"
+        "price": 236.5,
+        "change": -0.520004,
+        "pct_change": -0.219,
+        "date": "2026-09-25"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 377.940002,
-        "change": -2.179993,
-        "pct_change": -0.574,
-        "date": "2026-09-24"
+        "price": 372.109985,
+        "change": -5.830017,
+        "pct_change": -1.543,
+        "date": "2026-09-25"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 342.359985,
-        "change": 4.529999,
-        "pct_change": 1.341,
-        "date": "2026-09-24"
+        "price": 343.920013,
+        "change": 1.560028,
+        "pct_change": 0.456,
+        "date": "2026-09-25"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 523.700012,
-        "change": -0.97998,
-        "pct_change": -0.187,
-        "date": "2026-09-24"
+        "price": 519.559998,
+        "change": -4.140015,
+        "pct_change": -0.791,
+        "date": "2026-09-25"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 188.610001,
-        "change": -3.580002,
-        "pct_change": -1.863,
-        "date": "2026-09-24"
+        "price": 189.399994,
+        "change": 0.789993,
+        "pct_change": 0.419,
+        "date": "2026-09-25"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 508.980011,
-        "change": -5.439972,
-        "pct_change": -1.057,
-        "date": "2026-09-24"
+        "price": 510.519989,
+        "change": 1.539978,
+        "pct_change": 0.303,
+        "date": "2026-09-25"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 21:21:47 GMT",
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 20:47:49 GMT",
       "matched_keywords": [
-        "war",
-        "military"
+        "attack",
+        "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-      "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 19:02:36 GMT",
-      "matched_keywords": [
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
-      "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 19:18:12 GMT",
+      "title": "Special agents' blood and urine test results stolen in FBI hack",
+      "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 13:56:16 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 19:32:59 GMT",
-      "matched_keywords": [
-        "prime minister"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-      "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 15:37:45 GMT",
-      "matched_keywords": [
-        "war",
-        "attack",
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 16:00:29 GMT",
+      "title": "Pope warns against 'losing humanity' to AI machines",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 15:06:41 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 18:15:31 GMT",
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 19:13:35 GMT",
       "matched_keywords": [
-        "president"
+        "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Why India's Election Commission is in the eye of a storm - again",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 08:26:19 GMT",
+      "title": "Trump's plans for massive arch move ahead",
+      "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 18:27:46 GMT",
       "matched_keywords": [
-        "election",
-        "crisis"
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Students strike across Germany in protest against military service",
+      "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 15:36:22 GMT",
+      "matched_keywords": [
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
+      "link": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 15:29:48 GMT",
+      "matched_keywords": [
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 17:13:55 GMT",
+      "matched_keywords": [
+        "war"
       ]
     }
   ]

@@ -1,5 +1,5 @@
-# Daily Feed — 2026-09-24
-*Generated: 2026-09-24T21:30:04+00:00 UTC*
+# Daily Feed — 2026-09-25
+*Generated: 2026-09-25T21:30:05+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,310.1001 | ▼ 8.2998 | -0.19% |
-| Silver |      64.2750 | ▼ 0.1070 | -0.17% |
-| Soybeans |   1,316.5000 | ▼ 1.5000 | -0.11% |
-| Sugar #11 (Raw) |      18.6300 | ▲ 0.8800 | +4.96% |
+| Gold |   4,320.5000 | ▲ 22.5000 | +0.52% |
+| Silver |      64.7100 | ▲ 1.2530 | +1.98% |
+| Soybeans |   1,320.0000 | ▲ 2.5000 | +0.19% |
+| Sugar #11 (Raw) |      18.5400 | ▲ 0.9600 | +5.46% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7016 | ▼ 0.0096 | -1.35% |
+| AUD/USD |       0.7026 | ▼ 0.0008 | -0.12% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,704.1299 | ▼ 1.8999 | -0.03% |
-| US 10Y Yield (%) |       5.1620 | ▲ 0.0480 | +0.94% |
-| Hang Seng 50 |  24,834.1191 | ▼ 208.5918 | -0.83% |
-| South Africa Top 40 |  10,736.0000 | ▲ 49.0000 | +0.46% |
-| Switzerland SMI |  13,905.8203 | ▼ 15.8994 | -0.11% |
-| ASX 200 (XJO) |   8,765.2998 | ▲ 33.3994 | +0.38% |
+| S&P 500 |   7,743.4102 | ▲ 39.2803 | +0.51% |
+| US 10Y Yield (%) |       5.1840 | ▲ 0.0220 | +0.43% |
+| Hang Seng 50 |  24,761.1309 | ▼ 72.9883 | -0.29% |
+| South Africa Top 40 |  10,513.0000 | ▼ 46.0000 | -0.44% |
+| Switzerland SMI |  13,945.7100 | ▲ 39.8896 | +0.29% |
+| ASX 200 (XJO) |   8,702.0000 | ▼ 63.2998 | -0.72% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     192.5900 | ▲ 0.8000 | +0.42% |
-| McDonald's |     237.0200 | ▼ 1.3000 | -0.55% |
-| Tesla |     377.9400 | ▼ 2.1800 | -0.57% |
-| Alphabet |     342.3600 | ▲ 4.5300 | +1.34% |
-| Lockheed Martin |     523.7000 | ▼ 0.9800 | -0.19% |
-| RTX (Raytheon) |     188.6100 | ▼ 3.5800 | -1.86% |
-| Northrop Grumman |     508.9800 | ▼ 5.4400 | -1.06% |
+| Palantir |     189.6700 | ▼ 2.9200 | -1.52% |
+| McDonald's |     236.5000 | ▼ 0.5200 | -0.22% |
+| Tesla |     372.1100 | ▼ 5.8300 | -1.54% |
+| Alphabet |     343.9200 | ▲ 1.5600 | +0.46% |
+| Lockheed Martin |     519.5600 | ▼ 4.1400 | -0.79% |
+| RTX (Raytheon) |     189.4000 | ▲ 0.7900 | +0.42% |
+| Northrop Grumman |     510.5200 | ▲ 1.5400 | +0.30% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Netanyahu defends Israeli military actions in Middle East in UN speech
-*Tags: war, military*
-https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says
+*Tags: attack, president*
+https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Four civilians killed in Pakistani strikes in Afghanistan, Taliban says
-*Tags: military*
-https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Priest killed and four injured in knife attack at Polish abbey
+**[BBC World]** Special agents' blood and urine test results stolen in FBI hack
 *Tags: attack*
-https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Italy ministers agree to ban burqa and niqab in school and cap foreigners in class
-*Tags: prime minister*
-https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Ethiopia's army says it has repelled attacks in first comment on fresh fighting
-*Tags: war, attack, military*
-https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat
+**[BBC World]** Pope warns against 'losing humanity' to AI machines
 *Tags: war*
-https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Iran's president tells Trump it will never 'bend the knee'
-*Tags: president*
-https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Supreme Court allows Trump to use controversial database to check voter citizenship
+*Tags: war*
+https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Why India's Election Commission is in the eye of a storm - again
-*Tags: election, crisis*
-https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Trump's plans for massive arch move ahead
+*Tags: military*
+https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Students strike across Germany in protest against military service
+*Tags: military*
+https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Senior Kazakh officials detained after 14 service members swept out to sea
+*Tags: military*
+https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Internet restricted after fighting breaks out in Ethiopia's Tigray region
+*Tags: war*
+https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
