@@ -1,5 +1,5 @@
-# Daily Feed — 2026-09-25
-*Generated: 2026-09-25T21:30:05+00:00 UTC*
+# Daily Feed — 2026-09-27
+*Generated: 2026-09-27T23:50:26+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,320.5000 | ▲ 22.5000 | +0.52% |
-| Silver |      64.7100 | ▲ 1.2530 | +1.98% |
-| Soybeans |   1,320.0000 | ▲ 2.5000 | +0.19% |
-| Sugar #11 (Raw) |      18.5400 | ▲ 0.9600 | +5.46% |
+| Gold |   4,294.0000 | ▼ 27.2002 | -0.63% |
+| Silver |      64.1850 | ▼ 0.0600 | -0.09% |
+| Soybeans |   1,319.0000 | ▲ 1.5000 | +0.11% |
+| Sugar #11 (Raw) |      17.5200 | ▼ 0.0600 | -0.34% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7026 | ▼ 0.0008 | -0.12% |
+| AUD/USD |       0.7011 | ▲ 0.0003 | +0.04% |
 
 ### Indices
 
@@ -26,10 +26,10 @@
 |:------|------:|------:|---------:|
 | S&P 500 |   7,743.4102 | ▲ 39.2803 | +0.51% |
 | US 10Y Yield (%) |       5.1840 | ▲ 0.0220 | +0.43% |
-| Hang Seng 50 |  24,761.1309 | ▼ 72.9883 | -0.29% |
+| Hang Seng 50 |  24,510.0898 | ▼ 251.0410 | -1.01% |
 | South Africa Top 40 |  10,513.0000 | ▼ 46.0000 | -0.44% |
 | Switzerland SMI |  13,945.7100 | ▲ 39.8896 | +0.29% |
-| ASX 200 (XJO) |   8,702.0000 | ▼ 63.2998 | -0.72% |
+| ASX 200 (XJO) |   8,665.0000 | ▼ 37.0000 | -0.42% |
 
 ### Stocks
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says
-*Tags: attack, president*
-https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal
+*Tags: conflict, president*
+https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Special agents' blood and urine test results stolen in FBI hack
+**[BBC World]** Inside Yemen's front-line city as Houthis battle for control
+*Tags: conflict*
+https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Two mass shootings in South Africa leave 27 dead
 *Tags: attack*
-https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Pope warns against 'losing humanity' to AI machines
-*Tags: war*
-https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss
+**[BBC World]** Embattled Serbian president resigns, paving way for early elections
+*Tags: election, president*
+https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Supreme Court allows Trump to use controversial database to check voter citizenship
-*Tags: war*
-https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Venezuela releases dozens of political prisoners as election calls grow
+*Tags: election, president*
+https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Trump's plans for massive arch move ahead
-*Tags: military*
-https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Switzerland rejects stricter interpretation of its neutrality
+*Tags: sanctions*
+https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Students strike across Germany in protest against military service
-*Tags: military*
-https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Bangkok roads submerged as flood disaster declared
+*Tags: flood*
+https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Senior Kazakh officials detained after 14 service members swept out to sea
-*Tags: military*
-https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Internet restricted after fighting breaks out in Ethiopia's Tigray region
-*Tags: war*
-https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss
+**[BBC World]** British national among six dead in building explosion close to Acropolis in Athens
+*Tags: gas, explosion*
+https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
