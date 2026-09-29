@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-09-27T23:50:26+00:00",
+  "generated_at": "2026-09-29T01:06:48+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4294.0,
-        "change": -27.200195,
-        "pct_change": -0.629,
-        "date": "2026-09-27"
+        "price": 4150.5,
+        "change": -170.700195,
+        "pct_change": -3.95,
+        "date": "2026-09-28"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 64.184998,
-        "change": -0.060005,
-        "pct_change": -0.093,
-        "date": "2026-09-27"
+        "price": 61.040001,
+        "change": -3.205002,
+        "pct_change": -4.989,
+        "date": "2026-09-28"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1319.0,
-        "change": 1.5,
-        "pct_change": 0.114,
-        "date": "2026-09-25"
+        "price": 1284.5,
+        "change": -34.5,
+        "pct_change": -2.616,
+        "date": "2026-09-28"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 17.52,
-        "change": -0.059999,
-        "pct_change": -0.341,
-        "date": "2026-09-25"
+        "price": 18.57,
+        "change": 1.07,
+        "pct_change": 6.114,
+        "date": "2026-09-28"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.701115,
-        "change": 0.000315,
-        "pct_change": 0.045,
-        "date": "2026-09-28"
+        "price": 0.701508,
+        "change": 0.000598,
+        "pct_change": 0.085,
+        "date": "2026-09-29"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7743.410156,
-        "change": 39.280273,
-        "pct_change": 0.51,
-        "date": "2026-09-25"
+        "price": 7683.689941,
+        "change": -59.720215,
+        "pct_change": -0.771,
+        "date": "2026-09-28"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 5.184,
-        "change": 0.022,
-        "pct_change": 0.426,
-        "date": "2026-09-25"
+        "price": 5.24,
+        "change": 0.056,
+        "pct_change": 1.08,
+        "date": "2026-09-28"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8665.0,
-        "change": -37.0,
-        "pct_change": -0.425,
-        "date": "2026-09-25"
+        "price": 8676.400391,
+        "change": 11.400391,
+        "pct_change": 0.132,
+        "date": "2026-09-29"
       }
     },
     "stocks": {
@@ -139,16 +139,6 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 07:44:11 GMT",
-      "matched_keywords": [
-        "conflict",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
       "title": "Inside Yemen's front-line city as Houthis battle for control",
       "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 21:16:31 GMT",
@@ -158,11 +148,48 @@
     },
     {
       "source": "BBC World",
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 14:09:22 GMT",
+      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 14:57:31 GMT",
       "matched_keywords": [
-        "attack"
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "French PM warns against escalation of school protests after 164 arrested",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 21:46:53 GMT",
+      "matched_keywords": [
+        "war",
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+      "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 17:26:21 GMT",
+      "matched_keywords": [
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 23:43:48 GMT",
+      "matched_keywords": [
+        "hurricane"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump-Xi summit: What wasn't said might matter the most",
+      "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 07:52:23 GMT",
+      "matched_keywords": [
+        "summit"
       ]
     },
     {
@@ -183,34 +210,6 @@
       "matched_keywords": [
         "election",
         "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Switzerland rejects stricter interpretation of its neutrality",
-      "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 16:02:17 GMT",
-      "matched_keywords": [
-        "sanctions"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Bangkok roads submerged as flood disaster declared",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 04:45:08 GMT",
-      "matched_keywords": [
-        "flood"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "British national among six dead in building explosion close to Acropolis in Athens",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 12:47:25 GMT",
-      "matched_keywords": [
-        "gas",
-        "explosion"
       ]
     }
   ]

@@ -1,5 +1,5 @@
-# Daily Feed — 2026-09-27
-*Generated: 2026-09-27T23:50:26+00:00 UTC*
+# Daily Feed — 2026-09-29
+*Generated: 2026-09-29T01:06:48+00:00 UTC*
 
 ---
 
@@ -9,27 +9,27 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,294.0000 | ▼ 27.2002 | -0.63% |
-| Silver |      64.1850 | ▼ 0.0600 | -0.09% |
-| Soybeans |   1,319.0000 | ▲ 1.5000 | +0.11% |
-| Sugar #11 (Raw) |      17.5200 | ▼ 0.0600 | -0.34% |
+| Gold |   4,150.5000 | ▼ 170.7002 | -3.95% |
+| Silver |      61.0400 | ▼ 3.2050 | -4.99% |
+| Soybeans |   1,284.5000 | ▼ 34.5000 | -2.62% |
+| Sugar #11 (Raw) |      18.5700 | ▲ 1.0700 | +6.11% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.7011 | ▲ 0.0003 | +0.04% |
+| AUD/USD |       0.7015 | ▲ 0.0006 | +0.09% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,743.4102 | ▲ 39.2803 | +0.51% |
-| US 10Y Yield (%) |       5.1840 | ▲ 0.0220 | +0.43% |
+| S&P 500 |   7,683.6899 | ▼ 59.7202 | -0.77% |
+| US 10Y Yield (%) |       5.2400 | ▲ 0.0560 | +1.08% |
 | Hang Seng 50 |  24,510.0898 | ▼ 251.0410 | -1.01% |
 | South Africa Top 40 |  10,513.0000 | ▼ 46.0000 | -0.44% |
 | Switzerland SMI |  13,945.7100 | ▲ 39.8896 | +0.29% |
-| ASX 200 (XJO) |   8,665.0000 | ▼ 37.0000 | -0.42% |
+| ASX 200 (XJO) |   8,676.4004 | ▲ 11.4004 | +0.13% |
 
 ### Stocks
 
@@ -47,17 +47,29 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal
-*Tags: conflict, president*
-https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss
-
 **[BBC World]** Inside Yemen's front-line city as Houthis battle for control
 *Tags: conflict*
 https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Two mass shootings in South Africa leave 27 dead
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss
+**[BBC World]** Seoul summons Ukraine envoy over North Korean prisoner-of-war row
+*Tags: war*
+https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** French PM warns against escalation of school protests after 164 arrested
+*Tags: war, prime minister*
+https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Twelve women have been killed in one part of South Africa since July. Here's what we know so far
+*Tags: president*
+https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Hurricane Polo unleashes threatening winds as it approaches Mexico
+*Tags: hurricane*
+https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump-Xi summit: What wasn't said might matter the most
+*Tags: summit*
+https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Embattled Serbian president resigns, paving way for early elections
 *Tags: election, president*
@@ -66,18 +78,6 @@ https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss
 **[BBC World]** Venezuela releases dozens of political prisoners as election calls grow
 *Tags: election, president*
 https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Switzerland rejects stricter interpretation of its neutrality
-*Tags: sanctions*
-https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Bangkok roads submerged as flood disaster declared
-*Tags: flood*
-https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** British national among six dead in building explosion close to Acropolis in Athens
-*Tags: gas, explosion*
-https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
