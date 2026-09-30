@@ -1,215 +1,216 @@
 {
-  "generated_at": "2026-09-29T01:06:48+00:00",
+  "generated_at": "2026-09-30T00:09:27+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4150.5,
-        "change": -170.700195,
-        "pct_change": -3.95,
-        "date": "2026-09-28"
+        "price": 4216.899902,
+        "change": 48.5,
+        "pct_change": 1.164,
+        "date": "2026-09-29"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 61.040001,
-        "change": -3.205002,
-        "pct_change": -4.989,
-        "date": "2026-09-28"
+        "price": 61.919998,
+        "change": 0.699997,
+        "pct_change": 1.143,
+        "date": "2026-09-29"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1284.5,
-        "change": -34.5,
-        "pct_change": -2.616,
-        "date": "2026-09-28"
+        "price": 1297.75,
+        "change": 9.5,
+        "pct_change": 0.737,
+        "date": "2026-09-29"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 18.57,
-        "change": 1.07,
-        "pct_change": 6.114,
-        "date": "2026-09-28"
+        "price": 18.84,
+        "change": 1.380001,
+        "pct_change": 7.904,
+        "date": "2026-09-29"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.701508,
-        "change": 0.000598,
-        "pct_change": 0.085,
-        "date": "2026-09-29"
+        "price": 0.698519,
+        "change": -0.003121,
+        "pct_change": -0.445,
+        "date": "2026-09-30"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7683.689941,
-        "change": -59.720215,
-        "pct_change": -0.771,
-        "date": "2026-09-28"
+        "price": 7670.839844,
+        "change": -12.850098,
+        "pct_change": -0.167,
+        "date": "2026-09-29"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 5.24,
-        "change": 0.056,
-        "pct_change": 1.08,
-        "date": "2026-09-28"
+        "price": 5.255,
+        "change": 0.015,
+        "pct_change": 0.286,
+        "date": "2026-09-29"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24510.089844,
-        "change": -251.041016,
-        "pct_change": -1.014,
-        "date": "2026-09-25"
+        "price": 24642.509766,
+        "change": 132.419922,
+        "pct_change": 0.54,
+        "date": "2026-09-28"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10513.0,
-        "change": -46.0,
-        "pct_change": -0.436,
-        "date": "2026-09-25"
+        "price": 10338.0,
+        "change": -175.0,
+        "pct_change": -1.665,
+        "date": "2026-09-28"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13945.709961,
-        "change": 39.889648,
-        "pct_change": 0.287,
-        "date": "2026-09-25"
+        "price": 13942.910156,
+        "change": -2.799805,
+        "pct_change": -0.02,
+        "date": "2026-09-28"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8676.400391,
-        "change": 11.400391,
-        "pct_change": 0.132,
-        "date": "2026-09-29"
+        "price": 8679.700195,
+        "change": 14.700195,
+        "pct_change": 0.17,
+        "date": "2026-09-28"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 189.669998,
-        "change": -2.919998,
-        "pct_change": -1.516,
-        "date": "2026-09-25"
+        "price": 187.479996,
+        "change": -2.190002,
+        "pct_change": -1.155,
+        "date": "2026-09-28"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 236.5,
-        "change": -0.520004,
-        "pct_change": -0.219,
-        "date": "2026-09-25"
+        "price": 233.600006,
+        "change": -2.899994,
+        "pct_change": -1.226,
+        "date": "2026-09-28"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 372.109985,
-        "change": -5.830017,
-        "pct_change": -1.543,
-        "date": "2026-09-25"
+        "price": 357.450012,
+        "change": -14.659973,
+        "pct_change": -3.94,
+        "date": "2026-09-28"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 343.920013,
-        "change": 1.560028,
-        "pct_change": 0.456,
-        "date": "2026-09-25"
+        "price": 342.75,
+        "change": -1.170013,
+        "pct_change": -0.34,
+        "date": "2026-09-28"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 519.559998,
-        "change": -4.140015,
-        "pct_change": -0.791,
-        "date": "2026-09-25"
+        "price": 518.099976,
+        "change": -1.460022,
+        "pct_change": -0.281,
+        "date": "2026-09-28"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 189.399994,
-        "change": 0.789993,
-        "pct_change": 0.419,
-        "date": "2026-09-25"
+        "price": 187.660004,
+        "change": -1.73999,
+        "pct_change": -0.919,
+        "date": "2026-09-28"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 510.519989,
-        "change": 1.539978,
-        "pct_change": 0.303,
-        "date": "2026-09-25"
+        "price": 505.799988,
+        "change": -4.720001,
+        "pct_change": -0.925,
+        "date": "2026-09-28"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Inside Yemen's front-line city as Houthis battle for control",
-      "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 21:16:31 GMT",
-      "matched_keywords": [
-        "conflict"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 14:57:31 GMT",
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 23:15:29 GMT",
       "matched_keywords": [
         "war"
       ]
     },
     {
       "source": "BBC World",
-      "title": "French PM warns against escalation of school protests after 164 arrested",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 21:46:53 GMT",
+      "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
+      "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 12:39:18 GMT",
       "matched_keywords": [
-        "war",
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "First female prime minister named in Morocco after winning elections",
+      "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 17:14:10 GMT",
+      "matched_keywords": [
+        "election",
         "prime minister"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-      "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 17:26:21 GMT",
+      "title": "Dutch police arrest suspected member of group that claimed FBI hack",
+      "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 15:40:10 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 19:36:41 GMT",
+      "matched_keywords": [
+        "attack",
+        "nato"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
+      "link": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 12:20:02 GMT",
+      "matched_keywords": [
+        "war",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump rules out joint US-China venture to develop AI",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 21:45:01 GMT",
       "matched_keywords": [
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 23:43:48 GMT",
+      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 03:50:40 GMT",
       "matched_keywords": [
-        "hurricane"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump-Xi summit: What wasn't said might matter the most",
-      "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 07:52:23 GMT",
-      "matched_keywords": [
-        "summit"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Embattled Serbian president resigns, paving way for early elections",
-      "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 20:04:21 GMT",
-      "matched_keywords": [
-        "election",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Venezuela releases dozens of political prisoners as election calls grow",
-      "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 15:56:25 GMT",
-      "matched_keywords": [
-        "election",
-        "president"
+        "president",
+        "oil"
       ]
     }
   ]
