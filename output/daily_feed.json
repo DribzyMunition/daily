@@ -1,142 +1,190 @@
 {
-  "generated_at": "2026-09-30T00:09:27+00:00",
+  "generated_at": "2026-10-01T00:33:28+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4216.899902,
-        "change": 48.5,
-        "pct_change": 1.164,
-        "date": "2026-09-29"
+        "price": 4173.5,
+        "change": -6.200195,
+        "pct_change": -0.148,
+        "date": "2026-09-30"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 61.919998,
-        "change": 0.699997,
-        "pct_change": 1.143,
-        "date": "2026-09-29"
+        "price": 60.349998,
+        "change": -0.318001,
+        "pct_change": -0.524,
+        "date": "2026-09-30"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1297.75,
-        "change": 9.5,
-        "pct_change": 0.737,
-        "date": "2026-09-29"
+        "price": 1292.0,
+        "change": -5.75,
+        "pct_change": -0.443,
+        "date": "2026-09-30"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 18.84,
-        "change": 1.380001,
-        "pct_change": 7.904,
-        "date": "2026-09-29"
+        "price": 18.620001,
+        "change": 0.800001,
+        "pct_change": 4.489,
+        "date": "2026-09-30"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.698519,
-        "change": -0.003121,
-        "pct_change": -0.445,
-        "date": "2026-09-30"
+        "price": 0.694686,
+        "change": -0.004214,
+        "pct_change": -0.603,
+        "date": "2026-10-01"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7670.839844,
-        "change": -12.850098,
-        "pct_change": -0.167,
-        "date": "2026-09-29"
+        "price": 7651.540039,
+        "change": -19.299805,
+        "pct_change": -0.252,
+        "date": "2026-09-30"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 5.255,
-        "change": 0.015,
-        "pct_change": 0.286,
-        "date": "2026-09-29"
+        "price": 5.293,
+        "change": 0.038,
+        "pct_change": 0.723,
+        "date": "2026-09-30"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24642.509766,
-        "change": 132.419922,
-        "pct_change": 0.54,
-        "date": "2026-09-28"
+        "price": 24523.570312,
+        "change": -118.939453,
+        "pct_change": -0.483,
+        "date": "2026-09-29"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10338.0,
-        "change": -175.0,
-        "pct_change": -1.665,
-        "date": "2026-09-28"
+        "price": 10346.0,
+        "change": 8.0,
+        "pct_change": 0.077,
+        "date": "2026-09-29"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13942.910156,
-        "change": -2.799805,
-        "pct_change": -0.02,
-        "date": "2026-09-28"
+        "price": 13912.19043,
+        "change": -30.719727,
+        "pct_change": -0.22,
+        "date": "2026-09-29"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8679.700195,
-        "change": 14.700195,
-        "pct_change": 0.17,
-        "date": "2026-09-28"
+        "price": 8701.799805,
+        "change": -7.5,
+        "pct_change": -0.086,
+        "date": "2026-10-01"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 187.479996,
-        "change": -2.190002,
-        "pct_change": -1.155,
-        "date": "2026-09-28"
+        "price": 186.970001,
+        "change": -0.509995,
+        "pct_change": -0.272,
+        "date": "2026-09-29"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 233.600006,
-        "change": -2.899994,
-        "pct_change": -1.226,
-        "date": "2026-09-28"
+        "price": 233.979996,
+        "change": 0.37999,
+        "pct_change": 0.163,
+        "date": "2026-09-29"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 357.450012,
-        "change": -14.659973,
-        "pct_change": -3.94,
-        "date": "2026-09-28"
+        "price": 352.839996,
+        "change": -4.610016,
+        "pct_change": -1.29,
+        "date": "2026-09-29"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 342.75,
-        "change": -1.170013,
-        "pct_change": -0.34,
-        "date": "2026-09-28"
+        "price": 340.920013,
+        "change": -1.829987,
+        "pct_change": -0.534,
+        "date": "2026-09-29"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 518.099976,
-        "change": -1.460022,
-        "pct_change": -0.281,
-        "date": "2026-09-28"
+        "price": 512.210022,
+        "change": -5.889954,
+        "pct_change": -1.137,
+        "date": "2026-09-29"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 187.660004,
-        "change": -1.73999,
-        "pct_change": -0.919,
-        "date": "2026-09-28"
+        "price": 186.940002,
+        "change": -0.720001,
+        "pct_change": -0.384,
+        "date": "2026-09-29"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 505.799988,
-        "change": -4.720001,
-        "pct_change": -0.925,
-        "date": "2026-09-28"
+        "price": 504.609985,
+        "change": -1.190002,
+        "pct_change": -0.235,
+        "date": "2026-09-29"
       }
     }
   },
   "news": [
+    {
+      "source": "BBC World",
+      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 23:10:06 GMT",
+      "matched_keywords": [
+        "war",
+        "invasion",
+        "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 22:01:16 GMT",
+      "matched_keywords": [
+        "flood"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 14:53:02 GMT",
+      "matched_keywords": [
+        "attack"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 11:36:23 GMT",
+      "matched_keywords": [
+        "troops"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 05:02:50 GMT",
+      "matched_keywords": [
+        "attack",
+        "military"
+      ]
+    },
     {
       "source": "BBC World",
       "title": "Chinese AI tool told researchers how to make bioweapons",
@@ -148,69 +196,20 @@
     },
     {
       "source": "BBC World",
-      "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
-      "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 12:39:18 GMT",
+      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
+      "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 11:25:12 GMT",
       "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "First female prime minister named in Morocco after winning elections",
-      "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 17:14:10 GMT",
-      "matched_keywords": [
-        "election",
-        "prime minister"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Dutch police arrest suspected member of group that claimed FBI hack",
-      "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 15:40:10 GMT",
-      "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 19:36:41 GMT",
-      "matched_keywords": [
-        "attack",
-        "nato"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
-      "link": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 12:20:02 GMT",
-      "matched_keywords": [
-        "war",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump rules out joint US-China venture to develop AI",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 21:45:01 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 03:50:40 GMT",
-      "matched_keywords": [
-        "president",
         "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "The children dying in India's remote tribal heartland",
+      "link": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 23:41:34 GMT",
+      "matched_keywords": [
+        "outbreak"
       ]
     }
   ]
