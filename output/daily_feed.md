@@ -1,5 +1,5 @@
-# Daily Feed — 2026-10-01
-*Generated: 2026-10-01T00:33:28+00:00 UTC*
+# Daily Feed — 2026-10-02
+*Generated: 2026-10-02T01:32:46+00:00 UTC*
 
 ---
 
@@ -9,75 +9,75 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,173.5000 | ▼ 6.2002 | -0.15% |
-| Silver |      60.3500 | ▼ 0.3180 | -0.52% |
-| Soybeans |   1,292.0000 | ▼ 5.7500 | -0.44% |
-| Sugar #11 (Raw) |      18.6200 | ▲ 0.8000 | +4.49% |
+| Gold |   4,173.5000 | ▼ 13.2002 | -0.32% |
+| Silver |      60.6200 | ▲ 0.5220 | +0.87% |
+| Soybeans |   1,276.2500 | ▼ 16.7500 | -1.29% |
+| Sugar #11 (Raw) |      18.9600 | ▲ 1.3300 | +7.54% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6947 | ▼ 0.0042 | -0.60% |
+| AUD/USD |       0.6917 | ▼ 0.0029 | -0.42% |
 
 ### Indices
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| S&P 500 |   7,651.5400 | ▼ 19.2998 | -0.25% |
-| US 10Y Yield (%) |       5.2930 | ▲ 0.0380 | +0.72% |
-| Hang Seng 50 |  24,523.5703 | ▼ 118.9395 | -0.48% |
-| South Africa Top 40 |  10,346.0000 | ▲ 8.0000 | +0.08% |
-| Switzerland SMI |  13,912.1904 | ▼ 30.7197 | -0.22% |
-| ASX 200 (XJO) |   8,701.7998 | ▼ 7.5000 | -0.09% |
+| S&P 500 |   7,666.4502 | ▲ 14.9102 | +0.20% |
+| US 10Y Yield (%) |       5.2370 | ▼ 0.0560 | -1.06% |
+| Hang Seng 50 |  24,613.2695 | ▲ 89.6992 | +0.37% |
+| South Africa Top 40 |  10,295.0000 | ▼ 51.0000 | -0.49% |
+| Switzerland SMI |  13,830.3398 | ▼ 81.8506 | -0.59% |
+| ASX 200 (XJO) |   8,636.2002 | ▼ 153.0996 | -1.74% |
 
 ### Stocks
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Palantir |     186.9700 | ▼ 0.5100 | -0.27% |
-| McDonald's |     233.9800 | ▲ 0.3800 | +0.16% |
-| Tesla |     352.8400 | ▼ 4.6100 | -1.29% |
-| Alphabet |     340.9200 | ▼ 1.8300 | -0.53% |
-| Lockheed Martin |     512.2100 | ▼ 5.8900 | -1.14% |
-| RTX (Raytheon) |     186.9400 | ▼ 0.7200 | -0.38% |
-| Northrop Grumman |     504.6100 | ▼ 1.1900 | -0.23% |
+| Palantir |     187.0500 | ▲ 0.0800 | +0.04% |
+| McDonald's |     230.9400 | ▼ 3.0400 | -1.30% |
+| Tesla |     354.8100 | ▲ 1.9700 | +0.56% |
+| Alphabet |     344.0800 | ▲ 3.1600 | +0.93% |
+| Lockheed Martin |     509.2500 | ▼ 2.9600 | -0.58% |
+| RTX (Raytheon) |     185.6500 | ▼ 1.2900 | -0.69% |
+| Northrop Grumman |     483.4800 | ▼ 21.1300 | -4.19% |
 
 ---
 
 ## Key Global Headlines
 
-**[BBC World]** Putin shows no sign of stopping the war as Russia doubles down on Ukraine
-*Tags: war, invasion, president*
-https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'
+*Tags: attack, prime minister*
+https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Trekkers helicoptered off mountains as more deadly landslides hit Nepal
-*Tags: flood*
-https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Russia launches largest attack on Ukraine energy infrastructure since spring
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Last UK and US troops leave Iraq as anti-Islamic State mission ends
-*Tags: troops*
-https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Girl has multiple surgeries to control infections after strike in Gaza
-*Tags: attack, military*
-https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Chinese AI tool told researchers how to make bioweapons
+**[BBC World]** Putin warns West that Russia is ready to use every weapon to protect Kaliningrad
 *Tags: war*
-https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Russian dissident Garry Kasparov says US warned him of danger to his life
+*Tags: war*
+https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names
+*Tags: president*
+https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Fires break out at French schools as students protest nationwide
+*Tags: crisis*
+https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** K-pop star convicted of violating military service law
+*Tags: military*
+https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Explosions heard in Ethiopia's capital after drone flights banned
+*Tags: explosion*
+https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Africa's richest man launches Kenya oil refinery despite land protests
 *Tags: oil*
 https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** The children dying in India's remote tribal heartland
-*Tags: outbreak*
-https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
