@@ -1,142 +1,208 @@
 {
-  "generated_at": "2026-10-02T01:32:46+00:00",
+  "generated_at": "2026-10-03T02:45:41+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4173.5,
-        "change": -13.200195,
-        "pct_change": -0.315,
-        "date": "2026-10-01"
+        "price": 4172.100098,
+        "change": -30.199707,
+        "pct_change": -0.719,
+        "date": "2026-10-02"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 60.619999,
-        "change": 0.521999,
-        "pct_change": 0.869,
-        "date": "2026-10-01"
+        "price": 60.709999,
+        "change": -0.014999,
+        "pct_change": -0.025,
+        "date": "2026-10-02"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1276.25,
-        "change": -16.75,
-        "pct_change": -1.295,
-        "date": "2026-10-01"
+        "price": 1277.25,
+        "change": -6.75,
+        "pct_change": -0.526,
+        "date": "2026-10-02"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 18.959999,
-        "change": 1.33,
-        "pct_change": 7.544,
-        "date": "2026-10-01"
+        "price": 19.91,
+        "change": 0.969999,
+        "pct_change": 5.121,
+        "date": "2026-10-02"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.691659,
-        "change": -0.002911,
-        "pct_change": -0.419,
+        "price": 0.695749,
+        "change": 0.001179,
+        "pct_change": 0.17,
         "date": "2026-10-02"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7666.450195,
-        "change": 14.910156,
-        "pct_change": 0.195,
-        "date": "2026-10-01"
+        "price": 7722.720215,
+        "change": 56.27002,
+        "pct_change": 0.734,
+        "date": "2026-10-02"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 5.237,
-        "change": -0.056,
-        "pct_change": -1.058,
-        "date": "2026-10-01"
+        "price": 5.277,
+        "change": 0.04,
+        "pct_change": 0.764,
+        "date": "2026-10-02"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24613.269531,
-        "change": 89.699219,
-        "pct_change": 0.366,
-        "date": "2026-09-30"
+        "price": 23972.289062,
+        "change": -640.980469,
+        "pct_change": -2.604,
+        "date": "2026-10-02"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10295.0,
-        "change": -51.0,
-        "pct_change": -0.493,
-        "date": "2026-09-30"
+        "price": 10194.0,
+        "change": -101.0,
+        "pct_change": -0.981,
+        "date": "2026-10-01"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13830.339844,
-        "change": -81.850586,
-        "pct_change": -0.588,
-        "date": "2026-09-30"
+        "price": 13660.919922,
+        "change": 38.070312,
+        "pct_change": 0.279,
+        "date": "2026-10-02"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8636.200195,
-        "change": -153.099609,
-        "pct_change": -1.742,
+        "price": 8682.099609,
+        "change": 67.699219,
+        "pct_change": 0.786,
         "date": "2026-10-02"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 187.050003,
-        "change": 0.080002,
-        "pct_change": 0.043,
-        "date": "2026-09-30"
+        "price": 188.75,
+        "change": -1.289993,
+        "pct_change": -0.679,
+        "date": "2026-10-02"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 230.940002,
-        "change": -3.039993,
-        "pct_change": -1.299,
-        "date": "2026-09-30"
+        "price": 231.889999,
+        "change": 0.059998,
+        "pct_change": 0.026,
+        "date": "2026-10-02"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 354.809998,
-        "change": 1.970001,
-        "pct_change": 0.558,
-        "date": "2026-09-30"
+        "price": 370.589996,
+        "change": 16.480011,
+        "pct_change": 4.654,
+        "date": "2026-10-02"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 344.079987,
-        "change": 3.159973,
-        "pct_change": 0.927,
-        "date": "2026-09-30"
+        "price": 343.5,
+        "change": 5.26001,
+        "pct_change": 1.555,
+        "date": "2026-10-02"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 509.25,
-        "change": -2.960022,
-        "pct_change": -0.578,
-        "date": "2026-09-30"
+        "price": 505.410004,
+        "change": -0.089996,
+        "pct_change": -0.018,
+        "date": "2026-10-02"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 185.649994,
-        "change": -1.290009,
-        "pct_change": -0.69,
-        "date": "2026-09-30"
+        "price": 184.679993,
+        "change": -0.330002,
+        "pct_change": -0.178,
+        "date": "2026-10-02"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 483.480011,
-        "change": -21.129974,
-        "pct_change": -4.187,
-        "date": "2026-09-30"
+        "price": 478.0,
+        "change": -4.0,
+        "pct_change": -0.83,
+        "date": "2026-10-02"
       }
     }
   },
   "news": [
+    {
+      "source": "BBC World",
+      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 20:25:19 GMT",
+      "matched_keywords": [
+        "oil"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 02:23:07 GMT",
+      "matched_keywords": [
+        "siege"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+      "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 15:30:12 GMT",
+      "matched_keywords": [
+        "election",
+        "crisis"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 15:26:37 GMT",
+      "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 09:08:06 GMT",
+      "matched_keywords": [
+        "attack",
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+      "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 21:00:41 GMT",
+      "matched_keywords": [
+        "collapse"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 03:09:13 GMT",
+      "matched_keywords": [
+        "war",
+        "president"
+      ]
+    },
     {
       "source": "BBC World",
       "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
@@ -145,69 +211,6 @@
       "matched_keywords": [
         "attack",
         "prime minister"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 19:38:30 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 14:05:55 GMT",
-      "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:37:46 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Fires break out at French schools as students protest nationwide",
-      "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 19:19:00 GMT",
-      "matched_keywords": [
-        "crisis"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "K-pop star convicted of violating military service law",
-      "link": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 05:24:10 GMT",
-      "matched_keywords": [
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 15:05:36 GMT",
-      "matched_keywords": [
-        "explosion"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
-      "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 07:04:27 GMT",
-      "matched_keywords": [
-        "oil"
       ]
     }
   ]
