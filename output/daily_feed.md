@@ -1,5 +1,5 @@
-# Daily Feed — 2026-10-03
-*Generated: 2026-10-03T02:45:41+00:00 UTC*
+# Daily Feed — 2026-10-04
+*Generated: 2026-10-04T02:52:16+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,172.1001 | ▼ 30.1997 | -0.72% |
-| Silver |      60.7100 | ▼ 0.0150 | -0.03% |
-| Soybeans |   1,277.2500 | ▼ 6.7500 | -0.53% |
-| Sugar #11 (Raw) |      19.9100 | ▲ 0.9700 | +5.12% |
+| Gold |   4,162.2998 | ▼ 40.0000 | -0.95% |
+| Silver |      59.9770 | ▼ 0.7480 | -1.23% |
+| Soybeans |   1,278.2500 | ▼ 5.7500 | -0.45% |
+| Sugar #11 (Raw) |      19.9300 | ▲ 0.9900 | +5.23% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6957 | ▲ 0.0012 | +0.17% |
+| AUD/USD |       0.6957 | ▲ 0.0029 | +0.42% |
 
 ### Indices
 
@@ -27,7 +27,7 @@
 | S&P 500 |   7,722.7202 | ▲ 56.2700 | +0.73% |
 | US 10Y Yield (%) |       5.2770 | ▲ 0.0400 | +0.76% |
 | Hang Seng 50 |  23,972.2891 | ▼ 640.9805 | -2.60% |
-| South Africa Top 40 |  10,194.0000 | ▼ 101.0000 | -0.98% |
+| South Africa Top 40 |  10,277.0000 | ▲ 83.0000 | +0.81% |
 | Switzerland SMI |  13,660.9199 | ▲ 38.0703 | +0.28% |
 | ASX 200 (XJO) |   8,682.0996 | ▲ 67.6992 | +0.79% |
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** G7 to release 100 million barrels of oil and diesel after Trump export ban threat
+**[BBC World]** Cornell president says university 'must do better' after frat house rape allegations
+*Tags: president*
+https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Flydubai co-pilot attacked captain with axe, UAE official says
+*Tags: attack*
+https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Russia hits second major bridge in Ukraine's capital Kyiv
+*Tags: attack*
+https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** 'Anger in the streets': Tens of thousands protest in Spain over housing crisis
+*Tags: crisis*
+https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** G7 to release millions of barrels of oil and diesel after Trump threat
 *Tags: oil*
 https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Cornell frat house rape accuser 'under siege' online, says lawyer
-*Tags: siege*
-https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Why has Brazil accused the US of election interference?
+*Tags: election, president*
+https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87
-*Tags: election, crisis*
-https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Intensified Russian strikes are tearing Kyiv apart, warns mayor
-*Tags: war*
-https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot
-*Tags: attack, prime minister*
-https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Hawaii's iconic 550-year-old Hōlei Sea Arch collapses
-*Tags: collapse*
-https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss
+**[BBC World]** Kim wins Asian Games gold to secure military exemption
+*Tags: military*
+https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row
 *Tags: war, president*
 https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'
-*Tags: attack, prime minister*
-https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*
