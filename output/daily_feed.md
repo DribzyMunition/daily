@@ -1,5 +1,5 @@
-# Daily Feed — 2026-10-04
-*Generated: 2026-10-04T02:52:16+00:00 UTC*
+# Daily Feed — 2026-10-05
+*Generated: 2026-10-05T01:54:57+00:00 UTC*
 
 ---
 
@@ -9,16 +9,16 @@
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| Gold |   4,162.2998 | ▼ 40.0000 | -0.95% |
-| Silver |      59.9770 | ▼ 0.7480 | -1.23% |
-| Soybeans |   1,278.2500 | ▼ 5.7500 | -0.45% |
+| Gold |   4,180.5000 | ▲ 18.2002 | +0.44% |
+| Silver |      61.6250 | ▲ 1.6480 | +2.75% |
+| Soybeans |   1,281.5000 | ▲ 3.2500 | +0.25% |
 | Sugar #11 (Raw) |      19.9300 | ▲ 0.9900 | +5.23% |
 
 ### FX
 
 | Asset | Price | Change | % Change |
 |:------|------:|------:|---------:|
-| AUD/USD |       0.6957 | ▲ 0.0029 | +0.42% |
+| AUD/USD |       0.6954 | ▲ 0.0025 | +0.36% |
 
 ### Indices
 
@@ -26,10 +26,10 @@
 |:------|------:|------:|---------:|
 | S&P 500 |   7,722.7202 | ▲ 56.2700 | +0.73% |
 | US 10Y Yield (%) |       5.2770 | ▲ 0.0400 | +0.76% |
-| Hang Seng 50 |  23,972.2891 | ▼ 640.9805 | -2.60% |
+| Hang Seng 50 |  23,877.5098 | ▼ 94.7793 | -0.40% |
 | South Africa Top 40 |  10,277.0000 | ▲ 83.0000 | +0.81% |
 | Switzerland SMI |  13,660.9199 | ▲ 38.0703 | +0.28% |
-| ASX 200 (XJO) |   8,682.0996 | ▲ 67.6992 | +0.79% |
+| ASX 200 (XJO) |   8,714.5000 | ▲ 32.4004 | +0.37% |
 
 ### Stocks
 
@@ -47,37 +47,37 @@
 
 ## Key Global Headlines
 
-**[BBC World]** Cornell president says university 'must do better' after frat house rape allegations
-*Tags: president*
-https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Flydubai co-pilot attacked captain with axe, UAE official says
+**[BBC World]** Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
 *Tags: attack*
-https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** Russia hits second major bridge in Ukraine's capital Kyiv
-*Tags: attack*
-https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss
+**[BBC World]** Yemen's government announces all-out war to reclaim land from Houthis
+*Tags: war, president*
+https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round
+*Tags: election*
+https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** Indian police accused of sexually harassing journalists at protest
+*Tags: election*
+https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** US Marine arrested over murder of woman in Okinawa, Japan
+*Tags: military*
+https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss
+
+**[BBC World]** What to know about Brazil's election as Lula and Flávio Bolsonaro face off
+*Tags: election*
+https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss
 
 **[BBC World]** 'Anger in the streets': Tens of thousands protest in Spain over housing crisis
 *Tags: crisis*
 https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss
 
-**[BBC World]** G7 to release millions of barrels of oil and diesel after Trump threat
-*Tags: oil*
-https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Why has Brazil accused the US of election interference?
-*Tags: election, president*
-https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Kim wins Asian Games gold to secure military exemption
-*Tags: military*
-https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss
-
-**[BBC World]** Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row
-*Tags: war, president*
-https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss
+**[BBC World]** Cornell president says university 'must do better' after frat house rape allegations
+*Tags: president*
+https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss
 
 ---
 *Filter: 51 keywords active · Sources: BBC World, Al Jazeera, The Guardian*

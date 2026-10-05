@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-04T02:52:16+00:00",
+  "generated_at": "2026-10-05T01:54:57+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4162.299805,
-        "change": -40.0,
-        "pct_change": -0.952,
-        "date": "2026-10-02"
+        "price": 4180.5,
+        "change": 18.200195,
+        "pct_change": 0.437,
+        "date": "2026-10-04"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 59.977001,
-        "change": -0.747997,
-        "pct_change": -1.232,
-        "date": "2026-10-02"
+        "price": 61.625,
+        "change": 1.647999,
+        "pct_change": 2.748,
+        "date": "2026-10-04"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1278.25,
-        "change": -5.75,
-        "pct_change": -0.448,
-        "date": "2026-10-02"
+        "price": 1281.5,
+        "change": 3.25,
+        "pct_change": 0.254,
+        "date": "2026-10-04"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
@@ -34,10 +34,10 @@
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.695749,
-        "change": 0.002879,
-        "pct_change": 0.416,
-        "date": "2026-10-03"
+        "price": 0.695362,
+        "change": 0.002492,
+        "pct_change": 0.36,
+        "date": "2026-10-05"
       }
     },
     "indices": {
@@ -57,10 +57,10 @@
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 23972.289062,
-        "change": -640.980469,
-        "pct_change": -2.604,
-        "date": "2026-10-02"
+        "price": 23877.509766,
+        "change": -94.779297,
+        "pct_change": -0.395,
+        "date": "2026-10-05"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -78,10 +78,10 @@
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8682.099609,
-        "change": 67.699219,
-        "pct_change": 0.786,
-        "date": "2026-10-02"
+        "price": 8714.5,
+        "change": 32.400391,
+        "pct_change": 0.373,
+        "date": "2026-10-05"
       }
     },
     "stocks": {
@@ -139,75 +139,74 @@
   "news": [
     {
       "source": "BBC World",
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 00:11:25 GMT",
-      "matched_keywords": [
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 14:27:33 GMT",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 04 Oct 2026 12:09:04 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 16:16:49 GMT",
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 04 Oct 2026 16:51:30 GMT",
       "matched_keywords": [
-        "attack"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 02:04:11 GMT",
-      "matched_keywords": [
-        "crisis"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 04:38:31 GMT",
-      "matched_keywords": [
-        "oil"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Why has Brazil accused the US of election interference?",
-      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 13:52:13 GMT",
-      "matched_keywords": [
-        "election",
+        "war",
         "president"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Kim wins Asian Games gold to secure military exemption",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 08:51:14 GMT",
+      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 00:27:06 GMT",
+      "matched_keywords": [
+        "election"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Indian police accused of sexually harassing journalists at protest",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 04 Oct 2026 17:01:19 GMT",
+      "matched_keywords": [
+        "election"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 04 Oct 2026 14:36:57 GMT",
       "matched_keywords": [
         "military"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 03:09:13 GMT",
+      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 04 Oct 2026 20:14:49 GMT",
       "matched_keywords": [
-        "war",
+        "election"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 04 Oct 2026 03:42:15 GMT",
+      "matched_keywords": [
+        "crisis"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 04 Oct 2026 00:11:25 GMT",
+      "matched_keywords": [
         "president"
       ]
     }
