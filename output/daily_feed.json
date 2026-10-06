@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-10-05T01:54:57+00:00",
+  "generated_at": "2026-10-06T02:53:19+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4180.5,
-        "change": 18.200195,
-        "pct_change": 0.437,
-        "date": "2026-10-04"
+        "price": 4150.200195,
+        "change": -12.099609,
+        "pct_change": -0.291,
+        "date": "2026-10-05"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 61.625,
-        "change": 1.647999,
-        "pct_change": 2.748,
-        "date": "2026-10-04"
+        "price": 60.990002,
+        "change": 1.013,
+        "pct_change": 1.689,
+        "date": "2026-10-05"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1281.5,
-        "change": 3.25,
-        "pct_change": 0.254,
-        "date": "2026-10-04"
+        "price": 1279.25,
+        "change": 1.0,
+        "pct_change": 0.078,
+        "date": "2026-10-05"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 19.93,
-        "change": 0.99,
-        "pct_change": 5.227,
-        "date": "2026-10-02"
+        "price": 20.780001,
+        "change": null,
+        "pct_change": null,
+        "date": "2026-10-05"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.695362,
-        "change": 0.002492,
-        "pct_change": 0.36,
-        "date": "2026-10-05"
+        "price": 0.697058,
+        "change": 0.001878,
+        "pct_change": 0.27,
+        "date": "2026-10-06"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7722.720215,
-        "change": 56.27002,
-        "pct_change": 0.734,
-        "date": "2026-10-02"
+        "price": 7773.950195,
+        "change": 51.22998,
+        "pct_change": 0.663,
+        "date": "2026-10-05"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 5.277,
-        "change": 0.04,
-        "pct_change": 0.764,
-        "date": "2026-10-02"
+        "price": 5.311,
+        "change": 0.034,
+        "pct_change": 0.644,
+        "date": "2026-10-05"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 23877.509766,
-        "change": -94.779297,
-        "pct_change": -0.395,
-        "date": "2026-10-05"
+        "price": 24231.039062,
+        "change": 190.699219,
+        "pct_change": 0.793,
+        "date": "2026-10-06"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
@@ -71,142 +71,148 @@
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13660.919922,
-        "change": 38.070312,
-        "pct_change": 0.279,
-        "date": "2026-10-02"
+        "price": 13703.530273,
+        "change": 42.610352,
+        "pct_change": 0.312,
+        "date": "2026-10-05"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8714.5,
-        "change": 32.400391,
-        "pct_change": 0.373,
-        "date": "2026-10-05"
+        "price": 8742.099609,
+        "change": 55.699219,
+        "pct_change": 0.641,
+        "date": "2026-10-06"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 188.75,
-        "change": -1.289993,
-        "pct_change": -0.679,
-        "date": "2026-10-02"
+        "price": 189.399994,
+        "change": 0.649994,
+        "pct_change": 0.344,
+        "date": "2026-10-05"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 231.889999,
-        "change": 0.059998,
-        "pct_change": 0.026,
-        "date": "2026-10-02"
+        "price": 233.039993,
+        "change": 1.149994,
+        "pct_change": 0.496,
+        "date": "2026-10-05"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 370.589996,
-        "change": 16.480011,
-        "pct_change": 4.654,
-        "date": "2026-10-02"
+        "price": 378.730011,
+        "change": 8.140015,
+        "pct_change": 2.197,
+        "date": "2026-10-05"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 343.5,
-        "change": 5.26001,
-        "pct_change": 1.555,
-        "date": "2026-10-02"
+        "price": 346.470001,
+        "change": 2.970001,
+        "pct_change": 0.865,
+        "date": "2026-10-05"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 505.410004,
-        "change": -0.089996,
-        "pct_change": -0.018,
-        "date": "2026-10-02"
+        "price": 506.630005,
+        "change": 1.220001,
+        "pct_change": 0.241,
+        "date": "2026-10-05"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 184.679993,
-        "change": -0.330002,
-        "pct_change": -0.178,
-        "date": "2026-10-02"
+        "price": 184.330002,
+        "change": -0.349991,
+        "pct_change": -0.19,
+        "date": "2026-10-05"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 478.0,
-        "change": -4.0,
-        "pct_change": -0.83,
-        "date": "2026-10-02"
+        "price": 476.109985,
+        "change": -1.890015,
+        "pct_change": -0.395,
+        "date": "2026-10-05"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 12:09:04 GMT",
+      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+      "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 15:17:23 GMT",
       "matched_keywords": [
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 16:51:30 GMT",
+      "title": "Spain PM pins hopes on housing crisis to help win snap election",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 19:30:50 GMT",
       "matched_keywords": [
-        "war",
-        "president"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 00:27:06 GMT",
-      "matched_keywords": [
-        "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Indian police accused of sexually harassing journalists at protest",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 17:01:19 GMT",
-      "matched_keywords": [
-        "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
-      "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 14:36:57 GMT",
-      "matched_keywords": [
-        "military"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 20:14:49 GMT",
-      "matched_keywords": [
-        "election"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 03:42:15 GMT",
-      "matched_keywords": [
+        "election",
         "crisis"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 00:11:25 GMT",
+      "title": "Nobel Prize awarded for revealing inner workings of the brain",
+      "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 11:04:37 GMT",
       "matched_keywords": [
+        "war"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 23:19:14 GMT",
+      "matched_keywords": [
+        "election"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 01:05:00 GMT",
+      "matched_keywords": [
+        "conflict",
+        "military"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Why Canada is wargaming a (long shot) US invasion",
+      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 23:30:06 GMT",
+      "matched_keywords": [
+        "war",
+        "military",
+        "invasion",
+        "prime minister"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
+      "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 09:03:30 GMT",
+      "matched_keywords": [
+        "election",
+        "crisis"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: How Brazil's dramatic election unfolded",
+      "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 04:51:24 GMT",
+      "matched_keywords": [
+        "election",
         "president"
       ]
     }
