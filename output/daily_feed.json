@@ -1,184 +1,195 @@
 {
-  "generated_at": "2026-10-06T02:53:19+00:00",
+  "generated_at": "2026-10-07T03:32:10+00:00",
   "prices": {
     "commodities": {
       "Gold": {
         "ticker": "GC=F",
-        "price": 4150.200195,
-        "change": -12.099609,
-        "pct_change": -0.291,
-        "date": "2026-10-05"
+        "price": 4165.700195,
+        "change": 8.900391,
+        "pct_change": 0.214,
+        "date": "2026-10-06"
       },
       "Silver": {
         "ticker": "SI=F",
-        "price": 60.990002,
-        "change": 1.013,
-        "pct_change": 1.689,
-        "date": "2026-10-05"
+        "price": 61.009998,
+        "change": 0.140999,
+        "pct_change": 0.232,
+        "date": "2026-10-06"
       },
       "Soybeans": {
         "ticker": "ZS=F",
-        "price": 1279.25,
-        "change": 1.0,
-        "pct_change": 0.078,
-        "date": "2026-10-05"
+        "price": 1308.5,
+        "change": 27.75,
+        "pct_change": 2.167,
+        "date": "2026-10-06"
       },
       "Sugar #11 (Raw)": {
         "ticker": "SB=F",
-        "price": 20.780001,
-        "change": null,
-        "pct_change": null,
-        "date": "2026-10-05"
+        "price": 20.870001,
+        "change": 0.140001,
+        "pct_change": 0.675,
+        "date": "2026-10-06"
       }
     },
     "fx": {
       "AUD/USD": {
         "ticker": "AUDUSD=X",
-        "price": 0.697058,
-        "change": 0.001878,
-        "pct_change": 0.27,
-        "date": "2026-10-06"
+        "price": 0.697496,
+        "change": 0.000766,
+        "pct_change": 0.11,
+        "date": "2026-10-07"
       }
     },
     "indices": {
       "S&P 500": {
         "ticker": "^GSPC",
-        "price": 7773.950195,
-        "change": 51.22998,
-        "pct_change": 0.663,
-        "date": "2026-10-05"
+        "price": 7818.930176,
+        "change": 44.97998,
+        "pct_change": 0.579,
+        "date": "2026-10-06"
       },
       "US 10Y Yield (%)": {
         "ticker": "^TNX",
-        "price": 5.311,
-        "change": 0.034,
-        "pct_change": 0.644,
-        "date": "2026-10-05"
+        "price": 5.269,
+        "change": -0.042,
+        "pct_change": -0.791,
+        "date": "2026-10-06"
       },
       "Hang Seng 50": {
         "ticker": "^HSI",
-        "price": 24231.039062,
-        "change": 190.699219,
-        "pct_change": 0.793,
-        "date": "2026-10-06"
+        "price": 24144.189453,
+        "change": -136.371094,
+        "pct_change": -0.562,
+        "date": "2026-10-07"
       },
       "South Africa Top 40": {
         "ticker": "STX40.JO",
-        "price": 10277.0,
-        "change": 83.0,
-        "pct_change": 0.814,
-        "date": "2026-10-02"
+        "price": 10227.0,
+        "change": -50.0,
+        "pct_change": -0.487,
+        "date": "2026-10-05"
       },
       "Switzerland SMI": {
         "ticker": "^SSMI",
-        "price": 13703.530273,
-        "change": 42.610352,
-        "pct_change": 0.312,
-        "date": "2026-10-05"
+        "price": 13788.929688,
+        "change": 85.399414,
+        "pct_change": 0.623,
+        "date": "2026-10-06"
       },
       "ASX 200 (XJO)": {
         "ticker": "^AXJO",
-        "price": 8742.099609,
-        "change": 55.699219,
-        "pct_change": 0.641,
-        "date": "2026-10-06"
+        "price": 8735.200195,
+        "change": -0.5,
+        "pct_change": -0.006,
+        "date": "2026-10-07"
       }
     },
     "stocks": {
       "Palantir": {
         "ticker": "PLTR",
-        "price": 189.399994,
-        "change": 0.649994,
-        "pct_change": 0.344,
-        "date": "2026-10-05"
+        "price": 192.070007,
+        "change": 2.670013,
+        "pct_change": 1.41,
+        "date": "2026-10-06"
       },
       "McDonald's": {
         "ticker": "MCD",
-        "price": 233.039993,
-        "change": 1.149994,
-        "pct_change": 0.496,
-        "date": "2026-10-05"
+        "price": 232.449997,
+        "change": -0.589996,
+        "pct_change": -0.253,
+        "date": "2026-10-06"
       },
       "Tesla": {
         "ticker": "TSLA",
-        "price": 378.730011,
-        "change": 8.140015,
-        "pct_change": 2.197,
-        "date": "2026-10-05"
+        "price": 380.679993,
+        "change": 1.949982,
+        "pct_change": 0.515,
+        "date": "2026-10-06"
       },
       "Alphabet": {
         "ticker": "GOOGL",
-        "price": 346.470001,
-        "change": 2.970001,
-        "pct_change": 0.865,
-        "date": "2026-10-05"
+        "price": 347.679993,
+        "change": 1.209991,
+        "pct_change": 0.349,
+        "date": "2026-10-06"
       },
       "Lockheed Martin": {
         "ticker": "LMT",
-        "price": 506.630005,
-        "change": 1.220001,
-        "pct_change": 0.241,
-        "date": "2026-10-05"
+        "price": 510.119995,
+        "change": 3.48999,
+        "pct_change": 0.689,
+        "date": "2026-10-06"
       },
       "RTX (Raytheon)": {
         "ticker": "RTX",
-        "price": 184.330002,
-        "change": -0.349991,
-        "pct_change": -0.19,
-        "date": "2026-10-05"
+        "price": 183.289993,
+        "change": -1.040009,
+        "pct_change": -0.564,
+        "date": "2026-10-06"
       },
       "Northrop Grumman": {
         "ticker": "NOC",
-        "price": 476.109985,
-        "change": -1.890015,
-        "pct_change": -0.395,
-        "date": "2026-10-05"
+        "price": 483.109985,
+        "change": 7.0,
+        "pct_change": 1.47,
+        "date": "2026-10-06"
       }
     }
   },
   "news": [
     {
       "source": "BBC World",
-      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-      "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 15:17:23 GMT",
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 18:03:19 GMT",
       "matched_keywords": [
+        "gas"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Ship sinks and crew missing after Black Sea drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 11:53:21 GMT",
+      "matched_keywords": [
+        "war",
         "attack"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Spain PM pins hopes on housing crisis to help win snap election",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 19:30:50 GMT",
+      "title": "Kenya confirms its first Ebola death as outbreak spreads",
+      "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 16:02:32 GMT",
+      "matched_keywords": [
+        "outbreak"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Indian opposition MPs detained in protest against election chief",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 10:05:22 GMT",
       "matched_keywords": [
         "election",
-        "crisis"
+        "prime minister"
       ]
     },
     {
       "source": "BBC World",
-      "title": "Nobel Prize awarded for revealing inner workings of the brain",
-      "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 11:04:37 GMT",
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 20:15:31 GMT",
       "matched_keywords": [
-        "war"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 23:19:14 GMT",
-      "matched_keywords": [
-        "election"
+        "war",
+        "nuclear"
       ]
     },
     {
       "source": "BBC World",
       "title": "Yemeni military says it has 'secured' Red Sea waterway",
       "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 01:05:00 GMT",
+      "published": "Tue, 06 Oct 2026 07:43:07 GMT",
       "matched_keywords": [
         "conflict",
         "military"
@@ -186,34 +197,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Why Canada is wargaming a (long shot) US invasion",
-      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 23:30:06 GMT",
+      "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 12:51:05 GMT",
       "matched_keywords": [
-        "war",
         "military",
-        "invasion",
-        "prime minister"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
-      "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 09:03:30 GMT",
-      "matched_keywords": [
-        "election",
-        "crisis"
-      ]
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: How Brazil's dramatic election unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 04:51:24 GMT",
-      "matched_keywords": [
-        "election",
         "president"
+      ]
+    },
+    {
+      "source": "BBC World",
+      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+      "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 16:51:59 GMT",
+      "matched_keywords": [
+        "election"
       ]
     }
   ]
